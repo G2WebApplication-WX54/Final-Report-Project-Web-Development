@@ -4,13 +4,13 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-<br>
+    <br>
     <img src=".../assets/logo-upc.png"></img><br>
-<br>
+    <br>
     <strong>Ingeniería de Software - 2024-01</strong><br>
-<br>
+    <br>
     <strong>Aplicaciones Web - WX54</strong><br>  
-<br>
+    <br>
     <strong>Profesor: Alex Humberto Sánchez Ponce</strong><br>
     <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
 </p>
@@ -27,24 +27,24 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-                <td>X</td>
+            <td>Noriega Suschenko, Anatoly Andrey</td>
             <td>X</td>
         </tr>
         <tr>
-                <td>X</td>
-            <td>X</td>
+            <td>Rodriguez Zuluoeta, Andres Fernando</td>
+            <td>U202124213</td>
         </tr>
         <tr>
             <td>Escalante Baygorrea, Janiel Franz</td>
             <td>U201912668</td>
         </tr>
         <tr>
-            <td>X</td>
-            <td>X</td>
+            <td>Príncipe Godoy, Johan</td>
+            <td>U202014511</td>
         </tr>
         <tr>
-            <td>X</td>
-            <td>X</td>
+            <td>Zarate Caceres, Victor Ernesto</td>
+            <td>U202112907</td>
         </tr>
     </table>
 </div>
@@ -175,7 +175,9 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td>
+        <b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
+    </td>
     <td> TB1<br><br>
          <b>X</b><br>
 colocar info         <br><br> 
@@ -213,8 +215,16 @@ colocar info  </tr>
 
 <br><br>
 
-
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
+### 1.1.2. Perfiles de integrantes del equipo
+## 1.2. Solution Profile
+### 1.2.1 Antecedentes y problemática
+### 1.2.2 Lean UX Process.
+#### 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2.2. Lean UX Assumptions.
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+#### 1.2.2.4. Lean UX Canvas.
+## 1.3. Segmentos objetivo.
 
