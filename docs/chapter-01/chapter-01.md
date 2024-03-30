@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <td>Noriega Suschenko, Anatoly Andrey</td>
-            <td>X</td>
+            <td>Uxxxxxxxxx</td>
         </tr>
         <tr>
             <td>Rodriguez Zuluoeta, Andres Fernando</td>
@@ -175,42 +175,39 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td>
-        <b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
-    </td>
-    <td> TB1<br><br>
-         <b>X</b><br>
-colocar info         <br><br> 
-         <b>X </b><br>
-colocar info         <br><br> 
-         <b>Escalante Baygorrea, Janiel Franz</b><br>
-colocar info         <br><br>
-        <b>Pin X</b><br>
-colocar info         <br><br> 
-        <b>X</b>
-colocar info         <br><br>
-   </td>
-    <td>TB1<br><br>
-    Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
+      <td>
+          <b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
+      </td>
+      <td>
+          TB1<br><br>
+          <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
+          <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
+          <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
+          <b>Príncipe Godoy, Johan</b><br><br><br>
+          <b>Zarate Caceres, Victor Ernesto</b><br><br>
+      </td>
+      <td>
+          TB1<br><br>
+          Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.
+      </td>
   </tr>
   <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-    <td> TB1<br><br>
-         <b>X</b><br>
-colocar info 
-<br><br> 
-         <b>Escalante Baygorrea, Janiel Franz</b><br>
-colocar info 
-<br><br>
-        <b>X</b><br>
-colocar info 
-<br><br> 
-        <b>X</b>
-colocar info 
-<br><br>
-   </td>
-    <td>TB1<br><br>
-colocar info  </tr>
+    <td>
+        <b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b>
+    </td>
+    <td>
+        TB1<br><br>
+        <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
+        <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
+        <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
+        <b>Príncipe Godoy, Johan</b><br><br><br>
+        <b>Zarate Caceres, Victor Ernesto</b><br><br>
+    </td>
+    <td>
+        TB1<br><br>
+        colocar info  
+    </td>
+  </tr>
 </table>
 
 <br><br>
