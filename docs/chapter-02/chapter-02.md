@@ -1,6 +1,6 @@
 ### 1.2.2	Lean UX
 #### 	1.2.2.1. Problem Statements
-Nuestro servicio ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios 
+El propósito de nuestro servicio es ofrecer rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios 
 tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad  se haran en base a reportes de los usuarios de 
 la aplicación. Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser
 usados para plantear una estrategía contra la delincuencia.
@@ -40,7 +40,9 @@ peligro.
 
 **User outcomes:**
 + ¿Quién es el usuario?   
-Cualquier ciudadano que se encuentre en una zona en la que una entidad este asociada con nostros
+  Cualquier ciudadano que se encuentre en una zona en la que una entidad este asociada con nosotros. Por otro lado, las entidades públicas
+  como municipalidades, PNP, etc. También empresas privadas interesadas en contar con esta aplicación para sus trabajadores, de preferencia
+  extranjeros que no conocen bien las calles de la ciudad.
 + ¿Dónde encaja nuestro producto en su trabajo o vida?  
 Encaja en su vida diaria, ya que con nuestra aplicación podrá movilizarse por la ciudad evitando riesgos
 + ¿Qué problemas tiene nuestro producto?  
@@ -56,9 +58,27 @@ Por otro lado, las entidades podrán recopilar información de los ciudadanos y 
 Nuestra app debe tener una buena selección de colores para que sea agradable a la vista. Además el registro debe ser fácil para todos los usuarios.
 
 **User benefits**
-+ Evitar incidentes en zonas peligrosas
-+ Información en tiempo real de zonas peligrosas
-+ Información de rutas seguras para movilizarse
++ Evitar robos y cualquier tipo de incidentes que ponga en peligro al usuario al movilizarse por la ciudad  
++ Información en tiempo real de zonas peligrosas mediante el uso del mapa de calor  
++ Información de rutas seguras para movilizarse mediante el mapa
++ Acceso a datos estadísticos para comprender mejor el problema   
++ 
 
 #### 	1.2.2.3. Lean UX Hypothesis Statements
++ **Hypothesis Statement 01**
+  **Creemos que** las entidades publicas y privadas estarán interesadas en nuestro producto  
+  **Sabremos que** hemos tenido éxito  
+  **Cuando** podamos trabajar con un mapa de calor de toda la ciudad de Lima  
++ **Hypothesis Statement 02**    
+  **Creemos que** la aplicación logrará formar una comunidad interesada en la seguridad  
+  **Sabremos que** hemos tenido exito  
+  **Cuando** tengamos se perciba un aumento en la cantidad de usuarios registrados diariamente.  
++ **Hypothesis Statement 03**  
+  **Creemos que** la disponibilidad de datos de vital importancia permitarán a distintas entidades planificar una estrategia contra la delincuencia  
+  **Sabremos que** se está cumpliendo ese objetivo  
+  **Cuando** se perciba una disminución en los reportes de criminalidad sin que se reduzca la cantidad de usuarios  
++ **Hypothesis Statement 04**  
+  **Creemos que** nuestra aplicación será usada a nivel nacional    
+  **Sabremos que** hemos tenido exito  
+  **Cuando** la aplicación sea adquirida por la mayoria de las entidades de distintas ciudades del Perú  
 #### 	1.2.2.4. Lean UX Canvas
