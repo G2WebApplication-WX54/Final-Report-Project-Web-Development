@@ -292,4 +292,9 @@ peligro.
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 #### 1.2.2.4. Lean UX Canvas.
-## 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivo
+### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
+En un mundo donde la seguridad pública es una preocupación creciente, muchos ciudadanos se encuentran en busca de herramientas que les permitan navegar su entorno diario de manera segura. Especialmente para aquellos que han experimentado o están en riesgo de enfrentar incidentes de seguridad, como robos o asaltos, en áreas urbanas. La falta de información confiable sobre qué áreas son seguras y cuáles no aumenta la ansiedad y limita la libertad de movimiento. Según estadísticas recientes, una gran proporción de la población evita ciertas áreas a ciertas horas, pero la información detallada y actualizada sobre la seguridad de diferentes zonas es escasa o inexistente.
+
+### Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana
+Las entidades gubernamentales encargadas de mantener la seguridad pública y desarrollar infraestructuras urbanas eficientes enfrentan el desafío de distribuir sus recursos de manera efectiva para mejorar la seguridad en sus comunidades. Un informe reciente sobre seguridad urbana revela que el acceso a datos precisos y actualizados sobre incidentes de seguridad es crucial para tomar decisiones informadas. Estas entidades buscan herramientas que les permitan identificar áreas problemáticas, entender patrones de criminalidad y responder de manera proactiva. La disponibilidad de una aplicación que brinda mapas de calor basados en reportes ciudadanos puede ser invaluable, permitiéndoles visualizar las áreas que requieren atención urgente y planificar intervenciones basadas en evidencia.
