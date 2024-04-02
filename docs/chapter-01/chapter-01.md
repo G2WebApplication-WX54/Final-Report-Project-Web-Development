@@ -158,8 +158,6 @@
 
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
-
-<br><br>
 <br><br>
 
 # Student Outcome
@@ -215,10 +213,76 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
+La idea de crear PeaceApp nace ante la creciente ola de inseguridad ciudadana en Lima, y en todo el país. Según el INEI, el 45,6% de ciudadanos de Lima se siente inseguros de vivir en dicha ciudad, con un registro de mas de 75 mil denuncias por hurtos y/o asaltos. Para enfrentar esta situación, la aplicación brindara un mapa con información de las calles, resaltando el nivel de peligro en las distintas zonas de la ciudad. Ante esto, el usuario podrá hacer denuncias ante los crímenes a través de fotos, audios y/o videos, en tiempo real, pudiendo brindar sus datos o hacerlo de manera anónima. Además, el ciudadano podrá compartir su ubicación con sus contactos cercanos para que monitoreen su trayecto y enviar mensajes de emergencia a la policía nacional, bomberos o ambulancia, usando un sistema de marcación rápida.<br>
+- __Misión:__<br>
+Nuestra misión es garantizar la seguridad de nuestros usuarios, para que puedan transitar sin miedo alguno por las distintas calles del Perú.<br>
+- __Visión:__<br>
+Vemos el mundo en constante cambio y buscamos ser parte de ello. Creemos que todas las personas deben poder sentirse seguras de vivir y transitar en su propio país y que los gobiernos deben engargarse de ello. Por ello, buscamos ser conocidos como líderes en el mercado de seguridad por nuestra labor para todos nuestros usuarios.
 ### 1.1.2. Perfiles de integrantes del equipo
+ <table>
+	 <tr>
+		 <td>Integrante: Noriega Suschenko, Anatoly Andrey</td>
+		 <td rowspan="3"><!Insertar foto></td>
+	 </tr>
+	 <tr>
+		 <td>Código: Uxxxxxxxxx</td>
+	 </tr>
+	 <tr>
+		 <td>Descripción</td>
+	 </tr>
+ </table>
+ <table>
+	 <tr>
+		 <td>Integrante: Rodriguez Zuluoeta, Andres Fernando</td>
+		 <td rowspan="3"><!Insertar foto></td>
+	 </tr>
+	 <tr>
+		 <td>Código: U202124213</td>
+	 </tr>
+	 <tr>
+		 <td>Descripción</td>
+	 </tr>
+ </table>
+ <table>
+	 <tr>
+		 <td>Integrante: Escalante Baygorrea, Janiel Franz</td>
+		 <td rowspan="3"><!Insertar foto></td>
+	 </tr>
+	 <tr>
+		 <td>Código: U201912668</td>
+	 </tr>
+	 <tr>
+		 <td>Descripción</td>
+	 </tr>
+ </table>
+ <table>
+	 <tr>
+		 <td>Integrante: Príncipe Godoy, Johan</td>
+		 <td rowspan="3"><!Insertar foto></td>
+	 </tr>
+	 <tr>
+		 <td>Código: U202014511</td>
+	 </tr>
+	 <tr>
+		 <td>Descripción</td>
+	 </tr>
+ </table>
+ <table>
+	 <tr>
+		 <td>Integrante: Zarate Caceres, Victor Ernesto</td>
+		 <td rowspan="3"><!Insertar foto></td>
+	 </tr>
+	 <tr>
+		 <td>Código: U202112907</td>
+	 </tr>
+	 <tr>
+		 <td>Descripción</td>
+	 </tr>
+ </table>
+ 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-### 1.2.2	Lean UX
+### 1.2.2 Lean UX
 #### 1.2.2.1. Problem Statements
 Nuestro servicio ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios 
 tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad  se haran en base a reportes de los usuarios de 
@@ -282,5 +346,4 @@ Nuestra app debe tener una buena selección de colores para que sea agradable a 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
-#### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
