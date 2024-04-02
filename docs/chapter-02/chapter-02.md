@@ -82,3 +82,6 @@ Nuestra app debe tener una buena selección de colores para que sea agradable a 
   **Sabremos que** hemos tenido exito  
   **Cuando** la aplicación sea adquirida por la mayoria de las entidades de distintas ciudades del Perú  
 #### 	1.2.2.4. Lean UX Canvas
+A continuación se puede ver el Lean UX Canvas trabajado por el equipo:
+![Imagen de Lean-UX Canvas](https://i.postimg.cc/QdBzp4FY/Lean-UX-Canvas-Template.jpg)
+Enlace para acceder a Miro: https://miro.com/app/board/uXjVKZpPpnQ=/?share_link_id=692620192853
