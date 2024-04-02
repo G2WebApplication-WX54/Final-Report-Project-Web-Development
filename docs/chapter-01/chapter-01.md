@@ -5,7 +5,7 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <br>
-    <img src=".../assets/logo-upc.png"></img><br>
+    <img src="../assets/imgs/logo-upc.png" alt="upc"></img><br>
     <br>
     <strong>Ingeniería de Software - 2024-01</strong><br>
     <br>
@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <td>Noriega Suschenko, Anatoly Andrey</td>
-            <td>Uxxxxxxxxx</td>
+            <td>U202211813</td>
         </tr>
         <tr>
             <td>Rodriguez Zuluoeta, Andres Fernando</td>
@@ -215,7 +215,16 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
-### 1.1.2. Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de Integrantes del equipo
+
+| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                   | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  |   |       | 
+| Noriega Suschenko Anatoly Andrey     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                                                         |
+|   |  |  |                                                                                                                                                        |
+|  |  |   |  |
+|  |      |    |                                                                                |
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2	Lean UX
