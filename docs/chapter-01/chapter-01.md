@@ -5,7 +5,7 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <br>
-    <img src=".../assets/logo-upc.png"></img><br>
+    <img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
     <br>
     <strong>Ingeniería de Software - 2024-01</strong><br>
     <br>
