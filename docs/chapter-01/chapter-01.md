@@ -4,9 +4,9 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <br>
+<br>
     <img src=".../assets/logo-upc.png"></img><br>
-    <br>
+<br>
     <strong>Ingeniería de Software - 2024-01</strong><br>
     <br>
     <strong>Aplicaciones Web - WX54</strong><br>  
@@ -27,8 +27,8 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Noriega Suschenko, Anatoly Andrey</td>
-            <td>Uxxxxxxxxx</td>
+                <td>X</td>
+            <td>X</td>
         </tr>
         <tr>
             <td>Rodriguez Zuluoeta, Andres Fernando</td>
@@ -215,13 +215,4 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
-### 1.1.2. Perfiles de integrantes del equipo
-## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
-#### 1.2.2.2. Lean UX Assumptions.
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-#### 1.2.2.4. Lean UX Canvas.
-## 1.3. Segmentos objetivo.
 
