@@ -32,10 +32,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>Citizen<br><img src="../assets/imgs/Citizen.png" alt="Citizen"></td>
-    <td>Safetipin<br><img src="../assets/imgs/Safetipin.png" alt="Safetipin"></td>
-    <td>SafeMapp<br><img src="../assets/imgs/SafeMapp.png" alt="SafeMapp"></td>
-    <td>URSafe<br><img src="../assets/imgs/URSafe.png" alt="URSafe"></td>
+    <td>Citizen<br><img src="../assets/Citizen.png" alt="Citizen"></td>
+    <td>Safetipin<br><img src="../assets/Safetipin.png" alt="Safetipin"></td>
+    <td>SafeMapp<br><img src="../assets/SafeMapp.png" alt="SafeMapp"></td>
+    <td>URSafe<br><img src="../assets/URSafe.png" alt="URSafe"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
