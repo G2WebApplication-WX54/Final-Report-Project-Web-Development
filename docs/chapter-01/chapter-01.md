@@ -27,20 +27,20 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Noriega Suschenko, Anatoly Andrey</td>
-            <td>U202211813</td>
-        </tr>
-        <tr>
-            <td>Rodriguez Zuluoeta, Andres Fernando</td>
-            <td>U202124213</td>
-        </tr>
-        <tr>
             <td>Escalante Baygorrea, Janiel Franz</td>
             <td>U201912668</td>
         </tr>
         <tr>
+            <td>Noriega Suschenko, Anatoly Andrey</td>
+            <td>U202211813</td>
+        </tr>
+        <tr>
             <td>Príncipe Godoy, Johan</td>
             <td>U202014511</td>
+        </tr>
+        <tr>
+            <td>Rodriguez Zuluoeta, Andres Fernando</td>
+            <td>U202124213</td>
         </tr>
         <tr>
             <td>Zarate Caceres, Victor Ernesto</td>
@@ -160,7 +160,6 @@
 ### [Anexos](#anexos-1)
 
 <br><br>
-<br><br>
 
 # Student Outcome
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
@@ -180,10 +179,10 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
       </td>
       <td>
           TB1<br><br>
-          <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
-          <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
           <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
+          <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br>          
           <b>Príncipe Godoy, Johan</b><br><br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
           <b>Zarate Caceres, Victor Ernesto</b><br><br>
       </td>
       <td>
@@ -197,10 +196,10 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     </td>
     <td>
         TB1<br><br>
-        <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
-        <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
         <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
+        <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
         <b>Príncipe Godoy, Johan</b><br><br><br>
+        <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>       
         <b>Zarate Caceres, Victor Ernesto</b><br><br>
     </td>
     <td>
@@ -216,31 +215,55 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
 ### 1.1.2. Perfiles de Integrantes del equipo
-
-| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                   | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  |   |       | 
-| Noriega Suschenko Anatoly Andrey     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                                                         |
-|   |  |  |                                                                                                                                                        |
-|  |  |   |  |
-|  |      |    |                                                                                |
+| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                   | Conocimientos y Habilidades a apuntar|
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------ |
+| Escalante Baygorrea, Janiel Franz   |   |       | |
+| Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.|
+| Príncipe Godoy, Johan   |  |  | |
+| Rodriguez Zuluoeta, Andres Fernando |  |   | |
+|  Zarate Caceres, Victor Ernesto     | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas| ![Ernesto Zarate](/assets/ernesto.png)   | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega.|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+<div align="justify">
+     kkk
+    <ul>
+        <li>
+            <b>Who (Quién):</b>
+        </li>
+        <li>
+            <b>What (Qué):</b>
+        </li>
+        <li>
+            <b>Where (Dónde):</b>
+        </li>
+        <li>
+            <b>When (Cuándo):</b> 
+        </li>
+        <li>
+            <b>Why (Por qué):</b>
+        </li>
+        <li>
+            <b>How (Cómo):</b> 
+        </li>
+        <li>
+            <b>How Much (Cuánto):</b> 
+        </li>
+    </ul>
+</div>
+
 ### 1.2.2	Lean UX
 #### 1.2.2.1. Problem Statements
-Nuestro servicio ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios
-tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad  se haran en base a reportes de los usuarios de
-la aplicación. Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser
-usados para plantear una estrategía contra la delincuencia.
-
-Hemos observado la insatisfacción de los clientes con respecto a la seguridad. Actualmente, los hurtos en la calle son comunes en la ciudad de Lima. Según Osiptel, la mayor
-cantidad de robos de celulares por hora se reportan los lunes, esto sería aproximadamente 366 equipos móviles en promedio. Por otro lado, Según el último resultado
-de la ENAPRES para el semestre móvil Ene-Jun 2023 publicado por el INEI, el 26.9% de la población de 15 años de edad, a más, a nivel nacional, ha sido victima de algún
-hecho delictivo.
-
-
-¿De qué forma podemos evitar los hurtos en la calle cuando se encuentran recorriendo una ruta?
+<div align="justify">
+    Nuestro servicio ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios tienen acceso
+    a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad  se haran en base a reportes de los usuarios de la aplicación. 
+    Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser usados para 
+    plantear una estrategía contra la delincuencia.<br>
+    Hemos observado la insatisfacción de los clientes con respecto a la seguridad. Actualmente, los hurtos en la calle son comunes en la ciudad de Lima. Según Osiptel, la mayor
+    cantidad de robos de celulares por hora se reportan los lunes, esto sería aproximadamente 366 equipos móviles en promedio. Por otro lado, Según el último resultado de la 
+    ENAPRES para el semestre móvil Ene-Jun 2023 publicado por el INEI, el 26.9% de la población de 15 años de edad, a más, a nivel nacional, ha sido victima de algún hecho delictivo.
+    <br>¿De qué forma podemos evitar los hurtos en la calle cuando se encuentran recorriendo una ruta?
+</div>
 
 #### 1.2.2.2. UX Assumptions
 
