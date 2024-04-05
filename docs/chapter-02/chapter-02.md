@@ -127,6 +127,7 @@ Para posicionarse frente a sus competidores en el mercado de aplicaciones de seg
 <br>
 Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entrevista. Nuestro objetivo es recopilar información de nuestros potenciales usuarios, para el desarrollo de un proyecto que consiste en un servicio que ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. Además de que los usuarios tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima que serán actualizadas en base a reportes de los usuarios de la aplicación. 
 <br>
+
 - **Preguntas Personales:**
 <br>
 1.  ¿Cuál es su nombre?
@@ -135,6 +136,7 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 4.	¿Cómo se siente con respecto a la delincuencia al paso?
 5.	¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?
 <br>
+
 - **Preguntas principales:**
 <br>
 1. ¿Cómo te desplazas habitualmente por la ciudad?
@@ -156,9 +158,11 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 - **UserPersona 1**
 <br>
 <img src="/assets/UserPersona_1.jpg" alt="UserPersona_1">
+
 - **UserPersona 2**
 <br>
 <img src="/assets/UserPersona_2.jpg" alt="UserPersona_2">
+<br>
 
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
