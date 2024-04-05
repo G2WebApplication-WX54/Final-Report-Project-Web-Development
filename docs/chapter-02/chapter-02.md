@@ -122,10 +122,44 @@ Para posicionarse frente a sus competidores en el mercado de aplicaciones de seg
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+
+- **Introducción antes de la entrevista:**
+<br>
+Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entrevista. Nuestro objetivo es recopilar información de nuestros potenciales usuarios, para el desarrollo de un proyecto que consiste en un servicio que ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. Además de que los usuarios tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima que serán actualizadas en base a reportes de los usuarios de la aplicación. 
+<br>
+- **Preguntas Personales:**
+<br>
+1.  ¿Cuál es su nombre?
+2.	¿Cuántos años tiene?
+3.	¿Qué destinos frecuenta y cómo se transporta a estos?
+4.	¿Cómo se siente con respecto a la delincuencia al paso?
+5.	¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?
+<br>
+- **Preguntas principales:**
+<br>
+1. ¿Cómo te desplazas habitualmente por la ciudad?
+2.	¿Conoces que zonas de Lima son las más peligrosas?
+3.	¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?
+4.	¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?
+5.	¿Qué características valoras más en un servicio de planificación de rutas?
+6.	¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?
+7.	¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?
+8.	¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?
+9.	¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?
+10.	¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?
+
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+
+- **UserPersona 1**
+<br>
+<img src="/assets/UserPersona_1.jpg" alt="UserPersona_1">
+- **UserPersona 2**
+<br>
+<img src="/assets/UserPersona_2.jpg" alt="UserPersona_2">
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
