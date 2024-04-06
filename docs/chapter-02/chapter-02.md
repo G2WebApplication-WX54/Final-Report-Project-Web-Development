@@ -165,6 +165,36 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 <br>
 
 ### 2.3.2. User Task Matrix.
+
+**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+
+| Tarea                                                  | Frecuencia | Severidad |
+|--------------------------------------------------------|------------|-----------| 
+| Reportar actividades sospechosas a las autoridades     | Alta       | Alta      |
+| Utilizar aplicaciones de seguridad ciudadana           | Media      | Alta      |
+| Mantenerse informado sobre índices de criminalidad     | Alta       | Media     |
+| Evitar áreas consideradas peligrosas                   | Alta       | Alta      |
+| Instalar sistemas de seguridad en el hogar             | Media      | Alta      |
+| Participar en grupos de vigilancia vecinal             | Media      | Alta      |
+| Realizar cursos de prevención y seguridad personal     | Baja       | Media     |
+| Apoyar programas de mejora para la seguridad ciudadana | Baja       | Media     |
+
+
+**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+
+| Tarea                                                       | Frecuencia | Severidad |
+|-------------------------------------------------------------|------------|-----------|
+| Monitorear índices de criminalidad y delitos                | Alta       | Alta      |
+| Desarrollar políticas y programas de seguridad pública      | Alta       | Alta      |
+| Implementar medidas de prevención del delito                | Alta       | Alta      |
+| Realizar patrullajes y vigilancia en áreas de riesgo        | Alta       | Media     |
+| Mejorar la iluminación y el diseño urbano en zonas críticas | Alta       | Alta      |
+| Colaborar con otras entidades y la comunidad                | Alta       | Alta      |
+| Capacitar al personal en técnicas de seguridad y prevención | Alta       | Media     |
+| Implementar sistemas de videovigilancia y tecnologías       | Alta       | Alta      |
+
+
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
