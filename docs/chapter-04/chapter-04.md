@@ -36,7 +36,7 @@
   dispositivo, garantizando que el contenido se vea siempre optimizado para todos los usuarios. Además, se opto por emplear el patrón de diseño en forma de Z en el sitio web, ya que esta técnica
   dirige la atención hacia los elementos clave y potencia la eficacia del contenido. Primero, se verá el logotipo en la esquina superior izquierda y en el lado derecho, el menú de navegación, 
   que haga un llamado a la acción.<br>
-  <img src="../../assets/design.png" alt="Web Design - Peace App">
+  <img src="../../assets/design.png" alt="Web Design - Peace App" width="640" height="423">
 </div>
 
 ## 4.2. Information Architecture.
