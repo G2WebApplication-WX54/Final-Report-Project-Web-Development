@@ -185,7 +185,7 @@ Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJ
 10.	¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?<br>
 - El valora mucho más la seguridad que el tiempo de viaje especialmente en las zonas donde hayan mucha delincuencia.<br>
 
-![Entrevista1](<../assets/Entrevista1.png>)
+![Entrevista1](</assets/Entrevista1.png>)
 
 ### 2.2.3. Análisis de entrevistas.
 
