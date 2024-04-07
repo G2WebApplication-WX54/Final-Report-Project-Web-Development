@@ -1,13 +1,50 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+<div align="justify">
+  Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñaro presentar documentos, contenido web, software,
+  o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:<br>
+  <b>Brand Overview:</b><br>
+  <b>Brand Name:</b><br>
+  <b>Colores:</b><br>
+  <b>Tipografía:</b><br>
+</div>
+
 ### 4.1.2. Web Style Guidelines.
+<div align="justify">
+  
+</div>
+
 ## 4.2. Information Architecture.
+<div align="justify">
+  
+</div>
+
 ### 4.2.1. Organization Systems.
+<div align="justify">
+  
+</div>
+
 ### 4.2.2. Labeling Systems.
+<div align="justify">
+  
+</div>
+
 ### 4.2.3. SEO Tags and Meta Tags
+<div align="justify">
+  
+</div>
+
 ### 4.2.4. Searching Systems.
+<div align="justify">
+  
+</div>
+
 ### 4.2.5. Navigation Systems.
+<div align="justify">
+  
+</div>
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
