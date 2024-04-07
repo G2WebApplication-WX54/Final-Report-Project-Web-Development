@@ -8,6 +8,10 @@
   <b>Brand Name:</b><br>
   <b>Colores:</b><br>
   <b>Tipografía:</b><br>
+  Heading 01: Presenta un tamaño de 52px.<br>
+  Heading 02: Presenta un tamaño de 36px.<br>
+  Heading 03: Presenta un tamaño de 24px.<br>
+  Heading 04: Presenta un tamaño de 18px.<br>
 </div>
 
 ### 4.1.2. Web Style Guidelines.
