@@ -2,12 +2,13 @@
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 <div align="justify">
-  Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñaro presentar documentos, contenido web, software,
-  o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:<br>
-  <b>Brand Overview:</b><br>
-  <b>Brand Name:</b><br>
-  <b>Colores:</b><br>
-  <b>Tipografía:</b><br>
+  <b>Brand Overview:</b><br>PeaceApp, se enfoca en ofrecer una solución tecnológica para la problemática que es la inseguridad ciudadana. Por ello, predisponemos que atraiga la atención
+  del usuario desde el principio mediante la creación y el diseño agradable e identificable.<br> 
+  <b>Brand Name:</b><br>PeaceApp recibe su nombre de la unión de las palabras Peace y App. Peace significa paz en español y App corresponde a la abreviación de application, que significa
+  aplicación. Con ello, el nombre se entiende, literalmente, como Aplicación de la paz. Con este nombre se busca que los usuarios puedan recordarnos con facilidad y reflejar los ideales
+  de búsqueda tranquilidad.<br><img src=".../.../assets/ernesto.png">
+  <b>Colores:</b><br><br>
+  <b>Tipografía:</b><br><br>
   Heading 01: Presenta un tamaño de 52px.<br>
   Heading 02: Presenta un tamaño de 36px.<br>
   Heading 03: Presenta un tamaño de 24px.<br>
