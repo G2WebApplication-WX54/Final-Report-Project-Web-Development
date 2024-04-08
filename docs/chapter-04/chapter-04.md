@@ -137,27 +137,27 @@
 ### 4.3.1. Landing Page Wireframe.
 #### Lading Page Wireframe - Inicio
 
-<img src="../../assets/logo.png" alt="WireFrameLandingInicio">
+<img src="../../assets/WireFrames - Inicio.png" alt="WireFrameLandingInicio">
 
 #### Lading Page Wireframe - Nosotros
 
-<img src="../../assets/logo.png" alt="WireFrameLandingNosotros">
+<img src="../../assets/WireFrames - Nosotros.png" alt="WireFrameLandingNosotros">
 
 #### Lading Page Wireframe - App
 
-<img src="../../assets/logo.png" alt="WireFrameLandingApp">
+<img src="../../assets/WireFrames - App.png" alt="WireFrameLandingApp">
 
 #### Lading Page Wireframe - Servicios
 
-<img src="../../assets/logo.png" alt="WireFrameLandingServicios">
+<img src="../../assets/WireFrames - Servicios.png" alt="WireFrameLandingServicios">
 
 #### Lading Page Wireframe - Planes
 
-<img src="../../assets/logo.png" alt="WireFrameLandingPlanes">
+<img src="../../assets/WireFrames - Planes.png" alt="WireFrameLandingPlanes">
 
 #### Lading Page Wireframe - Contáctanos
 
-<img src="../../assets/logo.png" alt="WireFrameLandingContactanos">
+<img src="../../assets/WireFrames - Contactanos.png" alt="WireFrameLandingContactanos">
 
 ### 4.3.2. Landing Page Mock-up.
 ## 4.4. Web Applications UX/UI Design.
