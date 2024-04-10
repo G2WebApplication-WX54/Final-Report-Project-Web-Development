@@ -157,11 +157,11 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 
 - **UserPersona 1**
 <br>
-<img src="/assets/UserPersona_1.jpg" alt="UserPersona_1">
+<img src="/assets/UserPersona_1.png" alt="UserPersona_1">
 
 - **UserPersona 2**
 <br>
-<img src="/assets/UserPersona_2.jpg" alt="UserPersona_2">
+<img src="/assets/UserPersona_2.png" alt="UserPersona_2">
 <br>
 
 ### 2.3.2. User Task Matrix.
