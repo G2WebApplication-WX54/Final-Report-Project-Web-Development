@@ -160,6 +160,30 @@
 <img src="../../assets/WireFrames - Contactanos.png" alt="WireFrameLandingContactanos">
 
 ### 4.3.2. Landing Page Mock-up.
+#### Lading Page Mock-up - Inicio
+
+<img src="../../assets/Mock-up - Inicio.png" alt="Mock-upLandingInicio">
+
+#### Lading Page Mock-up - Nosotros
+
+<img src="../../assets/Mock-up - Nosotros.png" alt="Mock-upLandingNosotros">
+
+#### Lading Page Mock-up - App
+
+<img src="../../assets/Mock-up - App.png" alt="Mock-upLandingApp">
+
+#### Lading Page Mock-up - Servicios
+
+<img src="../../assets/Mock-up - Servicios.png" alt="Mock-upLandingServicios">
+
+#### Lading Page Mock-up - Planes
+
+<img src="../../assets/Mock-up - Planes.png" alt="Mock-upLandingPlanes">
+
+#### Lading Page Mock-up - Contáctanos
+
+<img src="../../assets/Mock-up - Contactanos.png" alt="Mock-upLandingContactanos">
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
