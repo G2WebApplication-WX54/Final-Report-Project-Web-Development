@@ -259,4 +259,13 @@ La entrevista con Mauricio resalta una necesidad crítica entre los usuarios pot
 <img src="/assets/Empathy_map_UP2.png" alt="Empathy Map User Persona 2" width="80%">
 
 ### 2.3.5. As-is Scenario Mapping.
+
+**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+
+<img src="/assets/As-Is_Map_UP1.png" alt="As-Is Map User Persona 1" width="80%">
+
+**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+
+<img src="/assets/As-Is_Map_UP2.png" alt="As-Is Map User Persona 2" width="80%">
+
 ## 2.4. Ubiquitous Language.
