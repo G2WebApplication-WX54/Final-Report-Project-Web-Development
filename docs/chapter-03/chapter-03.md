@@ -2,6 +2,14 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+
+<img src="/assets/To-Be_Map_UP1.png" alt="To-Be Scenario Map User Persona 1" width="80%">
+
+**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+
+<img src="/assets/To-Be_Map_UP2.png" alt="To-Be Scenario Map User Persona 2" width="80%">
+
 ## 3.2. User Stories
 
 <table align="center" border="1">
