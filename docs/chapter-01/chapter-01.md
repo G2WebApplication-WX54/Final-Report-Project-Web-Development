@@ -235,7 +235,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Escalante Baygorrea, Janiel Franz   |   |       | |
 | Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.|
 | Príncipe Godoy, Johan   |  |  | |
-| Rodriguez Zuluoeta, Andres Fernando |  |   | |
+| Rodriguez Zuluoeta, Andres Fernando | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas |![Andres Rodriguez](/assets/Andres.jpg)|Tengo conocimiento de lenguaje de programación como C ++ y Python. Me considero una persona centrada y responsable al momento de realizar trabajos en grupo.|
 |  Zarate Caceres, Victor Ernesto     | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas| ![Ernesto Zarate](/assets/ernesto.png)   | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega.|
 
 ## 1.2. Solution Profile
