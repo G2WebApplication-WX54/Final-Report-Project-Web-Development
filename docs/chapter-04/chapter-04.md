@@ -163,6 +163,8 @@
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+La landing page de PeaceApp, diseñada para ser intuitiva y accesible, inicia con una sección de bienvenida que destaca las principales funciones y beneficios de la aplicación. Se continúa con "Nosotros", donde se detalla la misión y visión, reforzando el compromiso de la empresa con la seguridad personal y comunitaria. La sección "App" ofrece una vista previa interactiva de sus características, mientras que "Servicios" explica los distintos servicios como notificaciones de alerta y análisis de seguridad. "Planes" presenta las opciones de suscripción adaptadas a diferentes necesidades de los usuarios. Finalmente, "Contacto" facilita un formulario para comunicaciones directas con el equipo de PeaceApp, asegurando un soporte eficaz y personalizado.
+
 #### Lading Page Wireframe - Inicio
 
 <img src="../../assets/WireFrames - Inicio.png" alt="WireFrameLandingInicio">
@@ -188,6 +190,8 @@
 <img src="../../assets/WireFrames - Contactanos.png" alt="WireFrameLandingContactanos">
 
 ### 4.3.2. Landing Page Mock-up.
+El wireframe de la landing page para la vista de escritorio ha sido esencial para estructurar la disposición de los elementos visualmente. Siguiendo este diseño inicial, se desarrolló el mock-up de la landing page, manteniendo la coherencia con el contenido previamente descrito. En la imagen siguiente, se puede observar la implementación efectiva de la paleta de colores primarios y secundarios, así como la tipografía seleccionada, demostrando la atención al detalle y la consistencia del estilo visual a lo largo del diseño.
+
 #### Lading Page Mock-up - Inicio
 
 <img src="../../assets/Mock-up - Inicio.png" alt="Mock-upLandingInicio">
@@ -217,138 +221,176 @@
 
 #### Web Applications Wireframes - Página Principal
 
+Pantalla de bienvenida que invita al nuevo usuario a registrarse o iniciar sesión para acceder a la plataforma.
 <img src="../../assets/Registro.png" alt="Wireframe Registro">
 
 #### Web Applications Wireframes - Recuperacion Contraseña
 
+Interfaz segura de inicio de sesión con recuperación de contraseña para asegurar la cuenta del usuario.
 <img src="../../assets/Contraseña.png" alt="Wireframe Contraseña">
 
 #### Web Applications Wireframes - Correo de Cambio de Contraseña
 
+Mensaje de confirmación que informa al usuario que el enlace para recuperar su contraseña ha sido enviado a su correo electrónico.
 <img src="../../assets/Recuperado.png" alt="Wireframe Recuperado">
 
 #### Web Applications Wireframes - Registro de Usuarios
 
+Pantalla de selección de tipo de usuario que ofrece opciones para "Ciudadano" o "Municipalidad", seguida de la opción para iniciar sesión.
 <img src="../../assets/Tipo de Usuario.png" alt="Wireframe Tipo de Usuario">
 
 #### Web Applications Wireframes - Formulario de Ciudadanos
 
+Formulario de creación de cuenta nueva para ciudadanos con selección segura de correo electrónico y distrito.
 <img src="../../assets/Formulario Ciudadano.png" alt="WireFrame Formulario Ciudadano">
 
 #### Web Applications Wireframes - Formulario de Municipalidades
 
+Formulario de registro para entidades gubernamentales, enfocado en la contribución a la seguridad comunitaria.
 <img src="../../assets/Formulario Municipalidad.png" alt="WireFrame Formulario Municipalidad">
 
 #### Web Applications Wireframes - Suscripción de Municipalidades
 
+Detalles de la suscripción gubernamental con consideraciones de renovación, y un formulario de pago con tarjeta para confirmar la transacción.
 <img src="../../assets/Suscripción Gubernamental.png" alt="WireFrame Suscripción Gubernamental">
 
 #### Web Applications Wireframes - Buscar una Ruta
 
+Interfaz de mapa para buscar rutas seguras basadas en la ubicación actual del usuario.
 <img src="../../assets/Mapa Ciudadano.png" alt="WireFrame Mapa Ciudadano">
 
 #### Web Applications Wireframes - Ruta Encontrada con Mapa de Calor
 
+Visualización de mapa de calor centrada en el usuario para resaltar los niveles de seguridad de diferentes zonas de la ciudad.
 <img src="../../assets/Mapa de Calor Ciudadano.png" alt="WireFrame Mapa de Calor Ciudadano">
 
 #### Web Applications Wireframes - Mapa de la Municipalidad
 
+Función interactiva de mapa de calor que muestra áreas de alto riesgo para la Municipalidad en cuestión.
 <img src="../../assets/Mapa de Calor Entidad.png" alt="WireFrame Mapa de Calor Entidad">
 
 #### Web Applications Wireframes - Sección de Reportes
 
+Sección que lista los reportes enviados por los ciudadanos, con detalles para cada reporte y la opción de enviar un nuevo reporte.
 <img src="../../assets/Reportes Ciudadano.png" alt="WireFrame Reportes Ciudadano">
 
 #### Web Applications Wireframes - Envio de Reporte
 
+Formulario para reportar incidentes con opción de subir evidencia para una documentación precisa.
 <img src="../../assets/Formulario Reporte.png" alt="Wireframe Formulario Reporte">
 
 #### Web Applications Wireframes - Detalles del Reporte
 
+Interfaz para visualizar la información del reporte realizado de usuario, con campos como el tipo de reporte, fecha y hora, descripción, ubicación y evidencia.
 <img src="../../assets/Reporte.png" alt="Wireframe Reporte">
 
 #### Web Applications Wireframes - Lista de Reportes Municipalidad
 
+Lista resumida de informes para que las autoridades revisen y tomen las acciones necesarias.
 <img src="../../assets/Lista de Reportes Entidad.png" alt="Wireframe Lista de Reportes Entidad">
 
 #### Web Applications Wireframes - Notificaciones y Alertas de Ciudadanos
 
+Interfaz de la aplicación que muestra una lista de notificaciones y alertas para el usuario, permitiendo mantenerse informado sobre las actualizaciones de seguridad.
 <img src="../../assets/Notificaciones.png" alt="Wireframe Notificaciones">
 
 #### Web Applications Wireframes - Notificaciones y Alertas de Municipalidades
 
+Ajustes de notificaciones personalizables que permiten compartir informes con otras municipalidades.
 <img src="../../assets/Alertas Entidad.png" alt="WireFrame Alertas Entidad">
 
 #### Web Applications Wireframes - Perfil de Ciudadanos
 
+Pantalla de perfil del usuario puede actualizar su información personal, cerrar sesión o borrar su cuenta.
 <img src="../../assets/Perfil Usuario.png" alt="WireFrame Perfil Usuario">
 
 #### Web Applications Wireframes - Perfil de Municipalidades
 
+Vista del perfil de una entidad en la aplicación con opciones para cancelar suscripción, cerrar sesión o borrar la cuenta.
 <img src="../../assets/Perfil Entidad.png" alt="WireFrame Perfil Entidad">
 
 #### Web Applications Wireframes - Editar Perfil
 
+Opciones de edición de perfil de usuario, incluyendo tipos de ruta preferidos y frecuencia de alertas.
 <img src="../../assets/Editar Perfil.png" alt="WireFrame Editar Perfil">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.3. Web Applications Mock-ups.
 
 ### Web Applications Mock-Ups - Página Principal
+Interfaz de bienvenida finalizada, que muestra un diseño interactivo donde los nuevos usuarios son alentados a registrarse o iniciar sesión para utilizar la plataforma.
 <img src="../../assets/RegistroM.png" alt="Mock-Up Página Principal">
 
 ### Web Applications Mock-Ups - Recuperación Contraseña
+Interfaz de usuario final para inicio de sesión con funcionalidad de recuperación de contraseña, proporcionando seguridad y accesibilidad.
 <img src="../../assets/ContraseñaM.png" alt="Mock-Up Recuperación Contraseña">
 
 ### Web Applications Mock-Ups - Correo de Cambio de Contraseña
+Mensaje de confirmación detallado y diseñado que notifica a los usuarios el envío del enlace para restablecer su contraseña.
 <img src="../../assets/RecuperadoM.png" alt="Mock-Up Correo de Cambio de Contraseña">
 
 ### Web Applications Mock-Ups - Registro de Usuarios
+Selección visual de tipo de usuario con un diseño claro y opciones para "Ciudadano" o "Municipalidad", con acceso directo para iniciar sesión.
 <img src="../../assets/Tipo de UsuarioM.png" alt="Mock-Up Registro de Usuarios">
 
 ### Web Applications Mock-Ups - Formulario de Ciudadanos
+Diseño definitivo del formulario de registro para ciudadanos, con campos de entrada y selecciones seguras.
 <img src="../../assets/Formulario CiudadanoM.png" alt="Mock-Up Formulario de Ciudadanos">
 
 ### Web Applications Mock-Ups - Formulario de Municipalidades
+Formulario interactivo de registro para entidades gubernamentales, diseñado para fomentar la contribución a la seguridad comunitaria.
 <img src="../../assets/Formulario MunicipalidadM.png" alt="Mock-Up Formulario de Municipalidades">
 
 ### Web Applications Mock-Ups - Suscripción de Municipalidades
+Vista completa de la suscripción gubernamental con detalles sobre la renovación y formulario de pago seguro.
 <img src="../../assets/Suscripción GubernamentalM.png" alt="Mock-Up Suscripción de Municipalidades">
 
 ### Web Applications Mock-Ups - Buscar una Ruta
+Interfaz de usuario para la búsqueda de rutas seguras, mostrando un mapa interactivo y opciones de filtrado.
 <img src="../../assets/Mapa CiudadanoM.png" alt="Mock-Up Buscar una Ruta">
 
 ### Web Applications Mock-Ups - Ruta Encontrada con Mapa de Calor
+Representación visual de un mapa de calor en el contexto de la aplicación, destacando las áreas de interés de seguridad.
 <img src="../../assets/Mapa de Calor CiudadanoM.png" alt="Mock-Up Ruta Encontrada con Mapa de Calor">
 
 ### Web Applications Mock-Ups - Mapa de la Municipalidad
+Funcionalidad de mapa de calor personalizado para municipalidades, con información detallada sobre áreas de alto riesgo.
 <img src="../../assets/Mapa de Calor EntidadM.png" alt="Mock-Up Mapa de la Municipalidad">
 
 ### Web Applications Mock-Ups - Sección de Reportes
+Sección de reportes con una lista detallada y diseño interactivo para visualizar y enviar nuevos reportes.
 <img src="../../assets/Reportes CiudadanoM.png" alt="Mock-Up Sección de Reportes">
 
 ### Web Applications Mock-Ups - Envío de Reporte
+Interfaz detallada para el envío de reportes, incluyendo la opción de adjuntar evidencia para verificar los incidentes.
 <img src="../../assets/Formulario ReporteM.png" alt="Mock-Up Envío de Reporte">
 
 ### Web Applications Mock-Ups - Detalles del Reporte
+Pantalla que muestra en detalle la información de los reportes enviados por los usuarios, con todas las opciones relevantes.
 <img src="../../assets/ReporteM.png" alt="Mock-Up Detalles del Reporte">
 
 ### Web Applications Mock-Ups - Lista de Reportes Municipalidad
+Lista resumida de informes para revisión de las autoridades, con diseño enfocado en la accesibilidad y toma de decisiones.
 <img src="../../assets/Lista de Reportes EntidadM.png" alt="Mock-Up Lista de Reportes Municipalidad">
 
 ### Web Applications Mock-Ups - Notificaciones y Alertas de Ciudadanos
+Diseño de la interfaz para mostrar notificaciones y alertas a los ciudadanos, manteniendo al usuario informado sobre la seguridad.
 <img src="../../assets/NotificacionesM.png" alt="Mock-Up Notificaciones y Alertas de Ciudadanos">
 
 ### Web Applications Mock-Ups - Notificaciones y Alertas de Municipalidades
+Sistema de alertas para municipalidades que permite la personalización y el intercambio de información entre entidades.
 <img src="../../assets/Alertas EntidadM.png" alt="Mock-Up Notificaciones y Alertas de Municipalidades">
 
 ### Web Applications Mock-Ups - Perfil de Ciudadanos
+Diseño completo de la página de perfil de usuario, ofreciendo control total sobre la información personal y la cuenta.
 <img src="../../assets/Perfil UsuarioM.png" alt="Mock-Up Perfil de Ciudadanos">
 
 ### Web Applications Mock-Ups - Perfil de Municipalidades
+Interfaz del perfil de la municipalidad con opciones claras para la gestión de la cuenta y suscripción.
 <img src="../../assets/Perfil EntidadM.png" alt="Mock-Up Perfil de Municipalidades">
 
 ### Web Applications Mock-Ups - Editar Perfil
+Página de edición de perfil de usuario con un diseño intuitivo y fácil de usar para la personalización del perfil.
 <img src="../../assets/Editar PerfilM.png" alt="Mock-Up Editar Perfil">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
