@@ -145,7 +145,11 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 7.	¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?<br>
 8.	¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?<br>
 9.	¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?<br>
-10.	¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?<br><br>
+10.	¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?<br>
+11.	¿Qué navegadores web utilizas con más frecuencia?<br>
+12.	¿Cuánto tiempo estás dispuesto a esperar que una página web se cargue antes de considerarla demasiado lenta?<br>
+13.	¿Qué dispositivos móviles utilizas para acceder a aplicaciones web (marca)?<br>
+
 
 ### 2.2.2. Registro de entrevistas.
 
