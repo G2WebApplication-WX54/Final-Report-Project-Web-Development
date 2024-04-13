@@ -27,20 +27,20 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Noriega Suschenko, Anatoly Andrey</td>
-            <td>U202211813</td>
-        </tr>
-        <tr>
-            <td>Rodriguez Zuluoeta, Andres Fernando</td>
-            <td>U202124213</td>
-        </tr>
-        <tr>
             <td>Escalante Baygorrea, Janiel Franz</td>
             <td>U201912668</td>
         </tr>
         <tr>
+            <td>Noriega Suschenko, Anatoly Andrey</td>
+            <td>U202211813</td>
+        </tr>
+        <tr>
             <td>Príncipe Godoy, Johan</td>
             <td>U202014511</td>
+        </tr>
+        <tr>
+            <td>Rodriguez Zuluoeta, Andres Fernando</td>
+            <td>U202124213</td>
         </tr>
         <tr>
             <td>Zarate Caceres, Victor Ernesto</td>
@@ -160,13 +160,11 @@
 ### [Anexos](#anexos-1)
 
 <br><br>
-<br><br>
 
 # Student Outcome
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 <table>
   <tr>
@@ -180,15 +178,16 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
       </td>
       <td>
           TB1<br><br>
-          <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
-          <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
           <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
+          <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br>          
           <b>Príncipe Godoy, Johan</b><br><br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
           <b>Zarate Caceres, Victor Ernesto</b><br><br>
       </td>
       <td>
           TB1<br><br>
-          Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.
+          Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del
+          desarrollo y la solución de la problemática.
       </td>
   </tr>
   <tr>
@@ -197,10 +196,10 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     </td>
     <td>
         TB1<br><br>
-        <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
-        <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
         <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
+        <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
         <b>Príncipe Godoy, Johan</b><br><br><br>
+        <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>       
         <b>Zarate Caceres, Victor Ernesto</b><br><br>
     </td>
     <td>
@@ -215,21 +214,68 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
-### 1.1.2. Perfiles de Integrantes del equipo
+<div align="justify">
+    La idea de crear PeaceApp nace ante la creciente ola de inseguridad ciudadana en Lima, y en todo el país. Según el INEI, el 45,6% de ciudadanos de Lima se siente inseguros de vivir en 
+    dicha ciudad, con un registro de mas de 75 mil denuncias por hurtos y/o asaltos. Para enfrentar esta situación, la aplicación brindara un mapa con información de las calles, resaltando 
+    el nivel de peligro en las distintas zonas de la ciudad. Ante esto, el usuario podrá hacer denuncias ante los crímenes a través de fotos, audios y/o videos, en tiempo real, pudiendo 
+    brindar sus datos o hacerlo de manera anónima. Además, el ciudadano podrá compartir su ubicación con sus contactos cercanos para que monitoreen su trayecto y enviar mensajes de emergencia
+    a la policía nacional, bomberos o ambulancia, usando un sistema de marcación rápida.
+    <ul>
+        <li><b>Misión:</b></li>
+        Nuestra misión es garantizar la seguridad de nuestros usuarios, para que puedan transitar sin miedo alguno por las distintas calles del Perú.
+        <li><b>Visión:</b></li>
+        Vemos el mundo en constante cambio y buscamos ser parte de ello. Creemos que todas las personas deben poder sentirse seguras de vivir y transitar en su propio país y que los gobiernos 
+        deben engargarse de ello. Por ello, buscamos ser conocidos como líderes en el mercado de seguridad por nuestra labor para todos nuestros usuarios.
+    </ul>
+</div>
 
-| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                   | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  |   |       | 
-| Noriega Suschenko Anatoly Andrey     | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                                                         |
-|   |  |  |                                                                                                                                                        |
-|  |  |   |  |
-|  |      |    |                                                                                |
+### 1.1.2. Perfiles de Integrantes del equipo
+| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                   | Conocimientos y Habilidades a apuntar|
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------ |
+| Escalante Baygorrea, Janiel Franz   |   |       | |
+| Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas      | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.|
+| Príncipe Godoy, Johan   |  |  | |
+| Rodriguez Zuluoeta, Andres Fernando | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas |![Andres Rodriguez](/assets/Andres.jpg)|Tengo conocimiento de lenguaje de programación como C ++ y Python. Me considero una persona centrada y responsable al momento de realizar trabajos en grupo.|
+|  Zarate Caceres, Victor Ernesto     | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas| ![Ernesto Zarate](/assets/ernesto.png)   | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega.|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+<div align="justify">
+    <ul>
+        <li>
+            <b>What (Qué): </b>PeaceApp esta enfocada en ayudar a los usuarios en su día a día, teniendo como objetivo crear una comunidad entre usuarios y autoridades para mantener información
+            detallada y confiable de las calles en todo el Perú. Tambien, nos encargaremos de mantener el sistema actualizado para que funcione de manera óptima. 
+        </li>
+        <li>
+            <b>When (Cuándo): </b>PeaceApp estara lista para funcionar las 24 horas del día, cada día de la semana. Con esto se busca que la base de datos tenga información verificada y actualizada en todo momento. 
+        </li>
+        <li>
+            <b>Where (Dónde): </b>PeaceApp esta hecha para ser utilizada en cualquier momento y lugar, pues funcionara en base a la ubicación del usuario. Además de que las distintas autoridades
+            deben estar al tanto de la situación actual de su jurisdicción.
+        </li>
+        <li>
+            <b>Who (Quién): </b>Los personas más afectadas por la delincuencia veran mejoras en la situación de sus distritos. Estos, a su vez, tendrán la capacidad de colaborar con mantener la
+            información actualizada, por medio de una herramienta integrada, que les permitirá publicar sobre los distintos sucesos que observan y ponerse en contacto rápidamente con las 
+            autoridades con las cuales se relaciona PeaceAppp (comisarías, bomberos, hospitales, municipalidades, etc.).
+        </li>
+        <li>
+            <b>Why (Por qué): </b>PeaceApp fue creada para enfrentar la creciente delincuencia en la ciudad de Lima y en todo el país. Esta tiene el objetivo de informar sobre los sucesos más 
+            recientes del entorno del usuario y ayudar a otros usuarios y a las municipalidades a prevenir estas situaciones en el futuro.
+        </li>
+        <li>
+            <b>How (Cómo): </b>PeaceApp tiene un personal altamente capacitado para mantener actualizada y funcional la base de datos de los distritos y ciudades en todo el Perú, para mantener
+            a nuestros usuarios con la información actualizada sobre las calles que transitará. Además, se podrá compartir información con otros usuarios y autoridades para tomar las medidas
+            correspondientes y que verifiquen la veracidad de todo lo que se publique. 
+        </li>
+        <li>
+            <b>How Much (Cuánto):</b>PeaceApp estara disponible de forma gratuita para todas las personas naturales. Además, tendrá disponible una licencia de uso para las entidades, como 
+            municipalidades. Así, estas tendrán un acceso preferencial a los datos recopilados y puedan utilzarlos para tomar acción directa en contra de la delincuencia. 
+        </li>
+    </ul>
+</div>
 ### 1.2.2	Lean UX
-#### 1.2.2.1. Problem Statements
-Nuestro servicio ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios
+#### 	1.2.2.1. Problem Statements
+El propósito de nuestro servicio es ofrecer rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios
 tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad  se haran en base a reportes de los usuarios de
 la aplicación. Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser
 usados para plantear una estrategía contra la delincuencia.
@@ -242,7 +288,7 @@ hecho delictivo.
 
 ¿De qué forma podemos evitar los hurtos en la calle cuando se encuentran recorriendo una ruta?
 
-#### 1.2.2.2. UX Assumptions
+#### 	 1.2.2.2. UX Assumptions
 
 Ahora que hemos analizado la problematica y tenemos un panorama de cómo solucionar el problema, debemos saber que empresas tienen características similares a las nuestras
 y cómo estas se han ido desarrollando a través del tiempo.
@@ -269,7 +315,9 @@ peligro.
 
 **User outcomes:**
 + ¿Quién es el usuario?   
-  Cualquier ciudadano que se encuentre en una zona en la que una entidad este asociada con nostros
+  Cualquier ciudadano que se encuentre en una zona en la que una entidad este asociada con nosotros. Por otro lado, las entidades públicas
+  como municipalidades, PNP, etc. También empresas privadas interesadas en contar con esta aplicación para sus trabajadores, de preferencia
+  extranjeros que no conocen bien las calles de la ciudad.
 + ¿Dónde encaja nuestro producto en su trabajo o vida?  
   Encaja en su vida diaria, ya que con nuestra aplicación podrá movilizarse por la ciudad evitando riesgos
 + ¿Qué problemas tiene nuestro producto?  
@@ -285,13 +333,33 @@ peligro.
   Nuestra app debe tener una buena selección de colores para que sea agradable a la vista. Además el registro debe ser fácil para todos los usuarios.
 
 **User benefits**
-+ Evitar incidentes en zonas peligrosas
-+ Información en tiempo real de zonas peligrosas
-+ Información de rutas seguras para movilizarse
++ Evitar robos y cualquier tipo de incidentes que ponga en peligro al usuario al movilizarse por la ciudad
++ Información en tiempo real de zonas peligrosas mediante el uso del mapa de calor
++ Información de rutas seguras para movilizarse mediante el mapa
++ Acceso a datos estadísticos para comprender mejor el problema
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
-#### 1.2.2.4. Lean UX Canvas
-#### 1.2.2.4. Lean UX Canvas.
+
+#### 	1.2.2.3. Lean UX Hypothesis Statements
++ **Hypothesis Statement 01**
+  **Creemos que** las entidades publicas y privadas estarán interesadas en nuestro producto  
+  **Sabremos que** hemos tenido éxito  
+  **Cuando** podamos trabajar con un mapa de calor de toda la ciudad de Lima
++ **Hypothesis Statement 02**    
+  **Creemos que** la aplicación logrará formar una comunidad interesada en la seguridad  
+  **Sabremos que** hemos tenido exito  
+  **Cuando** tengamos se perciba un aumento en la cantidad de usuarios registrados diariamente.
++ **Hypothesis Statement 03**  
+  **Creemos que** la disponibilidad de datos de vital importancia permitarán a distintas entidades planificar una estrategia contra la delincuencia  
+  **Sabremos que** se está cumpliendo ese objetivo  
+  **Cuando** se perciba una disminución en los reportes de criminalidad sin que se reduzca la cantidad de usuarios
++ **Hypothesis Statement 04**  
+  **Creemos que** nuestra aplicación será usada a nivel nacional    
+  **Sabremos que** hemos tenido exito  
+  **Cuando** la aplicación sea adquirida por la mayoria de las entidades de distintas ciudades del Perú
+#### 	1.2.2.4. Lean UX Canvas
+A continuación se puede ver el Lean UX Canvas trabajado por el equipo:
+![Imagen de Lean-UX Canvas](https://i.postimg.cc/QdBzp4FY/Lean-UX-Canvas-Template.jpg)
+Enlace para acceder a Miro: https://miro.com/app/board/uXjVKZpPpnQ=/?share_link_id=692620192853
 ## 1.3. Segmentos objetivo
 ### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
 En un mundo donde la seguridad pública es una preocupación creciente, muchos ciudadanos se encuentran en busca de herramientas que les permitan navegar su entorno diario de manera segura. Especialmente para aquellos que han experimentado o están en riesgo de enfrentar incidentes de seguridad, como robos o asaltos, en áreas urbanas. La falta de información confiable sobre qué áreas son seguras y cuáles no aumenta la ansiedad y limita la libertad de movimiento. Según estadísticas recientes, una gran proporción de la población evita ciertas áreas a ciertas horas, pero la información detallada y actualizada sobre la seguridad de diferentes zonas es escasa o inexistente.
