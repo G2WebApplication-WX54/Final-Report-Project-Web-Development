@@ -21,7 +21,6 @@
 </table>
 
 ### 2.1.1. Análisis competitivo.
-
 <table>
   <tr>
     <th colspan="22">Competitive Analysis Landscape</th>
@@ -117,10 +116,11 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-
-Para asegurar una posición líder en el mercado de aplicaciones de seguridad ciudadana, PeaceApp se enfocará en una estrategia de diferenciación basada en la hiperlocalización y la participación comunitaria. Esta estrategia se complementará con el desarrollo de tecnología de mapeo avanzada que proporcione datos precisos y actualizados sobre la seguridad en áreas específicas, aprovechando informes en tiempo real de los usuarios. Este enfoque no solo resalta nuestras fortalezas, como la capacidad de proporcionar información detallada y relevante, sino que también nos permite explorar nuevas oportunidades al expandirnos a nuevas regiones y colaborar con agencias gubernamentales y de seguridad.
+<div align="justify">
+  Para asegurar una posición líder en el mercado de aplicaciones de seguridad ciudadana, PeaceApp se enfocará en una estrategia de diferenciación basada en la hiperlocalización y la participación comunitaria. Esta estrategia se complementará con el desarrollo de tecnología de mapeo avanzada que proporcione datos precisos y actualizados sobre la seguridad en áreas específicas, aprovechando informes en tiempo real de los usuarios. Este enfoque no solo resalta nuestras fortalezas, como la capacidad de proporcionar información detallada y relevante, sino que también nos permite explorar nuevas oportunidades al expandirnos a nuevas regiones y colaborar con agencias gubernamentales y de seguridad.
 
 En respuesta a las debilidades del sector, como la dependencia de la retroalimentación activa de los usuarios y la vulnerabilidad a la información incorrecta, PeaceApp implementará mecanismos robustos de verificación de datos para asegurar la confiabilidad de la información compartida. Esto ayudará a mitigar las amenazas como la pérdida de confianza del usuario y los posibles riesgos legales relacionados con la privacidad de los datos. Al mismo tiempo, estas alianzas y mejoras tecnológicas reforzarán nuestra posición frente a competidores establecidos y emergentes, permitiendo a PeaceApp ofrecer un servicio indispensable para la seguridad personal y comunitaria, y responder de manera efectiva a las emergencias.
+</div>
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -158,6 +158,7 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 #### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
 Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJto1vVJW-/view?usp=sharing
 <div align="justify">
+  <b>Tiempo en el video:</b><br>
   <b>Preguntas Personales:</b>
   <ol>
     <li>¿Cuál es su nombre?</li> Mauricio Abraham Rivo Rojas Sánchez.
@@ -179,15 +180,15 @@ Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJ
     <li>¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?</li>Le gustaría que al momento de estar en cierta ubicación pueda recibir recomendaciones para ayudarlo en la toma de desiciones
     <li>¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?</li>El valora mucho más la seguridad que el tiempo de viaje especialmente en las zonas donde hayan mucha delincuencia.
   </ol>
+  Resumen: <br> En la entrevista realizada a Mauricio Abraham Rivo Rojas Sánchez, un joven de 18 años residente de Lima, se destaca su preocupación significativa por la delincuencia en la ciudad. Mauricio utiliza principalmente el auto para sus desplazamientos diarios, aunque ocasionalmente utiliza el bus o camina, especialmente cuando se dirige a su lugar de estudio en San Isidro. Reconoce áreas como San Juan de Lurigancho y Comas entre las más peligrosas, aunque nota un incremento de la delincuencia en zonas tradicionalmente consideradas seguras como Miraflores y San Isidro. Utiliza aplicaciones como Waze para planificar sus rutas, valorando especialmente aquellas que le ofrecen seguridad y eficiencia. Está dispuesto a compartir sus experiencias y recibir actualizaciones en tiempo real para mejorar la seguridad en sus rutas, demostrando un alto grado de compromiso con la mejora de la situación de seguridad en su comunidad.<br>
 </div>
 
 ![Entrevista1](</assets/Entrevista1.png>)
 
-Resumen: En la entrevista realizada a Mauricio Abraham Rivo Rojas Sánchez, un joven de 18 años residente de Lima, se destaca su preocupación significativa por la delincuencia en la ciudad. Mauricio utiliza principalmente el auto para sus desplazamientos diarios, aunque ocasionalmente utiliza el bus o camina, especialmente cuando se dirige a su lugar de estudio en San Isidro. Reconoce áreas como San Juan de Lurigancho y Comas entre las más peligrosas, aunque nota un incremento de la delincuencia en zonas tradicionalmente consideradas seguras como Miraflores y San Isidro. Utiliza aplicaciones como Waze para planificar sus rutas, valorando especialmente aquellas que le ofrecen seguridad y eficiencia. Está dispuesto a compartir sus experiencias y recibir actualizaciones en tiempo real para mejorar la seguridad en sus rutas, demostrando un alto grado de compromiso con la mejora de la situación de seguridad en su comunidad.
-
 #### Entrevista 2: Carlos Leon
 Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbErExQWywb/view?usp=sharing
 <div align="justify">
+  <b>Tiempo en el video:</b><br>
   <b>Preguntas Personales:</b>
   <ol>
     <li>¿Cuál es su nombre?</li>Carlos Leon
@@ -209,22 +210,21 @@ Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbE
     <li>¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?</li>Menciona que la idea es interesnate y le sería útil para su experiencia en la ciudad.
     <li>¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?</li> Valora el uso de vías más rápidas para llegarsu destino.
   </ol>
+  Resumen:<br>
+  <br>
 </div>
 
 ![Entrevista2](</assets/Entrevista2.png>)
 
-#### Entrevista 3:
-<img src="../../assets/Entrevista_3.png" alt="Entrevista 3">
-<br>
+#### Entrevista 3: Fatima Urbina
 Link de la entrevista: https://drive.google.com/file/d/1o9vdd_AykaHcXkD7REbj2GZR0ojRaxPp/view?usp=sharing <br>
 
-**Entrevistador**: Andres Rodriguez Zuluoeta<br>
-**Entrevistada**: Fatima Urbina<br>
 **Tiempo en el video**: [00:00:00] - [00:04:14]<br>
-La entrevistada es Fatima Urbina, una joven de 22 años que vive en Lima. Se desplaza a su trabajo en Jesús María utilizando transporte público y a veces taxi por aplicativo o el metropolitano. Fatima está familiarizada con las aplicaciones de mapas virtuales y utiliza Moovit para planificar sus rutas.<br>
+Resumen: <br> La entrevistada es Fatima Urbina, una joven de 22 años que vive en Lima. Se desplaza a su trabajo en Jesús María utilizando transporte público y a veces taxi por aplicativo o el metropolitano. Fatima está familiarizada con las aplicaciones de mapas virtuales y utiliza Moovit para planificar sus rutas.<br>
 Fatima está consciente de la delincuencia en la ciudad y no se siente completamente segura al caminar, especialmente en zonas que considera peligrosas como Comas, San Juan de Lurigancho y San Martín de Porres. Está dispuesta a compartir sus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre las zonas de peligrosidad a través de notificaciones.<br>
 En cuanto a la elección de rutas, Fatima valora más la seguridad que la eficiencia, incluso si eso significa que su viaje tome más tiempo. Estaría interesada en recibir recomendaciones de rutas seguras basadas en su ubicación.<br>
 Fatima utiliza los navegadores web Safari y Google Chrome y considera que una página web que tarda más de 30 segundos en cargarse es demasiado lenta. Accede a las aplicaciones web a través de su iPhone.<br>
+<img src="../../assets/Entrevista_3.png" alt="Entrevista 3">
 
 ### 2.2.3. Análisis de entrevistas.
 #### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
