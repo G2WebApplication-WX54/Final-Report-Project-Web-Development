@@ -118,7 +118,9 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-Para posicionarse frente a sus competidores en el mercado de aplicaciones de seguridad ciudadana, PeaceApp se enfocará en la diferenciación a través de la hiperlocalización y la participación comunitaria. Nuestra estrategia incluirá el desarrollo de tecnología de mapeo avanzada para proporcionar información detallada y actualizada sobre la seguridad en áreas específicas, aprovechando datos en tiempo real suministrados por los usuarios. Integraremos funcionalidades que permitan a los ciudadanos reportar incidentes de forma anónima, fomentando una cultura de vigilancia y apoyo mutuo. Además, planeamos establecer alianzas con autoridades locales y organizaciones de seguridad para validar y enriquecer la información compartida en la plataforma, asegurando su precisión y relevancia. Con un modelo de precios accesible y opciones de suscripción para servicios premium, PeaceApp buscará convertirse en la solución preferida para la seguridad personal y comunitaria, ofreciendo herramientas útiles para la prevención del crimen y la respuesta rápida a emergencias. 
+Para asegurar una posición líder en el mercado de aplicaciones de seguridad ciudadana, PeaceApp se enfocará en una estrategia de diferenciación basada en la hiperlocalización y la participación comunitaria. Esta estrategia se complementará con el desarrollo de tecnología de mapeo avanzada que proporcione datos precisos y actualizados sobre la seguridad en áreas específicas, aprovechando informes en tiempo real de los usuarios. Este enfoque no solo resalta nuestras fortalezas, como la capacidad de proporcionar información detallada y relevante, sino que también nos permite explorar nuevas oportunidades al expandirnos a nuevas regiones y colaborar con agencias gubernamentales y de seguridad.
+
+En respuesta a las debilidades del sector, como la dependencia de la retroalimentación activa de los usuarios y la vulnerabilidad a la información incorrecta, PeaceApp implementará mecanismos robustos de verificación de datos para asegurar la confiabilidad de la información compartida. Esto ayudará a mitigar las amenazas como la pérdida de confianza del usuario y los posibles riesgos legales relacionados con la privacidad de los datos. Al mismo tiempo, estas alianzas y mejoras tecnológicas reforzarán nuestra posición frente a competidores establecidos y emergentes, permitiendo a PeaceApp ofrecer un servicio indispensable para la seguridad personal y comunitaria, y responder de manera efectiva a las emergencias.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -176,6 +178,8 @@ Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJ
 </div>
 
 ![Entrevista1](</assets/Entrevista1.png>)
+
+Resumen: En la entrevista realizada a Mauricio Abraham Rivo Rojas Sánchez, un joven de 18 años residente de Lima, se destaca su preocupación significativa por la delincuencia en la ciudad. Mauricio utiliza principalmente el auto para sus desplazamientos diarios, aunque ocasionalmente utiliza el bus o camina, especialmente cuando se dirige a su lugar de estudio en San Isidro. Reconoce áreas como San Juan de Lurigancho y Comas entre las más peligrosas, aunque nota un incremento de la delincuencia en zonas tradicionalmente consideradas seguras como Miraflores y San Isidro. Utiliza aplicaciones como Waze para planificar sus rutas, valorando especialmente aquellas que le ofrecen seguridad y eficiencia. Está dispuesto a compartir sus experiencias y recibir actualizaciones en tiempo real para mejorar la seguridad en sus rutas, demostrando un alto grado de compromiso con la mejora de la situación de seguridad en su comunidad.
 
 #### Entrevista 2: Carlos Leon
 Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbErExQWywb/view?usp=sharing
