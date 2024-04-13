@@ -56,4 +56,6 @@ Dentro de develop y dentro de la carpeta docs se encuentra nuestro proyecto sepa
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 # Conclusiones
 # Bibliografía
+Banco Mundial. (2017). <em>Enhancing Urban Safety and Security: Global Report on Human Settlements 2007.</em> Recuperado de https://www.bancomundial.org<br>
+Naciones Unidas. (2019). <em>UN System-Wide Guidelines on Safer Cities and Human Settlements.</em> Recuperado de https://www.un.org
 # Anexos.
