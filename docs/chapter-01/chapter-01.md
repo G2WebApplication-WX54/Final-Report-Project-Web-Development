@@ -272,9 +272,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             municipalidades. Así, estas tendrán un acceso preferencial a los datos recopilados y puedan utilzarlos para tomar acción directa en contra de la delincuencia. 
         </li>
     </ul>
-</div>
-### 1.2.2	Lean UX
-#### 	1.2.2.1. Problem Statements
+</div>  
+
+### 1.2.2	Lean UX   
+
+#### 1.2.2.1. Problem Statements
 El propósito de nuestro servicio es ofrecer rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios
 tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad  se haran en base a reportes de los usuarios de
 la aplicación. Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser
