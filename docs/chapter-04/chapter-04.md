@@ -122,16 +122,16 @@
     <li>
       Title (Título): El título de una página es lo más importante. Utilizaremos títulos descriptivos y atractivos para cada página, que reflejen claramente su contenido y propósito.
     </li>
-    <img src="../../assets/titulo.png" alt="Etiqueta Título">
+    <img src="../../assets/titulo.png" alt="Etiqueta Título" width="85%">
     <li>
       Descripción (Meta Description): Breves resúmenes que aparecen en los resultados de búsqueda. Se utilizaran para traer usuarios al sitio. La meta descripción es "Sientete seguro de visitar la 
       ciudad. Ayuda en a la lucha con la delncuencia."
     </li>
-    <img src="../../assets/descripcion.png" alt="Etiqueta Descripción">
+    <img src="../../assets/descripcion.png" alt="Etiqueta Descripción" width="85%">
     <li>
       Codificación de carácteres: Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
     </li>
-    <img src="../../assets/codificacion.png" alt="Etiqueta codificación">
+    <img src="../../assets/codificacion.png" alt="Etiqueta codificación" width="85%">
   </ul>
 </div>
 
