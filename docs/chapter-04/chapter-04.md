@@ -2,20 +2,25 @@
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 <div align="justify">
+  <b>Branding:</b><br><br>
   <b>Brand Overview:</b><br>
   PeaceApp, se enfoca en ofrecer una solución tecnológica para la problemática que es la inseguridad ciudadana. Por ello, predisponemos que atraiga la atención del usuario desde el principio
-  mediante la creación y el diseño agradable e identificable.<br>
-  
+  mediante la creación y el diseño agradable e identificable. Para ello, implementa una plataforma encargada de diseñar un mapa de calor que permita a las personas mantener actualizada la
+  información de seguridad disponible. A su vez, permite un contacto directo con las autoridades para recibir ayuda ante actividades delictivas.
+<br><br>
   <b>Brand Name:</b><br>
   PeaceApp recibe su nombre de la unión de las palabras Peace y App. Peace significa paz en español y App corresponde a la abreviación de application, que significa aplicación. Con ello,
-  el nombre se entiende, literalmente, como Aplicación de la paz. Con este nombre se busca que los usuarios puedan recordarnos con facilidad y reflejar los ideales de búsqueda tranquilidad.<br>
-  
+  el nombre se entiende, literalmente, como Aplicación de la paz. Este nombre busca reflejar un tono formal y sereno, que se adecue a nuestros objetivos y permita a los usuarios recordarnos
+  con facilidad y reflejar los ideales de búsqueda tranquilidad.<br>
+</div>
+<div align="center">
+  <img src="../../assets/logo.png" alt="Logo Peace App" width="40%" height="40%"><br>
+</div>
+<div align="justify">
   <b>Colores:</b><br>
-  Los colores toman protagonismo de la primera percepción visual de los usuarios. Para verse coherente con nuestra búsqueda de seguridad, el diseño del logo busca representar xxxxx. Para
-  diseñarlo, se hará uso del color azul de manera predominante, pues es un color relacionado a la seguridad. Además, para complementarlo de manera estética, se estaran utilizando tonalidades 
-  frías.<br>
-  <img src="../../assets/logo.png" alt="Logo Peace App">
-  <img src="../../assets/colores.png" alt="Colores - Peace App" width="60%" height="60%"><br>
+  Los colores toman protagonismo de la primera percepción visual de los usuarios. Para diseñar el logo, se hizo uso del color azul de manera predominante, pues es un color relacionado a la seguridad. 
+  Además, para complementarlo de manera estética, se complementara con el color amarilo y se utilizaran tonalidades frías para complementar en la Landing Page..<br>
+  <img src="../../assets/colores.png" alt="Colores - Peace App" width="75%" height="75%"><br>
   
   <b>Tipografía:</b><br>
   La distribución de la tipografía establece la jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la 
@@ -27,16 +32,36 @@
     <li>Heading 03: Presenta un tamaño de 24px.</li>
     <li>Heading 04: Presenta un tamaño de 18px.</li>
   </ul>
-  <img src="../../assets/tipografia.png" alt="Tipografia - Peace App" width="60%" height="60%">
+  <img src="../../assets/tipografia.png" alt="Tipografia - Peace App" width="75%" height="75%"><br>
+  
+  <b>Spacing:</b><br>
+  Para que la información se identifique con claridad, se estarán utilizando espacio desde los 8 hasta los 96px para un diseño equilibrado y una experiencia visual agradable.<br>
+  <img src="../../assets/espaciado.png" alt="Espaciado - Peace App" width="75%" height="75%"><br>
 </div>
 
 ### 4.1.2. Web Style Guidelines.
 <div align="justify">
-  PeaceApp sere desarrollado para entorno web y por lo tanto, tendrá implementado un diseño adaptable (Web Responsive Design) que permita mostrar la información de manera óptima en cualquier
-  dispositivo, garantizando que el contenido se vea siempre optimizado para todos los usuarios. Además, se opto por emplear el patrón de diseño en forma de Z en el sitio web, ya que esta técnica
-  dirige la atención hacia los elementos clave y potencia la eficacia del contenido. Primero, se verá el logotipo en la esquina superior izquierda y en el lado derecho, el menú de navegación, 
-  que haga un llamado a la acción.<br>
-  <img src="../../assets/design.png" alt="Web Design - Peace App" width="640" height="423">
+  <ul>
+    <li>Imágenes:</li>
+    Se incluirán imágenes descriptivas y de utilidad puntual. En primer lugar, la imagen de perfil del usuario y se encontrarán en todo momento en la parte superior derecha, sirvidno como el boton de
+    acceso al perfil del usuario. Adicionalmente, se contará con imágenes representativas para cada una de las secciones que representan el núcleo de la aplicación. Por la alta resolución de pantalla 
+    resulta importante que el usuario cuente con guías visuales fácilmente identificables. Por esta misma razón, el fondo de las interfaces se verán limitadas a un color único.
+    <li>Botones:</li>
+    Estarán presentes en la parte superior de la aplicación y los lugares como al inico de sesión o para ingresar al mapa de calor. Estos botones permiten al usuario realizar acciones como ingresar a 
+    una ventana, aceptar el ingreso de información o eliminar algún registro. Por otro lado, se deben mostrar botones de confirmación para las acciones que sean de suma importancia para el funcionamiento
+    del mapa de calor. Cada botón contará con un estilo distintivo y un alto contraste con los colores del resto de la aplicación. Por ejemplo, se utiliza el color verde y rojo para remarcar el inicio y
+    fin de un proceso, respectivamente.
+    <li>Pantallas Emergentes:</li>
+    Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento de la plataforma. Los pop-ups cuentan con colores con un valor de matiz mayor que sus contrapartes del
+    resto de la aplicación web. Además, su aparición oscurecerá el resto de la pantalla para contrastar y darse a conocer, resaltando la importancia del asunto en pantalla antes de que el usuario continúe
+    con la navegación.
+    <li>Diseño: </li>
+    Se implementará un diseño adaptable (Web Responsive Design) que permita mostrar la información de manera óptima en cualquier dispositivo, garantizando que el contenido se vea siempre optimizado para 
+    todos los usuarios. Por ello, se opto por emplear el patrón de diseño en forma de "Z" en el sitio web, dirigiendo la atención hacia los elementos clave y potencia la eficacia del contenido. Por ejemplo,
+    se verá primero el logotipo en la esquina superior izquierda, seguida hacia la derecha con el menú de navegación, terminando con la imagen de perfil del usuario. Acto seguido, se podrá acceder a toda la
+    información en pantalla y las opciones que puedan verse en la parte inferior.<br>
+    <img src="../../assets/design.png" alt="Web Design - Peace App" width="75%" height="75%">
+  </ul>
 </div>
 
 ## 4.2. Information Architecture.
@@ -97,13 +122,16 @@
     <li>
       Title (Título): El título de una página es lo más importante. Utilizaremos títulos descriptivos y atractivos para cada página, que reflejen claramente su contenido y propósito.
     </li>
+    <img src="../../assets/titulo.png" alt="Etiqueta Título">
     <li>
       Descripción (Meta Description): Breves resúmenes que aparecen en los resultados de búsqueda. Se utilizaran para traer usuarios al sitio. La meta descripción es "Sientete seguro de visitar la 
       ciudad. Ayuda en a la lucha con la delncuencia."
     </li>
+    <img src="../../assets/descripcion.png" alt="Etiqueta Descripción">
     <li>
       Codificación de carácteres: Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
     </li>
+    <img src="../../assets/codificacion.png" alt="Etiqueta codificación">
   </ul>
 </div>
 
