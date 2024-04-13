@@ -306,5 +306,5 @@ Fatima utiliza los navegadores web Safari y Google Chrome y considera que una p�
 <img src="/assets/As-Is_Map_UP2.png" alt="As-Is Map User Persona 2" width="80%">
 
 ## 2.4. Ubiquitous Language.
-Mercado: Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores. 
-Mapa de Calor: Es una representación gráfica de datos donde los valores se representan mediante colores.
+**Mercado:** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.   
+**Mapa de Calor:** Es una representación gráfica de datos donde los valores se representan mediante colores.
