@@ -186,8 +186,143 @@
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+#### Web Applications Wireframes - Página Principal
+
+<img src="../../assets/Registro.png" alt="Wireframe Registro">
+
+#### Web Applications Wireframes - Recuperacion Contraseña
+
+<img src="../../assets/Contraseña.png" alt="Wireframe Contraseña">
+
+#### Web Applications Wireframes - Correo de Cambio de Contraseña
+
+<img src="../../assets/Recuperado.png" alt="Wireframe Recuperado">
+
+#### Web Applications Wireframes - Registro de Usuarios
+
+<img src="../../assets/Tipo de Usuario.png" alt="Wireframe Tipo de Usuario">
+
+#### Web Applications Wireframes - Formulario de Ciudadanos
+
+<img src="../../assets/Formulario Ciudadano.png" alt="WireFrame Formulario Ciudadano">
+
+#### Web Applications Wireframes - Formulario de Municipalidades
+
+<img src="../../assets/Formulario Municipalidad.png" alt="WireFrame Formulario Municipalidad">
+
+#### Web Applications Wireframes - Suscripción de Municipalidades
+
+<img src="../../assets/Suscripción Gubernamental.png" alt="WireFrame Suscripción Gubernamental">
+
+#### Web Applications Wireframes - Buscar una Ruta
+
+<img src="../../assets/Mapa Ciudadano.png" alt="WireFrame Mapa Ciudadano">
+
+#### Web Applications Wireframes - Ruta Encontrada con Mapa de Calor
+
+<img src="../../assets/Mapa de Calor Ciudadano.png" alt="WireFrame Mapa de Calor Ciudadano">
+
+#### Web Applications Wireframes - Mapa de la Municipalidad
+
+<img src="../../assets/Mapa de Calor Entidad.png" alt="WireFrame Mapa de Calor Entidad">
+
+#### Web Applications Wireframes - Sección de Reportes
+
+<img src="../../assets/Reportes Ciudadano.png" alt="WireFrame Reportes Ciudadano">
+
+#### Web Applications Wireframes - Envio de Reporte
+
+<img src="../../assets/Formulario Reporte.png" alt="Wireframe Formulario Reporte">
+
+#### Web Applications Wireframes - Detalles del Reporte
+
+<img src="../../assets/Reporte.png" alt="Wireframe Reporte">
+
+#### Web Applications Wireframes - Lista de Reportes Municipalidad
+
+<img src="../../assets/Lista de Reportes Entidad.png" alt="Wireframe Lista de Reportes Entidad">
+
+#### Web Applications Wireframes - Notificaciones y Alertas de Ciudadanos
+
+<img src="../../assets/Notificaciones.png" alt="Wireframe Notificaciones">
+
+#### Web Applications Wireframes - Notificaciones y Alertas de Municipalidades
+
+<img src="../../assets/Alertas Entidad.png" alt="WireFrame Alertas Entidad">
+
+#### Web Applications Wireframes - Perfil de Ciudadanos
+
+<img src="../../assets/Perfil Usuario.png" alt="WireFrame Perfil Usuario">
+
+#### Web Applications Wireframes - Perfil de Municipalidades
+
+<img src="../../assets/Perfil Entidad.png" alt="WireFrame Perfil Entidad">
+
+#### Web Applications Wireframes - Editar Perfil
+
+<img src="../../assets/Editar Perfil.png" alt="WireFrame Editar Perfil">
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.3. Web Applications Mock-ups.
+
+### Web Applications Mock-Ups - Página Principal
+<img src="../../assets/RegistroM.png" alt="Mock-Up Página Principal">
+
+### Web Applications Mock-Ups - Recuperación Contraseña
+<img src="../../assets/ContraseñaM.png" alt="Mock-Up Recuperación Contraseña">
+
+### Web Applications Mock-Ups - Correo de Cambio de Contraseña
+<img src="../../assets/RecuperadoM.png" alt="Mock-Up Correo de Cambio de Contraseña">
+
+### Web Applications Mock-Ups - Registro de Usuarios
+<img src="../../assets/Tipo de UsuarioM.png" alt="Mock-Up Registro de Usuarios">
+
+### Web Applications Mock-Ups - Formulario de Ciudadanos
+<img src="../../assets/Formulario CiudadanoM.png" alt="Mock-Up Formulario de Ciudadanos">
+
+### Web Applications Mock-Ups - Formulario de Municipalidades
+<img src="../../assets/Formulario MunicipalidadM.png" alt="Mock-Up Formulario de Municipalidades">
+
+### Web Applications Mock-Ups - Suscripción de Municipalidades
+<img src="../../assets/Suscripción GubernamentalM.png" alt="Mock-Up Suscripción de Municipalidades">
+
+### Web Applications Mock-Ups - Buscar una Ruta
+<img src="../../assets/Mapa CiudadanoM.png" alt="Mock-Up Buscar una Ruta">
+
+### Web Applications Mock-Ups - Ruta Encontrada con Mapa de Calor
+<img src="../../assets/Mapa de Calor CiudadanoM.png" alt="Mock-Up Ruta Encontrada con Mapa de Calor">
+
+### Web Applications Mock-Ups - Mapa de la Municipalidad
+<img src="../../assets/Mapa de Calor EntidadM.png" alt="Mock-Up Mapa de la Municipalidad">
+
+### Web Applications Mock-Ups - Sección de Reportes
+<img src="../../assets/Reportes CiudadanoM.png" alt="Mock-Up Sección de Reportes">
+
+### Web Applications Mock-Ups - Envío de Reporte
+<img src="../../assets/Formulario ReporteM.png" alt="Mock-Up Envío de Reporte">
+
+### Web Applications Mock-Ups - Detalles del Reporte
+<img src="../../assets/ReporteM.png" alt="Mock-Up Detalles del Reporte">
+
+### Web Applications Mock-Ups - Lista de Reportes Municipalidad
+<img src="../../assets/Lista de Reportes EntidadM.png" alt="Mock-Up Lista de Reportes Municipalidad">
+
+### Web Applications Mock-Ups - Notificaciones y Alertas de Ciudadanos
+<img src="../../assets/NotificacionesM.png" alt="Mock-Up Notificaciones y Alertas de Ciudadanos">
+
+### Web Applications Mock-Ups - Notificaciones y Alertas de Municipalidades
+<img src="../../assets/Alertas EntidadM.png" alt="Mock-Up Notificaciones y Alertas de Municipalidades">
+
+### Web Applications Mock-Ups - Perfil de Ciudadanos
+<img src="../../assets/Perfil UsuarioM.png" alt="Mock-Up Perfil de Ciudadanos">
+
+### Web Applications Mock-Ups - Perfil de Municipalidades
+<img src="../../assets/Perfil EntidadM.png" alt="Mock-Up Perfil de Municipalidades">
+
+### Web Applications Mock-Ups - Editar Perfil
+<img src="../../assets/Editar PerfilM.png" alt="Mock-Up Editar Perfil">
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
