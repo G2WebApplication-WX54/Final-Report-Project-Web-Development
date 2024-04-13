@@ -1,3 +1,3 @@
 # FINAL PROJECT
 ## About
-Web development project
+Web Applications project
