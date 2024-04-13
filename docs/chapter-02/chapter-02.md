@@ -151,49 +151,76 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 
 #### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
 Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJto1vVJW-/view?usp=sharing
-- **Preguntas Personales:**
-1.  ¿Cuál es su nombre?<br>
-- Mauricio Abraham Rivo Rojas Sánchez.
-2.	¿Cuántos años tiene?<br>
-- 18 Años.
-3.	¿Qué destinos frecuenta y cómo se transporta a estos?<br>
-- Suele frecuentar por San Isidro (Lugar de estudio), San Miguel, Pueblo Libre, Jesús María y usualmente se transporta por medio de auto o en bus.
-4.	¿Cómo se siente con respecto a la delincuencia al paso?<br>
-- Se siente muy incómodo, asustado y preocupado respecto a la delincuencia en el país. Es consciente de que cada vez más la delincuencia en el Perú aumenta.
-5.	¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?<br>
-- Frecuentemente usa aplicaciones como Google Maps o Waze en el momento en el que necesita ubicarse, o transportarse más fácil<br>
-
-- **Preguntas principales:**
-1. ¿Cómo te desplazas habitualmente por la ciudad?<br>
-- Generalmente usa el auto para movilizarse por la ciudad, ya que, el bus solo lo usa cuando requiere ir a su universidad y en algunas ocasiones caminando.
-2.	¿Conoces que zonas de Lima son las más peligrosas?<br>
-- Considera que entre las zonas más peligrosas estan San Juan de Lurigancho, Comas y en zonas más alejadas, pero también menciona que la delincuencia esta incrementando más en zonas como Miraflores, Pueblo Libre, San Isidro, etc.
-3.	¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?<br>
-- Sí ha tenido preocupaciones específicamente en su zona, y también tiene amigos que presentan la misma situación.
-4.	¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?<br>
-- En la mayoría de casos usa Waze cuando va caminando o cuando se moviliza en el auto.
-5.	¿Qué características valoras más en un servicio de planificación de rutas?<br>
-- Valora mucho que el camino que le indiquen sea óptimo para que pueda llegar fácilmente a su punto de destino y que la ruta sea lo más segura posible.
-6.	¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?<br>
-- Esta totalmente dispuesto a compartir sus experiencias para actualizar un mapa de calor para obtener mejores rutas.
-7.	¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?<br>
-- Le gustaría recibir estas notificaciones en tiempo real al momento de movilizarse en la zona en la que se encuentra.
-8.	¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?<br>
-- Le gustaría compartir la frecuencia en la que se reportan los casos en las zonas más peligrosas.
-9.	¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?<br>
-- Le gustaría que al momento de estar en cierta ubicación pueda recibir recomendaciones para ayudarlo en la toma de desiciones
-10.	¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?<br>
-- El valora mucho más la seguridad que el tiempo de viaje especialmente en las zonas donde hayan mucha delincuencia.<br>
+<div align="justify">
+  <b>Preguntas Personales:</b>
+  <ol>
+    <li>¿Cuál es su nombre?</li> Mauricio Abraham Rivo Rojas Sánchez.
+    <li>¿Cuántos años tiene?</li> 18 años.
+    <li>¿Qué destinos frecuenta y cómo se transporta a estos?</li>Suele frecuentar por San Isidro (Lugar de estudio), San Miguel, Pueblo Libre, Jesús María y usualmente se transporta por medio de auto o en bus.
+    <li>¿Cómo se siente con respecto a la delincuencia al paso?</li>Se siente muy incómodo, asustado y preocupado respecto a la delincuencia en el país. Es consciente de que cada vez más la delincuencia en el Perú aumenta.
+    <li>¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?</li>Frecuentemente usa aplicaciones como Google Maps o Waze en el momento en el que necesita ubicarse, o transportarse más fácil.
+  </ol>
+  <b>Preguntas principales:</b>
+  <ol>
+    <li>¿Cómo te desplazas habitualmente por la ciudad?</li>Generalmente usa el auto para movilizarse por la ciudad, ya que, el bus solo lo usa cuando requiere ir a su universidad y en algunas ocasiones caminando.
+    <li>¿Conoces que zonas de Lima son las más peligrosas?</li>Considera que entre las zonas más peligrosas estan San Juan de Lurigancho, Comas y en zonas más alejadas, pero también menciona que la delincuencia esta incrementando más en zonas como Miraflores, Pueblo Libre, San Isidro, etc.
+    <li>¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?</li>Sí ha tenido preocupaciones específicamente en su zona, y también tiene amigos que presentan la misma situación.
+    <li>¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?</li>En la mayoría de casos usa Waze cuando va caminando o cuando se moviliza en el auto.
+    <li>¿Qué características valoras más en un servicio de planificación de rutas?</li>Valora mucho que el camino que le indiquen sea óptimo para que pueda llegar fácilmente a su punto de destino y que la ruta sea lo más segura posible.
+    <li>¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?</li>Esta totalmente dispuesto a compartir sus experiencias para actualizar un mapa de calor para obtener mejores rutas.
+    <li>¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?</li>Le gustaría recibir estas notificaciones en tiempo real al momento de movilizarse en la zona en la que se encuentra.
+    <li>¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?</li>Le gustaría compartir la frecuencia en la que se reportan los casos en las zonas más peligrosas.
+    <li>¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?</li>Le gustaría que al momento de estar en cierta ubicación pueda recibir recomendaciones para ayudarlo en la toma de desiciones
+    <li>¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?</li>El valora mucho más la seguridad que el tiempo de viaje especialmente en las zonas donde hayan mucha delincuencia.
+  </ol>
+</div>
 
 ![Entrevista1](</assets/Entrevista1.png>)
 
-### 2.2.3. Análisis de entrevistas.
+#### Entrevista 2: Carlos Leon
+Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbErExQWywb/view?usp=sharing
+<div align="justify">
+  <b>Preguntas Personales:</b>
+  <ol>
+    <li>¿Cuál es su nombre?</li>Carlos Leon
+    <li>¿Cuántos años tiene?</li> 17 años.
+    <li>¿Qué destinos frecuenta y cómo se transporta a estos?</li>Suele frecuentar San Miguel, por el centro de estudios y cercanías de la universidad de Lima usando la bicicleta o con baja frecuencia, el transporte público.
+    <li>¿Cómo se siente con respecto a la delincuencia al paso?</li>Se siente seguro en las zonas que suele recoger, sintiendose aliviado por nunca haber sufrido ningun inconveniente.
+    <li>¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?</li>Menciona usarlas de manera frecuente y saber usarlas correctamente, sobre todo el Google Maps.
+  </ol>
+  <b>Preguntas principales:</b>
+  <ol>
+    <li>¿Cómo te desplazas habitualmente por la ciudad?</li> Se desplaza a través del uso de bicicleta o a pie. Menciona que no le gusta usar mucho el trasnporte público.
+    <li>¿Conoces que zonas de Lima son las más peligrosas?</li> Menciona que viene de otra ciudad y que, a pesar de conocer personalmente la ciudad, ha oido del peligro en lugares como el Callao o San Juan de Lurigancho.
+    <li>¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?</li>Menciona que conoce del peligro en ciertas zonas de la ciudad, pero se siente seguro en las vías que recorre por la presencia de patrulleros y/o serenos.
+    <li>¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?</li> Utiliza el servicio de Google Maps para llegar a lugares que no conoce aún.
+    <li>¿Qué características valoras más en un servicio de planificación de rutas?</li>Valora en mayor medida la exactitud de las mediciones, en especial el tiempo que le tomaría llegar a su destino.
+    <li>¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?</li>Menciona que si, en cuanto sea de utilidad para más personas.
+    <li>¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?</li>Le gustaría recibir la información por notificaciones móviles.
+    <li>¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?</li>Le gustaría compratir sobre las zonas más transitadas y/o peligrosas de la ciudad.
+    <li>¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?</li>Menciona que la idea es interesnate y le sería útil para su experiencia en la ciudad.
+    <li>¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?</li> Valora el uso de vías más rápidas para llegarsu destino.
+  </ol>
+</div>
 
+![Entrevista2](</assets/Entrevista2.png>)
+
+### 2.2.3. Análisis de entrevistas.
 #### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
-##### Hallazgos:
-Mauricio Abraham Rivo Rojas Sánchez expresó una preocupación significativa por la seguridad personal en diversas zonas de Lima, indicando una conciencia creciente de la delincuencia en áreas anteriormente consideradas seguras. Su uso frecuente de aplicaciones de mapeo como Google Maps y Waze para la navegación subraya la importancia de la tecnología en su movilidad diaria. La disposición de Mauricio a compartir experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real demuestra una alta valoración de la seguridad sobre la eficiencia en la planificación de rutas.
-##### Conclusiones:
-La entrevista con Mauricio resalta una necesidad crítica entre los usuarios potenciales por una solución tecnológica que no solo proporcione rutas eficientes sino también seguras, priorizando la seguridad personal en la movilidad urbana. Su experiencia enfatiza la oportunidad de mercado para una aplicación que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. La voluntad de Mauricio de participar activamente en la mejora de la seguridad de las rutas a través del intercambio de información sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de la aplicación propuesta.
+<div align="justify">
+  <b>Hallazgos:</b><br>
+  Mauricio Abraham Rivo Rojas Sánchez expresó una preocupación significativa por la seguridad personal en diversas zonas de Lima, indicando una conciencia creciente de la delincuencia en áreas anteriormente consideradas seguras. Su uso frecuente de aplicaciones de mapeo como Google Maps y Waze para la navegación subraya la importancia de la tecnología en su movilidad diaria. La disposición de Mauricio a compartir experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real demuestra una alta valoración de la seguridad sobre la eficiencia en la planificación de rutas.<br>
+  <b>Conclusiones:</b><br>
+  La entrevista con Mauricio resalta una necesidad crítica entre los usuarios potenciales por una solución tecnológica que no solo proporcione rutas eficientes sino también seguras, priorizando la seguridad personal en la movilidad urbana. Su experiencia enfatiza la oportunidad de mercado para una aplicación que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. La voluntad de Mauricio de participar activamente en la mejora de la seguridad de las rutas a través del intercambio de información sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de la aplicación propuesta.
+</div>
+
+#### Entrevista 2: Carlos Leon
+<div align="justify">
+  <b>Hallazgos:</b><br>
+  Carlos Leon expresó un interés por la seguridad en la ciudad. Él menciona que le gusta utilizar constantemente la tecnología para ubicarse y poder desplazarse por la ciudad. La disposición que presenta para compartir experiencias de seguridad para el mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real demuestra una valoración de la seguridad, que busca coordinar con la eficiencia en la planificación de rutas en terminos de tiempo.<br>
+  <b>Conclusiones:</b><br>
+  La entrevista con Carlos resalta una necesidad por una solución tecnológica que no solo proporcione rutas eficientes, con un enfoque por la seguridad en la movilidad urbana. Sus comentarios permiten conocer la oportunidad existente en el mercado para la aplicación que presentamos, con un mapa de calor integrado y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Su disposición de ayudar en la recolección de información sugiere la existencia de una potencial comunidad de soporte para la aplicación.<br>
+</div>
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
