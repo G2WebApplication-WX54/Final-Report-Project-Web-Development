@@ -200,6 +200,8 @@
   <img src="../../assets/Container_Diagram.png" alt="Container Diagram" width="80%">
 
 ### 4.6.3. Software Architecture Components Diagrams.
+  Log In Context <br>
+  <img src="../../assets/LogIn_Context.png" alt="Log In Context" width="80%">
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
