@@ -154,8 +154,8 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 
 
 ### 2.2.2. Registro de entrevistas.
-
-#### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
+#### Segmento 1: 
+##### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
 Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJto1vVJW-/view?usp=sharing
 <div align="justify">
   <b>Tiempo en el video:</b><br>
@@ -185,38 +185,21 @@ Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJ
 
 ![Entrevista1](</assets/Entrevista1.png>)
 
-#### Entrevista 2: Carlos Leon
+##### Entrevista 2: Carlos Leon
 Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbErExQWywb/view?usp=sharing
 <div align="justify">
-  <b>Tiempo en el video:</b><br>
-  <b>Preguntas Personales:</b>
-  <ol>
-    <li>¿Cuál es su nombre?</li>Carlos Leon
-    <li>¿Cuántos años tiene?</li> 17 años.
-    <li>¿Qué destinos frecuenta y cómo se transporta a estos?</li>Suele frecuentar San Miguel, por el centro de estudios y cercanías de la universidad de Lima usando la bicicleta o con baja frecuencia, el transporte público.
-    <li>¿Cómo se siente con respecto a la delincuencia al paso?</li>Se siente seguro en las zonas que suele recoger, sintiendose aliviado por nunca haber sufrido ningun inconveniente.
-    <li>¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?</li>Menciona usarlas de manera frecuente y saber usarlas correctamente, sobre todo el Google Maps.
-  </ol>
-  <b>Preguntas principales:</b>
-  <ol>
-    <li>¿Cómo te desplazas habitualmente por la ciudad?</li> Se desplaza a través del uso de bicicleta o a pie. Menciona que no le gusta usar mucho el trasnporte público.
-    <li>¿Conoces que zonas de Lima son las más peligrosas?</li> Menciona que viene de otra ciudad y que, a pesar de conocer personalmente la ciudad, ha oido del peligro en lugares como el Callao o San Juan de Lurigancho.
-    <li>¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?</li>Menciona que conoce del peligro en ciertas zonas de la ciudad, pero se siente seguro en las vías que recorre por la presencia de patrulleros y/o serenos.
-    <li>¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?</li> Utiliza el servicio de Google Maps para llegar a lugares que no conoce aún.
-    <li>¿Qué características valoras más en un servicio de planificación de rutas?</li>Valora en mayor medida la exactitud de las mediciones, en especial el tiempo que le tomaría llegar a su destino.
-    <li>¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?</li>Menciona que si, en cuanto sea de utilidad para más personas.
-    <li>¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?</li>Le gustaría recibir la información por notificaciones móviles.
-    <li>¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?</li>Le gustaría compratir sobre las zonas más transitadas y/o peligrosas de la ciudad.
-    <li>¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?</li>Menciona que la idea es interesnate y le sería útil para su experiencia en la ciudad.
-    <li>¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?</li> Valora el uso de vías más rápidas para llegarsu destino.
-  </ol>
+  <b>Tiempo en el video:</b>[00:00:00] - [00:00:00]<br>
   Resumen:<br>
+  Carlos prefiere desplazarse en bicicleta o a pie, y evita el transporte público. Aunque conoce de la peligrosidad de algunas zonas de Lima, como el Callao o San Juan de Lurigancho, se siente seguro en las rutas que recorre gracias a la
+  presencia de patrulleros o serenos. Carlos usa Google Maps para planificar rutas y valora la exactitud en el tiempo estimado de llegada. A la hora de elegir una ruta, valora más la eficiencia en términos de tiempo de viaje, aunque también le importa la seguridad.
+  Menciona estar dispuesto a compartir experiencias de seguridad para mejorar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre zonas peligrosas a través de notificaciones móviles. Carlos está dispuesto a compartir información sobre las 
+  zonas más transitadas o peligrosas de la ciudad y se muestra interesado en recibir recomendaciones de rutas seguras basadas en su ubicación. 
   <br>
 </div>
 
 ![Entrevista2](</assets/Entrevista2.png>)
 
-#### Entrevista 3: Fatima Urbina
+##### Entrevista 3: Fatima Urbina
 Link de la entrevista: https://drive.google.com/file/d/1o9vdd_AykaHcXkD7REbj2GZR0ojRaxPp/view?usp=sharing <br>
 
 **Tiempo en el video**: [00:00:00] - [00:04:14]<br>
@@ -226,7 +209,13 @@ En cuanto a la elección de rutas, Fatima valora más la seguridad que la eficie
 Fatima utiliza los navegadores web Safari y Google Chrome y considera que una página web que tarda más de 30 segundos en cargarse es demasiado lenta. Accede a las aplicaciones web a través de su iPhone.<br>
 <img src="../../assets/Entrevista_3.png" alt="Entrevista 3">
 
+#### Segmento 2:
+##### Entrevista 1:
+##### Entrevista 2:
+##### Entrevista 3:
 ### 2.2.3. Análisis de entrevistas.
+#### Segmento 1:
+#### Segmento 2:
 #### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
 <div align="justify">
   <b>Hallazgos:</b><br>
