@@ -335,16 +335,10 @@ caso depeligro.
 ## 1.3. Segmentos objetivo
 ### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
 <div align="justify">
-    En un mundo donde la seguridad pública es una preocupación creciente, muchos ciudadanos se encuentran en busca de herramientas que les permitan navegar su entorno diario de manera segura. 
-    Especialmente para aquellos que han experimentado o están en riesgo de enfrentar incidentes de seguridad, como robos o asaltos, en áreas urbanas. La falta de información confiable sobre qué áreas
-    son seguras y cuáles no aumenta la ansiedad y limita la libertad de movimiento. Según estadísticas recientes, una gran proporción de la población evita ciertas áreas a ciertas horas, pero la
-    información detallada y actualizada sobre la seguridad de diferentes zonas es escasa o inexistente.
+    En muchos centros urbanos, la seguridad pública sigue siendo una preocupación mayor para los ciudadanos que buscan maneras efectivas de protegerse en su día a día. Aplicaciones como PeaceApp podrían ofrecer soluciones prácticas para estos desafíos. Según un estudio del Banco Mundial sobre seguridad urbana, la implementación de tecnologías que aumentan la percepción y la realidad de la seguridad puede tener impactos significativos en la reducción del crimen y la mejora de la calidad de vida urbana (Banco Mundial, 2017).
 </div>
 
 ### Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana
 <div align="justify">
-    Las entidades gubernamentales encargadas de mantener la seguridad pública y desarrollar infraestructuras urbanas eficientes enfrentan el desafío de distribuir sus recursos de manera efectiva para
-    mejorar la seguridad en sus comunidades. Un informe reciente sobre seguridad urbana revela que el acceso a datos precisos y actualizados sobre incidentes de seguridad es crucial para tomar decisiones
-    informadas. Estas entidades buscan herramientas que les permitan identificar áreas problemáticas, entender patrones de criminalidad y responder de manera proactiva. La disponibilidad de una aplicación
-    que brinda mapas de calor basados en reportes ciudadanos puede ser invaluable, permitiéndoles visualizar las áreas que requieren atención urgente y planificar intervenciones basadas en evidencia.
+    Las entidades gubernamentales, desde la policía local hasta los planificadores urbanos, enfrentan retos constantes para mejorar la eficiencia de sus respuestas y estrategias de prevención del crimen. Según la Organización de las Naciones Unidas, el acceso a datos precisos y actualizados es crucial para la planificación efectiva de la seguridad y el desarrollo urbano (Naciones Unidas, 2019). Herramientas como PeaceApp, que proporcionan datos en tiempo real y facilitan la comunicación entre ciudadanos y autoridades, son esenciales para desarrollar respuestas más rápidas y fundadas a los problemas de seguridad pública.
 </div>
