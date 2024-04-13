@@ -213,6 +213,19 @@ Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbE
 
 ![Entrevista2](</assets/Entrevista2.png>)
 
+#### Entrevista 3:
+<img src="../../assets/Entrevista_3.png" alt="Entrevista 3">
+<br>
+Link de la entrevista: https://drive.google.com/file/d/1o9vdd_AykaHcXkD7REbj2GZR0ojRaxPp/view?usp=sharing <br>
+
+**Entrevistador**: Andres Rodriguez Zuluoeta<br>
+**Entrevistada**: Fatima Urbina<br>
+**Tiempo en el video**: [00:00:00] - [00:04:14]<br>
+La entrevistada es Fatima Urbina, una joven de 22 años que vive en Lima. Se desplaza a su trabajo en Jesús María utilizando transporte público y a veces taxi por aplicativo o el metropolitano. Fatima está familiarizada con las aplicaciones de mapas virtuales y utiliza Moovit para planificar sus rutas.<br>
+Fatima está consciente de la delincuencia en la ciudad y no se siente completamente segura al caminar, especialmente en zonas que considera peligrosas como Comas, San Juan de Lurigancho y San Martín de Porres. Está dispuesta a compartir sus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre las zonas de peligrosidad a través de notificaciones.<br>
+En cuanto a la elección de rutas, Fatima valora más la seguridad que la eficiencia, incluso si eso significa que su viaje tome más tiempo. Estaría interesada en recibir recomendaciones de rutas seguras basadas en su ubicación.<br>
+Fatima utiliza los navegadores web Safari y Google Chrome y considera que una página web que tarda más de 30 segundos en cargarse es demasiado lenta. Accede a las aplicaciones web a través de su iPhone.<br>
+
 ### 2.2.3. Análisis de entrevistas.
 #### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
 <div align="justify">
