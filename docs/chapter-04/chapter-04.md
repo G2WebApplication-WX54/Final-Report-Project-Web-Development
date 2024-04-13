@@ -196,6 +196,9 @@
   <img src="../../assets/Context_Diagram.png" alt="Context Diagram" width="80%">
 
 ### 4.6.2. Software Architecture Container Diagrams.
+
+  <img src="../../assets/Container_Diagram.png" alt="Container Diagram" width="80%">
+
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
