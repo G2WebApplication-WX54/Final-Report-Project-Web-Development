@@ -315,6 +315,32 @@ Opciones de edición de perfil de usuario, incluyendo tipos de ruta preferidos y
 <img src="../../assets/Editar Perfil.png" alt="WireFrame Editar Perfil">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+#### User Flow User Goal 1 (Como transeúnte, quiero que la aplicación me sugiera la ruta más segura.)
+User Task: El usuario se registra como ciudadano, busca un destino y recibe sugerencias de la ruta más segura a través del mapa de calor.
+
+<img src="../../assets/WireFlow1.png" alt="WireFlow1">
+
+#### User Flow User Goal 2 (Como transeúnte, quiero poder personalizar mis rutas en función de mis preferencias.)
+User Task: El usuario ajusta sus preferencias de seguridad en su perfil para obtener rutas personalizadas que se ajusten a sus necesidades.
+
+<img src="../../assets/WireFlow2.png" alt="WireFlow2">
+
+#### User Flow User Goal 3 (Como transeúnte, quiero poder reportar incidentes.)
+User Task: El usuario accede a la sección de reportes, completa un formulario con los detalles del incidente y visualiza el nuevo reporte en su lista.
+
+<img src="../../assets/WireFlow3.png" alt="WireFlow3">
+
+#### User Flow User Goal 4 (Como comisario, quiero tener acceso a los reportes de los usuarios.)
+User Task: El comisario registra información de su municipalidad, revisa reportes de incidentes y planifica estrategias contra la delincuencia.
+
+<img src="../../assets/WireFlow4.png" alt="WireFlow4">
+
+#### User Flow User Goal 5 (Como comisario, quiero poder priorizar los reportes en función de su gravedad y urgencia.)
+User Task: El comisario establece la prioridad de los reportes basándose en su gravedad y urgencia para gestionar las respuestas de forma eficaz.
+
+<img src="../../assets/WireFlow5.png" alt="WireFlow5">
+
 ### 4.4.3. Web Applications Mock-ups.
 
 ### Web Applications Mock-Ups - Página Principal
@@ -394,6 +420,32 @@ Página de edición de perfil de usuario con un diseño intuitivo y fácil de us
 <img src="../../assets/Editar PerfilM.png" alt="Mock-Up Editar Perfil">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
+
+#### User Flow User Goal 1 (Como transeúnte, quiero que la aplicación me sugiera la ruta más segura.)
+User Task: El usuario se registra como ciudadano, busca un destino y recibe sugerencias de la ruta más segura a través del mapa de calor.
+
+<img src="../../assets/UserFlow1.png" alt="UserFlow1">
+
+#### User Flow User Goal 2 (Como transeúnte, quiero poder personalizar mis rutas en función de mis preferencias.)
+User Task: El usuario ajusta sus preferencias de seguridad en su perfil para obtener rutas personalizadas que se ajusten a sus necesidades.
+
+<img src="../../assets/UserFlow2.png" alt="UserFlow2">
+
+#### User Flow User Goal 3 (Como transeúnte, quiero poder reportar incidentes.)
+User Task: El usuario accede a la sección de reportes, completa un formulario con los detalles del incidente y visualiza el nuevo reporte en su lista.
+
+<img src="../../assets/UserFlow3.png" alt="UserFlow3">
+
+#### User Flow User Goal 4 (Como comisario, quiero tener acceso a los reportes de los usuarios.)
+User Task: El comisario registra información de su municipalidad, revisa reportes de incidentes y planifica estrategias contra la delincuencia.
+
+<img src="../../assets/UserFlow4.png" alt="UserFlow4">
+
+#### User Flow User Goal 5 (Como comisario, quiero poder priorizar los reportes en función de su gravedad y urgencia.)
+User Task: El comisario establece la prioridad de los reportes basándose en su gravedad y urgencia para gestionar las respuestas de forma eficaz.
+
+<img src="../../assets/UserFlow5.png" alt="UserFlow5">
+
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
