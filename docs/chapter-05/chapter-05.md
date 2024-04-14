@@ -56,6 +56,33 @@ Dentro de develop y dentro de la carpeta docs se encuentra nuestro proyecto sepa
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 # Conclusiones
 # Bibliografía
-Banco Mundial. (2017). <em>Enhancing Urban Safety and Security: Global Report on Human Settlements 2007.</em> Recuperado de https://www.bancomundial.org<br>
-Naciones Unidas. (2019). <em>UN System-Wide Guidelines on Safer Cities and Human Settlements.</em> Recuperado de https://www.un.org
+<div align="justify">
+  <ul>
+    <li>Banco Mundial. (2017). <em>Enhancing Urban Safety and Security: Global Report on Human Settlements 2007.</em> Recuperado de https://www.bancomundial.org</li>
+    <li>Naciones Unidas. (2019). <em>UN System-Wide Guidelines on Safer Cities and Human Settlements.</em> Recuperado de https://www.un.org</li>
+  </ul>
+</div>
+
 # Anexos.
+<table>
+  <tr>
+    <td>Sección</td>
+    <td>Características del video</td>
+  </tr>
+  <tr>
+    <td>Exposición</td>
+    <td>Cantidad de videos: 1<br>
+      Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb1<br>
+      Formato: .mp4<br>
+      Duración:<br>
+      Enlace:</td>
+  </tr>
+  <tr>
+    <td>Entrevistas</td>
+    <td>Cantidad de videos: 1<br>
+      Nomenclatura:<br>
+      Formato: .mp4<br>
+      Duración:<br>
+      Enlace:</td>
+  </tr>
+</table>
