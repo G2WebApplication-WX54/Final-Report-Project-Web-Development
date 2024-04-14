@@ -21,7 +21,6 @@
 </table>
 
 ### 2.1.1. Análisis competitivo.
-
 <table>
   <tr>
     <th colspan="22">Competitive Analysis Landscape</th>
@@ -117,17 +116,183 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+<div align="justify">
+  Para asegurar una posición líder en el mercado de aplicaciones de seguridad ciudadana, PeaceApp se enfocará en una estrategia de diferenciación basada en la hiperlocalización y la participación comunitaria. Esta estrategia se complementará con el desarrollo de tecnología de mapeo avanzada que proporcione datos precisos y actualizados sobre la seguridad en áreas específicas, aprovechando informes en tiempo real de los usuarios. Este enfoque no solo resalta nuestras fortalezas, como la capacidad de proporcionar información detallada y relevante, sino que también nos permite explorar nuevas oportunidades al expandirnos a nuevas regiones y colaborar con agencias gubernamentales y de seguridad.
 
-Para posicionarse frente a sus competidores en el mercado de aplicaciones de seguridad ciudadana, PeaceApp se enfocará en la diferenciación a través de la hiperlocalización y la participación comunitaria. Nuestra estrategia incluirá el desarrollo de tecnología de mapeo avanzada para proporcionar información detallada y actualizada sobre la seguridad en áreas específicas, aprovechando datos en tiempo real suministrados por los usuarios. Integraremos funcionalidades que permitan a los ciudadanos reportar incidentes de forma anónima, fomentando una cultura de vigilancia y apoyo mutuo. Además, planeamos establecer alianzas con autoridades locales y organizaciones de seguridad para validar y enriquecer la información compartida en la plataforma, asegurando su precisión y relevancia. Con un modelo de precios accesible y opciones de suscripción para servicios premium, PeaceApp buscará convertirse en la solución preferida para la seguridad personal y comunitaria, ofreciendo herramientas útiles para la prevención del crimen y la respuesta rápida a emergencias. 
+En respuesta a las debilidades del sector, como la dependencia de la retroalimentación activa de los usuarios y la vulnerabilidad a la información incorrecta, PeaceApp implementará mecanismos robustos de verificación de datos para asegurar la confiabilidad de la información compartida. Esto ayudará a mitigar las amenazas como la pérdida de confianza del usuario y los posibles riesgos legales relacionados con la privacidad de los datos. Al mismo tiempo, estas alianzas y mejoras tecnológicas reforzarán nuestra posición frente a competidores establecidos y emergentes, permitiendo a PeaceApp ofrecer un servicio indispensable para la seguridad personal y comunitaria, y responder de manera efectiva a las emergencias.
+</div>
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+
+- **Introducción antes de la entrevista:**
+<br>
+Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entrevista. Nuestro objetivo es recopilar información de nuestros potenciales usuarios, para el desarrollo de un proyecto que consiste en un servicio que ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. Además de que los usuarios tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima que serán actualizadas en base a reportes de los usuarios de la aplicación. <br>
+<br>
+
+- **Preguntas Personales:**
+1.  ¿Cuál es su nombre?<br>
+2.	¿Cuántos años tiene?<br>
+3.	¿Qué destinos frecuenta y cómo se transporta a estos?<br>
+4.	¿Cómo se siente con respecto a la delincuencia al paso?<br>
+5.	¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?<br><br>
+
+- **Preguntas principales:**
+1. ¿Cómo te desplazas habitualmente por la ciudad?<br>
+2.	¿Conoces que zonas de Lima son las más peligrosas?<br>
+3.	¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?<br>
+4.	¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?<br>
+5.	¿Qué características valoras más en un servicio de planificación de rutas?<br>
+6.	¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?<br>
+7.	¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?<br>
+8.	¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?<br>
+9.	¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?<br>
+10.	¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?<br>
+11.	¿Qué navegadores web utilizas con más frecuencia?<br>
+12.	¿Cuánto tiempo estás dispuesto a esperar que una página web se cargue antes de considerarla demasiado lenta?<br>
+13.	¿Qué dispositivos móviles utilizas para acceder a aplicaciones web (marca)?<br>
+
+
 ### 2.2.2. Registro de entrevistas.
+#### Segmento 1: 
+##### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
+Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJto1vVJW-/view?usp=sharing
+<div align="justify">
+  <b>Tiempo en el video:</b><br>
+  <b>Preguntas Personales:</b>
+  <ol>
+    <li>¿Cuál es su nombre?</li> Mauricio Abraham Rivo Rojas Sánchez.
+    <li>¿Cuántos años tiene?</li> 18 años.
+    <li>¿Qué destinos frecuenta y cómo se transporta a estos?</li>Suele frecuentar por San Isidro (Lugar de estudio), San Miguel, Pueblo Libre, Jesús María y usualmente se transporta por medio de auto o en bus.
+    <li>¿Cómo se siente con respecto a la delincuencia al paso?</li>Se siente muy incómodo, asustado y preocupado respecto a la delincuencia en el país. Es consciente de que cada vez más la delincuencia en el Perú aumenta.
+    <li>¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?</li>Frecuentemente usa aplicaciones como Google Maps o Waze en el momento en el que necesita ubicarse, o transportarse más fácil.
+  </ol>
+  <b>Preguntas principales:</b>
+  <ol>
+    <li>¿Cómo te desplazas habitualmente por la ciudad?</li>Generalmente usa el auto para movilizarse por la ciudad, ya que, el bus solo lo usa cuando requiere ir a su universidad y en algunas ocasiones caminando.
+    <li>¿Conoces que zonas de Lima son las más peligrosas?</li>Considera que entre las zonas más peligrosas estan San Juan de Lurigancho, Comas y en zonas más alejadas, pero también menciona que la delincuencia esta incrementando más en zonas como Miraflores, Pueblo Libre, San Isidro, etc.
+    <li>¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?</li>Sí ha tenido preocupaciones específicamente en su zona, y también tiene amigos que presentan la misma situación.
+    <li>¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?</li>En la mayoría de casos usa Waze cuando va caminando o cuando se moviliza en el auto.
+    <li>¿Qué características valoras más en un servicio de planificación de rutas?</li>Valora mucho que el camino que le indiquen sea óptimo para que pueda llegar fácilmente a su punto de destino y que la ruta sea lo más segura posible.
+    <li>¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?</li>Esta totalmente dispuesto a compartir sus experiencias para actualizar un mapa de calor para obtener mejores rutas.
+    <li>¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?</li>Le gustaría recibir estas notificaciones en tiempo real al momento de movilizarse en la zona en la que se encuentra.
+    <li>¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?</li>Le gustaría compartir la frecuencia en la que se reportan los casos en las zonas más peligrosas.
+    <li>¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?</li>Le gustaría que al momento de estar en cierta ubicación pueda recibir recomendaciones para ayudarlo en la toma de desiciones
+    <li>¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?</li>El valora mucho más la seguridad que el tiempo de viaje especialmente en las zonas donde hayan mucha delincuencia.
+  </ol>
+  Resumen: <br> En la entrevista realizada a Mauricio Abraham Rivo Rojas Sánchez, un joven de 18 años residente de Lima, se destaca su preocupación significativa por la delincuencia en la ciudad. Mauricio utiliza principalmente el auto para sus desplazamientos diarios, aunque ocasionalmente utiliza el bus o camina, especialmente cuando se dirige a su lugar de estudio en San Isidro. Reconoce áreas como San Juan de Lurigancho y Comas entre las más peligrosas, aunque nota un incremento de la delincuencia en zonas tradicionalmente consideradas seguras como Miraflores y San Isidro. Utiliza aplicaciones como Waze para planificar sus rutas, valorando especialmente aquellas que le ofrecen seguridad y eficiencia. Está dispuesto a compartir sus experiencias y recibir actualizaciones en tiempo real para mejorar la seguridad en sus rutas, demostrando un alto grado de compromiso con la mejora de la situación de seguridad en su comunidad.<br>
+</div>
+
+![Entrevista1](</assets/Entrevista1.png>)
+
+##### Entrevista 2: Carlos Leon
+Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbErExQWywb/view?usp=sharing
+<div align="justify">
+  <b>Tiempo en el video:</b>[00:00:00] - [00:00:00]<br><br>
+  Resumen:<br>
+  Carlos prefiere desplazarse en bicicleta o a pie, y evita el transporte público. Aunque conoce de la peligrosidad de algunas zonas de Lima, como el Callao o San Juan de Lurigancho, se siente seguro en las rutas que recorre gracias a la
+  presencia de patrulleros o serenos. Carlos usa Google Maps para planificar rutas y valora la exactitud en el tiempo estimado de llegada. A la hora de elegir una ruta, valora más la eficiencia en términos de tiempo de viaje, aunque también le importa la seguridad.
+  Menciona estar dispuesto a compartir experiencias de seguridad para mejorar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre zonas peligrosas a través de notificaciones móviles. Carlos está dispuesto a compartir información sobre las 
+  zonas más transitadas o peligrosas de la ciudad y se muestra interesado en recibir recomendaciones de rutas seguras basadas en su ubicación. 
+  <br>
+</div>
+
+![Entrevista2](</assets/Entrevista2.png>)
+
+##### Entrevista 3: Fatima Urbina
+Link de la entrevista: https://drive.google.com/file/d/1o9vdd_AykaHcXkD7REbj2GZR0ojRaxPp/view?usp=sharing <br>
+
+**Tiempo en el video**: [00:00:00] - [00:04:14]<br><br>
+Resumen: <br> La entrevistada es Fatima Urbina, una joven de 22 años que vive en Lima. Se desplaza a su trabajo en Jesús María utilizando transporte público y a veces taxi por aplicativo o el metropolitano. Fatima está familiarizada con las aplicaciones de mapas virtuales y utiliza Moovit para planificar sus rutas.<br>
+Fatima está consciente de la delincuencia en la ciudad y no se siente completamente segura al caminar, especialmente en zonas que considera peligrosas como Comas, San Juan de Lurigancho y San Martín de Porres. Está dispuesta a compartir sus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre las zonas de peligrosidad a través de notificaciones.<br>
+En cuanto a la elección de rutas, Fatima valora más la seguridad que la eficiencia, incluso si eso significa que su viaje tome más tiempo. Estaría interesada en recibir recomendaciones de rutas seguras basadas en su ubicación.<br>
+Fatima utiliza los navegadores web Safari y Google Chrome y considera que una página web que tarda más de 30 segundos en cargarse es demasiado lenta. Accede a las aplicaciones web a través de su iPhone.<br>
+<img src="../../assets/Entrevista_3.png" alt="Entrevista 3">
+
+#### Segmento 2:
+##### Entrevista 1:
+##### Entrevista 2:
+##### Entrevista 3:
 ### 2.2.3. Análisis de entrevistas.
+#### Segmento 1: <br>
+Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, todos usuarios ubicados en Lima, revelan una preocupación común por la seguridad personal en la ciudad y un uso frecuente de la tecnología para la movilidad diaria. Todos ellos están dispuestos a compartir sus experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real, lo que indica que valoran la seguridad en la planificación de rutas. Esta disposición sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de una aplicación propuesta que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Además, Fatima valora más la seguridad que la eficiencia en la elección de rutas, incluso si eso significa que su viaje tome más tiempo, y accede a las aplicaciones web a través de su iPhone utilizando los navegadores Safari o Google Chrome. Estos hallazgos resaltan la necesidad de una solución tecnológica que proporcione rutas no solo eficientes, sino también seguras, y revelan una oportunidad de mercado para nuestra aplicación web.
+#### Segmento 2:
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+
+Con el objetivo de asegurar un entendimiento detallado y completo de los segmentos que hemos identificado como fundamentales para nuestro proyecto, hemos implementado un proceso meticuloso y riguroso de creación de User Personas. Este proceso nos ha permitido desarrollar un User Persona específico y único para cada uno de estos segmentos objetivos, lo que nos facilita una visión más clara y precisa de nuestros usuarios objetivo. De esta manera, podemos diseñar y ofrecer soluciones que se alineen de manera óptima con sus necesidades y expectativas.
+
+- **UserPersona 1**
+<br>
+<img src="/assets/UserPersona_1.png" alt="UserPersona_1">
+
+- **UserPersona 2**
+<br>
+<img src="/assets/UserPersona_2.png" alt="UserPersona_2">
+<br>
+
 ### 2.3.2. User Task Matrix.
+
+**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+
+| Tarea                                                  | Frecuencia | Severidad |
+|--------------------------------------------------------|------------|-----------| 
+| Reportar actividades sospechosas a las autoridades     | Alta       | Alta      |
+| Utilizar aplicaciones de seguridad ciudadana           | Media      | Alta      |
+| Mantenerse informado sobre índices de criminalidad     | Alta       | Media     |
+| Evitar áreas consideradas peligrosas                   | Alta       | Alta      |
+| Instalar sistemas de seguridad en el hogar             | Media      | Alta      |
+| Participar en grupos de vigilancia vecinal             | Media      | Alta      |
+| Realizar cursos de prevención y seguridad personal     | Baja       | Media     |
+| Apoyar programas de mejora para la seguridad ciudadana | Baja       | Media     |
+
+
+**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+
+| Tarea                                                       | Frecuencia | Severidad |
+|-------------------------------------------------------------|------------|-----------|
+| Monitorear índices de criminalidad y delitos                | Alta       | Alta      |
+| Desarrollar políticas y programas de seguridad pública      | Alta       | Alta      |
+| Implementar medidas de prevención del delito                | Alta       | Alta      |
+| Realizar patrullajes y vigilancia en áreas de riesgo        | Alta       | Media     |
+| Mejorar la iluminación y el diseño urbano en zonas críticas | Alta       | Alta      |
+| Colaborar con otras entidades y la comunidad                | Alta       | Alta      |
+| Capacitar al personal en técnicas de seguridad y prevención | Alta       | Media     |
+| Implementar sistemas de videovigilancia y tecnologías       | Alta       | Alta      |
+
+
+
 ### 2.3.3. User Journey Mapping.
+
+**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+
+<img src="/assets/UserJourneyMap_UP1.png" alt="User Journey Map User Persona 1" width="80%">
+
+**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+
+<img src="/assets/UserJourneyMap_UP2.png" alt="User Journey Map User Persona 2" width="80%">
+
 ### 2.3.4. Empathy Mapping.
+
+**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+
+<img src="/assets/Empathy_map_UP1.png" alt="Empathy Map User Persona 1" width="80%">
+
+**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+
+<img src="/assets/Empathy_map_UP2.png" alt="Empathy Map User Persona 2" width="80%">
+
 ### 2.3.5. As-is Scenario Mapping.
+
+**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+
+<img src="/assets/As-Is_Map_UP1.png" alt="As-Is Map User Persona 1" width="80%">
+
+**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+
+<img src="/assets/As-Is_Map_UP2.png" alt="As-Is Map User Persona 2" width="80%">
+
 ## 2.4. Ubiquitous Language.
+**Mercado:** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.   
+**Mapa de Calor:** Es una representación gráfica de datos donde los valores se representan mediante colores.
