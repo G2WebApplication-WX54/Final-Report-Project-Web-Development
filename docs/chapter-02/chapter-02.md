@@ -221,6 +221,8 @@ Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos L
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
+Con el objetivo de asegurar un entendimiento detallado y completo de los segmentos que hemos identificado como fundamentales para nuestro proyecto, hemos implementado un proceso meticuloso y riguroso de creación de User Personas. Este proceso nos ha permitido desarrollar un User Persona específico y único para cada uno de estos segmentos objetivos, lo que nos facilita una visión más clara y precisa de nuestros usuarios objetivo. De esta manera, podemos diseñar y ofrecer soluciones que se alineen de manera óptima con sus necesidades y expectativas.
+
 - **UserPersona 1**
 <br>
 <img src="/assets/UserPersona_1.png" alt="UserPersona_1">
