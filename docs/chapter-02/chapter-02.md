@@ -214,23 +214,9 @@ Fatima utiliza los navegadores web Safari y Google Chrome y considera que una p�
 ##### Entrevista 2:
 ##### Entrevista 3:
 ### 2.2.3. Análisis de entrevistas.
-#### Segmento 1:
+#### Segmento 1: <br>
+Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, todos usuarios ubicados en Lima, revelan una preocupación común por la seguridad personal en la ciudad y un uso frecuente de la tecnología para la movilidad diaria. Todos ellos están dispuestos a compartir sus experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real, lo que indica que valoran la seguridad en la planificación de rutas. Esta disposición sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de una aplicación propuesta que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Además, Fatima valora más la seguridad que la eficiencia en la elección de rutas, incluso si eso significa que su viaje tome más tiempo, y accede a las aplicaciones web a través de su iPhone utilizando los navegadores Safari o Google Chrome. Estos hallazgos resaltan la necesidad de una solución tecnológica que proporcione rutas no solo eficientes, sino también seguras, y revelan una oportunidad de mercado para nuestra aplicación web.
 #### Segmento 2:
-#### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
-<div align="justify">
-  <b>Hallazgos:</b><br>
-  Mauricio Abraham Rivo Rojas Sánchez expresó una preocupación significativa por la seguridad personal en diversas zonas de Lima, indicando una conciencia creciente de la delincuencia en áreas anteriormente consideradas seguras. Su uso frecuente de aplicaciones de mapeo como Google Maps y Waze para la navegación subraya la importancia de la tecnología en su movilidad diaria. La disposición de Mauricio a compartir experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real demuestra una alta valoración de la seguridad sobre la eficiencia en la planificación de rutas.<br>
-  <b>Conclusiones:</b><br>
-  La entrevista con Mauricio resalta una necesidad crítica entre los usuarios potenciales por una solución tecnológica que no solo proporcione rutas eficientes sino también seguras, priorizando la seguridad personal en la movilidad urbana. Su experiencia enfatiza la oportunidad de mercado para una aplicación que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. La voluntad de Mauricio de participar activamente en la mejora de la seguridad de las rutas a través del intercambio de información sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de la aplicación propuesta.
-</div>
-
-#### Entrevista 2: Carlos Leon
-<div align="justify">
-  <b>Hallazgos:</b><br>
-  Carlos Leon expresó un interés por la seguridad en la ciudad. Él menciona que le gusta utilizar constantemente la tecnología para ubicarse y poder desplazarse por la ciudad. La disposición que presenta para compartir experiencias de seguridad para el mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real demuestra una valoración de la seguridad, que busca coordinar con la eficiencia en la planificación de rutas en terminos de tiempo.<br>
-  <b>Conclusiones:</b><br>
-  La entrevista con Carlos resalta una necesidad por una solución tecnológica que no solo proporcione rutas eficientes, con un enfoque por la seguridad en la movilidad urbana. Sus comentarios permiten conocer la oportunidad existente en el mercado para la aplicación que presentamos, con un mapa de calor integrado y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Su disposición de ayudar en la recolección de información sugiere la existencia de una potencial comunidad de soporte para la aplicación.<br>
-</div>
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
