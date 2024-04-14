@@ -23,14 +23,49 @@
     <tr>
         <td align="center">EP01</td>
         <td>Seguridad en el desplazamiento</td>
-        <td>Este Epic se centra en cómo los usuarios pueden mejorar su seguridad durante el desplazamiento utilizando la aplicación.</td>
+        <td>Como visitante de la landing page quiero que me recomieden la ruta mas segura para asi poder tener un viaje sin preocupaciones.</td>
         <td>-</td>
         <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">EP02</td>
         <td>Gestion de seguridad</td>
-        <td>Este Epic se centra en cómo los comisarios pueden manejar y mejorar la seguridad en su jurisdicción utilizando la aplicación.</td>
+        <td>Como usuario de la municipalidad quiero poder ver todos los reportes hechos por los ciudadanos para asi poder tener mayor informacion sobre los lugares con mayor delincuencia.</td>
+        <td>-</td>
+        <td align="center">-</td>
+    </tr>
+    <tr>
+        <td align="center">EP03</td>
+        <td>Mapa de seguridad</td>
+        <td>Como usuario de PeaceApp, quiero tener acceso a un mapa con información sobre el nivel de peligro en las distintas zonas de la ciudad, para poder evitar áreas de alto riesgo.</td>
+        <td>-</td>
+        <td align="center">-</td>
+    </tr>
+    <tr>
+        <td align="center">EP04</td>
+        <td>Denuncias en tiempo real</td>
+        <td>Como usuario de PeaceApp, quiero poder hacer denuncias de crímenes a través de fotos, audios y/o videos en tiempo real, para contribuir a la seguridad de mi comunidad.</td>
+        <td>-</td>
+        <td align="center">-</td>
+    </tr>
+    <tr>
+        <td align="center">EP05</td>
+        <td>Compartir ubicación</td>
+        <td>Como usuario de PeaceApp, quiero poder compartir mi ubicación con mis contactos cercanos, para que puedan monitorear mi trayecto y asegurarse de que estoy seguro.</td>
+        <td>-</td>
+        <td align="center">-</td>
+    </tr>
+    <tr>
+        <td align="center">EP06</td>
+        <td>Sistema de notificaciones</td>
+        <td>Como usuario de PeaceApp, quiero recibir notificaciones en tiempo real sobre incidentes de seguridad en mi área, para estar siempre informado y tomar precauciones.</td>
+        <td>-</td>
+        <td align="center">-</td>
+    </tr>
+    <tr>
+        <td align="center">EP07</td>
+        <td>Perfiles de usuario</td>
+        <td>Como usuario de PeaceApp, quiero poder crear y personalizar mi perfil de usuario, para tener una identidad dentro de la comunidad de la aplicación.</td>
         <td>-</td>
         <td align="center">-</td>
     </tr>
@@ -166,6 +201,68 @@
             Then la aplicación muestra al comisario las rutas seguras más utilizadas.<br>
         </td>
         <td align="center">EP02</td>
+    </tr>
+    <tr>
+        <td align="center">US13</td>
+        <td>Añadir foto de perfil</td>
+        <td>Como usuario, quiero poder añadir una foto de perfil.</td>
+        <td>Escenario 1:<br>
+            Given que el usuario está en su perfil,<br>
+            When el usuario selecciona la opción para añadir una foto de perfil,<br>
+            Then se debe abrir un cuadro de diálogo que permita al usuario seleccionar una foto de su dispositivo,<br>
+        And cuando el usuario selecciona una foto y confirma la acción, la foto de perfil del usuario debe actualizarse con la foto seleccionada.</td>
+        <td align="center">EP07</td>
+    </tr>
+    <tr>
+        <td align="center">US14</td>
+        <td>Recibir notificaciones sobre zona peligrosa</td>
+        <td>Como usuario, quiero recibir notificaciones cuando me este acercando a una zona peligrosa</td>
+        <td>Escenario 1:<br>
+            Given que el usuario ha activado las notificaciones de zonas peligrosas en la configuración de la aplicación,<br>
+            When el usuario se acerca a una zona marcada como peligrosa,<br>
+        Then el usuario debe recibir una notificación alertándole de la proximidad a la zona peligrosa.</td>
+        <td align="center">EP06</td>
+    </tr>
+    <tr>
+        <td align="center">US15</td>
+        <td>Ver reportes</td>
+        <td>Como usuario, quiero poder ver los reportes de otros usuarios en las denuncias.</td>
+        <td>Escenario 1:<br>
+            Given que el usuario está viendo una denuncia,<br>
+            When el usuario selecciona la opción para ver los reportes de otros usuarios,<br>
+        Then se debe mostrar una lista de reportes con las calificaciones y comentarios de otros usuarios.</td>
+        <td align="center">EP02</td>
+    </tr>
+    <tr>
+        <td align="center">US16</td>
+        <td>Editar información de perfil</td>
+        <td>Como usuario, quiero poder editar mi información de perfil.</td>
+        <td>Escenario 1:<br>
+            Given que el usuario está en su perfil,<br>
+            When el usuario selecciona la opción para editar su información de perfil,<br>
+            Then se debe abrir una página o un cuadro de diálogo que permita al usuario editar su información de perfil,<br>
+        And cuando el usuario realiza los cambios y confirma la acción, la información de perfil del usuario debe actualizarse con la nueva información.</td>
+        <td align="center">EP07</td>
+    </tr>
+    <tr>
+        <td align="center">US17</td>
+        <td>Ver denuncias más recientes</td>
+        <td>Como usuario, quiero poder ver las denuncias más recientes en mi área.</td>
+        <td>Escenario 1:<br>
+            Given que el usuario está en la página principal de la aplicación,<br>
+            When el usuario selecciona la opción para ver las denuncias más recientes,<br>
+        Then se debe mostrar una lista de las denuncias más recientes en su área.</td>
+        <td align="center">EP06</td>
+    </tr>
+    <tr>
+        <td align="center">US18</td>
+        <td>Mapa de calor</td>
+        <td>Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro</td>
+        <td>Escenario 1:<br>
+            Given que el usuario está en la página principal de la aplicación,<br>
+            When el usuario selecciona el mapa de calor,<br>
+        Then se debe mostrar el mapa de calor señalando las zonas peligrosas y/o seguras.</td>
+        <td align="center">EP03</td>
     </tr>
 </table>
 
