@@ -203,6 +203,7 @@
             <b>Escalante Baygorrea, Janiel Franz</b><br>
             <br><br>
             <b>Noriega Suschenko, Anatoly Andrey</b><br>
+            Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar nuestro público objetivo, las estrategias frente a nuestros competidores, las entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.
             <br><br>          
             <b>Príncipe Godoy, Johan</b><br>
             <br><br>
