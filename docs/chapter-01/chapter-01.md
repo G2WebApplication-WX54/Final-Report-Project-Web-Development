@@ -185,6 +185,9 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
           <td>
               TB1<br><br>
               <b>Escalante Baygorrea, Janiel Franz</b><br>
+              He realizado la seccion del UX LEAN Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page.
+              Mi participación en el equipo fue fundamental para el desarrollo del proyecto, cumpliendo con todas las tareas asignadas y aportando ideas para 
+              el desarrollo de la plataforma.
               <br><br>
               <b>Noriega Suschenko, Anatoly Andrey</b><br>
               He realizado la sección de Segmentos objetivos para identificar cuales serán nuestros principales usuarios para la plataforma, también el analisis de competidores junto con las estrategias 
@@ -216,6 +219,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
         <td>
             TB1<br><br>
             <b>Escalante Baygorrea, Janiel Franz</b><br>
+            Para llevar acabo el desarrollo del LEAN UX y el diagrama UML estudie como funciona el sector de la seguridad ciudadana y como se puede aplicar la tecnología para mejorar la seguridad de los ciudadanos.
             <br><br>
             <b>Noriega Suschenko, Anatoly Andrey</b><br>
             Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar 
