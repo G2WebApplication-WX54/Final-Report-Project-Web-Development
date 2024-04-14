@@ -184,6 +184,7 @@
               <b>Príncipe Godoy, Johan</b><br>
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+              He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el software configuration management.
               <br><br>
               <b>Zarate Caceres, Victor Ernesto</b><br>
               Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción,
@@ -208,7 +209,7 @@
             <b>Príncipe Godoy, Johan</b><br>
             <br><br>
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-            <br><br>
+            Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, user stories, impact mapping, product backlog y el software configuration management
             <b>Zarate Caceres, Victor Ernesto</b><br>
             Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas
             que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea 
