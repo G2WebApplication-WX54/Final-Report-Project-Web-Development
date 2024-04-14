@@ -447,6 +447,8 @@ User Task: El comisario establece la prioridad de los reportes basándose en su 
 <img src="../../assets/UserFlow5.png" alt="UserFlow5">
 
 ## 4.5. Web Applications Prototyping.
+En esta parte del documento, se incluye el enlace al prototipo de la Aplicación Web, el cual fue creado utilizando la herramienta de prototipado Figma.<br>
+https://www.figma.com/proto/g2UjaaatgDwqOfmLg1rFFW/PeaceApp-Prototype?type=design&node-id=201-31&t=NWFD8ug873xPiMio-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&mode=design
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
   
