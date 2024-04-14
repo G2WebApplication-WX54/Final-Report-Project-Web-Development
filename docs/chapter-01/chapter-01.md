@@ -182,6 +182,7 @@
               como de la Web Application y realizar un prototipo de como sera nuestra plataforma.
               <br><br>          
               <b>Príncipe Godoy, Johan</b><br>
+              Para el desarrollo del proyecto, participé eficazmente en la creación de los User Task Matrix, Journey Mapping, Empathy Mapping, As-Is y To-be Scenario Mapping
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
               He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el 
@@ -210,6 +211,7 @@
             de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.
             <br><br>          
             <b>Príncipe Godoy, Johan</b><br>
+            Para el cumplimiento de este trabajo usé lo aprendido dentro del curso y proyectos antereriores. De esta manera pude cumplir con los puntos que me fueron asignado como Diagrama de Contexto, Contenedor y Componentes.
             <br><br>
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
             Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, 
@@ -249,7 +251,7 @@
 ### 1.1.2. Perfiles de Integrantes del equipo
 | Nombre Completo del integrante      | Descripcion de Carrera                                                                      | Fotografía                              | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                   |
 |-------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Escalante Baygorrea, Janiel Franz   | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         |![Franz Escalante](/assets/Franz.jpeg)| Conocimientos en lenguajes de Programación como C++, Java, HTML, CSS.<br>Me considero que soy una persona muy trabajadora.                                                                                                                              |
+| Escalante Baygorrea, Janiel Franz   | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Franz Escalante](/assets/Franz.jpeg)  | Conocimientos en lenguajes de Programación como C++, Java, HTML, CSS.<br>Me considero que soy una persona muy trabajadora.                                                                                                                              |
 | Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                             |
 | Príncipe Godoy, Johan               | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Johan Príncipe](/assets/Johan.jpg)    | - Conocimiento en lenguajes de programación como C++, Python, HTML, CSS, JS, SQL, MongoDB. <br> - Me considero una persona comprometida y perseverante para lograr lo mejor con el equipo.                                                              |
 | Rodriguez Zuluoeta, Andres Fernando | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Andres Rodriguez](/assets/Andres.jpg) | Tengo conocimiento de lenguaje de programación como C ++ y Python. Me considero una persona centrada y responsable al momento de realizar trabajos en grupo.                                                                                            |
