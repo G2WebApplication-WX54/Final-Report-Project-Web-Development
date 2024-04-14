@@ -32,16 +32,23 @@ Convenciones de los Commits: Para los mensajes de los commits realizados, se uti
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+HTML: Aquí hay algunas prácticas recomendadas para lograr un código HTML coherente, mantenible y bien organizado:<br>
 
+Nos aseguramos de cerrar todos los elementos HTML. Por ejemplo, \<p>Esto es un párrafo.\</p>.
+Es recomendable especificar el texto alternativo y las dimensiones (ancho y alto) de las imágenes. Esto mejora la accesibilidad del contenido. Por ejemplo: \<img src="abc.img" alt="nombre de la imagen" style="width:128px;height:128px"> <br>
+
+Gherkin: Es un lenguaje específico de dominio diseñado para resolver un problema específico: mejorar la comunicación entre los equipos de negocio y técnicos cuando se trabaja con Desarrollo Guiado por Comportamiento (BBD, por sus siglas en inglés). Para promover buenas prácticas, se utilizan saltos de línea para organizar mejor los diferentes tipos de escenarios y distinguirlos de manera más efectiva. Además, se utilizan las palabras clave “Given”, “When”, “Then” y “And” para estructurar los escenarios.
 
 ### 5.1.4. Software Deployment Configuration.
 
 Nuestro repositorio en Github<br>
-<img src="../../assets/repositorio_1.png"><br>
+<img src="../../assets/Repositorio_1.png"><br>
 Nuestras ramas:<br>
-<img src="../../assets/repositorio_2.png"><br>
-Dentro de develop y dentro de la carpeta docs se encuentra nuestro proyecto separado en capítulos<br>
-<img src="../../assets/repositorio_3.png"><br>
+<img src="../../assets/Repositorio_2.png"><br>
+Para poder trabajar cada capitulo de este proyecto, vamos a entrar a la rama correspondiente, por ejemplo si queremos editar el capitulo 1 debemos entrar a la rama feature/chapter-01<br>
+<img src="../../assets/Repositorio3.png"><br>
+Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran los archivos de cada capitulo, si queremos editar el capitulo 1 debemos editar el archivo chapter-01.md
+<img src="../../assets/Repositorio_4.png"><br>
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -56,6 +63,33 @@ Dentro de develop y dentro de la carpeta docs se encuentra nuestro proyecto sepa
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 # Conclusiones
 # Bibliografía
-Banco Mundial. (2017). <em>Enhancing Urban Safety and Security: Global Report on Human Settlements 2007.</em> Recuperado de https://www.bancomundial.org<br>
-Naciones Unidas. (2019). <em>UN System-Wide Guidelines on Safer Cities and Human Settlements.</em> Recuperado de https://www.un.org
+<div align="justify">
+  <ul>
+    <li>Banco Mundial. (2017). <em>Enhancing Urban Safety and Security: Global Report on Human Settlements 2007.</em> Recuperado de https://www.bancomundial.org</li>
+    <li>Naciones Unidas. (2019). <em>UN System-Wide Guidelines on Safer Cities and Human Settlements.</em> Recuperado de https://www.un.org</li>
+  </ul>
+</div>
+
 # Anexos.
+<table>
+  <tr>
+    <td>Sección</td>
+    <td>Características del video</td>
+  </tr>
+  <tr>
+    <td>Exposición</td>
+    <td>Cantidad de videos: 1<br>
+      Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb1<br>
+      Formato: .mp4<br>
+      Duración:<br>
+      Enlace:</td>
+  </tr>
+  <tr>
+    <td>Entrevistas</td>
+    <td>Cantidad de videos: 1<br>
+      Nomenclatura:<br>
+      Formato: .mp4<br>
+      Duración:<br>
+      Enlace:</td>
+  </tr>
+</table>
