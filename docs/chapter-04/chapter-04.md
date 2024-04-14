@@ -339,6 +339,13 @@
   <img src="../../assets/LogIn_Context.png" alt="Log In Context" width="80%">
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-### 4.7.2. Class Dictionary.
+  <img src="../../assets/UML DIAGRAM.jpeg" alt="Log In Context" width="80%"> 
+
+### 4.7.2. Class Dictionary.  
+
+  <img src="../../assets/class_dictionay1.JPG" alt="Log In Context" width="80%">
+  <img src="../../assets/class_dictionary2.JPG" alt="Log In Context" width="80%">
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+  <img src="../../assets/Database Diagram.png" alt="Log In Context" width="80%">
