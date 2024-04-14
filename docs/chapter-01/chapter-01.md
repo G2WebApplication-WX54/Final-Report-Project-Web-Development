@@ -184,7 +184,8 @@
               <b>Príncipe Godoy, Johan</b><br>
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-              He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el software configuration management.
+              He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el 
+              software configuration management.
               <br><br>
               <b>Zarate Caceres, Victor Ernesto</b><br>
               Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción,
@@ -204,12 +205,16 @@
             <b>Escalante Baygorrea, Janiel Franz</b><br>
             <br><br>
             <b>Noriega Suschenko, Anatoly Andrey</b><br>
-            Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar nuestro público objetivo, las estrategias frente a nuestros competidores, las entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.
+            Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar 
+            nuestro público objetivo, las estrategias frente a nuestros competidores, las entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo 
+            de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.
             <br><br>          
             <b>Príncipe Godoy, Johan</b><br>
             <br><br>
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-            Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, user stories, impact mapping, product backlog y el software configuration management
+            Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, 
+            user stories, impact mapping, product backlog y el software configuration management. 
+            <br><br>
             <b>Zarate Caceres, Victor Ernesto</b><br>
             Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas
             que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea 
