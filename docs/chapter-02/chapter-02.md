@@ -188,7 +188,7 @@ Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJ
 ##### Entrevista 2: Carlos Leon
 Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbErExQWywb/view?usp=sharing
 <div align="justify">
-  <b>Tiempo en el video:</b>[00:00:00] - [00:00:00]<br>
+  <b>Tiempo en el video:</b>[00:00:00] - [00:00:00]<br><br>
   Resumen:<br>
   Carlos prefiere desplazarse en bicicleta o a pie, y evita el transporte público. Aunque conoce de la peligrosidad de algunas zonas de Lima, como el Callao o San Juan de Lurigancho, se siente seguro en las rutas que recorre gracias a la
   presencia de patrulleros o serenos. Carlos usa Google Maps para planificar rutas y valora la exactitud en el tiempo estimado de llegada. A la hora de elegir una ruta, valora más la eficiencia en términos de tiempo de viaje, aunque también le importa la seguridad.
@@ -202,7 +202,7 @@ Link de la entrevista: https://drive.google.com/file/d/18sr0xZYyHbrhLIALk3T-zMbE
 ##### Entrevista 3: Fatima Urbina
 Link de la entrevista: https://drive.google.com/file/d/1o9vdd_AykaHcXkD7REbj2GZR0ojRaxPp/view?usp=sharing <br>
 
-**Tiempo en el video**: [00:00:00] - [00:04:14]<br>
+**Tiempo en el video**: [00:00:00] - [00:04:14]<br><br>
 Resumen: <br> La entrevistada es Fatima Urbina, una joven de 22 años que vive en Lima. Se desplaza a su trabajo en Jesús María utilizando transporte público y a veces taxi por aplicativo o el metropolitano. Fatima está familiarizada con las aplicaciones de mapas virtuales y utiliza Moovit para planificar sus rutas.<br>
 Fatima está consciente de la delincuencia en la ciudad y no se siente completamente segura al caminar, especialmente en zonas que considera peligrosas como Comas, San Juan de Lurigancho y San Martín de Porres. Está dispuesta a compartir sus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre las zonas de peligrosidad a través de notificaciones.<br>
 En cuanto a la elección de rutas, Fatima valora más la seguridad que la eficiencia, incluso si eso significa que su viaje tome más tiempo. Estaría interesada en recibir recomendaciones de rutas seguras basadas en su ubicación.<br>
