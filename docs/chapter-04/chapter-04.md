@@ -70,12 +70,29 @@
   Para organizar la página, hemos decidido estructurar el contenido con un encabezado donde las secciones se declaren de manera clara.
   <ul>
     <li>
-      Organización Visual del Contenido (Visual Hierarchy): La información será mostrada de forma jerárquica, para resaltar la información más relevante y ayudar a los usuarios a navegar de manera 
-      eficiente.
+      Organización jerárquica (Visual Hierarchy): La información será mostrada de forma jerárquica, para resaltar la información más relevante y ayudar a los usuarios a navegar de manera eficiente. Se utilizó
+      este orden para las pantallas de log-in y los perfiles. Los títulos de los datos destacan más en comparación al resto. 
     </li>
     <li>
-      Organización Secuencial (Step-by-Step to Accomplish): Se guiará a los usuarios de manera progresiva, empezanod por lo más simple y básica para avnazar a lo más detallado. Esto garantiza que
-      los usuarios puedan completar tareas de manera intuitiva.
+      Organización Secuencial (Step-by-Step to Accomplish): Se guiará a los usuarios de manera progresiva, empezando por lo más simple y básico para avanzar a lo más detallado. Esto garantiza que los usuarios
+      puedan completar tareas de manera intuitiva. El uso del mapa de calor utiliza esta organización. Al ingresar al mapa se ve primero una vista general de la ciudad. Luego, el usuario podrá acercarse hacia
+      su propia ubicación o a una que sea de su interés. Acto seguido tendrá el acceso a la información por cada color del mapa en la zona y dará la opción de crear un nuevo reporte. Finalmente, las autoridades
+      tendrán acceso a dichos reportes que utilizaran para tomar acción. 
+    </li>
+    <li>
+      Esquemas de categorización:
+      <ul>
+        <li>Alfabético:</li>
+        Las listas desplegables tendrán la información de manera alfabética. Por ejemplo: Características de personalización, distritos o delitos a reportar.  
+        <li>Cronológico: </li>
+        La lista de reportes que veran las autoridades estará ordenada de forma cronológica. Además, será de gran valor para definir los colores del mapa de calor.
+        <li>Por tópicos:</li>
+        Distintas opciones de la plataforma estarán representadas con tarjetas e hipervínculos para ser una ayuda visual adecuada. Por ejemplo, el perfil de usuario, las opciones de contacto y la opción de
+        reporte de delitos observados.
+        <li>Según audiencia:</li>
+        Se identifica el uso diferenciado que le darán los dos segmentos objetivos al usar la plataforma. Las autoridades verán como pantalla principal el reporte de delitos reportados por los usuario, quiene 
+        tendrán acceso directo al mapa de calor.
+      </ul>
     </li>
   </ul>
 </div>
@@ -137,28 +154,20 @@
 
 ### 4.2.4. Searching Systems.
 <div align="justify">
-  PeaceApp tiene un sistema de búsqueda simple e intuitivo para ser fácil de usar por todos los usuarios. Primero, en la página principal podrán visualizar las principales funciones, como elegir un
-  destino o buscar un lugar en específico. Seguidamente, podrán observar y elegir una ruta basandose en el nivel de peligro que posea. Por último, tendrá un vínculo rápido con el sistem de marcación
-  rápida para contactar con las autoridades competentes.
+  PeaceApp sabe lo importante que es representar de forma adecuada, fácil y rápida la gran cantidad de información que se verá en la plataforma. PeaceApp tiene un sistema de búsqueda simple e intuitivo 
+  para ser fácil de usar por todos los usuarios. Primero, podrán elegir un destino o buscar un lugar en específico. Estos datos se verán de manera listada, incluyendo el tiempo de viaje y los valores
+  correspondientes al mapa de calor. Tambien se tendrá la opción de buscar con filtros por distrito, delito o intensidad en el mapa. Con ello, se podrán observar lso resultaods de manera listada, matricial
+  o representada en el mapa, respectivamente. Por último, se tendrá un apartado buscar el contacto con las autoridades competentes. Estos resultados se verán como una imagen en conjunto a los datos de
+  contacto.
 </div>
 
 ### 4.2.5. Navigation Systems.
 <div align="justify">
-  Hemos implementado una barra de navegación en la parte superior de nuestra plataforma que ofrece tres opciones principales:
-  <ul>
-    <li>
-      Inicio: Esta opción llevará al mapa de calor donde los usuarios podrán ver la peligrosidad de la situación. Tambíen tendran el acceso a la marcación rápida.
-    </li>
-    <li>
-      Sistema de denuncias: Aquí los usuarios podrán realizar la denuncia correspondiente tras ver una situación de peligro. Esta información sera de utildad para actualizar el mapa de calor y agilizar
-      el trabajo de las autoridades.
-    </li>
-    <li>
-      Historial de denuncias: Aquí los ususarios podrán realizar un seguimiento de las denuncias que presentaron.
-    </li>
-  </ul>
-  Nuestro sistema de navegación se ha diseñado para la comodidad del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea recorrer la ciudad de forma segura,
-  realizar una denuncia o realizar su seguimiento.
+  Los sistemas de navegación principales serán los menús superiores, inferiores, el sistema de búsqueda y el mapa de calor. El sistema de labeling desplazara a los usuarios a las secciones que desean visualizar
+  dentro de la página. En caso no se utilicen, el usuario verá la página a medida que desciende. La plataforma permitirá a los usuarios navegar libremente por el mapa usando su puntero o visitar las distintas 
+  interfaces de manera secuencial. Tambien se tienen los botones que, de igual manera, representan la apertura, confirmación o finalización de los registros.<br>
+  Por último, cabe mencionar que nuestro sistema de navegación se ha diseñado para la comodidad del usuario, pues Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea recorrer la 
+  ciudad de forma segura, realizar una denuncia o realizar su seguimiento.
 </div>
 
 ## 4.3. Landing Page UI Design.
