@@ -407,6 +407,10 @@ Página de edición de perfil de usuario con un diseño intuitivo y fácil de us
 ### 4.6.3. Software Architecture Components Diagrams.
   Log In Context <br>
   <img src="../../assets/LogIn_Context.png" alt="Log In Context" width="80%">
+
+  Incident Context <br>
+  <img src="../../assets/Incident_Component.png" alt="Incident Context" width="80%">
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ### 4.7.2. Class Dictionary.
