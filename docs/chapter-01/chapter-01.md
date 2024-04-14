@@ -205,7 +205,8 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
           </td>
           <td>
               TB1<br><br>
-              Colocar aqui
+              Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de 
+              diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.
           </td>
       </tr>
       <tr>
@@ -235,7 +236,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
         </td>
         <td>
             TB1<br><br>
-            colocar info  
+            Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.
         </td>
       </tr>
     </table>
