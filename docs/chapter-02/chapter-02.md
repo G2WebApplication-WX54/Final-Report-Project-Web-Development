@@ -158,7 +158,7 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 ##### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
 Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJto1vVJW-/view?usp=sharing
 <div align="justify">
-  <b>Tiempo en el video:</b><br>
+  <b>Tiempo en el video:</b>[00:00:00] - [00:07:32]<br><br>
   <b>Preguntas Personales:</b>
   <ol>
     <li>¿Cuál es su nombre?</li> Mauricio Abraham Rivo Rojas Sánchez.
