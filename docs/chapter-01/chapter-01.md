@@ -54,12 +54,10 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 30/03/2024 |Todos los integrantes del equipo| X                           | 
-
-<br><br>
+|TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
+<br>
 
 # Project Report Collaboration Insights
-
 
 # Contenido
 ## Tabla de Contenidos
@@ -158,58 +156,63 @@
 
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
-
-<br><br>
-
 # Student Outcome
-Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-
-<table>
-  <tr>
-    <td><b>Criterio específico</b></td>
-    <td><b>Acciones realizadas</b></td>
-    <td><b>Conclusiones</b></td>
-  </tr>
-  <tr>
-      <td>
-          <b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
-      </td>
-      <td>
-          TB1<br><br>
-          <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
-          <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br>          
-          <b>Príncipe Godoy, Johan</b><br><br><br>
-          <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>
-          <b>Zarate Caceres, Victor Ernesto</b><br><br>
-      </td>
-      <td>
-          TB1<br><br>
-          Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del
-          desarrollo y la solución de la problemática.
-      </td>
-  </tr>
-  <tr>
-    <td>
-        <b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b>
-    </td>
-    <td>
-        TB1<br><br>
-        <b>Escalante Baygorrea, Janiel Franz</b><br><br><br>
-        <b>Noriega Suschenko, Anatoly Andrey</b><br><br><br> 
-        <b>Príncipe Godoy, Johan</b><br><br><br>
-        <b>Rodriguez Zuluoeta, Andres Fernando</b><br><br><br>       
-        <b>Zarate Caceres, Victor Ernesto</b><br><br>
-    </td>
-    <td>
-        TB1<br><br>
-        colocar info  
-    </td>
-  </tr>
-</table>
-
-<br><br>
+<div align="justify">
+    Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.<br>    
+    En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+    <br><br>
+    <table>
+      <tr>
+        <td><b>Criterio específico</b></td>
+        <td><b>Acciones realizadas</b></td>
+        <td><b>Conclusiones</b></td>
+      </tr>
+      <tr>
+          <td>
+              <b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
+          </td>
+          <td>
+              TB1<br><br>
+              <b>Escalante Baygorrea, Janiel Franz</b><br>
+              <br><br>
+              <b>Noriega Suschenko, Anatoly Andrey</b><br>
+              <br><br>          
+              <b>Príncipe Godoy, Johan</b><br>
+              <br><br>
+              <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+              <br><br>
+              <b>Zarate Caceres, Victor Ernesto</b><br>
+              Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaraon todas las tareas encomendadas, como lo son la
+              introducción, el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.
+          </td>
+          <td>
+              TB1<br><br>
+              Colocar aqui
+          </td>
+      </tr>
+      <tr>
+        <td>
+            <b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b>
+        </td>
+        <td>
+            TB1<br><br>
+            <b>Escalante Baygorrea, Janiel Franz</b><br>
+            <br><br>
+            <b>Noriega Suschenko, Anatoly Andrey</b><br>
+            <br><br>          
+            <b>Príncipe Godoy, Johan</b><br>
+            <br><br>
+            <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+            <br><br>
+            <b>Zarate Caceres, Victor Ernesto</b><br>
+        </td>
+        <td>
+            TB1<br><br>
+            colocar info  
+        </td>
+      </tr>
+    </table>
+</div>
 
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
