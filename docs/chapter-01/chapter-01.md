@@ -176,15 +176,18 @@
               <b>Escalante Baygorrea, Janiel Franz</b><br>
               <br><br>
               <b>Noriega Suschenko, Anatoly Andrey</b><br>
-              He realizado la sección de Segmentos objetivos para identificar cuales serán nuestros principales usuarios para la plataforma, también el analisis de competidores junto con las estrategias para evaluar quienes son nuestros rivales potenciales dentro del mercado y evaluar estrategias para poder aprovechar nuestras oportunidades y fortalezas para afrontar las debilidades y amenazas. También realice la entrevista del segmento usuario para poder evaluar lo que requieren nuestros usuarios potenciales y realice los diseños tanto de los Wireframes y Mock-Ups de la Landing Page como de la Web Application y realizar un prototipo de como sera nuestra plataforma.
+              He realizado la sección de Segmentos objetivos para identificar cuales serán nuestros principales usuarios para la plataforma, también el analisis de competidores junto con las estrategias 
+              para evaluar quienes son nuestros rivales potenciales dentro del mercado y evaluar estrategias para poder aprovechar nuestras oportunidades y fortalezas para afrontar las debilidades y amenazas.
+              También realice la entrevista del segmento usuario para poder evaluar lo que requieren nuestros usuarios potenciales y realice los diseños tanto de los Wireframes y Mock-Ups de la Landing Page 
+              como de la Web Application y realizar un prototipo de como sera nuestra plataforma.
               <br><br>          
               <b>Príncipe Godoy, Johan</b><br>
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
               <br><br>
               <b>Zarate Caceres, Victor Ernesto</b><br>
-              Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaraon todas las tareas encomendadas, como lo son la
-              introducción, el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.
+              Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción,
+              el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.
           </td>
           <td>
               TB1<br><br>
@@ -206,6 +209,9 @@
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
             <br><br>
             <b>Zarate Caceres, Victor Ernesto</b><br>
+            Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas
+            que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea 
+            atractiva al usuario.
         </td>
         <td>
             TB1<br><br>
