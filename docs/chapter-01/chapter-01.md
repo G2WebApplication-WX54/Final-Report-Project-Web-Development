@@ -58,6 +58,17 @@
 <br>
 
 # Project Report Collaboration Insights
+Para el desarrollo del informe se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes| Tareas designadas|
+| :------------- |:-------------|
+|Escalante Baygorrea, Janiel Franz|Lean UX Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page|
+|Noriega Suschenko, Anatoly Andrey|Segmentos objetivo, Competidores, Analisis Competitivo, Entrevista, Landing Page UI Design, Web Application UX/UI Design, Web Application Prototyping y parte del Landing Page|
+|Príncipe Godoy, Johan|Needfinding, Ubiquitous Language, To-Be Scenario Mapping, Domain-Driven Software Architecture y parte del Landing Page|
+|Rodriguez Zuluoeta, Andres Fernando|Diseño de entrevistas, Analisis de entrevistas, Needfinding, User Personas, User Stories, Impact Mapping, Product Backlog, Software Configuration Managemente y parte del Landing Page|
+|Zarate Caceres, Victor Ernesto|Startup Profile, Solution Profile, Registor de entrevista, Style Guidelines, Information Arquitecture y parte del Landing Page|
+
+Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Development/tree/develop
 
 # Contenido
 ## Tabla de Contenidos
