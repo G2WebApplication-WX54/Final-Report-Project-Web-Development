@@ -124,6 +124,7 @@ En respuesta a las debilidades del sector, como la dependencia de la retroalimen
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+#### Segmento objetivo (Ciudadanos):
 
 - **Introducción antes de la entrevista:**
 <br>
@@ -151,6 +152,8 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 11.	¿Qué navegadores web utilizas con más frecuencia?<br>
 12.	¿Cuánto tiempo estás dispuesto a esperar que una página web se cargue antes de considerarla demasiado lenta?<br>
 13.	¿Qué dispositivos móviles utilizas para acceder a aplicaciones web (marca)?<br>
+
+#### Segmento objetivo (Ciudadanos):
 
 
 ### 2.2.2. Registro de entrevistas.
