@@ -39,25 +39,25 @@
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Aplicación que proporciona a los usuarios información en tiempo real sobre incidentes de seguridad como crímenes, accidentes y emergencias en un area local.</td>
-    <td>Aplicación que evalúa la seguridad de una ubicación especifica mediante la recopilación de datos sobre iluminación visibilidad presencia policial transporte publico y otros factores de seguridad.</td>
+    <td>Aplicación que proporciona a los usuarios información en tiempo real sobre incidentes de seguridad como crímenes, accidentes y emergencias en un área local.</td>
+    <td>Aplicación que evalúa la seguridad de una ubicación específica mediante la recopilación de datos sobre iluminación, visibilidad, presencia policial, transporte público y otros factores relevantes para la seguridad.</td>
     <td>Aplicación que proporciona mapas de calor de seguridad y herramientas de navegación para ayudar a los usuarios a moverse de manera segura por la ciudad.</td>
     <td>Aplicación de seguridad personal que ofrece funciones de seguimiento en tiempo real, alertas de seguridad y asistencia en casos de emergencia.</td>
   </tr>
   <tr>
   <td>Ventaja Competitiva</td>
   <td>Proporciona datos actualizados y colaborativos para mejorar la conciencia de seguridad en la comunidad.</td>
-    <td>Ofrece información precisa y practica para ayudar a los usuarios a tomar decisiones informadas sobre su seguridad personal.</td>
+    <td>Ofrece información precisa y práctica para ayudar a los usuarios a tomar decisiones informadas sobre su seguridad personal.</td>
     <td>Proporciona consejos de seguridad personalizados y alertas adaptadas a las necesidades individuales de los usuarios.</td>
-    <td>Ofrece herramientas practicas y utiles para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
+    <td>Ofrece herramientas prácticas y útiles para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
     </tr>
 <tr>
     <td rowspan="2">Perfil de Marketing</td>
     <td>Mercado Objetivo</td>
     <td>Ciudadanos urbanos interesados en la seguridad en tiempo real y la colaboración comunitaria.</td>
-    <td>Residentes y viajeros buscando evaluar la seguridad de areas especificas.</td>
+    <td>Residentes y viajeros buscando evaluar la seguridad de áreas específicas.</td>
     <td>Usuarios urbanos preocupados por la seguridad, buscando información y consejos personalizados.</td>
-    <td>Personas que buscan herramientas practicas para mejorar su seguridad personal.</td>
+    <td>Personas que buscan herramientas prácticas para mejorar su seguridad personal.</td>
   </tr>
   <tr>
   <td>Estrategias de Marketing</td>
@@ -71,8 +71,8 @@
     <td>Productos y Servicios</td>
     <td>- Ofrece alertas en tiempo real sobre incidentes de seguridad o delitos.<br>- Permite a los usuarios informar sobre incidentes y compartir información con otros residentes.<br>- Proporciona datos actualizados para mejorar la conciencia de seguridad en la comunidad mediante su plataforma.</td>
     <td>- Proporciona mapas detallados de seguridad.<br>- Ofrece evaluaciones de seguridad basada en la iluminación, visibilidad, etc.<br>- Aconseja a los usuarios a tomar decisiones informadas sobre su seguridad personal.</td>
-    <td>- Ofrece mapas de seguridad detallados y evaluaciones de riesgo en diversas areas.<br>- Proporciona consejos de seguridad personalizados y alertas adaptadas a las necesidades de usuario.<br>- Ofrece información especifica sobre el entorno del usuario.</td>
-    <td>- Proporciona herramientas para la seguridad personal: alertas de emergencia y seguimiento en tiempo real.<br>- Permite establecer contactos de emergencia y enviar notificaciones automáticas en situaciones desfavorables.<br>- Ofrece un enfoque practico y util para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
+    <td>- Ofrece mapas de seguridad detallados y evaluaciones de riesgo en diversas áreas.<br>- Proporciona consejos de seguridad personalizados y alertas adaptadas a las necesidades de usuario.<br>- Ofrece información específica sobre el entorno del usuario.</td>
+    <td>- Proporciona herramientas para la seguridad personal: alertas de emergencia y seguimiento en tiempo real.<br>- Permite establecer contactos de emergencia y enviar notificaciones automáticas en situaciones desfavorables.<br>- Ofrece un enfoque práctico y útil para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
   </tr>
   <tr>
   <td>Precios y Costos</td>
@@ -91,28 +91,28 @@
     <td rowspan="4">Análisis SWOT</td>
     <td>Fortalezas</td>
     <td>- Interfaz intuitiva y fácil de usar para reportar incidentes y alertas.<br>- Gran base de usuarios en areas urbanas densamente pobladas.<br>- Actualizaciones en tiempo real sobre incidentes de seguridad.</td>
-    <td>- Ofrece evaluaciones de seguridad detalladas basadas en multiples factores<br>- Interfaz amigable y facil de usar.<br>- Colaboraciones con organismos gubernamentales y organizaciones de seguridad.</td>
+    <td>- Ofrece evaluaciones de seguridad detalladas basadas en multiples factores<br>- Interfaz amigable y fácil de usar.<br>- Colaboraciones con organismos gubernamentales y organizaciones de seguridad.</td>
     <td>- Enfoque en proporcionar consejos de seguridad personalizados y alertas adaptadas a las necesidades de los usuarios.<br>- Interfaz intuitiva y fácil de usar.<br>- Potencial para crear una comprometida y activa a través de funciones de participación y colaboraciones</td>
-    <td>- Proporciona herramientas practicas para mejorar la seguridad personal.<br>- Interfaz intuitiva y facil de usar.<br>- Potencial para desarrollar asociaciones estratégicas con empresas de seguridad y proveedores de servicios de emergencia para mejorar la eficacia y la cobertura de la aplicación.</td>
+    <td>- Proporciona herramientas prácticas para mejorar la seguridad personal.<br>- Interfaz intuitiva y facil de usar.<br>- Potencial para desarrollar asociaciones estratégicas con empresas de seguridad y proveedores de servicios de emergencia para mejorar la eficacia y la cobertura de la aplicación.</td>
   </tr>
   <tr>
   <td>Debilidades</td>
   <td>- Dependencia de la participación activa de la comunidad para reportar incidentes.<br>- Posible vulnerabilidad a la propagación de información errónea o falsa.<br>- Competencia creciente de otras aplicaciones de seguridad ciudadana.</td>
-    <td>- Dependencia de la retroalimentación de los usuarios para recopilar datos de seguridad.<br>- Posible falta de precision en evaluaciones de seguridad.<br>- Competencia creciente de otras aplicaciones y servicios que ofrecen información similar sobre seguridad urbana.</td>
+    <td>- Dependencia de la retroalimentación de los usuarios para recopilar datos de seguridad.<br>- Posible falta de precisión en evaluaciones de seguridad.<br>- Competencia creciente de otras aplicaciones y servicios que ofrecen información similar sobre seguridad urbana.</td>
     <td>- Dependencia activa de los usuarios para mantener actualizada la información sobre seguridad.<br>- Posible falta de fiabilidad en la información proporcionada por usuarios individuales.<br>- Competencia de otras aplicaciones y servicios que ofrecen consejos de seguridad y alertas personalizadas.</td>
-    <td>- Dependencia de la participación activa de los usuarios para reportar incidentes.<br>- Posible falta de confiabilidad en la precision de las alertas de seguridad.<br>- Competencia de otras aplicaciones y dispositivos de seguridad personal que ofrecen características similares.</td>
+    <td>- Dependencia de la participación activa de los usuarios para reportar incidentes.<br>- Posible falta de confiabilidad en la precisión de las alertas de seguridad.<br>- Competencia de otras aplicaciones y dispositivos de seguridad personal que ofrecen características similares.</td>
     </tr>
 <td>Oportunidades</td>
-  <td>- Expansion de nuevas ciudades y regiones.<br>- Colaboraciones con agencias gubernamentales y organismos de seguridad.<br>- Incorporación de nuevas funciones como servicios de seguridad personalizada para usuarios premium.</td>
-    <td>- Expansion a nuevas ciudades y países.<br>- Desarrollo de asociaciones estratégicas con empresas de transporte y servicios publicos.<br>- Incorporation de nuevas funciones como alertas de seguridad en tiempo real para usuarios premium.</td>
-    <td>-  Expansion a nuevas ciudades y regiones.<br>- Desarrollo de asociaciones con empresas de seguridad privada o proveedores de servicios de emergencia.<br>- Incorporacion de nuevas funciones como asistencia en tiempo real o acompañamiento para usuarios premium.</td>
-    <td>- Expansion a nuevas regiones y mercados.<br>- Desarrollo de características innovadoras como integración con dispositivos wearables o servicios de asistencia personalizada.<br>- Incorporaciones de planes premium con funciones avanzadas como monitoreo de seguridad las 24 horas o servicios de asesoramiento de seguridad personal.</td>
+  <td>- Expansión de nuevas ciudades y regiones.<br>- Colaboraciones con agencias gubernamentales y organismos de seguridad.<br>- Incorporación de nuevas funciones como servicios de seguridad personalizada para usuarios premium.</td>
+    <td>- Expansión a nuevas ciudades y países.<br>- Desarrollo de asociaciones estratégicas con empresas de transporte y servicios publicos.<br>- Incorporación de nuevas funciones como alertas de seguridad en tiempo real para usuarios premium.</td>
+    <td>-  Expansión a nuevas ciudades y regiones.<br>- Desarrollo de asociaciones con empresas de seguridad privada o proveedores de servicios de emergencia.<br>- Incorporación de nuevas funciones como asistencia en tiempo real o acompañamiento para usuarios premium.</td>
+    <td>- Expansión a nuevas regiones y mercados.<br>- Desarrollo de características innovadoras como integración con dispositivos wearables o servicios de asistencia personalizada.<br>- Incorporaciones de planes premium con funciones avanzadas como monitoreo de seguridad las 24 horas o servicios de asesoramiento de seguridad personal.</td>
     </tr>
 <td>Amenazas</td>
   <td>- Cambios en la legislación de privacidad de datos que pueda afectar a la recopilación de la información del usuario.<br>- Riesgo de incidentes de seguridad cibernética que comprometan con la integridad y la confianza.<br>- Posible perdida de confianza de los usuarios debido a la incapacidad de la aplicación para prevenir o responder de manera inmediata.</td>
-    <td>- Riesgo de perdida de confianza de los usuarios debido a la inclusion de datos incorrectos o sesgados.<br>- Posible resistencia por parte de las autoridades locales o empresas afectadas por las evaluaciones de seguridad negativas.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan distorsionar la percepción de la seguridad</td>
+    <td>- Riesgo de perdida de confianza de los usuarios debido a la inclusión de datos incorrectos o sesgados.<br>- Posible resistencia por parte de las autoridades locales o empresas afectadas por las evaluaciones de seguridad negativas.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan distorsionar la percepción de la seguridad</td>
     <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicacion.<br>- Posible exposición a riesgos legales relacionados con la privacidad de datos y la responsabilidad por la seguridad de los usuarios.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan difundir información falsa o engañosa.</td>
-    <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicación para responder eficazmente a emergencias.<br>- Posible exposición a riesgos legales relacionados con la privacidad de los datos.<br>- Vulnerabilidad a la competencia agresiva de otras empresas que ofrecen soluciones de seguridad personal mas establecidas o con mayores recursos financieros.</tr>
+    <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicación para responder eficazmente a emergencias.<br>- Posible exposición a riesgos legales relacionados con la privacidad de los datos.<br>- Vulnerabilidad a la competencia agresiva de otras empresas que ofrecen soluciones de seguridad personal más establecidas o con mayores recursos financieros.</tr>
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
@@ -159,27 +159,7 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 Link de la entrevista: https://drive.google.com/file/d/1LjCuaaHAcdPI1eiptEv3AuIJto1vVJW-/view?usp=sharing
 <div align="justify">
   <b>Tiempo en el video:</b>[00:00:00] - [00:07:32]<br><br>
-  <b>Preguntas Personales:</b>
-  <ol>
-    <li>¿Cuál es su nombre?</li> Mauricio Abraham Rivo Rojas Sánchez.
-    <li>¿Cuántos años tiene?</li> 18 años.
-    <li>¿Qué destinos frecuenta y cómo se transporta a estos?</li>Suele frecuentar por San Isidro (Lugar de estudio), San Miguel, Pueblo Libre, Jesús María y usualmente se transporta por medio de auto o en bus.
-    <li>¿Cómo se siente con respecto a la delincuencia al paso?</li>Se siente muy incómodo, asustado y preocupado respecto a la delincuencia en el país. Es consciente de que cada vez más la delincuencia en el Perú aumenta.
-    <li>¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?</li>Frecuentemente usa aplicaciones como Google Maps o Waze en el momento en el que necesita ubicarse, o transportarse más fácil.
-  </ol>
-  <b>Preguntas principales:</b>
-  <ol>
-    <li>¿Cómo te desplazas habitualmente por la ciudad?</li>Generalmente usa el auto para movilizarse por la ciudad, ya que, el bus solo lo usa cuando requiere ir a su universidad y en algunas ocasiones caminando.
-    <li>¿Conoces que zonas de Lima son las más peligrosas?</li>Considera que entre las zonas más peligrosas estan San Juan de Lurigancho, Comas y en zonas más alejadas, pero también menciona que la delincuencia esta incrementando más en zonas como Miraflores, Pueblo Libre, San Isidro, etc.
-    <li>¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?</li>Sí ha tenido preocupaciones específicamente en su zona, y también tiene amigos que presentan la misma situación.
-    <li>¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?</li>En la mayoría de casos usa Waze cuando va caminando o cuando se moviliza en el auto.
-    <li>¿Qué características valoras más en un servicio de planificación de rutas?</li>Valora mucho que el camino que le indiquen sea óptimo para que pueda llegar fácilmente a su punto de destino y que la ruta sea lo más segura posible.
-    <li>¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?</li>Esta totalmente dispuesto a compartir sus experiencias para actualizar un mapa de calor para obtener mejores rutas.
-    <li>¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?</li>Le gustaría recibir estas notificaciones en tiempo real al momento de movilizarse en la zona en la que se encuentra.
-    <li>¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?</li>Le gustaría compartir la frecuencia en la que se reportan los casos en las zonas más peligrosas.
-    <li>¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?</li>Le gustaría que al momento de estar en cierta ubicación pueda recibir recomendaciones para ayudarlo en la toma de desiciones
-    <li>¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?</li>El valora mucho más la seguridad que el tiempo de viaje especialmente en las zonas donde hayan mucha delincuencia.
-  </ol>
+  
   Resumen: <br> En la entrevista realizada a Mauricio Abraham Rivo Rojas Sánchez, un joven de 18 años residente de Lima, se destaca su preocupación significativa por la delincuencia en la ciudad. Mauricio utiliza principalmente el auto para sus desplazamientos diarios, aunque ocasionalmente utiliza el bus o camina, especialmente cuando se dirige a su lugar de estudio en San Isidro. Reconoce áreas como San Juan de Lurigancho y Comas entre las más peligrosas, aunque nota un incremento de la delincuencia en zonas tradicionalmente consideradas seguras como Miraflores y San Isidro. Utiliza aplicaciones como Waze para planificar sus rutas, valorando especialmente aquellas que le ofrecen seguridad y eficiencia. Está dispuesto a compartir sus experiencias y recibir actualizaciones en tiempo real para mejorar la seguridad en sus rutas, demostrando un alto grado de compromiso con la mejora de la situación de seguridad en su comunidad.<br>
 </div>
 
