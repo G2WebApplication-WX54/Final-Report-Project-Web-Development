@@ -363,10 +363,10 @@ peligro.
   Nuestros usuarios utilizarían la aplicación cuando tengan que pasar por lugares que no conocen o deseen reportar un incidente para que otros ciudadanos tengan cuidado.
   Por otro lado, las entidades podrán recopilar información de los ciudadanos y esto les facilitará tomar acciones para combatir la criminalidad en ciertas areas.
 
-+ Qué características son importantes?  
-  sea una aplicación sencilla de usar para los usuarios y que las información se accesible de una manera sencilla.
++ ¿Qué características son importantes?  
+  Sera una aplicación sencilla de usar para los usuarios y que las información se accesible de una manera sencilla.
 
-+ Cómo debe verse nuestro producto y comportarse?  
++ ¿Cómo debe verse nuestro producto y comportarse?  
   Nuestra app debe tener una buena selección de colores para que sea agradable a la vista. Además el registro debe ser fácil para todos los usuarios.
 
 **User benefits**
