@@ -1,6 +1,5 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
-
 <table>
   <tr>
     <td colspan="3">Citizen<br>Link: https://citizen.com/</td>
@@ -124,7 +123,6 @@ En respuesta a las debilidades del sector, como la dependencia de la retroalimen
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
-
 - **Introducción antes de la entrevista:**
 <br>
 Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entrevista. Nuestro objetivo es recopilar información de nuestros potenciales usuarios, para el desarrollo de un proyecto que consiste en un servicio que ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. Además de que los usuarios tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima que serán actualizadas en base a reportes de los usuarios de la aplicación. <br>
@@ -262,31 +260,29 @@ Con el objetivo de asegurar un entendimiento detallado y completo de los segment
 <img src="/assets/UserJourneyMap_UP2.png" alt="User Journey Map User Persona 2" width="80%">
 
 ### 2.3.4. Empathy Mapping.
-
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
-
 <img src="/assets/Empathy_map_UP1.png" alt="Empathy Map User Persona 1" width="80%">
 
 **Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
-
 <img src="/assets/Empathy_map_UP2.png" alt="Empathy Map User Persona 2" width="80%">
 
 ### 2.3.5. As-is Scenario Mapping.
-
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
-
 <img src="/assets/As-Is_Map_UP1.png" alt="As-Is Map User Persona 1" width="80%">
 
 **Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
-
 <img src="/assets/As-Is_Map_UP2.png" alt="As-Is Map User Persona 2" width="80%">
 
 ## 2.4. Ubiquitous Language.
-**Market (Mercado):** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.   
-**Heat Map (Mapa de Calor):** Es una representación gráfica de datos donde los valores se representan mediante colores.
-**Route Monitoring (Monitoreo de Trayecto):** Supervisión continua del recorrido de una persona mediante una aplicación para garantizar su seguridad.
-**Quick Dial System (Sistema de Marcación Rápida):** Funcionalidad que permite a los usuarios contactar servicios de emergencia con sólo pulsar un botón.
-**Starting Location (Ubicación de Partida):** Punto inicial desde donde comienza el recorrido o viaje de un usuario.
-**Geolocation (Geolocalización):** Tecnología que utiliza datos de GPS o internet para determinar la ubicación exacta de un dispositivo.
-**Tracking Features (Funciones de Seguimiento):** Herramientas que permiten observar y registrar la ubicación o actividad de una persona o objeto en tiempo real.
-**Hyperlocalization (Hiperlocalización):** Técnica avanzada de localización que ofrece información extremadamente precisa y detallada de un área geográfica muy reducida.
+<div align="justify">
+  <ul>
+    <li><b>Geolocation (Geolocalización): </b>Tecnología que utiliza datos de GPS o internet para determinar la ubicación exacta de un dispositivo.</li>
+    <li><b>Heat Map (Mapa de Calor): </b>Es una representación gráfica de datos donde los valores se representan mediante colores.</li>
+    <li><b>Hyperlocalization (Hiperlocalización): </b>Técnica avanzada de localización que ofrece información extremadamente precisa y detallada de un área geográfica muy reducida.</li>
+    <li><b>Market (Mercado): </b>Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.</li>
+    <li><b>Quick Dial System (Sistema de Marcación Rápida): </b>Funcionalidad que permite a los usuarios contactar servicios de emergencia con sólo pulsar un botón.</li>
+    <li><b>Route Monitoring (Monitoreo de Trayecto): </b>Supervisión continua del recorrido de una persona mediante una aplicación para garantizar su seguridad.</li>
+    <li><b>Starting Location (Ubicación de Partida): </b>Punto inicial desde donde comienza el recorrido o viaje de un usuario.</li>
+    <li><b>Tracking Features (Funciones de Seguimiento): </b>Herramientas que permiten observar y registrar la ubicación o actividad de una persona o objeto en tiempo real.</li>
+  </ul>
+</div> 
