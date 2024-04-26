@@ -194,14 +194,21 @@ Fatima utiliza los navegadores web Safari y Google Chrome y considera que una p�
 ##### Entrevista 2:
 ##### Entrevista 3:
 ### 2.2.3. Análisis de entrevistas.
-#### Segmento 1: <br>
-Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, todos usuarios ubicados en Lima, revelan una preocupación común por la seguridad personal en la ciudad y un uso frecuente de la tecnología para la movilidad diaria. Todos ellos están dispuestos a compartir sus experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real, lo que indica que valoran la seguridad en la planificación de rutas. Esta disposición sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de una aplicación propuesta que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Además, Fatima valora más la seguridad que la eficiencia en la elección de rutas, incluso si eso significa que su viaje tome más tiempo, y accede a las aplicaciones web a través de su iPhone utilizando los navegadores Safari o Google Chrome. Estos hallazgos resaltan la necesidad de una solución tecnológica que proporcione rutas no solo eficientes, sino también seguras, y revelan una oportunidad de mercado para nuestra aplicación web.
+#### Segmento 1:
+<div align="justify">
+  Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, todos usuarios ubicados en Lima, revelan una preocupación común por la seguridad personal en la ciudad y un uso frecuente de la tecnología para la movilidad diaria. Todos ellos están dispuestos a compartir sus experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real, lo que indica que valoran la seguridad en la planificación de rutas. Esta disposición sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de una aplicación propuesta que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Además, Fatima valora más la seguridad que la eficiencia en la elección de rutas, incluso si eso significa que su viaje tome más tiempo, y accede a las aplicaciones web a través de su iPhone utilizando los navegadores Safari o Google Chrome. Estos hallazgos resaltan la necesidad de una solución tecnológica que proporcione rutas no solo eficientes, sino también seguras, y revelan una oportunidad de mercado para nuestra aplicación web.
+</div>
+
 #### Segmento 2:
+<div align="justify">
+  
+</div>
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-
-Con el objetivo de asegurar un entendimiento detallado y completo de los segmentos que hemos identificado como fundamentales para nuestro proyecto, hemos implementado un proceso meticuloso y riguroso de creación de User Personas. Este proceso nos ha permitido desarrollar un User Persona específico y único para cada uno de estos segmentos objetivos, lo que nos facilita una visión más clara y precisa de nuestros usuarios objetivo. De esta manera, podemos diseñar y ofrecer soluciones que se alineen de manera óptima con sus necesidades y expectativas.
+<div align="justify">
+Con el objetivo de asegurar un entendimiento detallado y completo de los segmentos que hemos identificado como fundamentales para nuestro proyecto, hemos implementado un proceso meticuloso y riguroso de creación de User Personas. Este proceso nos ha permitido desarrollar un User Persona específico y único para cada uno de estos segmentos objetivos, lo que nos facilita una visión más clara y precisa de nuestros usuarios objetivo. De esta manera, podemos diseñar y ofrecer soluciones que se alineen de manera óptima con sus necesidades y expectativas.<br>
+</div>
 
 - **UserPersona 1**
 <br>
@@ -241,16 +248,17 @@ Con el objetivo de asegurar un entendimiento detallado y completo de los segment
 | Capacitar al personal en técnicas de seguridad y prevención | Alta       | Media     |
 | Implementar sistemas de videovigilancia y tecnologías       | Alta       | Alta      |
 
-
-
 ### 2.3.3. User Journey Mapping.
+<div align="justify">
+  La siguiente sección ilustra el end-to-end journey de PeaceApp para los segmentos objetivos de Ciudanos preocupados y Entidades Gubernamentales. El User Journey Mapping empieza desde el momento 
+  en el que los usuarios conocen a la aplicación, pasando por un proceso de decisión y adaptación a su uso. En este punto, se hace el registro en la aplicación, se registra el uso continuo y la 
+  posibilidad de dejar de usalo ante un descontento o haber logrado su objetivo inicial.
+</div>
 
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
-
 <img src="/assets/UserJourneyMap_UP1.png" alt="User Journey Map User Persona 1" width="80%">
 
 **Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
-
 <img src="/assets/UserJourneyMap_UP2.png" alt="User Journey Map User Persona 2" width="80%">
 
 ### 2.3.4. Empathy Mapping.
