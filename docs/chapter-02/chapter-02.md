@@ -124,8 +124,6 @@ En respuesta a las debilidades del sector, como la dependencia de la retroalimen
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
-#### Segmento objetivo (Ciudadanos):
-
 - **Introducción antes de la entrevista:**
 <br>
 Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entrevista. Nuestro objetivo es recopilar información de nuestros potenciales usuarios, para el desarrollo de un proyecto que consiste en un servicio que ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. Además de que los usuarios tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima que serán actualizadas en base a reportes de los usuarios de la aplicación. <br>
@@ -137,6 +135,7 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 3.	¿Qué destinos frecuenta y cómo se transporta a estos?<br>
 4.	¿Cómo se siente con respecto a la delincuencia al paso?<br>
 5.	¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?<br><br>
+#### Segmento objetivo (Ciudadanos):
 
 - **Preguntas principales:**
 1. ¿Cómo te desplazas habitualmente por la ciudad?<br>
@@ -153,27 +152,26 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 12.	¿Cuánto tiempo estás dispuesto a esperar que una página web se cargue antes de considerarla demasiado lenta?<br>
 13.	¿Qué dispositivos móviles utilizas para acceder a aplicaciones web (marca)?<br>
 
-
-
 #### Segmento objetivo (Gerentes de entidades publicas o empresas):
 
 - **Preguntas generales:**
-    - ¿Cuál es tu nombre? 
-    - ¿Qué edad tienes? 
-    - ¿Dónde vives actualmente? 
+    - ¿Cuál es tu nombre?
+    - ¿Qué edad tienes?
+    - ¿Dónde vives actualmente?
     - ¿A qué te dedicas?
 - **Preguntas objetivas:**
-  - ¿Cuál es tu cargo o función en el área de seguridad de la entidad?
-  - ¿Con qué frecuencia utilizas aplicaciones o herramientas basadas en mapas para tu trabajo?
-  - ¿Qué sistema operativo utilizas principalmente en tu computadora de trabajo?
-  - ¿Qué navegador web prefieres utilizar en tu computadora?
-  - ¿Qué dispositivo móvil sueles utilizar para acceder a aplicaciones relacionadas con tu trabajo?
-  - ¿Qué navegador móvil prefieres para acceder a herramientas o aplicaciones relacionadas con la seguridad?
-  
+    - ¿Cuál es tu cargo o función en el área de seguridad de la entidad?
+    - ¿Con qué frecuencia utilizas aplicaciones o herramientas basadas en mapas para tu trabajo?
+    - ¿Qué sistema operativo utilizas principalmente en tu computadora de trabajo?
+    - ¿Qué navegador web prefieres utilizar en tu computadora?
+    - ¿Qué dispositivo móvil sueles utilizar para acceder a aplicaciones relacionadas con tu trabajo?
+    - ¿Qué navegador móvil prefieres para acceder a herramientas o aplicaciones relacionadas con la seguridad?
+
 - **Preguntas subjetivas:**
     - ¿Cómo describirías la importancia del monitoreo de la delincuencia en tu área de responsabilidad?
-     - ¿Cuál es tu mayor desafío al utilizar herramientas tecnológicas para mejorar la seguridad en tu entorno?
-     - ¿Cuál es tu opinión sobre la integración de la tecnología en el campo de la seguridad ciudadana?
+    - ¿Cuál es tu mayor desafío al utilizar herramientas tecnológicas para mejorar la seguridad en tu entorno?
+    - ¿Cuál es tu opinión sobre la integración de la tecnología en el campo de la seguridad ciudadana?
+
 
 ### 2.2.2. Registro de entrevistas.
 #### Segmento 1: 
@@ -227,8 +225,11 @@ El entrevistado es el coordinador de seguridad ciudadana en la Municipalidad de 
 <img src="../../assets/interview-5.jpeg" alt="Entrevista 5">
 ##### Entrevista 3:
 ### 2.2.3. Análisis de entrevistas.
-#### Segmento 1: <br>
-Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, todos usuarios ubicados en Lima, revelan una preocupación común por la seguridad personal en la ciudad y un uso frecuente de la tecnología para la movilidad diaria. Todos ellos están dispuestos a compartir sus experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real, lo que indica que valoran la seguridad en la planificación de rutas. Esta disposición sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de una aplicación propuesta que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Además, Fatima valora más la seguridad que la eficiencia en la elección de rutas, incluso si eso significa que su viaje tome más tiempo, y accede a las aplicaciones web a través de su iPhone utilizando los navegadores Safari o Google Chrome. Estos hallazgos resaltan la necesidad de una solución tecnológica que proporcione rutas no solo eficientes, sino también seguras, y revelan una oportunidad de mercado para nuestra aplicación web.
+#### Segmento 1:
+<div align="justify">
+  Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, todos usuarios ubicados en Lima, revelan una preocupación común por la seguridad personal en la ciudad y un uso frecuente de la tecnología para la movilidad diaria. Todos ellos están dispuestos a compartir sus experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real, lo que indica que valoran la seguridad en la planificación de rutas. Esta disposición sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de una aplicación propuesta que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Además, Fatima valora más la seguridad que la eficiencia en la elección de rutas, incluso si eso significa que su viaje tome más tiempo, y accede a las aplicaciones web a través de su iPhone utilizando los navegadores Safari o Google Chrome. Estos hallazgos resaltan la necesidad de una solución tecnológica que proporcione rutas no solo eficientes, sino también seguras, y revelan una oportunidad de mercado para nuestra aplicación web.
+</div>
+
 #### Segmento 2:
 En las entrevistas se evidencian características objetivas y subjetivas comunes que son fundamentales para comprender el perfil de estos profesionales en el campo de la seguridad.
 
@@ -281,6 +282,11 @@ Con el objetivo de asegurar un entendimiento detallado y completo de los segment
 
 
 ### 2.3.3. User Journey Mapping.
+<div align="justify">
+  La siguiente sección ilustra el end-to-end journey de PeaceApp para los segmentos objetivos de Ciudanos preocupados y Entidades Gubernamentales. El User Journey Mapping empieza desde el momento 
+  en el que los usuarios conocen a la aplicación, pasando por un proceso de decisión y adaptación a su uso. En este punto, se hace el registro en la aplicación, se registra el uso continuo y la 
+  posibilidad de dejar de usalo ante un descontento o haber logrado su objetivo inicial.
+</div>
 
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
 
