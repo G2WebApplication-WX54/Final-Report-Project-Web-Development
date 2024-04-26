@@ -317,11 +317,11 @@ la planificación urbana en términos de seguridad. Ambos segmentos coinciden en
 <img src="/assets/As-Is_Map_UP2.png" alt="As-Is Map User Persona 2" width="80%">
 
 ## 2.4. Ubiquitous Language.
-**Market (Mercado):** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.   
-**Heat Map (Mapa de Calor):** Es una representación gráfica de datos donde los valores se representan mediante colores.
-**Route Monitoring (Monitoreo de Trayecto):** Supervisión continua del recorrido de una persona mediante una aplicación para garantizar su seguridad.
-**Quick Dial System (Sistema de Marcación Rápida):** Funcionalidad que permite a los usuarios contactar servicios de emergencia con sólo pulsar un botón.
-**Starting Location (Ubicación de Partida):** Punto inicial desde donde comienza el recorrido o viaje de un usuario.
-**Geolocation (Geolocalización):** Tecnología que utiliza datos de GPS o internet para determinar la ubicación exacta de un dispositivo.
-**Tracking Features (Funciones de Seguimiento):** Herramientas que permiten observar y registrar la ubicación o actividad de una persona o objeto en tiempo real.
+**Market (Mercado):** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.<br>  
+**Heat Map (Mapa de Calor):** Es una representación gráfica de datos donde los valores se representan mediante colores.<br>  
+**Route Monitoring (Monitoreo de Trayecto):** Supervisión continua del recorrido de una persona mediante una aplicación para garantizar su seguridad.<br>  
+**Quick Dial System (Sistema de Marcación Rápida):** Funcionalidad que permite a los usuarios contactar servicios de emergencia con sólo pulsar un botón.<br>  
+**Starting Location (Ubicación de Partida):** Punto inicial desde donde comienza el recorrido o viaje de un usuario.<br>  
+**Geolocation (Geolocalización):** Tecnología que utiliza datos de GPS o internet para determinar la ubicación exacta de un dispositivo.<br>  
+**Tracking Features (Funciones de Seguimiento):** Herramientas que permiten observar y registrar la ubicación o actividad de una persona o objeto en tiempo real.<br>  
 **Hyperlocalization (Hiperlocalización):** Técnica avanzada de localización que ofrece información extremadamente precisa y detallada de un área geográfica muy reducida.
