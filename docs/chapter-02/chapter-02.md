@@ -248,34 +248,38 @@ Con el objetivo de asegurar un entendimiento detallado y completo de los segment
 
 ### 2.3.2. User Task Matrix.
 
-**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+<div style='text-align: justify;'>
+El User Task Matrix es una herramienta que ayuda a identificar y priorizar las tareas que los diferentes segmentos de usuarios realizan para alcanzar sus objetivos. 
+En este caso, el User Task Matrix se centra en dos segmentos: Ciudadanos preocupados por su seguridad personal en espacios públicos y Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana. 
+La matriz presenta 15 tareas que son importantes para ambos segmentos, con una clasificación de frecuencia y importancia para cada uno. La matriz ayuda a comprender las necesidades y prioridades de cada segmento y a identificar cualquier similitud o diferencia en sus tareas. 
+</div>
 
-| Tarea                                                  | Frecuencia | Severidad |
-|--------------------------------------------------------|------------|-----------| 
-| Reportar actividades sospechosas a las autoridades     | Alta       | Alta      |
-| Utilizar aplicaciones de seguridad ciudadana           | Media      | Alta      |
-| Mantenerse informado sobre índices de criminalidad     | Alta       | Media     |
-| Evitar áreas consideradas peligrosas                   | Alta       | Alta      |
-| Instalar sistemas de seguridad en el hogar             | Media      | Alta      |
-| Participar en grupos de vigilancia vecinal             | Media      | Alta      |
-| Realizar cursos de prevención y seguridad personal     | Baja       | Media     |
-| Apoyar programas de mejora para la seguridad ciudadana | Baja       | Media     |
+|                                                                        | Segmento 1             | Segmento 2             |
+|------------------------------------------------------------------------|------------------------|------------------------|
+| Task                                                                   | Frecuencia - Severidad | Frecuencia - Severidad |
+| Identificar zonas inseguras                                            | Alta - Alta            | Alta - Alta            |
+| Denunciar delitos                                                      | Alta - Alta            | Alta - Alta            |
+| Buscar información sobre delitos                                       | Alta - Alta            | Alta - Alta            |
+| Recibir alertas de emergencia                                          | Alta - Alta            | Alta - Alta            |
+| Planificar rutas seguras                                               | Alta - Alta            | Alta - Alta            |
+| Acceder a recursos de seguridad                                        | Alta - Alta            | Alta - Alta            |
+| Analizar datos de delitos                                              | Alta - Alta            | Alta - Alta            |
+| Desarrollar políticas de seguridad                                     | Baja - Alta            | Alta - Alta            |
+| Implementar medidas de seguridad                                       | Baja - Alta            | Alta - Alta            |
+| Monitorear zonas de riesgo                                             | Baja - Alta            | Alta - Alta            |
+| Asistir a capacitaciones de seguridad                                  | Media - Alta           | Alta - Alta            |
+| Participar en programas de prevención de delitos                       | Media - Alta           | Alta - Alta            |
+| Colaborar con la comunidad en temas de seguridad                       | Media - Alta           | Alta - Alta            |
+| Evaluar la eficacia de las medidas de seguridad                        | Baja - Alta            | Alta - Alta            |
+| Mejorar continuamente la planificación urbana en términos de seguridad | Baja - Alta            | Alta - Alta            |
 
-
-**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
-
-| Tarea                                                       | Frecuencia | Severidad |
-|-------------------------------------------------------------|------------|-----------|
-| Monitorear índices de criminalidad y delitos                | Alta       | Alta      |
-| Desarrollar políticas y programas de seguridad pública      | Alta       | Alta      |
-| Implementar medidas de prevención del delito                | Alta       | Alta      |
-| Realizar patrullajes y vigilancia en áreas de riesgo        | Alta       | Media     |
-| Mejorar la iluminación y el diseño urbano en zonas críticas | Alta       | Alta      |
-| Colaborar con otras entidades y la comunidad                | Alta       | Alta      |
-| Capacitar al personal en técnicas de seguridad y prevención | Alta       | Media     |
-| Implementar sistemas de videovigilancia y tecnologías       | Alta       | Alta      |
-
-
+<div style='text-align: justify;'>
+En el User Task Matrix, se identifican 15 tareas que los usuarios realizan con diferentes frecuencias e importancias, independientemente de la solución de software. 
+Las tareas más frecuentes e importantes para ambos segmentos son identificar zonas inseguras, denunciar delitos, buscar información sobre delitos, recibir alertas de emergencia y planificar rutas seguras. 
+El segmento de Ciudadanos preocupados por su seguridad personal en espacios públicos también da importancia a compartir su ubicación con contactos cercanos y enviar mensajes de emergencia, 
+mientras que el segmento de Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana destaca la importancia de analizar datos de delitos, desarrollar políticas de seguridad, implementar medidas de seguridad, monitorear zonas de riesgo y mejorar continuamente 
+la planificación urbana en términos de seguridad. Ambos segmentos coinciden en la importancia de recibir alertas de emergencia y planificar rutas seguras.
+</div>
 
 ### 2.3.3. User Journey Mapping.
 <div align="justify">
