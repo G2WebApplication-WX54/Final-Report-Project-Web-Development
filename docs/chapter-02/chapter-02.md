@@ -153,8 +153,27 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 12.	¿Cuánto tiempo estás dispuesto a esperar que una página web se cargue antes de considerarla demasiado lenta?<br>
 13.	¿Qué dispositivos móviles utilizas para acceder a aplicaciones web (marca)?<br>
 
-#### Segmento objetivo (Ciudadanos):
 
+
+#### Segmento objetivo (Gerentes de entidades publicas o empresas):
+
+- **Preguntas generales:**
+    - ¿Cuál es tu nombre? 
+    - ¿Qué edad tienes? 
+    - ¿Dónde vives actualmente? 
+    - ¿A qué te dedicas?
+- **Preguntas objetivas:**
+  - ¿Cuál es tu cargo o función en el área de seguridad de la entidad?
+  - ¿Con qué frecuencia utilizas aplicaciones o herramientas basadas en mapas para tu trabajo?
+  - ¿Qué sistema operativo utilizas principalmente en tu computadora de trabajo?
+  - ¿Qué navegador web prefieres utilizar en tu computadora?
+  - ¿Qué dispositivo móvil sueles utilizar para acceder a aplicaciones relacionadas con tu trabajo?
+  - ¿Qué navegador móvil prefieres para acceder a herramientas o aplicaciones relacionadas con la seguridad?
+  
+- **Preguntas subjetivas:**
+    - ¿Cómo describirías la importancia del monitoreo de la delincuencia en tu área de responsabilidad?
+     - ¿Cuál es tu mayor desafío al utilizar herramientas tecnológicas para mejorar la seguridad en tu entorno?
+     - ¿Cuál es tu opinión sobre la integración de la tecnología en el campo de la seguridad ciudadana?
 
 ### 2.2.2. Registro de entrevistas.
 #### Segmento 1: 
@@ -193,14 +212,29 @@ Fatima utiliza los navegadores web Safari y Google Chrome y considera que una p�
 <img src="../../assets/Entrevista_3.png" alt="Entrevista 3">
 
 #### Segmento 2:
-##### Entrevista 1:
-##### Entrevista 2:
+##### Entrevista 1: Silvana Salazar
+Link de la entrevista: https://drive.google.com/file/d/1o9vdd_AykaHcXkD7REbj2GZR0ojRaxPp/view?usp=sharing <br>
+
+**Tiempo en el video**: [00:00:00] - [00:04:14]<br><br>
+Resumen: <br> La entrevistada es la jefa de seguridad de una empresa privada en Lima. Utiliza herramientas de mapeo casi a diario para analizar patrones de delincuencia en su zona de operación. Prefiere Windows 10 como sistema operativo en su computadora de trabajo y Google Chrome como navegador web. Para acceder a aplicaciones relacionadas con su trabajo de seguridad, utiliza un smartphone Android y prefiere Google Chrome como navegador móvil. Considera crucial el monitoreo de la delincuencia para proteger al personal, clientes y activos, y facilitar medidas preventivas y respuestas efectivas ante situaciones de riesgo. Su mayor desafío en el uso de herramientas tecnológicas es asegurar la actualización y compatibilidad de las mismas con las necesidades específicas de seguridad, además de garantizar la integridad y privacidad de los datos. Opina que la integración de la tecnología es esencial para mejorar la seguridad ciudadana, permitiendo la recopilación y análisis eficiente de datos para prevenir delitos y responder rápida y efectivamente ante emergencias.
+<img src="../../assets/cambiar foto" alt="Entrevista 4">
+##### Entrevista 2: Jorge Coras
+Link de la entrevista: https://drive.google.com/file/d/1o9vdd_AykaHcXkD7REbj2GZR0ojRaxPp/view?usp=sharing <br>
+
+**Tiempo en el video**: [00:00:00] - [00:04:14]<br><br>
+Resumen: <br>
+El entrevistado es el coordinador de seguridad ciudadana en la Municipalidad de Lima. Utiliza herramientas de mapeo diariamente para monitorear incidentes, identificar áreas de riesgo y planificar estrategias de seguridad. Prefiere Windows 10 como sistema operativo en su computadora de trabajo y Google Chrome como navegador web debido a su velocidad y compatibilidad con diversas herramientas en línea. Utiliza un smartphone Android para acceder a aplicaciones relacionadas con su trabajo y prefiere Google Chrome en su dispositivo móvil por su funcionalidad y sincronización con su cuenta. Considera que el monitoreo de la delincuencia es vital para garantizar la seguridad de los ciudadanos de Lima, permitiendo identificar tendencias delictivas, implementar medidas preventivas y responder eficazmente a emergencias. Uno de sus mayores desafíos
+<img src="../../assets/cambiar foto" alt="Entrevista 5">
 ##### Entrevista 3:
 ### 2.2.3. Análisis de entrevistas.
 #### Segmento 1: <br>
 Las entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, todos usuarios ubicados en Lima, revelan una preocupación común por la seguridad personal en la ciudad y un uso frecuente de la tecnología para la movilidad diaria. Todos ellos están dispuestos a compartir sus experiencias de seguridad para mejorar un mapa de calor de peligrosidad y recibir recomendaciones de rutas seguras en tiempo real, lo que indica que valoran la seguridad en la planificación de rutas. Esta disposición sugiere una base de usuarios comprometidos y una potencial comunidad de soporte para el desarrollo y adopción de una aplicación propuesta que integre mapas de calor de seguridad y recomendaciones de rutas personalizadas basadas en informes de usuarios y actualizaciones en tiempo real. Además, Fatima valora más la seguridad que la eficiencia en la elección de rutas, incluso si eso significa que su viaje tome más tiempo, y accede a las aplicaciones web a través de su iPhone utilizando los navegadores Safari o Google Chrome. Estos hallazgos resaltan la necesidad de una solución tecnológica que proporcione rutas no solo eficientes, sino también seguras, y revelan una oportunidad de mercado para nuestra aplicación web.
 #### Segmento 2:
+En las entrevistas se evidencian características objetivas y subjetivas comunes que son fundamentales para comprender el perfil de estos profesionales en el campo de la seguridad.
 
+En términos objetivos, ambos coordinadores ocupan roles de liderazgo en seguridad, demostrando una tendencia hacia la especialización en la gestión de la seguridad, ya sea en el ámbito público o privado. Además, utilizan herramientas de mapeo con regularidad en su trabajo diario, lo que resalta la importancia de la tecnología para la gestión de la seguridad. En cuanto a preferencias tecnológicas, ambos prefieren Windows 10 como sistema operativo en sus computadoras de trabajo y Google Chrome como navegador web, tanto en computadoras como en dispositivos móviles Android, lo que sugiere una preferencia común por la consistencia y la sincronización entre dispositivos en el entorno laboral.
+
+En cuanto a las características subjetivas, ambos coordinadores resaltan la importancia del monitoreo de la delincuencia para garantizar la seguridad de los ciudadanos. Esta preocupación compartida refleja un enfoque común en la prevención y respuesta ante situaciones de riesgo. Además, destacan la necesidad de asegurar la interoperabilidad entre las diferentes herramientas tecnológicas utilizadas y la protección de datos y privacidad de los ciudadanos como desafíos importantes en su trabajo diario.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
