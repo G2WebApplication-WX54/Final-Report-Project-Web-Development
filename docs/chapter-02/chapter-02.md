@@ -175,51 +175,95 @@ Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entr
 
 ### 2.2.2. Registro de entrevistas.
 #### Enlace de las entrevistas: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Ee-KEPn8lOdNmwOa9bFyd4EBSI_z7olPvkuzJgcn3r2WQQ?e=VBFk2G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-#### Segmento 1: 
-##### Entrevista 1: Mauricio Abraham Rivo Rojas Sánchez
+#### Segmento 1:
 <div align="justify">
-  <b>Tiempo en el video:</b> 00:00<br><br>
-  
-  Resumen: <br> En la entrevista realizada a Mauricio Abraham Rivo Rojas Sánchez, un joven de 18 años residente de Lima, se destaca su preocupación significativa por la delincuencia en la ciudad. Mauricio utiliza principalmente el auto para sus desplazamientos diarios, aunque ocasionalmente utiliza el bus o camina, especialmente cuando se dirige a su lugar de estudio en San Isidro. Reconoce áreas como San Juan de Lurigancho y Comas entre las más peligrosas, aunque nota un incremento de la delincuencia en zonas tradicionalmente consideradas seguras como Miraflores y San Isidro. Utiliza aplicaciones como Waze para planificar sus rutas, valorando especialmente aquellas que le ofrecen seguridad y eficiencia. Está dispuesto a compartir sus experiencias y recibir actualizaciones en tiempo real para mejorar la seguridad en sus rutas, demostrando un alto grado de compromiso con la mejora de la situación de seguridad en su comunidad.<br>
-</div>
-
-![Entrevista1](</assets/Entrevista1.png>)
-
-##### Entrevista 2: Carlos Leon
-<div align="justify">
-  <b>Tiempo en el video:</b> 7:32 <br><br>
-  Resumen:<br>
-  Carlos prefiere desplazarse en bicicleta o a pie, y evita el transporte público. Aunque conoce de la peligrosidad de algunas zonas de Lima, como el Callao o San Juan de Lurigancho, se siente seguro en las rutas que recorre gracias a la
-  presencia de patrulleros o serenos. Carlos usa Google Maps para planificar rutas y valora la exactitud en el tiempo estimado de llegada. A la hora de elegir una ruta, valora más la eficiencia en términos de tiempo de viaje, aunque también le importa la seguridad.
-  Menciona estar dispuesto a compartir experiencias de seguridad para mejorar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre zonas peligrosas a través de notificaciones móviles. Carlos está dispuesto a compartir información sobre las 
-  zonas más transitadas o peligrosas de la ciudad y se muestra interesado en recibir recomendaciones de rutas seguras basadas en su ubicación. 
-  <br>
-</div>
-
-![Entrevista2](</assets/Entrevista2.png>)
-
-##### Entrevista 3: Fatima Urbina
-
-**Tiempo en el video**: 12:53 <br><br>
-Resumen: <br> La entrevistada es Fatima Urbina, una joven de 22 años que vive en Lima. Se desplaza a su trabajo en Jesús María utilizando transporte público y a veces taxi por aplicativo o el metropolitano. Fatima está familiarizada con las aplicaciones de mapas virtuales y utiliza Moovit para planificar sus rutas.<br>
+<table>
+  <tr>
+    <td>Entrevista 1: </td>
+    <td>Mauricio Abraham Rivo Rojas Sánchez</td>
+  </tr>
+  <tr>
+    <td colspan="2">En la entrevista realizada a Mauricio Abraham Rivo Rojas Sánchez, un joven de 18 años residente de Lima, se destaca su preocupación significativa por la delincuencia en la ciudad. Mauricio utiliza principalmente el auto para sus desplazamientos diarios, aunque ocasionalmente utiliza el bus o camina, especialmente cuando se dirige a su lugar de estudio en San Isidro. Reconoce áreas como San Juan de Lurigancho y Comas entre las más peligrosas, aunque nota un incremento de la delincuencia en zonas tradicionalmente consideradas seguras como Miraflores y San Isidro. Utiliza aplicaciones como Waze para planificar sus rutas, valorando especialmente aquellas que le ofrecen seguridad y eficiencia. Está dispuesto a compartir sus experiencias y recibir actualizaciones en tiempo real para mejorar la seguridad en sus rutas, demostrando un alto grado de compromiso con la mejora de la situación de seguridad en su comunidad.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/assets/Entrevista1.png"></td>
+  </tr>
+  <tr>
+    <td colspan="2">Tiempo en el video: 00:00</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Entrevista 2: </td>
+    <td>Carlos Leon</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Carlos prefiere desplazarse en bicicleta o a pie, y evita el transporte público. Aunque conoce de la peligrosidad de algunas zonas de Lima, como el Callao o San Juan de Lurigancho, se siente seguro en las rutas que recorre gracias a la presencia de patrulleros o serenos. Carlos usa Google Maps para planificar rutas y valora la exactitud en el tiempo estimado de llegada. A la hora de elegir una ruta, valora más la eficiencia en términos de tiempo de viaje, aunque también le importa la seguridad. Menciona estar dispuesto a compartir experiencias de seguridad para mejorar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre zonas peligrosas a través de notificaciones móviles. Carlos está dispuesto a compartir información sobre las zonas más transitadas o peligrosas de la ciudad y se muestra interesado en recibir recomendaciones de rutas seguras basadas en su ubicación.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/assets/Entrevista2.png"></td>
+  </tr>
+  <tr>
+    <td colspan="2">Tiempo en el video: 07:32</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Entrevista 3:</td>
+    <td>Fatima Urbina</td>
+  </tr>
+  <tr>
+    <td colspan="2">La entrevistada es Fatima Urbina, una joven de 22 años que vive en Lima. Se desplaza a su trabajo en Jesús María utilizando transporte público y a veces taxi por aplicativo o el metropolitano. Fatima está familiarizada con las aplicaciones de mapas virtuales y utiliza Moovit para planificar sus rutas.<br>
 Fatima está consciente de la delincuencia en la ciudad y no se siente completamente segura al caminar, especialmente en zonas que considera peligrosas como Comas, San Juan de Lurigancho y San Martín de Porres. Está dispuesta a compartir sus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad y le gustaría recibir actualizaciones sobre las zonas de peligrosidad a través de notificaciones.<br>
 En cuanto a la elección de rutas, Fatima valora más la seguridad que la eficiencia, incluso si eso significa que su viaje tome más tiempo. Estaría interesada en recibir recomendaciones de rutas seguras basadas en su ubicación.<br>
-Fatima utiliza los navegadores web Safari y Google Chrome y considera que una página web que tarda más de 30 segundos en cargarse es demasiado lenta. Accede a las aplicaciones web a través de su iPhone.<br>
-<img src="../../assets/Entrevista_3.png" alt="Entrevista 3">
+Fatima utiliza los navegadores web Safari y Google Chrome y considera que una página web que tarda más de 30 segundos en cargarse es demasiado lenta. Accede a las aplicaciones web a través de su iPhone.<br></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/assets/Entrevista_3.png" alt="Entrevista 3"></td>
+  </tr>
+  <tr>
+    <td colspan="2">Tiempo en el video: 12:53</td>
+  </tr>
+</table>
+</div>
 
 #### Segmento 2:
-##### Entrevista 1: Silvana Salazar
+<div align="justify">
+  <table>
+    <tr>
+      <td>Entrevista 1:</td>
+      <td>Silvana Salazar</td>
+    </tr>
+    <tr>
+      <td colspan="2">La entrevistada es la jefa de seguridad de una empresa privada en Lima. Utiliza herramientas de mapeo casi a diario para analizar patrones de delincuencia en su zona de operación. Prefiere Windows 10 como sistema operativo en su computadora de trabajo y Google Chrome como navegador web. Para acceder a aplicaciones relacionadas con su trabajo de seguridad, utiliza un smartphone Android y prefiere Google Chrome como navegador móvil. Considera crucial el monitoreo de la delincuencia para proteger al personal, clientes y activos, y facilitar medidas preventivas y respuestas efectivas ante situaciones de riesgo. Su mayor desafío en el uso de herramientas tecnológicas es asegurar la actualización y compatibilidad de las mismas con las necesidades específicas de seguridad, además de garantizar la integridad y privacidad de los datos. Opina que la integración de la tecnología es esencial para mejorar la seguridad ciudadana, permitiendo la recopilación y análisis eficiente de datos para prevenir delitos y responder rápida y efectivamente ante emergencias.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="../../assets/interview-4.JPG" alt="Entrevista 4"></td>
+    </tr>
+    <tr>
+      <td colspan="2">Tiempo en el video: 17:07</td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>Entrevista 2:</td>
+      <td>Jorge Coras</td>
+    </tr>
+    <tr>
+      <td colspan="2">El entrevistado es el coordinador de seguridad ciudadana en la Municipalidad de Lima. Utiliza herramientas de mapeo diariamente para monitorear incidentes, identificar áreas de riesgo y planificar estrategias de seguridad. Prefiere Windows 10 como sistema operativo en su computadora de trabajo y Google Chrome como navegador web debido a su velocidad y compatibilidad con diversas herramientas en línea. Utiliza un smartphone Android para acceder a aplicaciones relacionadas con su trabajo y prefiere Google Chrome en su dispositivo móvil por su funcionalidad y sincronización con su cuenta. Considera que el monitoreo de la delincuencia es vital para garantizar la seguridad de los ciudadanos de Lima, permitiendo identificar tendencias delictivas, implementar medidas preventivas y responder eficazmente a emergencias. Uno de sus mayores desafíos</td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="../../assets/interview-5.JPG" alt="Entrevista 5"></td>
+    </tr>
+    <tr>
+      <td colspan="2">Tiempo en el video: 19:46</td>
+    </tr>
+  </table>
+</div>
 
-**Tiempo en el video**: 17:07<br><br>
-Resumen: <br> La entrevistada es la jefa de seguridad de una empresa privada en Lima. Utiliza herramientas de mapeo casi a diario para analizar patrones de delincuencia en su zona de operación. Prefiere Windows 10 como sistema operativo en su computadora de trabajo y Google Chrome como navegador web. Para acceder a aplicaciones relacionadas con su trabajo de seguridad, utiliza un smartphone Android y prefiere Google Chrome como navegador móvil. Considera crucial el monitoreo de la delincuencia para proteger al personal, clientes y activos, y facilitar medidas preventivas y respuestas efectivas ante situaciones de riesgo. Su mayor desafío en el uso de herramientas tecnológicas es asegurar la actualización y compatibilidad de las mismas con las necesidades específicas de seguridad, además de garantizar la integridad y privacidad de los datos. Opina que la integración de la tecnología es esencial para mejorar la seguridad ciudadana, permitiendo la recopilación y análisis eficiente de datos para prevenir delitos y responder rápida y efectivamente ante emergencias.
-<img src="../../assets/interview-4.JPG" alt="Entrevista 4">
-##### Entrevista 2: Jorge Coras
-
-**Tiempo en el video**: 19:46<br><br>
-Resumen: <br>
-El entrevistado es el coordinador de seguridad ciudadana en la Municipalidad de Lima. Utiliza herramientas de mapeo diariamente para monitorear incidentes, identificar áreas de riesgo y planificar estrategias de seguridad. Prefiere Windows 10 como sistema operativo en su computadora de trabajo y Google Chrome como navegador web debido a su velocidad y compatibilidad con diversas herramientas en línea. Utiliza un smartphone Android para acceder a aplicaciones relacionadas con su trabajo y prefiere Google Chrome en su dispositivo móvil por su funcionalidad y sincronización con su cuenta. Considera que el monitoreo de la delincuencia es vital para garantizar la seguridad de los ciudadanos de Lima, permitiendo identificar tendencias delictivas, implementar medidas preventivas y responder eficazmente a emergencias. Uno de sus mayores desafíos
-<img src="../../assets/interview-5.JPG" alt="Entrevista 5">
-##### Entrevista 3:
 ### 2.2.3. Análisis de entrevistas.
 #### Segmento 1:
 <div align="justify">
@@ -227,11 +271,14 @@ El entrevistado es el coordinador de seguridad ciudadana en la Municipalidad de 
 </div>
 
 #### Segmento 2:
+<div align="justify">
 En las entrevistas se evidencian características objetivas y subjetivas comunes que son fundamentales para comprender el perfil de estos profesionales en el campo de la seguridad.
 
 En términos objetivos, ambos coordinadores ocupan roles de liderazgo en seguridad, demostrando una tendencia hacia la especialización en la gestión de la seguridad, ya sea en el ámbito público o privado. Además, utilizan herramientas de mapeo con regularidad en su trabajo diario, lo que resalta la importancia de la tecnología para la gestión de la seguridad. En cuanto a preferencias tecnológicas, ambos prefieren Windows 10 como sistema operativo en sus computadoras de trabajo y Google Chrome como navegador web, tanto en computadoras como en dispositivos móviles Android, lo que sugiere una preferencia común por la consistencia y la sincronización entre dispositivos en el entorno laboral.
 
 En cuanto a las características subjetivas, ambos coordinadores resaltan la importancia del monitoreo de la delincuencia para garantizar la seguridad de los ciudadanos. Esta preocupación compartida refleja un enfoque común en la prevención y respuesta ante situaciones de riesgo. Además, destacan la necesidad de asegurar la interoperabilidad entre las diferentes herramientas tecnológicas utilizadas y la protección de datos y privacidad de los ciudadanos como desafíos importantes en su trabajo diario.
+</div>
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
