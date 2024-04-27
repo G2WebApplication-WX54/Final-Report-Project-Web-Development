@@ -401,13 +401,21 @@ La matriz presenta 15 tareas que son importantes para ambos segmentos, con una c
 <div align="justify">
   La siguiente sección ilustra el end-to-end journey de PeaceApp para los segmentos objetivos de Ciudanos preocupados y Entidades Gubernamentales. El User Journey Mapping empieza desde el momento en el que los 
   usuarios conocen a la aplicación, pasando por un proceso de decisión y adaptación a su uso. En este punto, se hace el registro en la aplicación, se registra el uso continuo y la posibilidad de dejar de usalo 
-  ante un descontento o haber logrado su objetivo inicial.
+  ante un descontento o haber logrado su objetivo inicial.<br>
 </div>
 
-**Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
+#### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
+##### As-Is
+<img src="/assets/UserJourneyMap_UP1_AsIs1.png" alt="User Journey Map As-Is: User Persona 1" width="80%">
+
+##### To-Be
 <img src="/assets/UserJourneyMap_UP1.png" alt="User Journey Map User Persona 1" width="80%">
 
-**Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
+#### Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana
+##### As-Is
+<img src="/assets/UserJourneyMap_UP2_AsIs2.png" alt="User Journey Map As-Is: User Persona 2" width="80%">
+
+##### To-Be
 <img src="/assets/UserJourneyMap_UP2.png" alt="User Journey Map User Persona 2" width="80%">
 
 ### 2.3.4. Empathy Mapping.
