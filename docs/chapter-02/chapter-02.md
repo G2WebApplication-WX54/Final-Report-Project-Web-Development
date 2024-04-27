@@ -353,6 +353,15 @@ la planificación urbana en términos de seguridad. Ambos segmentos coinciden en
 
 <img src="/assets/Empathy_map_UP2.png" alt="Empathy Map User Persona 2" width="80%">
 
+<br>
+<div style="text-align: justify">
+Para crear un Empathy Map, primero recopilamos información hablando con personas que representan a nuestros usuarios. Les hacemos preguntas sobre sus experiencias y sentimientos, y anotamos todo lo que nos dicen. 
+Luego, organizamos esa información en un gráfico que muestra lo que los usuarios ven, escuchan, dicen, hacen, piensan y sienten. 
+Por ejemplo, podríamos descubrir que muchos usuarios ven situaciones estresantes en su entorno, escuchan conversaciones sobre desafíos similares, dicen que están bien cuando se les pregunta pero en realidad están preocupados, 
+hacen ejercicio para aliviar el estrés, piensan en formas de mejorar su bienestar emocional y sienten ansiedad por el futuro. 
+Esto nos da una comprensión más profunda de las necesidades y deseos de nuestros usuarios, lo que nos permite diseñar soluciones que realmente los ayuden.
+</div>
+
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
