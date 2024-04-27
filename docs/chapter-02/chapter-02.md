@@ -366,11 +366,11 @@ Esto nos da una comprensión más profunda de las necesidades y deseos de nuestr
 
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
 
-<img src="/assets/As-Is_Map_UP1.png" alt="As-Is Map User Persona 1" width="80%">
+<img src="/assets/As-is_segmento1.jpg" alt="As-Is Map User Persona 1" width="80%">
 
 **Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
 
-<img src="/assets/As-Is_Map_UP2.png" alt="As-Is Map User Persona 2" width="80%">
+<img src="/assets/As-is_segmento2.jpg" alt="As-Is Map User Persona 2" width="80%">
 
 ## 2.4. Ubiquitous Language.
 **Market (Mercado):** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.<br>  
