@@ -87,9 +87,9 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
   <tr>
     <td>Entrevistas</td>
     <td>Cantidad de videos: 1<br>
-      Nomenclatura:<br>
+      Nomenclatura: Interview Web Development<br>
       Formato: .mp4<br>
-      Duración:<br>
-      Enlace:</td>
+      Duración: 24:10<br>
+      Enlace: https://shorturl.at/clwGR</td>
   </tr>
 </table>
