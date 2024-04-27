@@ -2,6 +2,13 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+<div style="text-align: justify">
+El "To-be Scenario Map" representa la visión de la experiencia del usuario una vez que se han implementado las soluciones o mejoras planificadas. 
+Este mapa proporciona una representación visual de cómo queremos que sea la experiencia del usuario en el futuro, destacando las actividades que realizarán, 
+los pensamientos que tendrán y los sentimientos que experimentarán en cada fase del proceso. Al visualizar el futuro deseado, el "To-be Scenario Map" nos ayuda a 
+alinear al equipo en torno a una visión compartida y a identificar las áreas en las que necesitamos enfocarnos para lograr esa experiencia mejorada para el usuario.
+</div>
+
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
 
 <img src="/assets/To-Be_Map_UP1.png" alt="To-Be Scenario Map User Persona 1" width="80%">
