@@ -434,10 +434,10 @@ La matriz presenta 15 tareas que son importantes para ambos segmentos, con una c
 
 ### 2.3.5. As-is Scenario Mapping.
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
-<img src="/assets/As-is_segmento1.jpg" alt="As-Is Map User Persona 1" width="80%">
+<img src="/assets/As-Is_Segmento1.jpg" alt="As-Is Map User Persona 1" width="80%">
 
 **Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
-<img src="/assets/As-is_segmento2.jpg" alt="As-Is Map User Persona 2" width="80%">
+<img src="/assets/As-Is_Segmento2.jpg" alt="As-Is Map User Persona 2" width="80%">
 
 ## 2.4. Ubiquitous Language.
 **Market (Mercado):** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.<br>  
