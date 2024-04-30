@@ -45,7 +45,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When la aplicación detecta cambios en la peligrosidad de las zonas en la ruta del transeúnte.<br>
             Then la aplicación actualiza la información de peligrosidad en tiempo real y la muestra al transeúnte.
         </td>
-        <td align="center">EP01</td>
+        <td align="center">EP02</td>
     </tr>
     <tr>
         <td align="center">US02</td>
@@ -56,7 +56,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When la aplicación ha calculado todas las rutas posibles.<br>
             Then la aplicación sugiere la ruta más segura basada en la información de peligrosidad actual.
         </td>
-        <td align="center">EP01</td>
+        <td align="center">EP02</td>
     </tr>
     <tr>
         <td align="center">US03</td>
@@ -67,7 +67,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el transeúnte ajusta sus preferencias de seguridad.<br>
             Then la aplicación personaliza la ruta del transeúnte en función de sus preferencias.<br>
         </td>
-        <td align="center">EP01</td>
+        <td align="center">EP02</td>
     </tr>
     <tr>
         <td align="center">US04</td>
@@ -78,7 +78,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el transeúnte ingresa los detalles del incidente en la aplicación.<br>
             Then la aplicación registra el incidente y actualiza la información de peligrosidad de la zona correspondiente.<br>
         </td>
-        <td align="center">EP01</td>
+        <td align="center">EP05</td>
     </tr>
     <tr>
         <td align="center">US05</td>
@@ -89,7 +89,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When la aplicación detecta que el usuario se está acercando a una zona de alto riesgo.<br>
             Then la aplicación envía una alerta al usuario.<br>
         </td>
-        <td align="center">EP01</td>
+        <td align="center">EP05</td>
     </tr>
     <tr>
         <td align="center">US06</td>
@@ -100,7 +100,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When hay reportes de otros usuarios disponibles para la zona que está viendo el transeúnte.<br>
             Then la aplicación muestra los reportes de otros usuarios en el mapa de calor.<br>
         </td>
-        <td align="center">EP01</td>
+        <td align="center">EP04</td>
     </tr>
     <tr>
         <td align="center">US07</td>
@@ -111,7 +111,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el comisario accede a la sección de reportes de la aplicación.<br>
             Then la aplicación muestra al comisario los reportes de los usuarios.<br>
         </td>
-        <td align="center">EP02</td>
+        <td align="center">EP03</td>
     </tr>
     <tr>
         <td align="center">US08</td>
@@ -122,7 +122,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el comisario utiliza las herramientas de análisis de datos de la aplicación.<br>
             Then la aplicación proporciona al comisario los resultados del análisis de datos.<br>
         </td>
-        <td align="center">EP02</td>
+        <td align="center">EP03</td>
     </tr>
     <tr>
         <td align="center">US09</td>
@@ -133,7 +133,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el comisario utiliza la información recopilada para planificar estrategias.<br>
             Then la aplicación registra las estrategias del comisario y las asocia con las áreas problemáticas correspondientes.<br>
         </td>
-        <td align="center">EP02</td>
+        <td align="center">EP03</td>
     </tr>
     <tr>
         <td align="center">US10</td>
@@ -144,7 +144,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el comisario clasifica los reportes en función de su gravedad y urgencia.<br>
             Then la aplicación prioriza los reportes según la clasificación del comisario.<br>
         </td>
-        <td align="center">EP02</td>
+        <td align="center">EP03</td>
     </tr>
     <tr>
         <td align="center">US11</td>
@@ -155,7 +155,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el comisario utiliza la función de compartir de la aplicación.<br>
             Then la aplicación comparte la información seleccionada con las entidades de seguridad seleccionadas por el comisario.<br>
         </td>
-        <td align="center">EP02</td>
+        <td align="center">EP03</td>
     </tr>
     <tr>
         <td align="center">US12</td>
@@ -166,7 +166,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When hay datos disponibles sobre las rutas seguras más utilizadas por los usuarios.<br>
             Then la aplicación muestra al comisario las rutas seguras más utilizadas.<br>
         </td>
-        <td align="center">EP02</td>
+        <td align="center">EP03</td>
     </tr>
     <tr>
         <td align="center">US13</td>
@@ -177,7 +177,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el usuario selecciona la opción para añadir una foto de perfil,<br>
             Then se debe abrir un cuadro de diálogo que permita al usuario seleccionar una foto de su dispositivo,<br>
         And cuando el usuario selecciona una foto y confirma la acción, la foto de perfil del usuario debe actualizarse con la foto seleccionada.</td>
-        <td align="center">EP07</td>
+        <td align="center">EP06</td>
     </tr>
     <tr>
         <td align="center">US14</td>
@@ -187,7 +187,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             Given que el usuario ha activado las notificaciones de zonas peligrosas en la configuración de la aplicación,<br>
             When el usuario se acerca a una zona marcada como peligrosa,<br>
         Then el usuario debe recibir una notificación alertándole de la proximidad a la zona peligrosa.</td>
-        <td align="center">EP06</td>
+        <td align="center">EP04</td>
     </tr>
     <tr>
         <td align="center">US15</td>
@@ -197,7 +197,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             Given que el usuario está viendo una denuncia,<br>
             When el usuario selecciona la opción para ver los reportes de otros usuarios,<br>
         Then se debe mostrar una lista de reportes con las calificaciones y comentarios de otros usuarios.</td>
-        <td align="center">EP02</td>
+        <td align="center">EP04</td>
     </tr>
     <tr>
         <td align="center">US16</td>
@@ -208,7 +208,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el usuario selecciona la opción para editar su información de perfil,<br>
             Then se debe abrir una página o un cuadro de diálogo que permita al usuario editar su información de perfil,<br>
         And cuando el usuario realiza los cambios y confirma la acción, la información de perfil del usuario debe actualizarse con la nueva información.</td>
-        <td align="center">EP07</td>
+        <td align="center">EP06</td>
     </tr>
     <tr>
         <td align="center">US17</td>
@@ -218,7 +218,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             Given que el usuario está en la página principal de la aplicación,<br>
             When el usuario selecciona la opción para ver las denuncias más recientes,<br>
         Then se debe mostrar una lista de las denuncias más recientes en su área.</td>
-        <td align="center">EP06</td>
+        <td align="center">EP04</td>
     </tr>
     <tr>
         <td align="center">US18</td>
@@ -229,7 +229,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el usuario selecciona el mapa de calor,<br>
             Then se debe mostrar el mapa de calor señalando las zonas peligrosas y/o seguras
         </td>
-        <td align="center">EP03</td>
+        <td align="center">EP04</td>
     </tr>
     <tr>
         <td align="center">US19</td>
@@ -247,38 +247,24 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
     </tr>
     <tr>
         <td align="center">US21</td>
-        <td align="justify">Denuncias en tiempo real</td>
-        <td align="justify">Como usuario de PeaceApp, quiero poder hacer denuncias para contribuir a la seguridad de mi comunidad.</td>
-        <td align="justify">de crímenes a través de fotos, audios y/o videos en tiempo real, </td>
-        <td align="center">EP05</td>
-    </tr>
-    <tr>
-        <td align="center">US22</td>
-        <td align="justify">Mapa de seguridad</td>
-        <td align="justify">Como usuario de PeaceApp, quiero tener acceso a un mapa con información sobre el nivel de peligro en las distintas zonas de la ciudad, para poder evitar áreas de alto riesgo.</td>
-        <td align="justify"></td>
-        <td align="center">EP05</td>
-    </tr>
-    <tr>
-        <td align="center">US23</td>
         <td align="justify">Implementación de Formularios de Contacto</td>
         <td align="justify">Como visitante de la Landing Page, deseo encontrar formularios de contacto funcionales y accesibles</td>
         <td align="justify">en la landing page de la aplicación, para poder comunicarme fácilmente con el equipo de desarrollo de PeaceApp y obtener respuestas a mis preguntas o preocupaciones relacionadas con la aplicación.</td>
-        <td align="center">EP05</td>
+        <td align="center">EP04</td>
     </tr>
     <tr>
-        <td align="center">US24</td>
+        <td align="center">US22</td>
         <td align="justify">Compartir ubicación</td>
         <td align="justify">Como usuario de PeaceApp, quiero poder compartir mi ubicación con mis contactos cercanos.</td>
         <td align="justify"> para que puedan monitorear mi trayecto y asegurarse de que estoy seguro</td>
-        <td align="center">EP02</td>
+        <td align="center">EP04</td>
     </tr>
     <tr>
-        <td align="center">US25</td>
+        <td align="center">US23</td>
         <td align="justify">Testimonios de Usuarios</td>
         <td align="justify">Como visitante de la Landing Page, quiero encontrar las opiniones de los diferentes usuarios </td>
         <td align="justify">que han probado la aplicación, para poder tener una idea clara de la experiencia y satisfacción de otros usuarios con PeaceApp</td>
-        <td align="center">EP03</td>
+        <td align="center">EP04</td>
     </tr>
 </table>
 
