@@ -315,6 +315,153 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
         </td>
         <td align="center">EP04</td>
     </tr>
+    <tr>
+		<td align="center">TS01</td>
+        <td align="justify">Integración del mapa interactivo</td>
+        <td align="justify">Como desarrollador quiero implementar un mapa interactivo para ser el eje de funcionamiento.</td>
+        <td align="justify">
+	        Escenario:
+	        Given que se desea desplegar un mapa de calor<br>
+	        When el usuario cargue la página<br>
+	        Then debería usar una API de mapas para hacerlo posible. 
+	    </td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS02</td>
+        <td align="justify">GET and POST de reportes de seguridad</td>
+        <td align="justify">Como desarrollador quiero habilitar la creación y retorno de reportes de incidentes de seguridad para la seguridad de los usuarios.</td>
+        <td align="justify">
+            Escenario 1: Crear un nuevo reporte de seguridad<br>
+            Given que el usuario está en la página de reportes<br>
+            When el usuario completa el formulario con los detalles del incidente<br>
+            And el usuario envía el reporte<br>
+            Then debería ver un mensaje de confirmación y el reporte debería almacenarse en la API y aparecer en la lista de reportes<br><br>
+            Escenario 2: Ver detalles de un reporte existente
+            Given que el usuario está en la página de reportes<br>
+            When el usuario selecciona un reporte de la lista<br>
+            Then la aplicación hace el GET con la API<br>
+            And debería ver los detalles completos del reporte
+        </td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS03</td>
+        <td align="justify">GET and POST User</td>
+        <td align="justify">Como desarrollador quiero registrar los datos de nuevos usuario mediantes una API para obtener a los que se encuentran afiliados.</td>
+        <td align="justify">
+	        Escenario 1: Usuario se registra en la página web<br>
+	        Given que tengo acceso a la API de registro de usuarios<br>
+	        When se envía una solicitud con datos válidos de un nuevo usuario<br>
+	        Then el usuario se registra exitosamente y se envía una confirmación. <br><br>
+	        Escenario 2: Usuario ingresa a la página web<br>
+	        Given que el usuario accede a la página de inicio de sesión<br>
+	        When hace clic en el botón de iniciar sesión<br>
+	        Then los datos ingresados se comparan con los de la API<br>
+	        And se autoriza el ingreso de ser al caso.
+		</td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS04</td>
+        <td align="justify">Implementación de medidas de seguridad</td>
+        <td align="justify">Como desarrollador quiero incorporar medidas de seguridad robustas para proteger la información sensible de los usuarios y garantizar la integridad del sistema.</td>
+        <td align="justify">
+	        Escenario: Encriptación de datos de usuario<br>
+	        Given que un usuario se registra en la plataforma<br>
+	        When se ingresan los datos personales<br>
+	        Then los datos de usuario se almacenan en la base de datos de forma encriptada<br>
+	        And el usuario puede iniciar sesión utilizando su contraseña encriptada
+        </td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS05</td>
+        <td align="justify">Pruebas y depuración</td>
+        <td align="justify">Como desarrollador quiero realizar pruebas exhaustivas para identificar y corregir los errores o fallos de todas las funcionalidades implementadas.</td>
+        <td align="justify">
+	        Escenario 1: Pruebas de funcionamiento de todas las funcionalidades<br>
+	        Given la implementación de todas las funcionalidades de la página web<br>
+	        When se realizan pruebas exhaustivas para verificar el correcto funcionamiento<br>
+	        Then se verifican los datos almacenados en la API<br>
+	        And que las medidas de seguridad funcionen correctamente.<br><br>
+	        Escenario 2: Corrección de errores identificados en las pruebas<br>
+	        Given errores o fallos de funcionamiento en la página web<br>
+	        When se identifica la causa de los errores<br>
+	        Then se implementan las correcciones necesarias<br>
+	        And se realizan más pruebas para verificar que se corrigieron los errores.
+	    </td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS06</td>
+        <td align="justify">Mantenimiento y actualizaciones</td>
+        <td align="justify">Como desarrollador quiero establecer un plan de mantenimiento continuo para realizar actualizaciones periódicas y agregar nuevas funcionalidades según sea necesario.</td>
+        <td align="justify">
+	        Escenario: Actualización del sistema<br>
+	        Given que se han creado nuevas funcionalidadas<br>
+	        When los administradores inician sesión en el panel de administración<br>
+	        Then la actualización del sistema se despliega correctamente<br>
+	        And está disponible para los usuarios.
+	    </td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS07</td>
+        <td align="justify">GET and POST comentarios y valoraciones</td>
+        <td align="justify">Como desarrollador quiero Implementar un sistema de comentarios y valoraciones para que los usuarios puedan compartir sus experiencias</td>
+        <td align="justify">
+	        Escenario 1: Un usuario puede agregar un comentario<br>
+	        Given el usuario está en la página del mapa<br>
+	        When el usuario selecciona un área específica en el mapa<br>
+	        Then escribe un comentario sobre el área<br>
+	        And se almacena el comentario en la sección de comentarios de la API<br><br>
+	        Escenario 2: Un usuario puede ver un comentario
+	        Given el usuario está en la página del mapa<br>
+	        When el usuario selecciona un área específica en el mapa<br>
+	        Then se hace el llamdo a la sección de comentarios de la API<br>
+	        And el usuario pueder ver los comentarios.
+	     </td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS08</td>
+        <td align="justify">Establecer un canal de comunicación directa entre los usuarios y las autoridades </td>
+        <td align="justify">Como desarrollador quiero establecer un canal de comunicación directa entre los usuarios y las autoridades para que se envíen alertas o se solicite asistencia en tiempo real.</td>
+        <td align="justify">
+	        Escenario 1: Un usuario puede enviar una alerta a las autoridades<br>
+	        Given el usuario experimenta una mala experiencia<br>
+	        When se selecciona la opción de enviar una alerta a las autoridades<br>
+	        And proporciona detalles sobre la situación y ubicación<br>
+	        And presiona el botón de enviar alerta<br>
+	        Then se envía una alerta a las autoridades de seguridad<br><br>
+	        Escenario 2: Un usuario puede solicitar asistencia en tiempo real<br>
+	        Given se requiere asistencia inmediata<br>
+	        When el usuario selecciona la opción adecuada<br>
+	        And especifica el tipo de ayuda que necesita<br>
+	        Then se obtiene la ubicación en tiempo real<br>
+	        And se envía la solicitud
+        </td>
+        <td align="center">-</td>
+	</tr>
+	<tr>
+		<td align="center">TS09</td>
+        <td align="justify">Optimización del rendimiento</td>
+        <td align="justify">Como desarrollador quiero mejorar el rendimiento de la página web para garantizar una experiencia fluida para los usuarios.</td>
+        <td align="justify">
+	        Escenario 1: Carga rápida de la página principal<br>
+	        Given que el usuario accede a la página principal<br>
+	        When la página se carga completamente<br>
+	        Then la página se muestra en menos de 3 segundos<br>
+	        And todos los elementos son visibles y funcionales<br><br>
+	        Escenario 2: Optimización de recursos estáticos<br>
+	        Given el tamaño total de los recursos descargados es mínimo<br>
+	        When el usuario ingresa a la página<br>
+	        Then los recursos estáticos se cargan de manera eficiente y rápida<br>
+	        And la página carga con rapidez y fluidez.
+        </td>
+        <td align="center">-</td>
+	</tr>
 </table>
 
 ## 3.3. Impact Mapping
