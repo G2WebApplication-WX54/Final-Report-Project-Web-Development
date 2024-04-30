@@ -272,125 +272,28 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
 <img src="../../assets/Impact_mapping.png" alt="Impact map">
 
 ## 3.4. Product Backlog
-<table align="center" border="1">
-    <tr align="center">
-        <td>User Story ID</td>
-        <td>Titulo</td>
-        <td>Descripcion</td>
-        <td>Priority (1/2/3/5/8)</td>
-    </tr>
-    <tr>
-        <td align="center">US01</td>
-        <td>Planificación de rutas seguras</td>
-        <td>Como transeúnte, quiero recibir actualizaciones en tiempo real sobre las zonas de peligrosidad en mi ruta.</td>
-        <td align="center">8</td>
-    </tr>
-    <tr>
-        <td align="center">US02</td>
-        <td>Actualizaciones en tiempo real</td>
-        <td>Como transeúnte, quiero que la aplicación me sugiera la ruta más segura para llegar a mi destino.</td>
-        <td align="center">8</td>
-    </tr>
-    <tr>
-        <td align="center">US03</td>
-        <td>Personalización de rutas</td>
-        <td>Como transeúnte, quiero poder personalizar mis rutas en función de mis preferencias de seguridad.</td>
-        <td align="center">3</td>
-    </tr>
-    <tr>
-        <td align="center">US04</td>
-        <td>Reporte de incidentes</td>
-        <td>Como transeúnte, quiero poder reportar incidentes de seguridad a través de la aplicación.</td>
-        <td align="center">8</td>
-    </tr>
-    <tr>
-        <td align="center">US05</td>
-        <td>Alertas de Zonas de Riesgo</td>
-        <td>Como usuario, quiero recibir alertas si estoy a una zona de alto riesgo.</td>
-        <td align="center">5</td>
-    </tr>
-    <tr>
-        <td align="center">US06</td>
-        <td>Visualización de reportes</td>
-        <td>Como transeúnte, quiero poder ver los reportes de otros usuarios en el mapa de calor de peligrosidad.</td>
-        <td align="center">8</td>
-    </tr>
-    <tr>
-        <td align="center">US07</td>
-        <td>Acceso a reportes</td>
-        <td>Como comisario, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.</td>
-        <td align="center">8</td>
-    </tr>
-    <tr>
-        <td align="center">US08</td>
-        <td>Análisis de datos</td>
-        <td>Como comisario, quiero poder analizar los datos recopilados para identificar patrones y tendencias.</td>
-        <td align="center">8</td>
-    </tr>
-    <tr>
-        <td align="center">US09</td>
-        <td>Planificación de estrategias</td>
-        <td>Como comisario, quiero utilizar la información recopilada para planificar estrategias contra la delincuencia.</td>
-        <td align="center">5</td>
-    </tr>
-    <tr>
-        <td align="center">US10</td>
-        <td>Priorización de reportes</td>
-        <td>Como comisario, quiero poder priorizar los reportes en función de su gravedad y urgencia para responder de manera más eficiente.</td>
-        <td align="center">3</td>
-    </tr>
-    <tr>
-        <td align="center">US11</td>
-        <td>Comunicación con entidades asociadas</td>
-        <td>Como comisario, quiero poder compartir información relevante con otras entidades de seguridad para coordinar esfuerzos.</td>
-        <td align="center">5</td>
-    </tr>
-    <tr>
-        <td align="center">US12</td>
-        <td>Visualización de Rutas Seguras</td>
-        <td>Como comisario, quiero poder ver las rutas seguras más utilizadas por los usuarios para entender mejor sus patrones de desplazamiento.</td>
-        <td align="center">3</td>
-    </tr>
-</tr>
-<tr>
-    <td align="center">US13</td>
-    <td>Añadir foto de perfil</td>
-    <td>Como usuario, quiero poder añadir una foto de perfil.</td>
-    <td align="center">2</td>
-</tr>
-</tr>
-<tr>
-    <td align="center">US14</td>
-    <td>Recibir notificaciones sobre zona peligrosa</td>
-    <td>Como usuario, quiero recibir notificaciones cuando me este acercando a una zona peligrosa.</td>
-    <td align="center">5</td>
-</tr>
-</tr>
-<tr>
-    <td align="center">US15</td>
-    <td>Ver reportes</td>
-    <td>Como usuario, quiero poder ver los reportes de otros usuarios en las denuncias.</td>
-    <td align="center">3</td>
-</tr>
-</tr>
-<tr>
-    <td align="center">US16</td>
-    <td>Editar información de perfil</td>
-    <td>Como usuario, quiero poder editar mi información de perfil.</td>
-    <td align="center">3</td>
-</tr>
-</tr>
-<tr>
-    <td align="center">US17</td>
-    <td>Ver denuncias más recientes</td>
-    <td>Como usuario, quiero poder ver las denuncias más recientes en mi área.</td>
-    <td align="center">5</td>
-</tr>
-</tr>
-<tr>
-    <td align="center">US18</td>
-    <td>Mapa de calor</td>
-    <td>Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro</td>
-    <td align="center">8</td>
-</tr>
-</table>
+| #Orden |   ID   | User Story | Story Points |
+|:------|:------|:----------|:--------------|
+|01|US20|Desarrollo de Secciones Clave de la Landing Page|3|
+|02|US19|Optimización de la Experiencia del Usuario|5|
+|03|US22|Compartir ubicación|8|
+|04|US02|Actualizaciones en tiempo real|8|
+|05|US18|Mapa de calor|8|
+|06|US01|Planificación de rutas seguras|8|
+|07|US03|Personalización de rutas|3|
+|08|US12|Visualización de Rutas Seguras|3|
+|09|US04|Reporte de incidentes|8|
+|10|US05|Alertas de Zonas de Riesgo|5|
+|11|US06|Visualización de reportes|8|
+|12|US07|Acceso a reportes|8|
+|13|US08|Análisis de datos|8|
+|14|US09|Planificación de estrategias|5|
+|15|US10|Priorización de reportes|3|
+|16|US11|Comunicación con entidades asociadas|5|
+|17|US13|Añadir foto de perfil|2|
+|18|US14|Recibir notificaciones sobre zona peligrosa|5|
+|19|US15|Ver reportes|3|
+|20|US16|Editar información de perfil|3|
+|21|US17|Ver denuncias más recientes|5|
+|22|US21|Implementación de Formularios de Contacto|4|
+|23|US23|Testimonios de Usuarios|3|
