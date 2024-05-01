@@ -18,20 +18,6 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
 <img src="/assets/To-Be_Segmento2.jpg" alt="To-Be Scenario Map User Persona 2" width="80%">
 
 ## 3.2. User Stories
-| Epic Story ID | Título                                           | Descripción                                                                                                                                                                                                               | Criterios de aceptación | Relacionado con (Epic ID) |
-|---------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------------|
-| EP01          | Diseño y Desarrollo de la Landing Page           | Como visitante de la Landing Page, quiero encontrar una landing page bien diseñada y fácil de usar que me proporcione información clara y concisa sobre la aplicación, para poder entender el propósito de la aplicación. | No corresponde          | No corresponde            |
-| EP02          | Contacto                                         | Como visitante de la Landing Page, quiero contactarme con las personas encargadas en el desarrollo de la aplicación, para poder presentarles mis dudas sobre la aplicación.                                               | No corresponde          | No corresponde            |
-| EP03          | Información sobre los servicios de la aplicación | Como visitante de la Landing Page, quiero encontrar los servicios y beneficios que ofrece la aplicación, para poder conocerlos y aprovecharlos al máximo.                                                                 | No corresponde          | No corresponde            |
-| EP04          | Registro de usuarios                             | Como usuario de la aplicación, quiero poder dar mis datos personales, para poder registrarme y usar la aplicación.                                                                                                        | No corresponde          | No corresponde            |
-| EP05          | Sistema de notificaciones                        | Como usuario de la aplicación, quiero recibir notificaciones en tiempo real sobre incidentes de seguridad en mi área, para estar siempre informado y tomar precauciones.                                                  | No corresponde          | No corresponde            |
-| EP06          | Perfiles de usuario                              | Como usuario de PeaceApp, quiero poder crear y personalizar mi perfil de usuario, para tener una identidad dentro de la comunidad de la aplicación.                                                                       | No corresponde          | No corresponde            |
-| EP07          | Ruta Segura                                      | Como ciudadano quiero que me recomieden la ruta mas segura para asi poder tener un viaje sin preocupaciones.                                                                                                              | No corresponde          | No corresponde            |
-| EP08          | Registro de reportes                             | Como ciudadano quiero que poder generar reportes para que el mapa de calor sea más preciso.                                                                                                                               | No corresponde          | No corresponde            |
-| EP09          | Mapa de Calor                                    | Como entidad gubernamental quiero poder contar con un mapa de calor de mi zona para poder administrar mejor la seguridad.                                                                                                 | No corresponde          | No corresponde            |
-| EP10          | Visualización de reportes                        | Como entidad gubernamental quiero poder ver los reportes de los ciudadanos para tener una mejor gestión de la seguridad.                                                                                                  | No corresponde          | No corresponde            | 
-
-
 <table>
     <tr>
         <td align="center">User Story ID</td>
@@ -39,6 +25,96 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
         <td align="center">Descripción</td>
         <td align="center">Criterios de Aceptación</td>
         <td align="center">Relacionado con (Epic ID)</td>
+    </tr>
+<tr>
+        <td align="center">EP01</td>
+        <td align="justify">Diseño y Desarrollo de la Landing Page</td>
+        <td align="justify">Como visitante de la Landing Page, quiero encontrar una landing page bien diseñada y fácil de usar que me proporcione información clara y concisa sobre la aplicación, para poder entender el propósito de la aplicación.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP02</td>
+        <td align="justify">Contacto</td>
+        <td align="justify">Como visitante de la Landing Page, quiero contactarme con las personas encargadas en el desarrollo de la aplicación, para poder presentarles mis dudas sobre la aplicación.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP03</td>
+        <td align="justify">Información sobre los servicios de la aplicación</td>
+        <td align="justify">Como visitante de la Landing Page, quiero encontrar los servicios y beneficios que ofrece la aplicación, para poder conocerlos y aprovecharlos al máximo.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP04</td>
+        <td align="justify">Registro de usuarios</td>
+        <td align="justify">Como usuario de la aplicación, quiero poder dar mis datos personales, para poder registrarme y usar la aplicación.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP05</td>
+        <td align="justify">Sistema de notificaciones</td>
+        <td align="justify">Como usuario de la aplicación, quiero recibir notificaciones en tiempo real sobre incidentes de seguridad en mi área, para estar siempre informado y tomar precauciones.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP06</td>
+        <td align="justify">Perfiles de usuario</td>
+        <td align="justify">Como usuario de PeaceApp, quiero poder crear y personalizar mi perfil de usuario, para tener una identidad dentro de la comunidad de la aplicación.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP07</td>
+        <td align="justify">Ruta Segura</td>
+        <td align="justify">Como ciudadano quiero que me recomieden la ruta mas segura para asi poder tener un viaje sin preocupaciones.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP08</td>
+        <td align="justify">Registro de reportes</td>
+        <td align="justify">Como ciudadano quiero que poder generar reportes para que el mapa de calor sea más preciso.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP09</td>
+        <td align="justify">Mapa de Calor</td>
+        <td align="justify">Como entidad gubernamental quiero poder contar con un mapa de calor de mi zona para poder administrar mejor la seguridad.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
+    </tr>
+    <tr>
+        <td align="center">EP10</td>
+        <td align="justify">Visualización de reportes</td>
+        <td align="justify">Como entidad gubernamental quiero poder ver los reportes de los ciudadanos para tener una mejor gestión de la seguridad.</td>
+        <td align="justify">
+            No corresponde
+        </td>
+        <td align="center">No corresponde</td>
     </tr>
     <tr>
         <td align="center">US01</td>
@@ -273,7 +349,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
     <tr>
         <td align="center">US16</td>
         <td align="justify">Análisis de datos</td>
-        <td align="justify">Como entidad gubernamental, quiero poder analizar los datos recopilados en el mapa de calor de mi zona para identificar áreas con alta densidad de incidentes de seguridad</td>
+        <td align="justify">Como entidad gubernamental, quiero poder analizar los datos recopilados en el mapa de calor de mi zona para identificar áreas con alta densidad de incidentes de inseguridad</td>
         <td align="justify">
             Escenario 1: entidad analiza los datos recopilados<br>
             Given la entidad accede al mapa de calor<br>
@@ -285,13 +361,14 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
     </tr>
     <tr>
         <td align="center">US17</td>
-        <td align="justify">Planificación de estrategias mapa de calor</td>
+        <td align="justify">Estrategias usando el mapa de calor</td>
         <td align="justify">Como comisario, quiero utilizar la información recopilada para planificar estrategias contra la delincuencia.</td>
         <td align="justify">
-            Escenario: Un comisario quiere utilizar la información recopilada para planificar estrategias contra la delincuencia.<br>
-            Given el comisario ha analizado los datos recopilados y ha identificado áreas problemáticas.<br>
-            When el comisario utiliza la información recopilada para planificar estrategias.<br>
-            Then la aplicación registra las estrategias del comisario y las asocia con las áreas problemáticas correspondientes.
+            Escenario 1: Entidad gubernamental planea estrategias con los datos del mapa de calor<br>
+    	    Given la entidad gubernamental busca la zona que le corresponde<br>
+            And empieza a recopilar los datos necesarios<br>
+            When la entidad gubernamental realice el análisis<br>
+            Then se planean estrategias para poder combatir la delincuencia en esas zonas.
         </td>
         <td align="center">EP09</td>
     </tr>
@@ -300,7 +377,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
         <td align="justify">Mapa de calor</td>
         <td align="justify">Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro en mi zona para tomar las medidas necesarias</td>
         <td align="justify">
-            Escenario 1: acceso al mapa de calor<br>
+            Escenario 1: Acceso al mapa de calor<br>
             Given que el usuario está en la página principal de la aplicación,<br>
             When el usuario selecciona el mapa de calor,<br>
             Then se debe mostrar el mapa de calor señalando las zonas peligrosas y/o seguras de acuerdo a su ubicación
