@@ -613,8 +613,6 @@ Tabla para poder identificarnos:
 |JanielFranz           |Janiel Franz Escalante Baygorrea |
 |JP19-03               |Johan Príncipe Godoy|
 |ern23zc               |Victor Ernesto Zarate Caceres |
-<img src="imgs/Insights2.1">
-<img src="imgs/Insights2.2">
 
 # Conclusiones
 # Bibliografía
