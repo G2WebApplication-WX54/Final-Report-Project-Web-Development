@@ -561,7 +561,7 @@ Tabla para poder identificarnos:
 			<td>Commited on (Date)</td>
 		</tr>
 		<tr>
-			<td>Landingpage-BookFlow</td>
+			<td>landing-page-web-app</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -569,23 +569,7 @@ Tabla para poder identificarnos:
 			<td></td>
 		</tr>
 		<tr>
-			<td>Landingpage-BookFlow</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>FRONT_END</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>FRONT_END</td>
+			<td>landing-page-web-app</td>
 			<td></td>
 			<td></td>
 			<td></td>
