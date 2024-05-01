@@ -18,14 +18,19 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
 <img src="/assets/To-Be_Segmento2.jpg" alt="To-Be Scenario Map User Persona 2" width="80%">
 
 ## 3.2. User Stories
-| Epic Story ID | Título| Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
-|---|---|---|---|---|
-| EP01| Diseño y Desarrollo de la Landing Page| Como visitante de la Landing Page, quiero encontrar una landing page bien diseñada y fácil de usar que me proporcione información clara y concisa sobre la aplicación, para poder entender el propósito de la aplicación.| No corresponde| No corresponde|
-| EP02| Seguridad en el desplazamiento| Como visitante de la landing page quiero que me recomieden la ruta mas segura para asi poder tener un viaje sin preocupaciones.| No corresponde| No corresponde|
-| EP03| Gestion de seguridad | Como usuario de la municipalidad quiero poder ver todos los reportes hechos por los ciudadanos para asi poder tener mayor informacion sobre los lugares con mayor delincuencia.| No corresponde          | No corresponde |
-| EP04| Servicios de la Aplicación| Como visitante de la Landing Page, quiero encontrar los servicios que ofrece la aplicación, para poder comprender como PeaceApp puede satisfacer mis necesiades de seguridad y bienestar. | No corresponde| No corresponde|
-| EP05| Sistema de notificaciones| Como usuario de PeaceApp, quiero recibir notificaciones en tiempo real sobre incidentes de seguridad en mi área, para estar siempre informado y tomar precauciones.| No corresponde|No corresponde|
-| EP06| Perfiles de usuario| Como usuario de PeaceApp, quiero poder crear y personalizar mi perfil de usuario, para tener una identidad dentro de la comunidad de la aplicación.| No corresponde| No corresponde |
+| Epic Story ID | Título                                           | Descripción                                                                                                                                                                                                               | Criterios de aceptación | Relacionado con (Epic ID) |
+|---------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------------|
+| EP01          | Diseño y Desarrollo de la Landing Page           | Como visitante de la Landing Page, quiero encontrar una landing page bien diseñada y fácil de usar que me proporcione información clara y concisa sobre la aplicación, para poder entender el propósito de la aplicación. | No corresponde          | No corresponde            |
+| EP02          | Contacto                                         | Como visitante de la Landing Page, quiero contactarme con las personas encargadas en el desarrollo de la aplicación, para poder presentarles mis dudas sobre la aplicación.                                               | No corresponde          | No corresponde            |
+| EP03          | Información sobre los servicios de la aplicación | Como visitante de la Landing Page, quiero encontrar los servicios y beneficios que ofrece la aplicación, para poder conocerlos y aprovecharlos al máximo.                                                                 | No corresponde          | No corresponde            |
+| EP04          | Registro de usuarios                             | Como usuario de la aplicación, quiero poder dar mis datos personales, para poder registrarme y usar la aplicación.                                                                                                        | No corresponde          | No corresponde            |
+| EP05          | Sistema de notificaciones                        | Como usuario de la aplicación, quiero recibir notificaciones en tiempo real sobre incidentes de seguridad en mi área, para estar siempre informado y tomar precauciones.                                                  | No corresponde          | No corresponde            |
+| EP06          | Perfiles de usuario                              | Como usuario de PeaceApp, quiero poder crear y personalizar mi perfil de usuario, para tener una identidad dentro de la comunidad de la aplicación.                                                                       | No corresponde          | No corresponde            |
+| EP07          | Ruta Segura                                      | Como ciudadano quiero que me recomieden la ruta mas segura para asi poder tener un viaje sin preocupaciones.                                                                                                              | No corresponde          | No corresponde            |
+| EP08          | Registro de reportes                             | Como ciudadano quiero que poder generar reportes para que el mapa de calor sea más preciso.                                                                                                                               | No corresponde          | No corresponde            |
+| EP09          | Mapa de Calor                                    | Como entidad gubernamental quiero poder contar con un mapa de calor de mi zona para poder administrar mejor la seguridad.                                                                                                 | No corresponde          | No corresponde            |
+| EP10          | Visualización de reportes                        | Como entidad gubernamental quiero poder ver los reportes de los ciudadanos para tener una mejor gestión de la seguridad.                                                                                                  | No corresponde          | No corresponde            | 
+
 
 <table>
     <tr>
@@ -37,28 +42,27 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
     </tr>
     <tr>
         <td align="center">US01</td>
-        <td align="justify">Planificación de rutas seguras</td>
-        <td align="justify">Como transeúnte, quiero recibir actualizaciones en tiempo real sobre las zonas de peligrosidad en mi ruta.</td>
+        <td align="justify">Contactar con la startup</td>
+        <td align="justify">Como visitante de la Landing Page, quiero encontrar un formulario de contacto funcional y accesible para poder comunicarme con la startup.</td>
         <td align="justify">
-            Escenario: Un transeúnte está planeando su ruta y quiere recibir actualizaciones en tiempo real sobre las zonas peligrosas.<br>
-            Given el transeúnte ha iniciado la aplicación<br>
-            And ha ingresado su ruta.<br>
-            When la aplicación detecta cambios en la peligrosidad de las zonas en la ruta del transeúnte.<br>
-            Then la aplicación actualiza la información de peligrosidad en tiempo real y la muestra al transeúnte.
+            Escenario 1: Enviar mensaje a los desarrolladores <br>
+            Given que el visitante tenga una consulta o comentario relacionado con la aplicación. <br> 
+            When redacte un mensaje y adjunte una dirección de correo electrónico para contactar a los desarrolladores <br>
+            Then el sistema enviará el mensaje a la dirección de correo electrónico de la startup. <br>
         </td>
         <td align="center">EP02</td>
     </tr>
     <tr>
         <td align="center">US02</td>
-        <td align="justify">Actualizaciones en tiempo real</td>
-        <td align="justify">Como transeúnte, quiero que la aplicación me sugiera la ruta más segura para llegar a mi destino.</td>
+        <td align="justify"> Navegar en el landing page</td>
+        <td align="justify"> Como visitante de la landing page, quiero encotrar las secciones bien definidas para comprender fácilmente la información mostrada. </td>
         <td align="justify">
-            Escenario: Un transeúnte quiere que la aplicación le sugiera la ruta más segura para llegar a su destino.<br>
-            Given el transeúnte ha ingresado su destino en la aplicación.<br>
-            When la aplicación ha calculado todas las rutas posibles.<br>
-            Then la aplicación sugiere la ruta más segura basada en la información de peligrosidad actual.
+            Escenario 1: Visualizar información.<br>
+            Given el visitante está recorriendo la landing.<br>
+            When acceda a alguna sección de la landing<br>
+            Then podrá comprender la información pues las secciones estarán bien organizadas. <br>
         </td>
-        <td align="center">EP02</td>
+        <td align="center">EP01</td>
     </tr>
     <tr>
         <td align="center">US03</td>
