@@ -55,6 +55,7 @@
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
 |TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
+|TB2| 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
 <br>
 
 # Project Report Collaboration Insights
@@ -204,12 +205,26 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               <br><br>
               <b>Zarate Caceres, Victor Ernesto</b><br>
               Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción,
-              el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.
+              el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.<br><br>
+              TP<br><br>
+              <b>Escalante Baygorrea, Janiel Franz</b><br>
+              <br><br>
+              <b>Noriega Suschenko, Anatoly Andrey</b><br>
+              <br><br>          
+              <b>Príncipe Godoy, Johan</b><br>
+              <br><br>
+              <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+              <br><br>
+              <b>Zarate Caceres, Victor Ernesto</b><br>
+              Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo
+              la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega. 
           </td>
           <td>
-              TB1<br><br>
+              TB1<br>
               Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de 
-              diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.
+              diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
+              TP<br>
+              <br><br>
           </td>
       </tr>
       <tr>
@@ -236,11 +251,25 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             <b>Zarate Caceres, Victor Ernesto</b><br>
             Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas
             que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea 
-            atractiva al usuario.
+            atractiva al usuario.<br><br>
+            TP<br><br>
+            <b>Escalante Baygorrea, Janiel Franz</b><br>
+            <br><br>
+            <b>Noriega Suschenko, Anatoly Andrey</b><br>
+            <br><br>          
+            <b>Príncipe Godoy, Johan</b><br>
+            <br><br>
+            <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+            <br><br>
+            <b>Zarate Caceres, Victor Ernesto</b><br>
+            Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas
+            y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.
         </td>
         <td>
             TB1<br><br>
-            Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.
+            Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
+            TP<br>
+            <br><br>
         </td>
       </tr>
     </table>
