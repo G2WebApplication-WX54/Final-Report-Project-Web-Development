@@ -387,12 +387,12 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
     <tr>
         <td align="center">US19</td>
         <td align="justify">Compartir ubicación</td>
-        <td align="justify">Como usuario de PeaceApp, quiero poder compartir mi ubicación con mis contactos cercanos, para que conozcan el nivel de peligrosidad de la zona</td>
+        <td align="justify">Como usuario, quiero poder compartir mi ubicación con mis contactos cercanos, para que conozcan el nivel de peligrosidad de la zona</td>
         <td align="justify"> 
             Escenario 1: usuario comparte su ubicación<br>
             Given un usuario que comparte su ubicación con sus contactos cercanos<br>
             When se desplaza por las distintas zonas de la ciudad<br>
-            Then podrán monitorear su trayecto y saber si estoy seguro. <br>
+            Then podrán monitorear su trayecto y saber si esta seguro. <br>
             Escenario 2: error al compartir ubicación<br>
             Given un usuario que intenta compartir su ubicación con sus contactos cercanos<br>
             When la aplicación no puede acceder a la ubicación del usuario<br>
@@ -555,35 +555,31 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
 ## 3.4. Product Backlog
 |#Orden| ID |                                  User Story                                    |  Story Points  |
 |:-----|:--:|:-------------------------------------------------------------------------------|:--------------:|
-|  01  |TS04|Implementación de medidas de seguridad                                          |        5       |
-|  02  |US20|Desarrollo de Secciones Clave de la Landing Page                                |        3       |
-|  03  |TS05|Pruebas y depuración                                                            |        5       |
-|  04  |TS06|Mantenimiento y actualizaciones                                                 |        5       |
-|  05  |TS09|Optimización del rendimiento                                                    |        5       |
-|  06  |US19|Optimización de la Experiencia del Usuario                                      |        3       |
-|  07  |US22|Compartir ubicación                                                             |        8       |
-|  08  |US02|Actualizaciones en tiempo real                                                  |        8       |
-|  09  |TS01|Integración del mapa interactivo                                                |        8       |
-|  10  |US18|Mapa de calor                                                                   |        8       |
-|  11  |US14|Recibir notificaciones sobre zona peligrosa                                     |        3       |
-|  12  |US05|Alertas de Zonas de Riesgo                                                      |        3       |
-|  13  |US01|Planificación de rutas seguras                                                  |        5       |
-|  14  |US03|Personalización de rutas                                                        |        3       |
-|  15  |US12|Visualización de Rutas Seguras                                                  |        3       |
-|  16  |TS08|Establecer un canal de comunicación directa entre los usuarios y las autoridades|        5       |
-|  17  |US11|Comunicación con entidades asociadas                                            |        5       |
-|  18  |TS02|GET and POST de reportes de seguridad                                           |        2       |
-|  19  |US21|Implementación de Formularios de Contacto                                       |        3       |
-|  20  |US04|Reporte de incidentes                                                           |        5       |
-|  21  |US17|Ver denuncias más recientes                                                     |        2       |
-|  22  |US15|Ver reportes                                                                    |        2       |
-|  23  |US07|Acceso a reportes                                                               |        2       |
-|  24  |US10|Priorización de reportes                                                        |        5       |
-|  25  |US06|Visualización de reportes                                                       |        2       |
-|  26  |US08|Análisis de datos                                                               |        5       |
-|  27  |TS07|GET and POST comentarios y valoraciones                                         |       2        |
-|  28  |US09|Planificación de estrategias                                                    |        4       |
-|  29  |US23|Testimonios de Usuarios                                                         |        3       |
-|  30  |TS03|GET and POST User                                                               |        2       |
-|  31  |US16|Editar información de perfil                                                    |        2       |
-|  32  |US13|Añadir foto de perfil                                                           |        1       |
+|  01  |US01|Contactar con la startup                      				     |        3       |
+|  02  |US02|Navegar en el landing page                      				     |        1       |
+|  03  |US03|Seleccion de tipo de usuario                      				     |        2       |
+|  04  |US04|Registro como ciudadano                      				     |        2       |
+|  05  |US05|Registro como entidad gubernamental                      			     |        3       |
+|  06  |US06|Alertas de Zonas de Riesgo                      				     |        5       |
+|  07  |US07|Recibir notificaciones sobre reportes recientes                      	     |        3       |
+|  08  |US08|Añadir foto de perfil                      				     |        1       |
+|  09  |US09|Editar información de perfil                      				     |        1       |
+|  10  |US10|Personalización de rutas                      				     |        3       |
+|  11  |US11|Visualización de Rutas Seguras                     			     |        2       |
+|  12  |US12|Reporte de incidentes                    					     |        5       |
+|  13  |US13|Visualización de reportes                     				     |        2       |
+|  14  |US14|Acceso a reportes                     					     |        1       |
+|  15  |US15|Priorización de reportes               					     |        2       |
+|  16  |US16|Análisis de datos    							     |        3       |
+|  17  |US17|Estrategias usando el mapa de calor        				     |        5       |
+|  18  |US18|Mapa de calor        							     |        3       |
+|  19  |US19|Compartir ubicación      							     |        2       |
+|  20  |TS01|Integración del mapa interactivo                      			     |        3       |
+|  21  |TS02|GET and POST de reportes de seguridad                      		     |        3       |
+|  22  |TS03|GET and POST User                     					     |        2       |
+|  23  |TS04|Implementación de medidas de seguridad                    			     |        5       |
+|  24  |TS05|Pruebas y depuración                     					     |        3       |
+|  25  |TS06|Mantenimiento y actualizaciones                      			     |        2       |
+|  26  |TS07|GET and POST comentarios y valoraciones                      		     |        3       |
+|  27  |TS08|Establecer un canal de comunicación directa entre los usuarios y las autoridades|        5       |
+|  28  |TS09|Optimización del rendimiento                    				     |        3       |
