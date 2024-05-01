@@ -139,68 +139,153 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
         <td align="center">EP05</td>
     </tr>
     <tr>
-        <td align="center">US03</td>
-        <td align="justify">Personalización de rutas</td>
-        <td align="justify">Como transeúnte, quiero poder personalizar mis rutas en función de mis preferencias de seguridad.</td>
-        <td align="justify">
-            Escenario: Un transeúnte quiere personalizar su ruta en función de sus preferencias de seguridad.<br>
-            Given el transeúnte ha ingresado su ruta y ha accedido a las opciones de personalización.<br>
-            When el transeúnte ajusta sus preferencias de seguridad.<br>
-            Then la aplicación personaliza la ruta del transeúnte en función de sus preferencias.
-        </td>
-        <td align="center">EP02</td>
-    </tr>
-    <tr>
-        <td align="center">US04</td>
-        <td align="justify">Reporte de incidentes</td>
-        <td align="justify">Como transeúnte, quiero poder reportar incidentes de seguridad a través de la aplicación.</td>
-        <td align="justify">
-            Escenario: Un transeúnte quiere reportar un incidente de seguridad a través de la aplicación.<br>
-            Given el transeúnte ha presenciado un incidente de seguridad.<br>
-            When el transeúnte ingresa los detalles del incidente en la aplicación.<br>
-            Then la aplicación registra el incidente y actualiza la información de peligrosidad de la zona correspondiente.
-        </td>
-        <td align="center">EP05</td>
-    </tr>
-    <tr>
-        <td align="center">US06</td>
-        <td align="justify">Visualización de reportes</td>
-        <td align="justify">Como ciudadano, quiero poder ver los reportes de otros usuarios en el mapa de calor de peligrosidad.</td>
-        <td align="justify">
-            Escenario: Vizualizar los reportes de otros usuarios en el mapa de calor de peligrosidad.<br>
-            Given el transeúnte ha abierto el mapa de calor de peligrosidad en la aplicación.<br>
-            When hay reportes de otros usuarios disponibles para la zona que está viendo el transeúnte.<br>
-            Then la aplicación muestra los reportes de otros usuarios en el mapa de calor.
-        </td>
-        <td align="center">EP04</td>
-    </tr>
-    <tr>
-        <td align="center">US07</td>
-        <td align="justify">Acceso a reportes</td>
-        <td align="justify">Como entidad gubernamental, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.</td>
-        <td align="justify">
-            Escenario: acceso a los reportes de los ciudadanos<br>
-            Given que la entidad gubernamental desea visualizar los reportes.<br>
-            When la entidad gubernamental accede a la sección de reportes de la aplicación.<br>
-            Then la aplicación muestra a la entidad gubernamental los reportes de los ciudadanos.
-        </td>
-        <td align="center">EP03</td>
-    </tr>
-    <tr>
         <td align="center">US08</td>
-        <td align="justify">Análisis de datos</td>
-        <td align="justify">Como comisario, quiero poder analizar los datos recopilados para identificar patrones y tendencias.</td>
+        <td align="justify">Añadir foto de perfil</td>
+        <td align="justify">Como usuario, quiero tener la opción de añadir una foto de perfil, para personalizar mis perfil</td>
         <td align="justify">
-            Escenario: Un comisario quiere analizar los datos recopilados para identificar patrones y tendencias.<br>
-            Given el comisario tiene acceso a los datos recopilados por la aplicación.<br>
-            When el comisario utiliza las herramientas de análisis de datos de la aplicación.<br>
-            Then la aplicación proporciona al comisario los resultados del análisis de datos.
+            Escenario 1: Subida exitosa de una foto de perfil<br>
+            Given el usuario accede a la configuración de su cuenta,<br>
+            When el usuario encuentra la opción de "Foto de Perfil"<br>
+            Then se debe abrir un cuadro de diálogo que permita al usuario seleccionar una foto de su dispositivo,<br>
+            And cuando el usuario selecciona una foto y confirma la acción, <br>
+            Then la foto de perfil del usuario debe actualizarse con la foto seleccionada. <br>
+            Escenario 2: Fallo al subir una foto de perfil <br>
+            Given la imagen seleccionada por el usuario no cumple con los requisitos de formato especificados <br>
+            When el usuario confirme la acción de cambiar su foto de perfil <br>
+            Then el sistema muestra un mensaje de error indicando que el formato de la imagen no es válido. <br>
         </td>
-        <td align="center">EP03</td>
+        <td align="center">EP06</td>
     </tr>
     <tr>
         <td align="center">US09</td>
-        <td align="justify">Planificación de estrategias</td>
+        <td align="justify">Editar información de perfil</td>
+        <td align="justify">Como usuario, quiero poder editar mi información de perfil, para arreglar algunos errores de registro</td>
+        <td align="justify">
+            Escenario 1: Edición exitosa de información de perfil <br>
+            Given el usuario se registró en la aplicación <br>
+            And alguna parte de sus datos están incorrectos<br>
+            When el usuario accede a la configuración de su cuenta <br>
+            And selecciona la opción de "Editar Información",<br>
+            Then se debe abrir una página o un cuadro de diálogo que permita al usuario editar su información de perfil,<br>
+            And cuando el usuario realiza los cambios y confirma la acción <br>
+            Then la información de perfil del usuario debe actualizarse con la nueva información. <br>
+        </td>
+        <td align="center">EP06</td>
+    </tr>
+    <tr>
+        <td align="center">US10</td>
+        <td align="justify">Personalización de rutas</td>
+            <td align="justify">Como ciudadano, quiero poder personalizar preferencias de seguridad, para que mis rutas se ajusten a ellas.</td>
+        <td align="justify">
+            Escenario 1:  Personalización de preferencias de seguridad antes de seleccionar una ruta<br>
+            Given el ciudadano ha accedido a las opciones de personalización.<br>
+            When el ciudadano ajusta sus preferencias de seguridad.<br>
+            Then la aplicación personaliza la ruta del ciudadano en función de sus preferencias.
+            Escenario 2: Cambio de preferencias de seguridad durante la navegación <br>
+            Given Un ciudadano está utilizando la ruta que le sugirió la aplicación. <br>
+            When durante el viaje, el ciudadano se da cuenta de que prefiere ajustar sus preferencias de seguridad. <br>
+            Then el ciudadano puede cambiar sus preferencias de seguridad en cualquier momento <br>
+            And la aplicación ajustará la ruta en consecuencia. <br>
+        </td>
+        <td align="center">EP07</td>
+    </tr>
+ <tr>
+        <td align="center">US11</td>
+        <td align="justify">Visualización de Rutas Seguras</td>
+        <td align="justify">Como ciudadano, quiero poder ingresar mi destino en la aplicación, para poder elegir la ruta más segura para mi viaje</td>
+        <td align="justify">
+            Escenario 1: Selección de una ruta segura.<br>
+            Given el ciudadano desea desplazar hacia su destino usando la aplicación.<br>
+            When ingreso su destino en la aplicación y solicite las rutas posibles.<br>
+            And la aplicación  muestre varias rutas posibles hacia su destino. <br>
+            Then el usuario selecciona una ruta de acuerdo a sus preferencias y necesidades.
+        </td>
+        <td align="center">EP07</td>
+    </tr>
+    <tr>
+        <td align="center">US12</td>
+        <td align="justify">Reporte de incidentes</td>
+        <td align="justify">Como ciudadano, quiero poder reportar incidentes de seguridad que ocurran en mi ubicación a través de la aplicación, para alertar a otros usuarios que se encuentren en la zona y contribuir a la seguridad de la comunidad.</td>
+        <td align="justify">
+            Escenario 1: Reporte de un incidente de seguridad<br>
+            Given el usuario ha presenciado un incidente de seguridad.<br>
+            And decida usar la opción de "nuevo reporte" en la aplicación <br>
+            When el usuario ingresa los detalles del incidente en la aplicación.<br>
+            Then la aplicación registra el incidente y actualiza la información de peligrosidad de la zona correspondiente. <br>
+            Escenario 2: Adjuntar Evidencia Visual al Reporte de Incidentes  <br>
+            Given el usuario quiere darle credibilidad a un reporte <br>
+            When llena los detalles del reporte <br>
+            Then tendrá la opción de "subir evidencia" <br> 
+            And podrá compartir una foto del incidente <br>
+        </td>
+        <td align="center">EP08</td>
+    </tr>
+    <tr>
+        <td align="center">US13</td>
+        <td align="justify">Visualización de reportes</td>
+        <td align="justify">Como ciuddano, quiero poder ver los reportes de otros usuarios sobre incidentes ocurridos en la zona, para estar al tanto de los eventos de seguridad y tomar medidas apropiadas si es necesario.</td>
+        <td align="justify">
+            Escenario 1: Visualización de reportes recientes<br>
+            Given el ciudadano está navegando por la aplicación.<br>
+            When acceda a la opción de "ver reportes"<br>
+            And la aplicación reciba nuevos reportes de usarios <br>
+            Then la aplicación mostrará los reportes más recientes en la zona del ciudadano. <br>
+            And para cada reporte, se proporciona información detallada, como la ubicación, la descripción, tipo, la fecha, hora del incidente en que ocurrió. <br>
+            Escenario 2: Filtrado de reportes por tipo de incidente <br>
+            Given el ciudadano está interesado en un tipo específico de incidente. <br>
+            When seleccione un tipo de incidente en la aplicación <br>
+            Then la aplicación mostrará solo los reportes de ese tipo de incidente. <br>
+        </td>
+        <td align="center">EP10</td>
+    </tr>
+    <tr>
+        <td align="center">US14</td>
+        <td align="justify">Acceso a reportes</td>
+        <td align="justify">Como entidad gubernamental, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.</td>
+        <td align="justify">
+            Escenario 1: Análisis de reportes por parte de la entidad gubernamental<br>
+            Given la entidad gubernamental accede al sistema de gestión de reportes de la aplicación<br>
+            When la app permita a la entidad acceder a una interfaz que muestra todos los reportes de incidentes realizados por los usuarios.<br>
+            Then la entidad usarará los reportes para identificar tendencias o patrones en la incidencia de ciertos tipos de incidentes en áreas específicas. <br>
+            Escenario 2: Colaboración con la comunidad basada en datos de reportes <br>
+            Given la entidad gubernamental ha identificado un patrón de incidentes en una zona específica. <br>
+            When la entidad comparte esta información con la comunidad a través de la aplicación <br>
+            Then la entidadad organiza reuniones comunitarias para discutir los problemas de seguridad identificados y las posibles soluciones. <br>  
+        </td>
+        <td align="center">EP10</td>
+    </tr>
+    <tr>
+        <td align="center">US15</td>
+        <td align="justify">Priorización de reportes</td>
+        <td align="justify">Como entidad, quiero poder priorizar los reportes en función de su gravedad y urgencia para responder de manera más eficiente.</td>
+        <td align="justify">
+            Escenario 1: Priorización de un reporte de emergencia
+            Given que la entidad gubernamental recibe un reporte de un tiroteo en una zona <br>
+            When prioriza este reporte sobre otros menos urgentes en la cola de trabajo. <br>
+            Then la entidad asignará rápidamente recursos y unidades policiales para responder al incidente. <br>
+            Escenario 2: Manejo de un reporte menos urgente
+            Given que la entidad gubernamental recibe un reporte de un robo en una zona <br>
+            When la entidad decide que el robo no es una amenaza inmediata para la seguridad pública <br>
+            Then la entidad asignará recursos para investigar el incidente en un plazo de 24 horas. <br>
+        </td>
+        <td align="center">EP10</td>
+    </tr>
+    <tr>
+        <td align="center">US16</td>
+        <td align="justify">Análisis de datos</td>
+        <td align="justify">Como entidad gubernamental, quiero poder analizar los datos recopilados en el mapa de calor de mi zona para identificar áreas con alta densidad de incidentes de seguridad</td>
+        <td align="justify">
+            Escenario 1: entidad analiza los datos recopilados<br>
+            Given la entidad accede al mapa de calor<br>
+            When la entidad selecciona una región más destacada<br>
+            Then podrá veer los detalles de reportes de incidentes en esa área <br>
+            And usarlos para su análisis. <br>
+        </td>
+        <td align="center">EP09</td>
+    </tr>
+    <tr>
+        <td align="center">US17</td>
+        <td align="justify">Planificación de estrategias mapa de calor</td>
         <td align="justify">Como comisario, quiero utilizar la información recopilada para planificar estrategias contra la delincuencia.</td>
         <td align="justify">
             Escenario: Un comisario quiere utilizar la información recopilada para planificar estrategias contra la delincuencia.<br>
@@ -208,154 +293,35 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             When el comisario utiliza la información recopilada para planificar estrategias.<br>
             Then la aplicación registra las estrategias del comisario y las asocia con las áreas problemáticas correspondientes.
         </td>
-        <td align="center">EP03</td>
-    </tr>
-    <tr>
-        <td align="center">US10</td>
-        <td align="justify">Priorización de reportes</td>
-        <td align="justify">Como comisario, quiero poder priorizar los reportes en función de su gravedad y urgencia para responder de manera más eficiente.</td>
-        <td align="justify">
-            Escenario: Un comisario quiere poder priorizar los reportes en función de su gravedad y urgencia para responder de manera más eficiente.<br>
-            Given el comisario tiene acceso a los reportes de los usuarios.<br>
-            When el comisario clasifica los reportes en función de su gravedad y urgencia.<br>
-            Then la aplicación prioriza los reportes según la clasificación del comisario.
-        </td>
-        <td align="center">EP03</td>
-    </tr>
-    <tr>
-        <td align="center">US12</td>
-        <td align="justify">Visualización de Rutas Seguras</td>
-        <td align="justify">Como comisario, quiero poder ver las rutas seguras más utilizadas por los usuarios para entender mejor sus patrones de desplazamiento.</td>
-        <td align="justify">
-            Escenario: Un comisario quiere ver las rutas seguras más utilizadas por los usuarios para entender mejor sus patrones de desplazamiento.<br>
-            Given el comisario ha accedido a la sección de rutas seguras de la aplicación.<br>
-            When hay datos disponibles sobre las rutas seguras más utilizadas por los usuarios.<br>
-            Then la aplicación muestra al comisario las rutas seguras más utilizadas.
-        </td>
-        <td align="center">EP03</td>
-    </tr>
-    <tr>
-        <td align="center">US13</td>
-        <td align="justify">Añadir foto de perfil</td>
-        <td align="justify">Como usuario, quiero poder añadir una foto de perfil.</td>
-        <td align="justify">
-            Escenario:<br>
-            Given que el usuario está en su perfil,<br>
-            When el usuario selecciona la opción para añadir una foto de perfil,<br>
-            Then se debe abrir un cuadro de diálogo que permita al usuario seleccionar una foto de su dispositivo,<br>
-            And cuando el usuario selecciona una foto y confirma la acción, la foto de perfil del usuario debe actualizarse con la foto seleccionada.
-        </td>
-        <td align="center">EP06</td>
-    </tr>
-    <tr>
-        <td align="center">US15</td>
-        <td align="justify">Ver reportes</td>
-        <td align="justify">Como usuario, quiero poder ver los reportes de otros usuarios en las denuncias.</td>
-        <td align="justify">
-            Escenario:<br>
-            Given que el usuario está viendo una denuncia,<br>
-            When el usuario selecciona la opción para ver los reportes de otros usuarios,<br>
-            Then se debe mostrar una lista de reportes con las calificaciones y comentarios de otros usuarios.
-        </td>
-        <td align="center">EP04</td>
-    </tr>
-    <tr>
-        <td align="center">US16</td>
-        <td align="justify">Editar información de perfil</td>
-        <td align="justify">Como usuario, quiero poder editar mi información de perfil.</td>
-        <td align="justify">
-            Escenario:<br>
-            Given que el usuario está en su perfil,<br>
-            When el usuario selecciona la opción para editar su información de perfil,<br>
-            Then se debe abrir una página o un cuadro de diálogo que permita al usuario editar su información de perfil,<br>
-            And cuando el usuario realiza los cambios y confirma la acción, la información de perfil del usuario debe actualizarse con la nueva información.
-        </td>
-        <td align="center">EP06</td>
-    </tr>
-    <tr>
-        <td align="center">US17</td>
-        <td align="justify">Ver denuncias más recientes</td>
-        <td align="justify">Como usuario, quiero poder ver las denuncias más recientes en mi área.</td>
-        <td align="justify">
-            Escenario:<br>
-            Given que el usuario está en la página principal de la aplicación,<br>
-            When el usuario selecciona la opción para ver las denuncias más recientes,<br>
-            Then se debe mostrar una lista de las denuncias más recientes en su área.
-        </td>
-        <td align="center">EP04</td>
+        <td align="center">EP09</td>
     </tr>
     <tr>
         <td align="center">US18</td>
         <td align="justify">Mapa de calor</td>
-        <td align="justify">Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro</td>
+        <td align="justify">Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro en mi zona para tomar las medidas necesarias</td>
         <td align="justify">
-            Escenario:<br>
+            Escenario 1: acceso al mapa de calor<br>
             Given que el usuario está en la página principal de la aplicación,<br>
             When el usuario selecciona el mapa de calor,<br>
-            Then se debe mostrar el mapa de calor señalando las zonas peligrosas y/o seguras
+            Then se debe mostrar el mapa de calor señalando las zonas peligrosas y/o seguras de acuerdo a su ubicación
         </td>
-        <td align="center">EP04</td>
+        <td align="center">EP09</td>
     </tr>
     <tr>
         <td align="center">US19</td>
-        <td align="justify">Optimización de la Experiencia del Usuario</td>
-        <td align="justify">Como visitante de la Landing Page, quiero encontrar una landing page responsive</td>
-        <td align="justify">
-            Escenario:<br>
-            Given que el usuario ingresa a la landing page,<br>
-            When desee, donde desee y desde cualquier dispositivo,<br>
-            Then disfruta una experiencia fluida desde.
-        </td>
-        <td align="center">EP01</td>
-    </tr>
-    <tr>
-        <td align="center">US20</td>
-        <td align="justify">Desarrollo de Secciones Clave de la Landing Page</td>
-        <td align="justify">Como visitante de la Landing Page, quiero encontrar información clara y atractiva.</td>
-        <td align="justify">
-            Escenario:<br>
-            Given que la Landing Page funciona<br>
-            When esta recibe un visitante<br>
-            Then cada sección de la landing page de la aplicación, permite ser comprendida con facilidad y motiva su uso.
-        </td>
-        <td align="center">EP01</td>
-    </tr>
-    <tr>
-        <td align="center">US21</td>
-        <td align="justify">Implementación de Formularios de Contacto</td>
-        <td align="justify">Como visitante de la Landing Page, deseo encontrar formularios de contacto funcionales y accesibles</td>
-        <td align="justify">
-            Escenario:<br>
-            Given un usuario que visita la landing Page<br>
-            When tiene preguntas o preocupaciones<br>
-            Then la landing page de la aplicación ofrece un medio de comunicación efectiva con el equipo de desarrollo de PeaceApp.
-        </td>
-        <td align="center">EP04</td>
-    </tr>
-    <tr>
-        <td align="center">US22</td>
         <td align="justify">Compartir ubicación</td>
-        <td align="justify">Como usuario de PeaceApp, quiero poder compartir mi ubicación con mis contactos cercanos.</td>
+        <td align="justify">Como usuario de PeaceApp, quiero poder compartir mi ubicación con mis contactos cercanos, para que conozcan el nivel de peligrosidad de la zona</td>
         <td align="justify"> 
-            Escenario:<br>
+            Escenario 1: usuario comparte su ubicación<br>
             Given un usuario que comparte su ubicación con sus contactos cercanos<br>
             When se desplaza por las distintas zonas de la ciudad<br>
-            Then podrán monitorear su trayecto y saber si estoy seguro.
+            Then podrán monitorear su trayecto y saber si estoy seguro. <br>
+            Escenario 2: error al compartir ubicación<br>
+            Given un usuario que intenta compartir su ubicación con sus contactos cercanos<br>
+            When la aplicación no puede acceder a la ubicación del usuario<br>
+            Then se mostrará un mensaje de error indicando que no se puede compartir la ubicación. <br>
         </td>
-        <td align="center">EP04</td>
-    </tr>
-    <tr>
-        <td align="center">US23</td>
-        <td align="justify">Testimonios de Usuarios</td>
-        <td align="justify">Como visitante de la Landing Page, quiero encontrar las opiniones de los diferentes usuarios que han probado la aplicación. </td>
-        <td align="justify">
-            Escenario:<br>
-            Given un usuario que visita la Landing Page<br>
-            When tiene curiosidad por la eficiencia de la aplicación<br>
-            Then podrá ver opiniones de otros usuarios<br>
-            And tener una idea clara de su experiencia y satisfacción con PeaceApp
-        </td>
-        <td align="center">EP04</td>
+        <td align="center">EP09</td>
     </tr>
     <tr>
 		<td align="center">TS01</td>
