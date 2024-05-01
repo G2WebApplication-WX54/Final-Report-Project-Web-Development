@@ -53,6 +53,7 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creación de la Landing Page. Distribuiremos entre nosotros todas las tareas identificadas para este sprint.
 <table>
     <tr align="center">
         <td><strong>Sprint #</strong></td>
@@ -87,12 +88,12 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
 	        Victor Ernesto Zarate Caceres - U202112907
     </tr>
     <tr align="center">
-        <td>Sprint 0 Review Summary</td>
-        <td>No hubo sprint previo</td>
+        <td>Sprint 1 Review Summary</td>
+        <td>En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creación de la Landing Page. Distribuiremos entre nosotros todas las tareas identificadas para este sprint.</td>
     </tr>
     <tr align="center">
-        <td>Sprint 0 Retrospective Summary</td>
-        <td>No hubo sprint previo</td>
+        <td>Sprint 1 Retrospective Summary</td>
+        <td>En esta sección, todos los miembros expresaron que algunas partes del código fueron exitosas, mientras que en otras áreas sienten que podrían mejorar sus habilidades al desarrollar páginas de inicio.</td>
     </tr>
     <tr>
         <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
@@ -132,64 +133,95 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
         <td><strong>Status (To do / In process / To review / Done)</strong></td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US02</td>
+        <td>Estructura del Landing Page</td>
         <td>W-01</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Estructura del Landing Page</td>
+        <td>Crear la estructura de la Landing page para visualizar la información de la aplicación</td>
+        <td>2</td>
+        <td>Janiel</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US02</td>
+        <td>Sección Inicio</td>
         <td>W-02</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Estilos a la sección inicio</td>
+        <td>Añadir estilos a la sección de inicio</td>
+        <td>1</td>
+        <td>Victor</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US02</td>
+        <td>Sección Nosotros</td>
         <td>W-03</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Estilos a la sección nosotros</td>
+        <td>Añadir estilos a la sección de nosotros</td>
+        <td>1</td>
+        <td>Andres</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US02</td>
+        <td>Sección Aplicación</td>
         <td>W-04</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Estilos a la sección aplicación</td>
+        <td>Añadir estilos a la sección de aplicación</td>
+        <td>1</td>
+        <td>Andres</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US02</td>
+        <td>Sección Servicios</td>
         <td>W-05</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Estilos a la sección servicios</td>
+        <td>Añadir estilos a la sección de servicios</td>
+        <td>1</td>
+        <td>Andres</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US02</td>
+        <td>Sección Planes</td>
         <td>W-06</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Estilos a la sección planes</td>
+        <td>Añadir estilos a la sección de planes</td>
+        <td>1</td>
+        <td>Victor</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US01</td>
+        <td>Sección Contacto</td>
+        <td>W-07</td>
+        <td>Estilos a la sección contacto</td>
+        <td>Añadir estilos a la sección de contacto</td>
+        <td>1</td>
+        <td>Victor</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US02</td>
+        <td>Header de Navegación</td>
+        <td>W-08</td>
+        <td>Funcionalidad de navegación de la página</td>
+        <td>Añadir un Header de Navegación para agilizar la búsqueda de información en la Landing Page</td>
+        <td>1</td>
+        <td>Anatoly</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US02</td>
+        <td>Header de Navegación</td>
+        <td>W-09</td>
+        <td>Estilos al Header de Navegación</td>
+        <td>Añadir estilos al Header de Navegación
+        /td>
+        <td>1</td>
+        <td>Johan</td>
+        <td>Done</td>
     </tr>
 </table>
 
@@ -205,43 +237,43 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>develop</td>
+        <td>66f48121b2b9ccbe6e4eb7c3c920e698e686c4c4</td>
+        <td>feat: index html and images</td>
+        <td>-</td>
+        <td>14/04/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/adding-some-css</td>
+        <td>b20caabc8714404c89799fd0863e46131389744e</td>
+        <td>Create style.css</td>
+        <td>-</td>
+        <td>14/04/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/css-footer</td>
+        <td>b9ca48965254c9750cba2e9f64d46aa007667e2a</td>
+        <td>chore: styles.css</td>
+        <td>-</td>
+        <td>14/04/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/css-header-and-body</td>
+        <td>ddae7c7f723dab8e2ad9cb16ab28416e37ae2be6</td>
+        <td>docs: styles header and body added</td>
+        <td>-</td>
+        <td>14/04/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/javascript-movements</td>
+        <td>cc5104b442d99058db318446b93730dc4c2a8c27</td>
+        <td>feat: add JavaScript for landing page functionality</td>
+        <td>-</td>
+        <td>14/04/2024</td>
     </tr>
 </table>
 
@@ -259,11 +291,75 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>main</td>
+        <td>10baacc3ba06a9fd36e6cb3a00dbff4401550ece</td>
+        <td>initial commit</td>
+        <td>- Created the initial commit</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>66f48121b2b9ccbe6e4eb7c3c920e698e686c4c4</td>
+        <td>index html and images</td>
+        <td>- Added index HTML file</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>cc5104b442d99058db318446b93730dc4c2a8c27</td>
+        <td>add JavaScript for landing page functionality</td>
+        <td>- Added JavaScript file</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>b20caabc8714404c89799fd0863e46131389744e</td>
+        <td>Create style.css</td>
+        <td>- Added style CSS file</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>ddae7c7f723dab8e2ad9cb16ab28416e37ae2be6</td>
+        <td>styles header and body added</td>
+        <td>- Added styles for header and body</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>b9ca48965254c9750cba2e9f64d46aa007667e2a</td>
+        <td>styles.css</td>
+        <td>- Added some styles for the sections</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>0fa09ebe512404169eab1d25cf73bffa40ea9657</td>
+        <td>moving css from style to styles</td>
+        <td>- Moved css from style to styles</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>9cac788d73dcb4a83e13aa5b3200fa6c37ae577d</td>
+        <td>deleting some space in the code</td>
+        <td>- Deleted unnecesary spaces</td>
+        <td>14/04/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>main</td>
+        <td>311c9d575bdee6c3f674cb47382db1b174a1d4ba</td>
+        <td>translate content to English</td>
+        <td>- Added English as the default language</td>
+        <td>01/05/2024</td>
     </tr>
 </table>
 </div>
@@ -271,9 +367,37 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
 #### 5.2.1.5. Execution Evidence for Sprint Review
 <div align="justify">
     En el sprint 1 se diseñó de manera preliminar el primer modelo de la landing page. Esta cuenta con diferentes secciones para acceso de los usuarios. Algunas evidencias son:
-    <ul>
-        <li></li>
-    </ul>
+    
+##### Sección de Inicio:
+Se implementó el Header de nuestra Landing Page junto con la sección de inicio del Landing Page.
+
+<img src="/assets/Evidence Header and Start.png" alt="Evidence Header and Start" width="80%">
+
+##### Sección de Nosotros:
+Se implementó la sección de nosotros para describir sobre quienes somos.
+
+<img src="/assets/Evidence About Us.png" alt="Evidence About Us" width="80%">
+
+##### Sección de Aplicación:
+Se implementó la sección de la aplicación donde se muestra una pequeña descripción de la app.
+
+<img src="/assets/Evidence App.png" alt="Evidence App" width="80%">
+
+##### Sección de Servicios:
+Se implementó la sección de los servicios que ofreceremos a los usuarios.
+
+<img src="/assets/Evidence Services.png" alt="Evidence Services" width="80%">
+
+##### Sección de Planes:
+Se añadió la sección de planes donde podrán adquirir nuestro plan estándar (para los ciudadanos) o nuestro plan gubernamental (para las municipalidades).
+
+<img src="/assets/Evidence Plans.png" alt="Evidence Plans" width="80%">
+
+##### Sección de Contacto:
+Se añadió la sección de contactos donde podrán contactarse con los desarrolladores de la plataforma junto con el footer.
+
+<img src="/assets/Evidence Contact and Footer.png" alt="Evidence Contact and Footer" width="80%">
+
 </div>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -283,11 +407,10 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 <div align="justify">
-Nos enfocamos plenamente en asegurar un proceso de Deployment eficiente y efectivo. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo. Por ello, se presentan las siguientes evidencias:
-<ul>
-	<li></li>
-</ul>
+Nos enfocamos plenamente en asegurar un proceso de Deployment eficiente y efectivo. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo. Por ello, se presentan las siguientes evidencias:<br><br>
+<img src="/assets/Evidence Application.png" alt="Evidence Application" width="80%">
 </div>
+Enlace para acceder a la landing page: https://g2webapplication-wx54.github.io/landing-page-web-app/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 <div align="justify">
@@ -303,8 +426,14 @@ Tabla para poder identificarnos:
 |JanielFranz           |Janiel Franz Escalante Baygorrea |
 |JP19-03               |Johan Príncipe Godoy|
 |ern23zc               |Victor Ernesto Zarate Caceres |
-<img src="imgs/Insights1.1">
-<img src="imgs/Insights1.2">
+
+##### Commits:
+
+<img src="/assets/CommitsAnalysis.png" alt="CommitsAnalysis">
+
+##### Analíticas de Colaboración:
+
+<img src="/assets/ColaborationAnalysis.png" alt="ColaborationAnalysis">
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1.Sprint Planning 2.
