@@ -64,6 +64,80 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
         </td>
         <td align="center">EP01</td>
     </tr>
+ <tr>
+        <td align="center">US03</td>
+        <td align="justify"> Seleccion de tipo de usuario</td>
+        <td align="justify"> Como usuario de la aplicacion, quiero poder elegir el tipo de usuario que soy para poder tener mis beneficios según el tipo de usuario</td>
+        <td align="justify">
+            Escenario 1: El usuario ingresa a la aplicacion<br>
+            Given el usuario desee comenzar a usar la aplicacion<br>
+            When se registre tiene que seleccionar el tipo de usuario<br>
+            Then pasará al formulario para completar sus datos<br>
+	    And podrá entrar a la aplicacion con las funcionalidades para su tipo de usuario<br>
+        </td>
+        <td align="center">EP04</td>
+    </tr>
+<tr>
+        <td align="center">US04</td>
+        <td align="justify"> Registro como ciudadano</td>
+        <td align="justify"> Como ciudadano, quiero poder rellenar un formulario con mis datos personales para poder hacer uso mis funcionalidades como ciudadano</td>
+        <td align="justify">
+            Escenario 1: Usuario registra información.<br>
+		Given que un ciudadano llena el formulario<br>
+		When presione el boton "crear cuenta"<br>
+		Then el sistema guardará la informacion personal del usuario en la base de datos<br>
+	    Escenario 2: Usuario registra información incompleta. <br>
+		Given que un ciudadano no llena en la totalidad el formulario<br>
+		When presione el boton "crear cuenta"<br>
+		Then el sistema le mostrara una alerta en la parte del formlario que le falta llenar<br>
+        </td>
+        <td align="center">EP04</td>
+    </tr>
+    <tr>
+        <td align="center">US05</td>
+        <td align="justify"> Registro como entidad gubernamental</td>
+        <td align="justify"> Como entidad gubernamental, quiero poder rellenar un formulario con mis datos necesarios para poder hacer uso mis funcionalidades como entidad gubernamental</td>
+        <td align="justify">
+            Escenario 1: Entidad gubernamental completa registro<br>
+		Given que la entidad gubernamental completó el formulario exitosamente<br>
+		When presione el boton "siguiente"<br>
+		Then el sistema redireccionará a pantalla de pago de la suscripcion<br>
+	    Escenario 2: Sistema rechaza credenciales<br>
+		Given que la entidad gubernamenta haya intentado registrarse en la aplicacion<br>
+		When el sistema verifique que las credenciales no son validas<br>
+		Then la entidad gubernamental recibira una notificacion para reintentar subir sus credenciales<br>
+        </td>
+        <td align="center">EP04</td>
+    </tr>
+    <tr>
+        <td align="center">US06</td>
+        <td align="justify">Alertas de Zonas de Riesgo</td>
+        <td align="justify">Como ciudadano, quiero recibir alertas si me acerco y/o estoy en una zona de alto riesgo, para estar atento y tomar las precauciones pertinentes</td>
+        <td align="justify">
+            Escenario 1: Ciudadano recibe una alerta anticipada.<br>
+            Given el ciudadano se esta desplazando usando sus dispositivo movil<br>
+            When el sistema la aplicación detecta que el ciudadano se está acercando a una zona de alto riesgo.<br>
+            Then la aplicación envía una alerta visual y auditiva al ciudadano.
+	    Escenario 2 Ciudadano recibe alerta:
+     	    Given el ciudadano se esta caminando en una zona de peligro segun la aplicacion<br>
+	    And empieza a usar su dispositivo movil<br>
+            When el sistema detecta que esta usando sus dispositivo movil y en una zona de peligro<br>
+      	    Then la aplicacion envia una alerta visual y auditiva al ciudadano<br>	
+        </td>
+        <td align="center">EP05</td>
+    </tr>
+    <tr>
+        <td align="center">US07</td>
+        <td align="justify">Recibir notificaciones sobre reportes recientes</td>
+        <td align="justify">Como ciudadano, quiero recibir notificaciones sobre los reportes recientes para poder estar mejor informado del lugar donde me encuentro</td>
+        <td align="justify">
+            Escenario 1: Actualizacion sobre reportes recientes<br>
+            Given que el ciudadano tiene la opcion de recibir notificaciones sobre los reportes reciente activada<br>
+            When la aplicacion reciba nuevas reportes de otros ciudadanos en la zona donde el se encuentra<br>
+            Then el ciudadano será notificado sobre nuevos reportes por la aplicacion<br>
+        </td>
+        <td align="center">EP05</td>
+    </tr>
     <tr>
         <td align="center">US03</td>
         <td align="justify">Personalización de rutas</td>
@@ -89,23 +163,11 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
         <td align="center">EP05</td>
     </tr>
     <tr>
-        <td align="center">US05</td>
-        <td align="justify">Alertas de Zonas de Riesgo</td>
-        <td align="justify">Como usuario, quiero recibir alertas si me acerco a una zona de alto riesgo.</td>
-        <td align="justify">
-            Escenario: Un usuario recibe una alerta cuando se acerca a una zona de alto riesgo.<br>
-            Given el usuario está utilizando la aplicación mientras se desplaza.<br>
-            When la aplicación detecta que el usuario se está acercando a una zona de alto riesgo.<br>
-            Then la aplicación envía una alerta al usuario.
-        </td>
-        <td align="center">EP05</td>
-    </tr>
-    <tr>
         <td align="center">US06</td>
         <td align="justify">Visualización de reportes</td>
-        <td align="justify">Como transeúnte, quiero poder ver los reportes de otros usuarios en el mapa de calor de peligrosidad.</td>
+        <td align="justify">Como ciudadano, quiero poder ver los reportes de otros usuarios en el mapa de calor de peligrosidad.</td>
         <td align="justify">
-            Escenario: Un transeúnte quiere ver los reportes de otros usuarios en el mapa de calor de peligrosidad.<br>
+            Escenario: Vizualizar los reportes de otros usuarios en el mapa de calor de peligrosidad.<br>
             Given el transeúnte ha abierto el mapa de calor de peligrosidad en la aplicación.<br>
             When hay reportes de otros usuarios disponibles para la zona que está viendo el transeúnte.<br>
             Then la aplicación muestra los reportes de otros usuarios en el mapa de calor.
@@ -115,12 +177,12 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
     <tr>
         <td align="center">US07</td>
         <td align="justify">Acceso a reportes</td>
-        <td align="justify">Como comisario, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.</td>
+        <td align="justify">Como entidad gubernamental, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.</td>
         <td align="justify">
-            Escenario: Un comisario quiere tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.<br>
-            Given el comisario ha iniciado sesión en la aplicación con su cuenta de comisario.<br>
-            When el comisario accede a la sección de reportes de la aplicación.<br>
-            Then la aplicación muestra al comisario los reportes de los usuarios.
+            Escenario: acceso a los reportes de los ciudadanos<br>
+            Given que la entidad gubernamental desea visualizar los reportes.<br>
+            When la entidad gubernamental accede a la sección de reportes de la aplicación.<br>
+            Then la aplicación muestra a la entidad gubernamental los reportes de los ciudadanos.
         </td>
         <td align="center">EP03</td>
     </tr>
@@ -161,18 +223,6 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
         <td align="center">EP03</td>
     </tr>
     <tr>
-        <td align="center">US11</td>
-        <td align="justify">Comunicación con entidades asociadas</td>
-        <td align="justify">Como comisario, quiero poder compartir información relevante con otras entidades de seguridad para coordinar esfuerzos.</td>
-        <td align="justify">
-            Escenario: Un comisario quiere compartir información relevante con otras entidades de seguridad para coordinar esfuerzos.<br>
-            Given el comisario ha identificado información relevante que desea compartir.<br>
-            When el comisario utiliza la función de compartir de la aplicación.<br>
-            Then la aplicación comparte la información seleccionada con las entidades de seguridad seleccionadas por el comisario.
-        </td>
-        <td align="center">EP03</td>
-    </tr>
-    <tr>
         <td align="center">US12</td>
         <td align="justify">Visualización de Rutas Seguras</td>
         <td align="justify">Como comisario, quiero poder ver las rutas seguras más utilizadas por los usuarios para entender mejor sus patrones de desplazamiento.</td>
@@ -196,18 +246,6 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
             And cuando el usuario selecciona una foto y confirma la acción, la foto de perfil del usuario debe actualizarse con la foto seleccionada.
         </td>
         <td align="center">EP06</td>
-    </tr>
-    <tr>
-        <td align="center">US14</td>
-        <td align="justify">Recibir notificaciones sobre zona peligrosa</td>
-        <td align="justify">Como usuario, quiero recibir notificaciones cuando me este acercando a una zona peligrosa</td>
-        <td align="justify">
-            Escenario:<br>
-            Given que el usuario ha activado las notificaciones de zonas peligrosas en la configuración de la aplicación,<br>
-            When el usuario se acerca a una zona marcada como peligrosa,<br>
-            Then el usuario debe recibir una notificación alertándole de la proximidad a la zona peligrosa.
-        </td>
-        <td align="center">EP04</td>
     </tr>
     <tr>
         <td align="center">US15</td>
