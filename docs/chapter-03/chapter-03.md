@@ -402,148 +402,182 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
     </tr>
     <tr>
 		<td align="center">TS01</td>
-        <td align="justify">Integración del mapa interactivo</td>
-        <td align="justify">Como desarrollador quiero implementar un mapa interactivo para ser el eje de funcionamiento.</td>
+        <td align="justify">POST Inicident</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero registrar los incidentes reportados mediante una API
+Para visualizar los reportes que realizan los ciudadanos.</td>
         <td align="justify">
-	        Escenario:
-	        Given que se desea desplegar un mapa de calor<br>
-	        When el usuario cargue la página<br>
-	        Then debería usar una API de mapas para hacerlo posible. 
+	        Escenario 1:<br>
+		Dado que tengo acceso al API de registro de inicidentes<br>
+		Cuando envio una solicitud con datos válidos de un nuevo incidente<br>
+		Entonces el incidente se registra exitosamente en la base de datos<br>
+		Escenario 2:<br>
+		Dado que tengo acceso al API de registro de inicidentes<br>
+		Cuando envio una solicitud con datos válidos de un nuevo incidente<br>
+		Entonces el incidente se registra exitosamente en la base de datos
 	    </td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS02</td>
-        <td align="justify">GET and POST de reportes de seguridad</td>
-        <td align="justify">Como desarrollador quiero habilitar la creación y retorno de reportes de incidentes de seguridad para la seguridad de los usuarios.</td>
+        <td align="justify">GET Incident</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero obtener la información de un incidente mediante una API
+Para mostrarla en la aplicación cuando se solicite.
+</td>
         <td align="justify">
-            Escenario 1: Crear un nuevo reporte de seguridad<br>
-            Given que el usuario está en la página de reportes<br>
-            When el usuario completa el formulario con los detalles del incidente<br>
-            And el usuario envía el reporte<br>
-            Then debería ver un mensaje de confirmación y el reporte debería almacenarse en la API y aparecer en la lista de reportes<br><br>
-            Escenario 2: Ver detalles de un reporte existente
-            Given que el usuario está en la página de reportes<br>
-            When el usuario selecciona un reporte de la lista<br>
-            Then la aplicación hace el GET con la API<br>
-            And debería ver los detalles completos del reporte
+            Escenario 1:<br>
+		Dado que tengo acceso al API de obtención de información de incidentes<br>
+		Cuando solicito la información de un incidente existente <br>
+		Entonces recibo la información en el formato esperado.<br>
+		Escenario 2:<br>
+		Dado que tengo acceso al API de obtención de información de incidentes<br>
+		Cuando solicito la información de un incidente no existente <br>
+		Entonces recibo un mensaje de error adecuado.
         </td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS03</td>
-        <td align="justify">GET and POST User</td>
-        <td align="justify">Como desarrollador quiero registrar los datos de nuevos usuario mediantes una API para obtener a los que se encuentran afiliados.</td>
+        <td align="justify">POST User</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero registrar a un nuevo usuario mediante una API
+Para visualizar a los usuarios afiliados a nuestra app.</td>
         <td align="justify">
-	        Escenario 1: Usuario se registra en la página web<br>
-	        Given que tengo acceso a la API de registro de usuarios<br>
-	        When se envía una solicitud con datos válidos de un nuevo usuario<br>
-	        Then el usuario se registra exitosamente y se envía una confirmación. <br><br>
-	        Escenario 2: Usuario ingresa a la página web<br>
-	        Given que el usuario accede a la página de inicio de sesión<br>
-	        When hace clic en el botón de iniciar sesión<br>
-	        Then los datos ingresados se comparan con los de la API<br>
-	        And se autoriza el ingreso de ser al caso.
+	        Escenario 1:<br>
+Dado que tengo acceso a al API de registro de usuarios <br>
+Cuando envío una solicitud con datos válidos de un nuevo usuario<br>
+Entonces el usuario se registro exitosamente en la base de datos y recibo una confirmación<br>
+Escenario 2:<br>
+Dado que tengo acceso a al API de registro de usuarios <br>
+Cuando envío una solicitud con datos no válidos de un nuevo usuario<br>
+Entonces la solicitud es rechazada y recibo un mensaje de error adecuado.
 		</td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS04</td>
-        <td align="justify">Implementación de medidas de seguridad</td>
-        <td align="justify">Como desarrollador quiero incorporar medidas de seguridad robustas para proteger la información sensible de los usuarios y garantizar la integridad del sistema.</td>
+        <td align="justify">GET User</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero obtener la información de un usuario mediante una API
+Para mostrarla en la aplicación cuando se solicite.</td>
         <td align="justify">
-	        Escenario: Encriptación de datos de usuario<br>
-	        Given que un usuario se registra en la plataforma<br>
-	        When se ingresan los datos personales<br>
-	        Then los datos de usuario se almacenan en la base de datos de forma encriptada<br>
-	        And el usuario puede iniciar sesión utilizando su contraseña encriptada
+	       Escenario 1:<br>
+Dado que tengo acceso al API de obtención de información de usuarios <br>
+Cuando solicito la información de un usuario existente<br>
+Entonces recibo la información del usuario en el formato esperado.<br>
+Escenario 2:<br>
+Dado que tengo acceso a al API de obtención de información de usuarios <br>
+Cuando solicito la información de un usuario que no existe<br>
+Entonces recibo un mensaje de error adecuado
         </td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS05</td>
-        <td align="justify">Pruebas y depuración</td>
-        <td align="justify">Como desarrollador quiero realizar pruebas exhaustivas para identificar y corregir los errores o fallos de todas las funcionalidades implementadas.</td>
+        <td align="justify">POST Payment Card</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero registrar la información de pago de las empresas o entidades mediante una API
+Para contar con la información para pagos seguros.</td>
         <td align="justify">
-	        Escenario 1: Pruebas de funcionamiento de todas las funcionalidades<br>
-	        Given la implementación de todas las funcionalidades de la página web<br>
-	        When se realizan pruebas exhaustivas para verificar el correcto funcionamiento<br>
-	        Then se verifican los datos almacenados en la API<br>
-	        And que las medidas de seguridad funcionen correctamente.<br><br>
-	        Escenario 2: Corrección de errores identificados en las pruebas<br>
-	        Given errores o fallos de funcionamiento en la página web<br>
-	        When se identifica la causa de los errores<br>
-	        Then se implementan las correcciones necesarias<br>
-	        And se realizan más pruebas para verificar que se corrigieron los errores.
+	        Escenario 01:<br>
+Dado que tengo acceso al API de registro de la información de pago<br>
+Cuando envio la solicitud con datos válidos de una tarjeta <br>
+Entonces la tarjeta de pago se registra correctamente en la base de datos y recibo una notificación<br>
+Escenario 02:<br>
+Dado que tengo acceso al API de registro de la información de pago<br>
+Cuando envio la solicitud con datos invalidos de una tarjeta<br>
+Entonces recibo un mensaje de error adecuado.
 	    </td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS06</td>
-        <td align="justify">Mantenimiento y actualizaciones</td>
-        <td align="justify">Como desarrollador quiero establecer un plan de mantenimiento continuo para realizar actualizaciones periódicas y agregar nuevas funcionalidades según sea necesario.</td>
+        <td align="justify">GET Payment Card</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero obtener la información de pago de las empresas o entidades mediante una API
+Para recibir los pagos en la aplicación cuando lo solicite.</td>
         <td align="justify">
-	        Escenario: Actualización del sistema<br>
-	        Given que se han creado nuevas funcionalidadas<br>
-	        When los administradores inician sesión en el panel de administración<br>
-	        Then la actualización del sistema se despliega correctamente<br>
-	        And está disponible para los usuarios.
+	        Escenario 01:<br>
+Dado que tengo acceso al API de registro de la información de pago<br>
+Cuando solicito la información de tarjetas de pago de una organización <br>
+Entonces recibo la información la tarjeta de pago en el formato esperado<br>
+Escenario 02:<br>
+Dado que tengo acceso al API de registro de la información de pago<br>
+Cuando solicito la información de tarjetas de pago de una organización que no tiene tarjetas registradas <br>
+Entonces recibo un mensaje indicando que no hay tarjetas registradas
 	    </td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS07</td>
-        <td align="justify">GET and POST comentarios y valoraciones</td>
-        <td align="justify">Como desarrollador quiero Implementar un sistema de comentarios y valoraciones para que los usuarios puedan compartir sus experiencias</td>
+        <td align="justify">GET Reports by user</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero obtener la información de que usuarios realizan los reportes mediante una API
+Para mostrarla en la aplicación cuando se solicite.</td>
         <td align="justify">
-	        Escenario 1: Un usuario puede agregar un comentario<br>
-	        Given el usuario está en la página del mapa<br>
-	        When el usuario selecciona un área específica en el mapa<br>
-	        Then escribe un comentario sobre el área<br>
-	        And se almacena el comentario en la sección de comentarios de la API<br><br>
-	        Escenario 2: Un usuario puede ver un comentario
-	        Given el usuario está en la página del mapa<br>
-	        When el usuario selecciona un área específica en el mapa<br>
-	        Then se hace el llamdo a la sección de comentarios de la API<br>
-	        And el usuario pueder ver los comentarios.
+	        Escenario 01:<br>
+Dado que tengo acceso al API de obtención de reportes por usuario<br>
+Cuando solicito la información de reportes por usuario existente<br>
+Entonces recibo la información de los reportes en el formato esperado<br>
+Escenario 02:<br>
+Dado que tengo acceso al API de obtención de reportes por usuario<br>
+Cuando solicito la información de reportes por un usuario que no existente<br>
+Entonces recibo un mensaje de error adecuado.
 	     </td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS08</td>
-        <td align="justify">Establecer un canal de comunicación directa entre los usuarios y las autoridades </td>
-        <td align="justify">Como desarrollador quiero establecer un canal de comunicación directa entre los usuarios y las autoridades para que se envíen alertas o se solicite asistencia en tiempo real.</td>
+        <td align="justify">GET zones by Quantity Incidents</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación de PeaceApp
+Quiero obtener la información de en que zonas se registraron los incidentes mediante una API
+Para mostrarla en la aplicación cuando se solicite la cantidad de incidentes en una zona.</td>
         <td align="justify">
-	        Escenario 1: Un usuario puede enviar una alerta a las autoridades<br>
-	        Given el usuario experimenta una mala experiencia<br>
-	        When se selecciona la opción de enviar una alerta a las autoridades<br>
-	        And proporciona detalles sobre la situación y ubicación<br>
-	        And presiona el botón de enviar alerta<br>
-	        Then se envía una alerta a las autoridades de seguridad<br><br>
-	        Escenario 2: Un usuario puede solicitar asistencia en tiempo real<br>
-	        Given se requiere asistencia inmediata<br>
-	        When el usuario selecciona la opción adecuada<br>
-	        And especifica el tipo de ayuda que necesita<br>
-	        Then se obtiene la ubicación en tiempo real<br>
-	        And se envía la solicitud
+	        Escenario 01:<br>
+Dado que tengo acceso al API de obtención de zonas por cantidad de incidentes <br>
+Cuando solicito la información de zonas existentes por cantidad de incidentes<br>
+Entonces recibo la información de las zonas por la cantidad de incidentes en el formato esperado<br>
+Escenario 02:<br>
+Dado que tengo acceso al API de obtención de zonas por cantidad de incidentes <br>
+Cuando solicito la información de zonas inexistentes por cantidad de incidentes<br>
+Entonces recibo un mensaje de error adecuado.
         </td>
         <td align="center">-</td>
 	</tr>
 	<tr>
 		<td align="center">TS09</td>
-        <td align="justify">Optimización del rendimiento</td>
-        <td align="justify">Como desarrollador quiero mejorar el rendimiento de la página web para garantizar una experiencia fluida para los usuarios.</td>
+        <td align="justify">POST address To Go</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación PeaceApp
+Quiero registrar la información de la dirección a la que se va a movilizar el ciudadano mediante una API
+Para contar con la información que necesitará el API de Google Maps.</td>
         <td align="justify">
-	        Escenario 1: Carga rápida de la página principal<br>
-	        Given que el usuario accede a la página principal<br>
-	        When la página se carga completamente<br>
-	        Then la página se muestra en menos de 3 segundos<br>
-	        And todos los elementos son visibles y funcionales<br><br>
-	        Escenario 2: Optimización de recursos estáticos<br>
-	        Given el tamaño total de los recursos descargados es mínimo<br>
-	        When el usuario ingresa a la página<br>
-	        Then los recursos estáticos se cargan de manera eficiente y rápida<br>
-	        And la página carga con rapidez y fluidez.
+	        Escenario 01:<br>
+Dado que tengo acceso al API de registro de la dirección a la que el usuario irá<br>
+Cuando envio la solicitud con la información de una dirección existente<br>
+Entonces la dirección se registra exitosamente en la base de datos y recibo una confirmación<br>
+Escenario 02:<br>
+Dado que tengo acceso al API de obtención de la dirección a la que el usuario irá<br>
+Cuando envio una solicitud con la información de una dirección no existente<br>
+Entonces la solicitud es rechazada y recibo un mensaje de error adecuado.
+        </td>
+        <td align="center">-</td>
+	</tr>
+ <tr>
+		<td align="center">TS10</td>
+        <td align="justify">GET users by kind</td>
+        <td align="justify">Como desarrollador que trabaja en la aplicación PeaceApp
+Quiero obtener la información de los usuarios por el tipo de usuario mediante una API
+Para brindar la diferentes funcionalidades en la aplicación de acuerdo a la membresia.</td>
+        <td align="justify">
+	        Escenario 01:<br>
+Dado que tengo acceso al API de obtención de usuarios por el tipo<br>
+Cuando solicito la información de usuarios existentes por el tipo <br>
+Entonces recibo la información de los usuarios por el tipo<br>
+Escenario 02:<br>
+Dado que tengo acceso al API de obtención de usuarios por el tipo<br>
+Cuando solicito la información de usuarios inexistentes por el tipo <br>
+Entonces recibo un mensaje de error adecuado.
         </td>
         <td align="center">-</td>
 	</tr>
