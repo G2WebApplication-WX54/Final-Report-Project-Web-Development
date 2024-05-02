@@ -608,12 +608,13 @@ Entonces recibo un mensaje de error adecuado.
 |  17  |US17|Estrategias usando el mapa de calor        				     |        5       |
 |  18  |US18|Mapa de calor        							     |        3       |
 |  19  |US19|Compartir ubicación      							     |        2       |
-|  20  |TS01|Integración del mapa interactivo                      			     |        3       |
-|  21  |TS02|GET and POST de reportes de seguridad                      		     |        3       |
-|  22  |TS03|GET and POST User                     					     |        2       |
-|  23  |TS04|Implementación de medidas de seguridad                    			     |        5       |
-|  24  |TS05|Pruebas y depuración                     					     |        3       |
-|  25  |TS06|Mantenimiento y actualizaciones                      			     |        2       |
-|  26  |TS07|GET and POST comentarios y valoraciones                      		     |        3       |
-|  27  |TS08|Establecer un canal de comunicación directa entre los usuarios y las autoridades|        5       |
-|  28  |TS09|Optimización del rendimiento                    				     |        3       |
+|  20  |TS01|POST Inicident                      			    		     |        1       |
+|  21  |TS02|GET Incident                      						     |        3       |
+|  22  |TS03|POST User                     						     |        3       |
+|  23  |TS04|GET User                    						     |        3       |
+|  24  |TS05|POST Payment Card                     					     |        3       |
+|  25  |TS06|GET Payment Card                      					     |        3       |
+|  26  |TS07|GET Reports by user                      					     |        1       |
+|  27  |TS08|GET zones by Quantity Incidents					   	     |        1       |
+|  28  |TS09|POST address To Go                    					     |        1       |
+|  29  |TS10|GET users by kind								     |	      1       |
