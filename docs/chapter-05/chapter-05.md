@@ -104,11 +104,11 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
     </tr>
     <tr align="center">
         <td>Sprint 1 Velocity</td>
-        <td></td>
+        <td>5</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td></td>
+        <td>5</td>
     </tr>
 </table>
 
