@@ -587,34 +587,34 @@ Entonces recibo un mensaje de error adecuado.
 <img src="../../assets/Impact_mapping.png" alt="Impact map">
 
 ## 3.4. Product Backlog
-|#Orden| ID |                                  User Story                                    |  Story Points  |
-|:-----|:--:|:-------------------------------------------------------------------------------|:--------------:|
-|  01  |US01|Contactar con la startup                      				     |        3       |
-|  02  |US02|Navegar en el landing page                      				     |        1       |
-|  03  |US03|Seleccion de tipo de usuario                      				     |        2       |
-|  04  |US04|Registro como ciudadano                      				     |        2       |
-|  05  |US05|Registro como entidad gubernamental                      			     |        3       |
-|  06  |US06|Alertas de Zonas de Riesgo                      				     |        5       |
-|  07  |US07|Recibir notificaciones sobre reportes recientes                      	     |        3       |
-|  08  |US08|Añadir foto de perfil                      				     |        1       |
-|  09  |US09|Editar información de perfil                      				     |        1       |
-|  10  |US10|Personalización de rutas                      				     |        3       |
-|  11  |US11|Visualización de Rutas Seguras                     			     |        2       |
-|  12  |US12|Reporte de incidentes                    					     |        5       |
-|  13  |US13|Visualización de reportes                     				     |        2       |
-|  14  |US14|Acceso a reportes                     					     |        1       |
-|  15  |US15|Priorización de reportes               					     |        2       |
-|  16  |US16|Análisis de datos    							     |        3       |
-|  17  |US17|Estrategias usando el mapa de calor        				     |        5       |
-|  18  |US18|Mapa de calor        							     |        3       |
-|  19  |US19|Compartir ubicación      							     |        2       |
-|  20  |TS01|POST Inicident                      			    		     |        1       |
-|  21  |TS02|GET Incident                      						     |        3       |
-|  22  |TS03|POST User                     						     |        3       |
-|  23  |TS04|GET User                    						     |        3       |
-|  24  |TS05|POST Payment Card                     					     |        3       |
-|  25  |TS06|GET Payment Card                      					     |        3       |
-|  26  |TS07|GET Reports by user                      					     |        1       |
-|  27  |TS08|GET zones by Quantity Incidents					   	     |        1       |
-|  28  |TS09|POST address To Go                    					     |        1       |
-|  29  |TS10|GET users by kind								     |	      1       |
+|#Orden| ID |                   Título                      |Descripción |Story Points|
+|:----:|:--:|:----------------------------------------------|:-----------|:----------:|
+|  01  |US02|Navegar en el landing page                     |Como visitante de la landing page, quiero encotrar las secciones bien definidas para comprender fácilmente la información mostrada.|1|
+|  02  |US18|Mapa de calor                                  |Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro en mi zona para tomar las medidas necesarias|3|
+|  03  |US17|Estrategias usando el mapa de calor            |Como comisario, quiero utilizar la información recopilada para planificar estrategias contra la delincuencia.|5|
+|  04  |US19|Compartir ubicación                            |Como usuario, quiero poder compartir mi ubicación con mis contactos cercanos, para que conozcan el nivel de peligrosidad de la zona|2|
+|  05  |US06|Alertas de Zonas de Riesgo                     |Como ciudadano, quiero recibir alertas si me acerco y/o estoy en una zona de alto riesgo, para estar atento y tomar las precauciones pertinentes|5|
+|  06  |TS08|GET zones by Quantity Incidents                |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de en que zonas se registraron los incidentes mediante una API Para mostrarla en la aplicación cuando se solicite la cantidad de incidentes en una zona.|1|
+|  07  |US11|Visualización de Rutas Seguras                 |Como ciudadano, quiero poder ingresar mi destino en la aplicación, para poder elegir la ruta más segura para mi viaje|2|
+|  08  |US10|Personalización de rutas                       |Como ciudadano, quiero poder personalizar preferencias de seguridad, para que mis rutas se ajusten a ellas.|3|
+|  09  |TS09|POST address To Go                             |Como desarrollador que trabaja en la aplicación PeaceApp Quiero registrar la información de la dirección a la que se va a movilizar el ciudadano mediante una API Para contar con la información que necesitará el API de Google Maps.|1|
+|  10  |US12|Reporte de incidentes                          |Como ciudadano, quiero poder reportar incidentes de seguridad que ocurran en mi ubicación a través de la aplicación, para alertar a otros usuarios que se encuentren en la zona y contribuir a la seguridad de la comunidad.|5|
+|  11  |TS07|GET Reports by user                            |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de que usuarios realizan los reportes mediante una API Para mostrarla en la aplicación cuando se solicite.|1|
+|  12  |US13|Visualización de reportes                      |Como ciuddano, quiero poder ver los reportes de otros usuarios sobre incidentes ocurridos en la zona, para estar al tanto de los eventos de seguridad y tomar medidas apropiadas si es necesario.|2|
+|  13  |US14|Acceso a reportes                              |Como entidad gubernamental, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.|1|
+|  14  |US15|Priorización de reportes                       |Como entidad, quiero poder priorizar los reportes en función de su gravedad y urgencia para responder de manera más eficiente.|2|
+|  15  |US16|Análisis de datos                              |Como entidad gubernamental, quiero poder analizar los datos recopilados en el mapa de calor de mi zona para identificar áreas con alta densidad de incidentes de inseguridad|3|
+|  16  |TS01|POST Inicident                                 |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar los incidentes reportados mediante una API Para visualizar los reportes que realizan los ciudadanos.|1|
+|  17  |TS02|GET Incident                                   |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de un incidente mediante una API Para mostrarla en la aplicación cuando se solicite.|3|
+|  18  |US07|Recibir notificaciones sobre reportes recientes|Como ciudadano, quiero recibir notificaciones sobre los reportes recientes para poder estar mejor informado del lugar donde me encuentro|3|
+|  19  |TS05|POST Payment Card                              |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar la información de pago de las empresas o entidades mediante una API Para contar con la información para pagos seguros.|3|
+|  20  |TS06|GET Payment Card                               |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de pago de las empresas o entidades mediante una API Para recibir los pagos en la aplicación cuando lo solicite.|3|
+|  21  |US03|Seleccion de tipo de usuario                   |Como usuario de la aplicacion, quiero poder elegir el tipo de usuario que soy para poder tener mis beneficios según el tipo de usuario|2|
+|  22  |TS03|POST User                                      |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar a un nuevo usuario mediante una API Para visualizar a los usuarios afiliados a nuestra app.|3|
+|  23  |US04|Registro como ciudadano                        |Como ciudadano, quiero poder rellenar un formulario con mis datos personales para poder hacer uso mis funcionalidades como ciudadano|2|
+|  24  |US05|Registro como entidad gubernamental            |Como entidad gubernamental, quiero poder rellenar un formulario con mis datos necesarios para poder hacer uso mis funcionalidades como entidad gubernamental|3|
+|  25  |TS04|GET User                                       |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de un usuario mediante una API Para mostrarla en la aplicación cuando se solicite.|3|
+|  26  |TS10|GET users by kind                              |Como desarrollador que trabaja en la aplicación PeaceApp Quiero obtener la información de los usuarios por el tipo de usuario mediante una API Para brindar la diferentes funcionalidades en la aplicación de acuerdo a la membresia.|1|
+|  27  |US08|Añadir foto de perfil                          |Como usuario, quiero tener la opción de añadir una foto de perfil, para personalizar mis perfil|1|
+|  28  |US09|Editar información de perfil                   |Como usuario, quiero poder editar mi información de perfil, para arreglar algunos errores de registro|1|
+|  29  |US01|Contactar con la startup                       |Como visitante de la Landing Page, quiero encontrar un formulario de contacto funcional y accesible para poder comunicarme con la startup.|3|
