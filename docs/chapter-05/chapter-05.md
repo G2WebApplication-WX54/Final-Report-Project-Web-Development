@@ -19,7 +19,6 @@
 
 
 ### 5.1.2. Source Code Management.
-
 El proyecto adoptará las convenciones de flujo de trabajo del modelo GitFlow para la gestión de versiones, utilizando GitHub como la plataforma y el sistema de control de versiones.<br>
 
 **Estructura de las ramas (branches)**:
@@ -31,7 +30,6 @@ El proyecto adoptará las convenciones de flujo de trabajo del modelo GitFlow pa
 Convenciones de los Commits: Para los mensajes de los commits realizados, se utilizará la especificación de los Commits Convencionales
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-
 HTML: Aquí hay algunas prácticas recomendadas para lograr un código HTML coherente, mantenible y bien organizado:<br>
 
 Nos aseguramos de cerrar todos los elementos HTML. Por ejemplo, \<p>Esto es un párrafo.\</p>.
@@ -40,7 +38,6 @@ Es recomendable especificar el texto alternativo y las dimensiones (ancho y alto
 Gherkin: Es un lenguaje específico de dominio diseñado para resolver un problema específico: mejorar la comunicación entre los equipos de negocio y técnicos cuando se trabaja con Desarrollo Guiado por Comportamiento (BBD, por sus siglas en inglés). Para promover buenas prácticas, se utilizan saltos de línea para organizar mejor los diferentes tipos de escenarios y distinguirlos de manera más efectiva. Además, se utilizan las palabras clave “Given”, “When”, “Then” y “And” para estructurar los escenarios.
 
 ### 5.1.4. Software Deployment Configuration.
-
 Nuestro repositorio en Github<br>
 <img src="../../assets/Repositorio_1.png"><br>
 Nuestras ramas:<br>
@@ -743,6 +740,12 @@ Tabla para poder identificarnos:
 |JP19-03               |Johan Príncipe Godoy|
 |ern23zc               |Victor Ernesto Zarate Caceres |
 
+##### Commits:
+<img src="/assets/CommitsAnalysisS2.png" alt="CommitsAnalysis - Sprint 2">
+
+##### Analíticas de Colaboración:
+<img src="/assets/ColaborationAnalysisS2.png" alt="ColaborationAnalysis - Sprint 2">
+
 # Conclusiones
 # Bibliografía
 <div align="justify">
@@ -754,24 +757,32 @@ Tabla para poder identificarnos:
 
 # Anexos.
 <table>
-  <tr>
-    <td>Sección</td>
-    <td>Características del video</td>
-  </tr>
-  <tr>
-    <td>Exposición</td>
-    <td>Cantidad de videos: 1<br>
-      Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb1<br>
-      Formato: .mp4<br>
-      Duración:<br>
-      Enlace:</td>
-  </tr>
-  <tr>
-    <td>Entrevistas</td>
-    <td>Cantidad de videos: 1<br>
-      Nomenclatura: Interview Web Development<br>
-      Formato: .mp4<br>
-      Duración: 24:10<br>
-      Enlace: https://shorturl.at/clwGR</td>
-  </tr>
+	<tr>
+		<td>Sección</td>
+    		<td>Características del video</td>
+  	</tr>
+	<tr>
+		<td>Exposición</td>
+		<td>
+			Cantidad de videos: 2<br>
+			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb1<br>
+			Formato: .mp4<br>
+			Duración:<br>
+			Enlace:<br><br>
+			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tp1<br>
+			Formato: .mp4<br>
+			Duración:<br>
+			Enlace:<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td>Entrevistas</td>
+		<td>
+			Cantidad de videos: 1<br>
+			Nomenclatura: Interview Web Development<br>
+			Formato: .mp4<br>
+			Duración: 24:10<br>
+			Enlace: https://shorturl.at/clwGR
+		</td>
+	  </tr>
 </table>
