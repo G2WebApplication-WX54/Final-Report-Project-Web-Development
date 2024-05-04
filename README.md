@@ -52,32 +52,41 @@
 
 # Registro de Versiones del Informe
 
-| Versión |   Fecha    | Autor | Descripción de modificación | 
-|:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
-|TB2| 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
+| Versión |   Fecha    |              Autor               | Descripción de modificación                                                                  |
+| :-----: | :--------: | :------------------------------: | :------------------------------------------------------------------------------------------- |
+|   TB1   | 14/04/2024 | Todos los integrantes del equipo | Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page |
+|   TB2   | 01/05/2024 | Todos los integrantes del equipo | Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web          |
+
 <br>
 
 # Project Report Collaboration Insights
+
 Para el desarrollo del informe se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-| Integrantes| Tareas designadas|
-| :------------- |:-------------|
-|Escalante Baygorrea, Janiel Franz|Lean UX Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page|
-|Noriega Suschenko, Anatoly Andrey|Segmentos objetivo, Competidores, Analisis Competitivo, Entrevista, Landing Page UI Design, Web Application UX/UI Design, Web Application Prototyping y parte del Landing Page|
-|Príncipe Godoy, Johan|Needfinding, Ubiquitous Language, To-Be Scenario Mapping, Domain-Driven Software Architecture y parte del Landing Page|
-|Rodriguez Zuluoeta, Andres Fernando|Diseño de entrevistas, Analisis de entrevistas, Needfinding, User Personas, User Stories, Impact Mapping, Product Backlog, Software Configuration Managemente y parte del Landing Page|
-|Zarate Caceres, Victor Ernesto|Startup Profile, Solution Profile, Registor de entrevista, Style Guidelines, Information Arquitecture y parte del Landing Page|
+| Integrantes                         | Tareas designadas                                                                                                                                                                      |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Escalante Baygorrea, Janiel Franz   | Lean UX Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page                                                                     |
+| Noriega Suschenko, Anatoly Andrey   | Segmentos objetivo, Competidores, Analisis Competitivo, Entrevista, Landing Page UI Design, Web Application UX/UI Design, Web Application Prototyping y parte del Landing Page         |
+| Príncipe Godoy, Johan               | Needfinding, Ubiquitous Language, To-Be Scenario Mapping, Domain-Driven Software Architecture y parte del Landing Page                                                                 |
+| Rodriguez Zuluoeta, Andres Fernando | Diseño de entrevistas, Analisis de entrevistas, Needfinding, User Personas, User Stories, Impact Mapping, Product Backlog, Software Configuration Managemente y parte del Landing Page |
+| Zarate Caceres, Victor Ernesto      | Startup Profile, Solution Profile, Registor de entrevista, Style Guidelines, Information Arquitecture y parte del Landing Page                                                         |
 
 Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Development/tree/develop
 
 # Contenido
+
 ## Tabla de Contenidos
+
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
+
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
 ### [Contenido](#contenido)
+
 ### [Student Outcome](#student-outcome-1)
+
 ### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
+
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -91,6 +100,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
+
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -105,13 +115,16 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 - [2.4. Ubiquitous Language](#23-ubiquitous-language)
+
 ### [Capítulo III: Requirements Specification](#capc3adtulo-iii-requirements-specification-1)
+
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
 ### [Capítulo IV: Product Design](#capc3adtulo-iv-product-design-1)
+
 - [4.1. Style Guidelines](#41-style-guidelines)
   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
   - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -141,6 +154,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
   - [4.8.1. Database Diagram](#481-database-diagram)
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capc3adtulo-v-product-implementation-validation--deployment-1)
+
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
   - [5.1.2. Source Code Management](#512-source-code-management)
@@ -160,15 +174,19 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
   - [Diseño de Entrevistas](#531-sprint-1)
   - [Registro de Entrevistas](#532-sprint-1)
   - [Evaluaciones según heurísticas](#533-sprint-1)
--  [5.4.Video About-the-Product](#54-video-about-the-product)
+- [5.4.Video About-the-Product](#54-video-about-the-product)
 
 ### [Conclusiones](#conclusiones-1)
+
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Video About-the-Product](#video-about-the-product)
 
 ### [Bibliografía](#bibliografc3ada-1)
+
 ### [Anexos](#anexos-1)
+
 # Student Outcome
+
 <div align="justify">
     Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.<br>    
     En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
@@ -276,8 +294,11 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 </div>
 
 # Capítulo I: Introducción
+
 ## 1.1. StartUp Profile
+
 ### 1.1.1. Description de la StartUp
+
 <div align="justify">
     La idea de crear PeaceApp nace ante la creciente ola de inseguridad ciudadana en Lima, y en todo el país. Según el INEI, el 45,6% de ciudadanos de Lima se siente inseguros de vivir en 
     dicha ciudad, con un registro de mas de 75 mil denuncias por hurtos y/o asaltos. Para enfrentar esta situación, la aplicación brindara un mapa con información de las calles, resaltando 
@@ -294,16 +315,19 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 </div>
 
 ### 1.1.2. Perfiles de Integrantes del equipo
-| Nombre Completo del integrante      | Descripcion de Carrera                                                                      | Fotografía                              | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                   |
-|-------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Escalante Baygorrea, Janiel Franz   | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Franz Escalante](/assets/Franz.jpeg)  | Conocimientos en lenguajes de Programación como C++, Java, HTML, CSS.<br>Me considero que soy una persona muy trabajadora.                                                                                                                              |
-| Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas | ![Anatoly Noriega](/assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                             |
-| Príncipe Godoy, Johan               | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Johan Príncipe](/assets/Johan.jpg)    | - Conocimiento en lenguajes de programación como C++, Python, HTML, CSS, JS, SQL, MongoDB. <br> - Me considero una persona comprometida y perseverante para lograr lo mejor con el equipo.                                                              |
-| Rodriguez Zuluoeta, Andres Fernando | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Andres Rodriguez](/assets/Andres.jpg) | Tengo conocimiento de lenguaje de programación como C ++ y Python. Me considero una persona centrada y responsable al momento de realizar trabajos en grupo.                                                                                            |
-| Zarate Caceres, Victor Ernesto      | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas                         | ![Ernesto Zarate](/assets/ernesto.png)  | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega. |
+
+| Nombre Completo del integrante      | Descripcion de Carrera                                                                      | Fotografía                               | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                   |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Escalante Baygorrea, Janiel Franz   | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Franz Escalante](./assets/Franz.jpeg)  | Conocimientos en lenguajes de Programación como C++, Java, HTML, CSS.<br>Me considero que soy una persona muy trabajadora.                                                                                                                              |
+| Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas | ![Anatoly Noriega](./assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                             |
+| Príncipe Godoy, Johan               | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Johan Príncipe](./assets/Johan.jpg)    | - Conocimiento en lenguajes de programación como C++, Python, HTML, CSS, JS, SQL, MongoDB. <br> - Me considero una persona comprometida y perseverante para lograr lo mejor con el equipo.                                                              |
+| Rodriguez Zuluoeta, Andres Fernando | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Andres Rodriguez](./assets/Andres.jpg) | Tengo conocimiento de lenguaje de programación como C ++ y Python. Me considero una persona centrada y responsable al momento de realizar trabajos en grupo.                                                                                            |
+| Zarate Caceres, Victor Ernesto      | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas                         | ![Ernesto Zarate](./assets/ernesto.png)  | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega. |
 
 ## 1.2. Solution Profile
+
 ### 1.2.1 Antecedentes y problemática
+
 <div align="justify">
     <ul>
         <li>
@@ -336,13 +360,14 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             municipalidades. Así, estas tendrán un acceso preferencial a los datos recopilados y puedan utilzarlos para tomar acción directa en contra de la delincuencia. 
         </li>
     </ul>
-</div>  
+</div>
 
-### 1.2.2	Lean UX
+### 1.2.2 Lean UX
 
 #### 1.2.2.1. Problem Statements
+
 El propósito de nuestro servicio es ofrecer rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios
-tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad  se haran en base a reportes de los usuarios de
+tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad se haran en base a reportes de los usuarios de
 la aplicación. Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser
 usados para plantear una estrategía contra la delincuencia.
 
@@ -351,89 +376,97 @@ cantidad de robos de celulares por hora se reportan los lunes, esto sería aprox
 de la ENAPRES para el semestre móvil Ene-Jun 2023 publicado por el INEI, el 26.9% de la población de 15 años de edad, a más, a nivel nacional, ha sido victima de algún
 hecho delictivo.
 
-
 ¿De qué forma podemos evitar los hurtos en la calle cuando se encuentran recorriendo una ruta?
 
-#### 	 1.2.2.2. UX Assumptions
+#### 1.2.2.2. UX Assumptions
 
 Ahora que hemos analizado la problematica y tenemos un panorama de cómo solucionar el problema, debemos saber que empresas tienen características similares a las nuestras
 y cómo estas se han ido desarrollando a través del tiempo.
 La aplicación UrSafe es similar a la nuestra, esta aplicación permite ver un mapa con lugares seguros y te permite comunicarte con familiares, amigos y el 911 en caso de
 peligro.
 
-
 **Assumptions:**
-+ Los ciudadanos de Lima necesitan una app que les muestre rutas seguras para movilizarse a tráves de la ciudad de Lima
-+ Los ciudadanos necesitan sentirse parte de una comunidad en la que se puedan reportar incidentes y verlo reflejado en un mapa que les permite visualizar las zonas más
+
+- Los ciudadanos de Lima necesitan una app que les muestre rutas seguras para movilizarse a tráves de la ciudad de Lima
+- Los ciudadanos necesitan sentirse parte de una comunidad en la que se puedan reportar incidentes y verlo reflejado en un mapa que les permite visualizar las zonas más
   seguras de su ciudad.
-+ Mis clientes serán ciudadanos y entidades preocupadas por la seguridad de su distrito o trabajadores
-+ Generaré ingresos vendiendo nuestra aplicación web a municipalidades, instituciones del estado e interesedos en el tema de la seguridad
-+ No tengo ningún competidor en el mercado actualmente
-+ Las entidades que trabajen con nuestra aplicación podrán obtener datos de vital importancia para combatir la criminalidad
-+ Los ciudadanos de a pie estarán interesados en esta aplicación
-+ Las entidades públicas de este país necesitan este tipo de aplicaciones para combatir la criminalidad con más eficacia.
+- Mis clientes serán ciudadanos y entidades preocupadas por la seguridad de su distrito o trabajadores
+- Generaré ingresos vendiendo nuestra aplicación web a municipalidades, instituciones del estado e interesedos en el tema de la seguridad
+- No tengo ningún competidor en el mercado actualmente
+- Las entidades que trabajen con nuestra aplicación podrán obtener datos de vital importancia para combatir la criminalidad
+- Los ciudadanos de a pie estarán interesados en esta aplicación
+- Las entidades públicas de este país necesitan este tipo de aplicaciones para combatir la criminalidad con más eficacia.
 
 **Business outcomes:**
 
-+ Generar ingresos con la aplicación
-+ Mejorar la calidad de la vida de los ciudadanos del Perú
-+ Reducir la cantidad de robos que ocurren en el país
+- Generar ingresos con la aplicación
+- Mejorar la calidad de la vida de los ciudadanos del Perú
+- Reducir la cantidad de robos que ocurren en el país
 
 **User outcomes:**
-+ ¿Quién es el usuario?   
+
+- ¿Quién es el usuario?  
   Cualquier ciudadano que se encuentre en una zona en la que una entidad este asociada con nosotros. Por otro lado, las entidades públicas
   como municipalidades, PNP, etc. También empresas privadas interesadas en contar con esta aplicación para sus trabajadores, de preferencia
   extranjeros que no conocen bien las calles de la ciudad.
-+ ¿Dónde encaja nuestro producto en su trabajo o vida?  
+- ¿Dónde encaja nuestro producto en su trabajo o vida?  
   Encaja en su vida diaria, ya que con nuestra aplicación podrá movilizarse por la ciudad evitando riesgos
-+ ¿Qué problemas tiene nuestro producto?  
+- ¿Qué problemas tiene nuestro producto?  
   Un problema que tiene nuestro producto es que para geenera ingresos, dependemos exclusivamente de las entidades que se van a asociar con nosotros
-+ ¿Cuándo y cómo es usado nuestro producto?  
+- ¿Cuándo y cómo es usado nuestro producto?  
   Nuestros usuarios utilizarían la aplicación cuando tengan que pasar por lugares que no conocen o deseen reportar un incidente para que otros ciudadanos tengan cuidado.
   Por otro lado, las entidades podrán recopilar información de los ciudadanos y esto les facilitará tomar acciones para combatir la criminalidad en ciertas areas.
 
-+ ¿Qué características son importantes?  
+- ¿Qué características son importantes?  
   Sera una aplicación sencilla de usar para los usuarios y que las información se accesible de una manera sencilla.
 
-+ ¿Cómo debe verse nuestro producto y comportarse?  
+- ¿Cómo debe verse nuestro producto y comportarse?  
   Nuestra app debe tener una buena selección de colores para que sea agradable a la vista. Además el registro debe ser fácil para todos los usuarios.
 
 **User benefits**
-+ Evitar robos y cualquier tipo de incidentes que ponga en peligro al usuario al movilizarse por la ciudad
-+ Información en tiempo real de zonas peligrosas mediante el uso del mapa de calor
-+ Información de rutas seguras para movilizarse mediante el mapa
-+ Acceso a datos estadísticos para comprender mejor el problema
 
+- Evitar robos y cualquier tipo de incidentes que ponga en peligro al usuario al movilizarse por la ciudad
+- Información en tiempo real de zonas peligrosas mediante el uso del mapa de calor
+- Información de rutas seguras para movilizarse mediante el mapa
+- Acceso a datos estadísticos para comprender mejor el problema
 
-#### 	1.2.2.3. Lean UX Hypothesis Statements
-+ **Hypothesis Statement 01**   
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Hypothesis Statement 01**  
   **Creemos que** las entidades publicas y privadas estarán interesadas en nuestro producto  
   **Sabremos que** hemos tenido éxito  
   **Cuando** podamos trabajar con un mapa de calor de toda la ciudad de Lima
-+ **Hypothesis Statement 02**    
+- **Hypothesis Statement 02**  
   **Creemos que** la aplicación logrará formar una comunidad interesada en la seguridad  
   **Sabremos que** hemos tenido exito  
   **Cuando** tengamos se perciba un aumento en la cantidad de usuarios registrados diariamente.
-+ **Hypothesis Statement 03**  
+- **Hypothesis Statement 03**  
   **Creemos que** la disponibilidad de datos de vital importancia permitarán a distintas entidades planificar una estrategia contra la delincuencia  
   **Sabremos que** se está cumpliendo ese objetivo  
   **Cuando** se perciba una disminución en los reportes de criminalidad sin que se reduzca la cantidad de usuarios
-+ **Hypothesis Statement 04**  
-  **Creemos que** nuestra aplicación será usada a nivel nacional    
+- **Hypothesis Statement 04**  
+  **Creemos que** nuestra aplicación será usada a nivel nacional  
   **Sabremos que** hemos tenido exito  
   **Cuando** la aplicación sea adquirida por la mayoria de las entidades de distintas ciudades del Perú
-#### 	1.2.2.4. Lean UX Canvas
+
+#### 1.2.2.4. Lean UX Canvas
+
 A continuación se puede ver el Lean UX Canvas trabajado por el equipo:
 ![Imagen de Lean-UX Canvas](https://i.postimg.cc/QdBzp4FY/Lean-UX-Canvas-Template.jpg)
 Enlace para acceder a Miro: https://miro.com/app/board/uXjVKZpPpnQ=/?share_link_id=692620192853
+
 ## 1.3. Segmentos objetivo
+
 ### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
+
 En muchos centros urbanos, la seguridad pública sigue siendo una preocupación mayor para los ciudadanos que buscan maneras efectivas de protegerse en su día a día. Aplicaciones como PeaceApp podrían ofrecer soluciones prácticas para estos desafíos. Según un estudio del Banco Mundial sobre seguridad urbana, la implementación de tecnologías que aumentan la percepción y la realidad de la seguridad puede tener impactos significativos en la reducción del crimen y la mejora de la calidad de vida urbana (Banco Mundial, 2017).
 
 ### Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana
+
 Las entidades gubernamentales, desde la policía local hasta los planificadores urbanos, enfrentan retos constantes para mejorar la eficiencia de sus respuestas y estrategias de prevención del crimen. Según la Organización de las Naciones Unidas, el acceso a datos precisos y actualizados es crucial para la planificación efectiva de la seguridad y el desarrollo urbano (Naciones Unidas, 2019). Herramientas como PeaceApp, que proporcionan datos en tiempo real y facilitan la comunicación entre ciudadanos y autoridades, son esenciales para desarrollar respuestas más rápidas y fundadas a los problemas de seguridad pública.
 
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores.
 
 <table>
@@ -461,6 +494,7 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 </table>
 
 ### 2.1.1. Análisis competitivo.
+
 <table>
   <tr>
     <th colspan="22">Competitive Analysis Landscape</th>
@@ -581,6 +615,7 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
 <div align="justify">
   Para asegurar una posición líder en el mercado de aplicaciones de seguridad ciudadana, PeaceApp se enfocará en una estrategia de diferenciación basada en la hiperlocalización y la participación
   comunitaria. Esta estrategia se complementará con el desarrollo de tecnología de mapeo avanzada que proporcione datos precisos y actualizados sobre la seguridad en áreas específicas, aprovechando
@@ -593,7 +628,9 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 </div>
 
 ## 2.2. Entrevistas.
+
 ### 2.2.1. Diseño de entrevistas.
+
 - **Introducción antes de la entrevista:**
   <br>
   Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entrevista. Nuestro objetivo es recopilar información de nuestros potenciales usuarios, para el desarrollo de un proyecto que
@@ -602,27 +639,30 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
   <br>
 
 - **Preguntas Personales:**
+
 1.  ¿Cuál es su nombre?<br>
-2.	¿Cuántos años tiene?<br>
-3.	¿Qué destinos frecuenta y cómo se transporta a estos?<br>
-4.	¿Cómo se siente con respecto a la delincuencia al paso?<br>
-5.	¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?<br><br>
+2.  ¿Cuántos años tiene?<br>
+3.  ¿Qué destinos frecuenta y cómo se transporta a estos?<br>
+4.  ¿Cómo se siente con respecto a la delincuencia al paso?<br>
+5.  ¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?<br><br>
+
 #### Segmento objetivo (Ciudadanos):
 
 - **Preguntas principales:**
+
 1. ¿Cómo te desplazas habitualmente por la ciudad?<br>
-2.	¿Conoces que zonas de Lima son las más peligrosas?<br>
-3.	¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?<br>
-4.	¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?<br>
-5.	¿Qué características valoras más en un servicio de planificación de rutas?<br>
-6.	¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?<br>
-7.	¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?<br>
-8.	¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?<br>
-9.	¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?<br>
-10.	¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?<br>
-11.	¿Qué navegadores web utilizas con más frecuencia?<br>
-12.	¿Cuánto tiempo estás dispuesto a esperar que una página web se cargue antes de considerarla demasiado lenta?<br>
-13.	¿Qué dispositivos móviles utilizas para acceder a aplicaciones web (marca)?<br>
+2. ¿Conoces que zonas de Lima son las más peligrosas?<br>
+3. ¿Has tenido alguna vez preocupaciones sobre la seguridad en ciertas zonas de la ciudad?<br>
+4. ¿Utilizas alguna aplicación o servicio para planificar tus rutas? Si es así, ¿cuál?<br>
+5. ¿Qué características valoras más en un servicio de planificación de rutas?<br>
+6. ¿Estarías dispuesto a compartir tus experiencias de seguridad para ayudar a actualizar un mapa de calor de peligrosidad?<br>
+7. ¿Cómo te gustaría recibir actualizaciones sobre las zonas de peligrosidad?<br>
+8. ¿Qué tipo de datos estarías dispuesto a compartir para mejorar la seguridad de las rutas?<br>
+9. ¿Estarías interesado en recibir recomendaciones de rutas seguras basadas en tu ubicación?<br>
+10. ¿Cuánto valoras la seguridad en comparación con la eficiencia (por ejemplo, el tiempo de viaje) al elegir una ruta?<br>
+11. ¿Qué navegadores web utilizas con más frecuencia?<br>
+12. ¿Cuánto tiempo estás dispuesto a esperar que una página web se cargue antes de considerarla demasiado lenta?<br>
+13. ¿Qué dispositivos móviles utilizas para acceder a aplicaciones web (marca)?<br>
 
 #### Segmento objetivo (Gerentes de entidades publicas o empresas):
 
@@ -632,6 +672,7 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
   - ¿Dónde vives actualmente?
   - ¿A qué te dedicas?
 - **Preguntas objetivas:**
+
   - ¿Cuál es tu cargo o función en el área de seguridad de la entidad?
   - ¿Con qué frecuencia utilizas aplicaciones o herramientas basadas en mapas para tu trabajo?
   - ¿Qué sistema operativo utilizas principalmente en tu computadora de trabajo?
@@ -644,10 +685,12 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
   - ¿Cuál es tu mayor desafío al utilizar herramientas tecnológicas para mejorar la seguridad en tu entorno?
   - ¿Cuál es tu opinión sobre la integración de la tecnología en el campo de la seguridad ciudadana?
 
-
 ### 2.2.2. Registro de entrevistas.
+
 #### Enlace de las entrevistas: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912668_upc_edu_pe/Ee-KEPn8lOdNmwOa9bFyd4EBSI_z7olPvkuzJgcn3r2WQQ?e=VBFk2G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 #### Segmento 1:
+
 <div align="justify">
 <table>
   <tr>
@@ -715,6 +758,7 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 </div>
 
 #### Segmento 2:
+
 <div align="justify">
   <table>
     <tr>
@@ -760,7 +804,9 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 </div>
 
 ### 2.2.3. Análisis de entrevistas.
+
 #### Segmento 1:
+
 <div align="justify">
   Para este segmento objetivo se realizaron entrevistas a Fatima Urbina, Mauricio Abraham Rivo Rojas Sánchez y Carlos Leon, con el 100% de ellos siendo residentes de la ciudad de Lima. En cuanto a las
   características subjetivas, un 66% de los entrevistados mantiene una preocupación común por su seguridad personal en la ciudad. En general se obtuvo que el 100% de los entrevistados está dispuestos a 
@@ -773,6 +819,7 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 </div>
 
 #### Segmento 2:
+
 <div align="justify">
   Para este segmento objetivo se realizaron entrevistas a Silvana Salazar y Jorge Coras, siendo ambos residentes de la ciudad de Lima. En las entrevistas se evidencian características comunes, fundamentales
   para comprender el perfil de estos profesionales en el campo de la seguridad.En términos objetivos, el 100% de los entrevistados ha demostrado una tendencia hacia la especialización en la gestión de la
@@ -786,6 +833,7 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 </div>
 
 ## 2.3. Needfinding.
+
 ### 2.3.1. User Personas.
 
 Con el objetivo de asegurar un entendimiento detallado y completo de los segmentos que hemos identificado como fundamentales para nuestro proyecto, hemos implementado un proceso meticuloso y riguroso de creación
@@ -802,6 +850,7 @@ objetivo. De esta manera, podemos diseñar y ofrecer soluciones que se alineen d
   <br>
 
 ### 2.3.2. User Task Matrix.
+
 <div style='text-align: justify;'>
 El User Task Matrix es una herramienta que ayuda a identificar y priorizar las tareas que los diferentes segmentos de usuarios realizan para alcanzar sus objetivos. 
 En este caso, el User Task Matrix se centra en dos segmentos: Ciudadanos preocupados por su seguridad personal en espacios públicos y Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana. 
@@ -809,7 +858,7 @@ La matriz presenta 15 tareas que son importantes para ambos segmentos, con una c
 </div>
 
 |                                                                        | Segmento 1             | Segmento 2             |
-|------------------------------------------------------------------------|------------------------|------------------------|
+| ---------------------------------------------------------------------- | ---------------------- | ---------------------- |
 | Task                                                                   | Frecuencia - Severidad | Frecuencia - Severidad |
 | Identificar zonas inseguras                                            | Alta - Alta            | Alta - Alta            |
 | Denunciar delitos                                                      | Alta - Alta            | Alta - Alta            |
@@ -836,6 +885,7 @@ La matriz presenta 15 tareas que son importantes para ambos segmentos, con una c
 </div>
 
 ### 2.3.3. User Journey Mapping.
+
 <div align="justify">
   La siguiente sección ilustra el end-to-end journey de PeaceApp para los segmentos objetivos de Ciudanos preocupados y Entidades Gubernamentales. El User Journey Mapping empieza desde el momento en el que los 
   usuarios conocen a la aplicación, pasando por un proceso de decisión y adaptación a su uso. En este punto, se hace el registro en la aplicación, se registra el uso continuo y la posibilidad de dejar de usalo 
@@ -843,25 +893,33 @@ La matriz presenta 15 tareas que son importantes para ambos segmentos, con una c
 </div>
 
 #### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
+
 ##### As-Is
+
 <img src="./assets/UserJourneyMap_UP1_AsIs1.png" alt="User Journey Map As-Is: User Persona 1" width="80%">
 
 ##### To-Be
+
 <img src="./assets/UserJourneyMap_UP1.png" alt="User Journey Map User Persona 1" width="80%">
 
 #### Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana
+
 ##### As-Is
+
 <img src="./assets/UserJourneyMap_UP2_AsIs2.png" alt="User Journey Map As-Is: User Persona 2" width="80%">
 
 ##### To-Be
+
 <img src="./assets/UserJourneyMap_UP2.png" alt="User Journey Map User Persona 2" width="80%">
 
 ### 2.3.4. Empathy Mapping.
+
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
 <img src="./assets/Empathy_map_UP1.png" alt="Empathy Map User Persona 1" width="80%">
 
 **Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana**
 <img src="./assets/Empathy_map_UP2.png" alt="Empathy Map User Persona 2" width="80%"><br>
+
 <div align="justify">
   Para crear un Empathy Map, primero recopilamos información hablando con personas que representan a nuestros usuarios. Les hacemos preguntas sobre sus experiencias y sentimientos, y anotamos todo lo que nos 
   dicen. Luego, organizamos esa información en un gráfico que muestra lo que los usuarios ven, escuchan, dicen, hacen, piensan y sienten. Por ejemplo, podríamos descubrir que muchos usuarios ven situaciones
@@ -871,6 +929,7 @@ La matriz presenta 15 tareas que son importantes para ambos segmentos, con una c
 </div>
 
 ### 2.3.5. As-is Scenario Mapping.
+
 **Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos**
 <img src="./assets/As-Is_Segmento1.jpg" alt="As-Is Map User Persona 1" width="80%">
 
@@ -878,6 +937,7 @@ La matriz presenta 15 tareas que son importantes para ambos segmentos, con una c
 <img src="./assets/As-Is_Segmento2.jpg" alt="As-Is Map User Persona 2" width="80%">
 
 ## 2.4. Ubiquitous Language.
+
 **Market (Mercado):** Es el conjunto de transacciones de bienes y servicios entre compradores y vendedores.<br>  
 **Heat Map (Mapa de Calor):** Es una representación gráfica de datos donde los valores se representan mediante colores.<br>  
 **Route Monitoring (Monitoreo de Trayecto):** Supervisión continua del recorrido de una persona mediante una aplicación para garantizar su seguridad.<br>  
@@ -907,6 +967,7 @@ alinear al equipo en torno a una visión compartida y a identificar las áreas e
 <img src="./assets/To-Be_Segmento2.jpg" alt="To-Be Scenario Map User Persona 2" width="80%">
 
 ## 3.2. User Stories
+
 <table>
     <tr>
         <td align="center">User Story ID</td>
@@ -1473,44 +1534,49 @@ Entonces recibo un mensaje de error adecuado.
 </table>
 
 ## 3.3. Impact Mapping
+
 <img src="./assets/Impact_map.png" alt="Impact map">
 
 ## 3.4. Product Backlog
-|#Orden| ID |                   Título                      |Descripción |Story Points|
-|:----:|:--:|:----------------------------------------------|:-----------|:----------:|
-|  01  |US02|Navegar en el landing page                     |Como visitante de la landing page, quiero encotrar las secciones bien definidas para comprender fácilmente la información mostrada.|1|
-|  02  |US18|Mapa de calor                                  |Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro en mi zona para tomar las medidas necesarias|3|
-|  03  |US17|Estrategias usando el mapa de calor            |Como comisario, quiero utilizar la información recopilada para planificar estrategias contra la delincuencia.|5|
-|  04  |US19|Compartir ubicación                            |Como usuario, quiero poder compartir mi ubicación con mis contactos cercanos, para que conozcan el nivel de peligrosidad de la zona|2|
-|  05  |US06|Alertas de Zonas de Riesgo                     |Como ciudadano, quiero recibir alertas si me acerco y/o estoy en una zona de alto riesgo, para estar atento y tomar las precauciones pertinentes|5|
-|  06  |TS08|GET zones by Quantity Incidents                |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de en que zonas se registraron los incidentes mediante una API Para mostrarla en la aplicación cuando se solicite la cantidad de incidentes en una zona.|1|
-|  07  |US11|Visualización de Rutas Seguras                 |Como ciudadano, quiero poder ingresar mi destino en la aplicación, para poder elegir la ruta más segura para mi viaje|2|
-|  08  |US10|Personalización de rutas                       |Como ciudadano, quiero poder personalizar preferencias de seguridad, para que mis rutas se ajusten a ellas.|3|
-|  09  |TS09|POST address To Go                             |Como desarrollador que trabaja en la aplicación PeaceApp Quiero registrar la información de la dirección a la que se va a movilizar el ciudadano mediante una API Para contar con la información que necesitará el API de Google Maps.|1|
-|  10  |US12|Reporte de incidentes                          |Como ciudadano, quiero poder reportar incidentes de seguridad que ocurran en mi ubicación a través de la aplicación, para alertar a otros usuarios que se encuentren en la zona y contribuir a la seguridad de la comunidad.|5|
-|  11  |TS07|GET Reports by user                            |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de que usuarios realizan los reportes mediante una API Para mostrarla en la aplicación cuando se solicite.|1|
-|  12  |US13|Visualización de reportes                      |Como ciuddano, quiero poder ver los reportes de otros usuarios sobre incidentes ocurridos en la zona, para estar al tanto de los eventos de seguridad y tomar medidas apropiadas si es necesario.|2|
-|  13  |US14|Acceso a reportes                              |Como entidad gubernamental, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.|1|
-|  14  |US15|Priorización de reportes                       |Como entidad, quiero poder priorizar los reportes en función de su gravedad y urgencia para responder de manera más eficiente.|2|
-|  15  |US16|Análisis de datos                              |Como entidad gubernamental, quiero poder analizar los datos recopilados en el mapa de calor de mi zona para identificar áreas con alta densidad de incidentes de inseguridad|3|
-|  16  |TS01|POST Inicident                                 |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar los incidentes reportados mediante una API Para visualizar los reportes que realizan los ciudadanos.|1|
-|  17  |TS02|GET Incident                                   |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de un incidente mediante una API Para mostrarla en la aplicación cuando se solicite.|3|
-|  18  |US07|Recibir notificaciones sobre reportes recientes|Como ciudadano, quiero recibir notificaciones sobre los reportes recientes para poder estar mejor informado del lugar donde me encuentro|3|
-|  19  |TS05|POST Payment Card                              |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar la información de pago de las empresas o entidades mediante una API Para contar con la información para pagos seguros.|3|
-|  20  |TS06|GET Payment Card                               |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de pago de las empresas o entidades mediante una API Para recibir los pagos en la aplicación cuando lo solicite.|3|
-|  21  |US03|Seleccion de tipo de usuario                   |Como usuario de la aplicacion, quiero poder elegir el tipo de usuario que soy para poder tener mis beneficios según el tipo de usuario|2|
-|  22  |TS03|POST User                                      |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar a un nuevo usuario mediante una API Para visualizar a los usuarios afiliados a nuestra app.|3|
-|  23  |US04|Registro como ciudadano                        |Como ciudadano, quiero poder rellenar un formulario con mis datos personales para poder hacer uso mis funcionalidades como ciudadano|2|
-|  24  |US05|Registro como entidad gubernamental            |Como entidad gubernamental, quiero poder rellenar un formulario con mis datos necesarios para poder hacer uso mis funcionalidades como entidad gubernamental|3|
-|  25  |TS04|GET User                                       |Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de un usuario mediante una API Para mostrarla en la aplicación cuando se solicite.|3|
-|  26  |TS10|GET users by kind                              |Como desarrollador que trabaja en la aplicación PeaceApp Quiero obtener la información de los usuarios por el tipo de usuario mediante una API Para brindar la diferentes funcionalidades en la aplicación de acuerdo a la membresia.|1|
-|  27  |US08|Añadir foto de perfil                          |Como usuario, quiero tener la opción de añadir una foto de perfil, para personalizar mis perfil|1|
-|  28  |US09|Editar información de perfil                   |Como usuario, quiero poder editar mi información de perfil, para arreglar algunos errores de registro|1|
-|  29  |US01|Contactar con la startup                       |Como visitante de la Landing Page, quiero encontrar un formulario de contacto funcional y accesible para poder comunicarme con la startup.|3|
+
+| #Orden |  ID  | Título                                          | Descripción                                                                                                                                                                                                                                        | Story Points |
+| :----: | :--: | :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: |
+|   01   | US02 | Navegar en el landing page                      | Como visitante de la landing page, quiero encotrar las secciones bien definidas para comprender fácilmente la información mostrada.                                                                                                                |      1       |
+|   02   | US18 | Mapa de calor                                   | Como usuario, quiero poder ver un mapa de calor sobre los niveles de peligro en mi zona para tomar las medidas necesarias                                                                                                                          |      3       |
+|   03   | US17 | Estrategias usando el mapa de calor             | Como comisario, quiero utilizar la información recopilada para planificar estrategias contra la delincuencia.                                                                                                                                      |      5       |
+|   04   | US19 | Compartir ubicación                             | Como usuario, quiero poder compartir mi ubicación con mis contactos cercanos, para que conozcan el nivel de peligrosidad de la zona                                                                                                                |      2       |
+|   05   | US06 | Alertas de Zonas de Riesgo                      | Como ciudadano, quiero recibir alertas si me acerco y/o estoy en una zona de alto riesgo, para estar atento y tomar las precauciones pertinentes                                                                                                   |      5       |
+|   06   | TS08 | GET zones by Quantity Incidents                 | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de en que zonas se registraron los incidentes mediante una API Para mostrarla en la aplicación cuando se solicite la cantidad de incidentes en una zona. |      1       |
+|   07   | US11 | Visualización de Rutas Seguras                  | Como ciudadano, quiero poder ingresar mi destino en la aplicación, para poder elegir la ruta más segura para mi viaje                                                                                                                              |      2       |
+|   08   | US10 | Personalización de rutas                        | Como ciudadano, quiero poder personalizar preferencias de seguridad, para que mis rutas se ajusten a ellas.                                                                                                                                        |      3       |
+|   09   | TS09 | POST address To Go                              | Como desarrollador que trabaja en la aplicación PeaceApp Quiero registrar la información de la dirección a la que se va a movilizar el ciudadano mediante una API Para contar con la información que necesitará el API de Google Maps.             |      1       |
+|   10   | US12 | Reporte de incidentes                           | Como ciudadano, quiero poder reportar incidentes de seguridad que ocurran en mi ubicación a través de la aplicación, para alertar a otros usuarios que se encuentren en la zona y contribuir a la seguridad de la comunidad.                       |      5       |
+|   11   | TS07 | GET Reports by user                             | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de que usuarios realizan los reportes mediante una API Para mostrarla en la aplicación cuando se solicite.                                               |      1       |
+|   12   | US13 | Visualización de reportes                       | Como ciuddano, quiero poder ver los reportes de otros usuarios sobre incidentes ocurridos en la zona, para estar al tanto de los eventos de seguridad y tomar medidas apropiadas si es necesario.                                                  |      2       |
+|   13   | US14 | Acceso a reportes                               | Como entidad gubernamental, quiero tener acceso a los reportes de los usuarios para entender mejor la situación de seguridad.                                                                                                                      |      1       |
+|   14   | US15 | Priorización de reportes                        | Como entidad, quiero poder priorizar los reportes en función de su gravedad y urgencia para responder de manera más eficiente.                                                                                                                     |      2       |
+|   15   | US16 | Análisis de datos                               | Como entidad gubernamental, quiero poder analizar los datos recopilados en el mapa de calor de mi zona para identificar áreas con alta densidad de incidentes de inseguridad                                                                       |      3       |
+|   16   | TS01 | POST Inicident                                  | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar los incidentes reportados mediante una API Para visualizar los reportes que realizan los ciudadanos.                                                                  |      1       |
+|   17   | TS02 | GET Incident                                    | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de un incidente mediante una API Para mostrarla en la aplicación cuando se solicite.                                                                     |      3       |
+|   18   | US07 | Recibir notificaciones sobre reportes recientes | Como ciudadano, quiero recibir notificaciones sobre los reportes recientes para poder estar mejor informado del lugar donde me encuentro                                                                                                           |      3       |
+|   19   | TS05 | POST Payment Card                               | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar la información de pago de las empresas o entidades mediante una API Para contar con la información para pagos seguros.                                                |      3       |
+|   20   | TS06 | GET Payment Card                                | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de pago de las empresas o entidades mediante una API Para recibir los pagos en la aplicación cuando lo solicite.                                         |      3       |
+|   21   | US03 | Seleccion de tipo de usuario                    | Como usuario de la aplicacion, quiero poder elegir el tipo de usuario que soy para poder tener mis beneficios según el tipo de usuario                                                                                                             |      2       |
+|   22   | TS03 | POST User                                       | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero registrar a un nuevo usuario mediante una API Para visualizar a los usuarios afiliados a nuestra app.                                                                           |      3       |
+|   23   | US04 | Registro como ciudadano                         | Como ciudadano, quiero poder rellenar un formulario con mis datos personales para poder hacer uso mis funcionalidades como ciudadano                                                                                                               |      2       |
+|   24   | US05 | Registro como entidad gubernamental             | Como entidad gubernamental, quiero poder rellenar un formulario con mis datos necesarios para poder hacer uso mis funcionalidades como entidad gubernamental                                                                                       |      3       |
+|   25   | TS04 | GET User                                        | Como desarrollador que trabaja en la aplicación de PeaceApp Quiero obtener la información de un usuario mediante una API Para mostrarla en la aplicación cuando se solicite.                                                                       |      3       |
+|   26   | TS10 | GET users by kind                               | Como desarrollador que trabaja en la aplicación PeaceApp Quiero obtener la información de los usuarios por el tipo de usuario mediante una API Para brindar la diferentes funcionalidades en la aplicación de acuerdo a la membresia.              |      1       |
+|   27   | US08 | Añadir foto de perfil                           | Como usuario, quiero tener la opción de añadir una foto de perfil, para personalizar mis perfil                                                                                                                                                    |      1       |
+|   28   | US09 | Editar información de perfil                    | Como usuario, quiero poder editar mi información de perfil, para arreglar algunos errores de registro                                                                                                                                              |      1       |
+|   29   | US01 | Contactar con la startup                        | Como visitante de la Landing Page, quiero encontrar un formulario de contacto funcional y accesible para poder comunicarme con la startup.                                                                                                         |      3       |
 
 # Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines.
+
 ### 4.1.1. General Style Guidelines.
+
 <div align="justify">
   <b>Branding:</b><br><br>
   <b>Brand Overview:</b><br>
@@ -1536,6 +1602,7 @@ Entonces recibo un mensaje de error adecuado.
 La distribución de la tipografía establece la jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la
 interfaz. Para ello, se decidio utilizar las tipografía Monteserrat, una tipografía sobria y elegnate que refleja profesionalidad. Por último, para una correcta diferenciación entre
 jerárquias se considerara: .<br>
+
   <ul>
     <li>Heading 01: Presenta un tamaño de 52px.</li>
     <li>Heading 02: Presenta un tamaño de 36px.</li>
@@ -1547,9 +1614,11 @@ jerárquias se considerara: .<br>
 <b>Spacing:</b><br>
 Para que la información se identifique con claridad, se estarán utilizando espacio desde los 8 hasta los 96px para un diseño equilibrado y una experiencia visual agradable.<br>
 <img src="./assets/espaciado.png" alt="Espaciado - Peace App" width="75%" height="75%"><br>
+
 </div>
 
 ### 4.1.2. Web Style Guidelines.
+
 <div align="justify">
   <ul>
     <li>Imágenes:</li>
@@ -1575,7 +1644,9 @@ Para que la información se identifique con claridad, se estarán utilizando esp
 </div>
 
 ## 4.2. Information Architecture.
+
 ### 4.2.1. Organization Systems.
+
 <div align="justify">
   Para organizar la página, hemos decidido estructurar el contenido con un encabezado donde las secciones se declaren de manera clara.
   <ul>
@@ -1608,6 +1679,7 @@ Para que la información se identifique con claridad, se estarán utilizando esp
 </div>
 
 ### 4.2.2. Labeling Systems.
+
 <div align="justify">
   En PeaceApp, las etiquetas seguiran las implicaciones de SEO, lo que significa que deben cumplir con los siguientes objetivos:
   <ul>
@@ -1642,6 +1714,7 @@ Para que la información se identifique con claridad, se estarán utilizando esp
 </div>
 
 ### 4.2.3. SEO Tags and Meta Tags
+
 <div align="justify">
   Estas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. No se ven directamente en las interfaces, pero facilitan el análisis de archivos HTML y del archivo. Además, 
   ayudan en el posicionamiento de nuestra página web en los buscadores.
@@ -1663,6 +1736,7 @@ Para que la información se identifique con claridad, se estarán utilizando esp
 </div>
 
 ### 4.2.4. Searching Systems.
+
 <div align="justify">
   PeaceApp sabe lo importante que es representar de forma adecuada, fácil y rápida la gran cantidad de información que se verá en la plataforma. PeaceApp tiene un sistema de búsqueda simple e intuitivo 
   para ser fácil de usar por todos los usuarios. Primero, podrán elegir un destino o buscar un lugar en específico. Estos datos se verán de manera listada, incluyendo el tiempo de viaje y los valores
@@ -1672,6 +1746,7 @@ Para que la información se identifique con claridad, se estarán utilizando esp
 </div>
 
 ### 4.2.5. Navigation Systems.
+
 <div align="justify">
   Los sistemas de navegación principales serán los menús superiores, inferiores, el sistema de búsqueda y el mapa de calor. El sistema de labeling desplazara a los usuarios a las secciones que desean visualizar
   dentro de la página. En caso no se utilicen, el usuario verá la página a medida que desciende. La plataforma permitirá a los usuarios navegar libremente por el mapa usando su puntero o visitar las distintas 
@@ -1681,7 +1756,9 @@ Para que la información se identifique con claridad, se estarán utilizando esp
 </div>
 
 ## 4.3. Landing Page UI Design.
+
 ### 4.3.1. Landing Page Wireframe.
+
 La landing page de PeaceApp, diseñada para ser intuitiva y accesible, inicia con una sección de bienvenida que destaca las principales funciones y beneficios de la aplicación. Se continúa con "Nosotros", donde se detalla la misión y visión, reforzando el compromiso de la empresa con la seguridad personal y comunitaria. La sección "App" ofrece una vista previa interactiva de sus características, mientras que "Servicios" explica los distintos servicios como notificaciones de alerta y análisis de seguridad. "Planes" presenta las opciones de suscripción adaptadas a diferentes necesidades de los usuarios. Finalmente, "Contacto" facilita un formulario para comunicaciones directas con el equipo de PeaceApp, asegurando un soporte eficaz y personalizado.
 
 #### Lading Page Wireframe - Inicio
@@ -1709,6 +1786,7 @@ La landing page de PeaceApp, diseñada para ser intuitiva y accesible, inicia co
 <img src="./assets/WireFrames - Contactanos.png" alt="WireFrameLandingContactanos">
 
 ### 4.3.2. Landing Page Mock-up.
+
 El wireframe de la landing page para la vista de escritorio ha sido esencial para estructurar la disposición de los elementos visualmente. Siguiendo este diseño inicial, se desarrolló el mock-up de la landing page, manteniendo la coherencia con el contenido previamente descrito. En la imagen siguiente, se puede observar la implementación efectiva de la paleta de colores primarios y secundarios, así como la tipografía seleccionada, demostrando la atención al detalle y la consistencia del estilo visual a lo largo del diseño.
 
 #### Lading Page Mock-up - Inicio
@@ -1736,6 +1814,7 @@ El wireframe de la landing page para la vista de escritorio ha sido esencial par
 <img src="./assets/Mock-up - Contactanos.png" alt="Mock-upLandingContactanos">
 
 ## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
 
 #### Web Applications Wireframes - Página Principal
@@ -1836,26 +1915,31 @@ Opciones de edición de perfil de usuario, incluyendo tipos de ruta preferidos y
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 #### User Flow User Goal 1 (Como transeúnte, quiero que la aplicación me sugiera la ruta más segura.)
+
 User Task: El usuario se registra como ciudadano, busca un destino y recibe sugerencias de la ruta más segura a través del mapa de calor.
 
 <img src="./assets/WireFlow1.png" alt="WireFlow1">
 
 #### User Flow User Goal 2 (Como transeúnte, quiero poder personalizar mis rutas en función de mis preferencias.)
+
 User Task: El usuario ajusta sus preferencias de seguridad en su perfil para obtener rutas personalizadas que se ajusten a sus necesidades.
 
 <img src="./assets/WireFlow2.png" alt="WireFlow2">
 
 #### User Flow User Goal 3 (Como transeúnte, quiero poder reportar incidentes.)
+
 User Task: El usuario accede a la sección de reportes, completa un formulario con los detalles del incidente y visualiza el nuevo reporte en su lista.
 
 <img src="./assets/WireFlow3.png" alt="WireFlow3">
 
 #### User Flow User Goal 4 (Como comisario, quiero tener acceso a los reportes de los usuarios.)
+
 User Task: El comisario registra información de su municipalidad, revisa reportes de incidentes y planifica estrategias contra la delincuencia.
 
 <img src="./assets/WireFlow4.png" alt="WireFlow4">
 
 #### User Flow User Goal 5 (Como comisario, quiero poder priorizar los reportes en función de su gravedad y urgencia.)
+
 User Task: El comisario establece la prioridad de los reportes basándose en su gravedad y urgencia para gestionar las respuestas de forma eficaz.
 
 <img src="./assets/WireFlow5.png" alt="WireFlow5">
@@ -1863,112 +1947,139 @@ User Task: El comisario establece la prioridad de los reportes basándose en su 
 ### 4.4.3. Web Applications Mock-ups.
 
 ### Web Applications Mock-Ups - Página Principal
+
 Interfaz de bienvenida finalizada, que muestra un diseño interactivo donde los nuevos usuarios son alentados a registrarse o iniciar sesión para utilizar la plataforma.
 <img src="./assets/RegistroM.png" alt="Mock-Up Página Principal">
 
 ### Web Applications Mock-Ups - Recuperación Contraseña
+
 Interfaz de usuario final para inicio de sesión con funcionalidad de recuperación de contraseña, proporcionando seguridad y accesibilidad.
 <img src="./assets/ContraseñaM.png" alt="Mock-Up Recuperación Contraseña">
 
 ### Web Applications Mock-Ups - Correo de Cambio de Contraseña
+
 Mensaje de confirmación detallado y diseñado que notifica a los usuarios el envío del enlace para restablecer su contraseña.
 <img src="./assets/RecuperadoM.png" alt="Mock-Up Correo de Cambio de Contraseña">
 
 ### Web Applications Mock-Ups - Registro de Usuarios
+
 Selección visual de tipo de usuario con un diseño claro y opciones para "Ciudadano" o "Municipalidad", con acceso directo para iniciar sesión.
 <img src="./assets/Tipo de UsuarioM.png" alt="Mock-Up Registro de Usuarios">
 
 ### Web Applications Mock-Ups - Formulario de Ciudadanos
+
 Diseño definitivo del formulario de registro para ciudadanos, con campos de entrada y selecciones seguras.
 <img src="./assets/Formulario CiudadanoM.png" alt="Mock-Up Formulario de Ciudadanos">
 
 ### Web Applications Mock-Ups - Formulario de Municipalidades
+
 Formulario interactivo de registro para entidades gubernamentales, diseñado para fomentar la contribución a la seguridad comunitaria.
 <img src="./assets/Formulario MunicipalidadM.png" alt="Mock-Up Formulario de Municipalidades">
 
 ### Web Applications Mock-Ups - Suscripción de Municipalidades
+
 Vista completa de la suscripción gubernamental con detalles sobre la renovación y formulario de pago seguro.
 <img src="./assets/Suscripción GubernamentalM.png" alt="Mock-Up Suscripción de Municipalidades">
 
 ### Web Applications Mock-Ups - Buscar una Ruta
+
 Interfaz de usuario para la búsqueda de rutas seguras, mostrando un mapa interactivo y opciones de filtrado.
 <img src="./assets/Mapa CiudadanoM.png" alt="Mock-Up Buscar una Ruta">
 
 ### Web Applications Mock-Ups - Ruta Encontrada con Mapa de Calor
+
 Representación visual de un mapa de calor en el contexto de la aplicación, destacando las áreas de interés de seguridad.
 <img src="./assets/Mapa de Calor CiudadanoM.png" alt="Mock-Up Ruta Encontrada con Mapa de Calor">
 
 ### Web Applications Mock-Ups - Mapa de la Municipalidad
+
 Funcionalidad de mapa de calor personalizado para municipalidades, con información detallada sobre áreas de alto riesgo.
 <img src="./assets/Mapa de Calor EntidadM.png" alt="Mock-Up Mapa de la Municipalidad">
 
 ### Web Applications Mock-Ups - Sección de Reportes
+
 Sección de reportes con una lista detallada y diseño interactivo para visualizar y enviar nuevos reportes.
 <img src="./assets/Reportes CiudadanoM.png" alt="Mock-Up Sección de Reportes">
 
 ### Web Applications Mock-Ups - Envío de Reporte
+
 Interfaz detallada para el envío de reportes, incluyendo la opción de adjuntar evidencia para verificar los incidentes.
 <img src="./assets/Formulario ReporteM.png" alt="Mock-Up Envío de Reporte">
 
 ### Web Applications Mock-Ups - Detalles del Reporte
+
 Pantalla que muestra en detalle la información de los reportes enviados por los usuarios, con todas las opciones relevantes.
 <img src="./assets/ReporteM.png" alt="Mock-Up Detalles del Reporte">
 
 ### Web Applications Mock-Ups - Lista de Reportes Municipalidad
+
 Lista resumida de informes para revisión de las autoridades, con diseño enfocado en la accesibilidad y toma de decisiones.
 <img src="./assets/Lista de Reportes EntidadM.png" alt="Mock-Up Lista de Reportes Municipalidad">
 
 ### Web Applications Mock-Ups - Notificaciones y Alertas de Ciudadanos
+
 Diseño de la interfaz para mostrar notificaciones y alertas a los ciudadanos, manteniendo al usuario informado sobre la seguridad.
 <img src="./assets/NotificacionesM.png" alt="Mock-Up Notificaciones y Alertas de Ciudadanos">
 
 ### Web Applications Mock-Ups - Notificaciones y Alertas de Municipalidades
+
 Sistema de alertas para municipalidades que permite la personalización y el intercambio de información entre entidades.
 <img src="./assets/Alertas EntidadM.png" alt="Mock-Up Notificaciones y Alertas de Municipalidades">
 
 ### Web Applications Mock-Ups - Perfil de Ciudadanos
+
 Diseño completo de la página de perfil de usuario, ofreciendo control total sobre la información personal y la cuenta.
 <img src="./assets/Perfil UsuarioM.png" alt="Mock-Up Perfil de Ciudadanos">
 
 ### Web Applications Mock-Ups - Perfil de Municipalidades
+
 Interfaz del perfil de la municipalidad con opciones claras para la gestión de la cuenta y suscripción.
 <img src="./assets/Perfil EntidadM.png" alt="Mock-Up Perfil de Municipalidades">
 
 ### Web Applications Mock-Ups - Editar Perfil
+
 Página de edición de perfil de usuario con un diseño intuitivo y fácil de usar para la personalización del perfil.
 <img src="./assets/Editar PerfilM.png" alt="Mock-Up Editar Perfil">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
 #### User Flow User Goal 1 (Como transeúnte, quiero que la aplicación me sugiera la ruta más segura.)
+
 User Task: El usuario se registra como ciudadano, busca un destino y recibe sugerencias de la ruta más segura a través del mapa de calor.
 
 <img src="./assets/UserFlow1.png" alt="UserFlow1">
 
 #### User Flow User Goal 2 (Como transeúnte, quiero poder personalizar mis rutas en función de mis preferencias.)
+
 User Task: El usuario ajusta sus preferencias de seguridad en su perfil para obtener rutas personalizadas que se ajusten a sus necesidades.
 
 <img src="./assets/UserFlow2.png" alt="UserFlow2">
 
 #### User Flow User Goal 3 (Como transeúnte, quiero poder reportar incidentes.)
+
 User Task: El usuario accede a la sección de reportes, completa un formulario con los detalles del incidente y visualiza el nuevo reporte en su lista.
 
 <img src="./assets/UserFlow3.png" alt="UserFlow3">
 
 #### User Flow User Goal 4 (Como comisario, quiero tener acceso a los reportes de los usuarios.)
+
 User Task: El comisario registra información de su municipalidad, revisa reportes de incidentes y planifica estrategias contra la delincuencia.
 
 <img src="./assets/UserFlow4.png" alt="UserFlow4">
 
 #### User Flow User Goal 5 (Como comisario, quiero poder priorizar los reportes en función de su gravedad y urgencia.)
+
 User Task: El comisario establece la prioridad de los reportes basándose en su gravedad y urgencia para gestionar las respuestas de forma eficaz.
 
 <img src="./assets/UserFlow5.png" alt="UserFlow5">
 
 ## 4.5. Web Applications Prototyping.
+
 En esta parte del documento, se incluye el enlace al prototipo de la Aplicación Web, el cual fue creado utilizando la herramienta de prototipado Figma.<br>
 https://www.figma.com/proto/g2UjaaatgDwqOfmLg1rFFW/PeaceApp-Prototype?type=design&node-id=201-31&t=NWFD8ug873xPiMio-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&mode=design
+
 ## 4.6. Domain-Driven Software Architecture.
+
 ### 4.6.1. Software Architecture Context Diagram.
 
   <img src="./assets/ContextDiagram.png" alt="ContextDiagram" width="80%">
@@ -1978,27 +2089,36 @@ https://www.figma.com/proto/g2UjaaatgDwqOfmLg1rFFW/PeaceApp-Prototype?type=desig
   <img src="./assets/ContainerDiagram.png" alt="ContainerDiagram" width="80%">
 
 ### 4.6.3. Software Architecture Components Diagrams.
+
 #### Bounded Context Access Diagram <br>
+
   <img src="./assets/ComponentDiagramAccess.png" alt="ComponentDiagramAccess" width="80%">
 
 #### Bounded Context Payment Diagram <br>
+
   <img src="./assets/ComponentDiagramPayment.png" alt="ComponentDiagramPayment" width="80%">
 
 #### Bounded Context Location Diagram <br>
+
   <img src="./assets/ComponentDiagramLocation.png" alt="ComponentDiagramLocation" width="80%">
 
 #### Bounded Context Report Diagram <br>
+
   <img src="./assets/ComponentDiagramReport.png" alt="ComponentDiagramReport" width="80%">
 
 #### Bounded Context Notification Diagram <br>
+
   <img src="./assets/ComponentDiagramNotification.png" alt="ComponentDiagramNotification" width="80%">
 
 #### Bounded Context Notification Priorization Diagram <br>
+
   <img src="./assets/ComponentDiagramNotificationPriorization.png" alt="ComponentDiagramNotificationPriorization" width="80%">
 
 ## 4.7. Software Object-Oriented Design.
+
 ### 4.7.1. Class Diagrams.
-  <img src="./assets/UML DIAGRAM.jpeg" alt="Log In Context" width="80%"> 
+
+  <img src="./assets/UML DIAGRAM.jpeg" alt="Log In Context" width="80%">
 
 ### 4.7.2. Class Dictionary.
 
@@ -2006,11 +2126,15 @@ https://www.figma.com/proto/g2UjaaatgDwqOfmLg1rFFW/PeaceApp-Prototype?type=desig
   <img src="./assets/class_dictionary2.JPG" alt="Log In Context" width="80%">
 
 ## 4.8. Database Design.
+
 ### 4.8.1. Database Diagram.
+
   <img src="./assets/Database Diagram.png" alt="Log In Context" width="80%">
 
 # Capítulo V: Product Implementation, Validation & Deployment.
+
 ## 5.1. Software Configuration Management.
+
 ### 5.1.1. Software Development Environment Configuration.
 
 - **Product UX/UI Design**<br>
@@ -2028,8 +2152,8 @@ https://www.figma.com/proto/g2UjaaatgDwqOfmLg1rFFW/PeaceApp-Prototype?type=desig
 - **Software Documentation**<br>
   **Github** es una plataforma en la nube que servirá como el hogar de los repositorios de código de nuestro proyecto. Esta herramienta permitirá una colaboración efectiva en tiempo real y facilitará la revisión de las aportaciones de cada integrante del equipo. Los miembros del equipo podrán acceder a ella mediante sus navegadores web. Puedes encontrarla en la siguiente dirección: https://github.com/
 
-
 ### 5.1.2. Source Code Management.
+
 El proyecto adoptará las convenciones de flujo de trabajo del modelo GitFlow para la gestión de versiones, utilizando GitHub como la plataforma y el sistema de control de versiones.<br>
 
 **Estructura de las ramas (branches)**:
@@ -2041,6 +2165,7 @@ El proyecto adoptará las convenciones de flujo de trabajo del modelo GitFlow pa
 Convenciones de los Commits: Para los mensajes de los commits realizados, se utilizará la especificación de los Commits Convencionales
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+
 HTML: Aquí hay algunas prácticas recomendadas para lograr un código HTML coherente, mantenible y bien organizado:<br>
 
 Nos aseguramos de cerrar todos los elementos HTML. Por ejemplo, \<p>Esto es un párrafo.\</p>.
@@ -2049,6 +2174,7 @@ Es recomendable especificar el texto alternativo y las dimensiones (ancho y alto
 Gherkin: Es un lenguaje específico de dominio diseñado para resolver un problema específico: mejorar la comunicación entre los equipos de negocio y técnicos cuando se trabaja con Desarrollo Guiado por Comportamiento (BBD, por sus siglas en inglés). Para promover buenas prácticas, se utilizan saltos de línea para organizar mejor los diferentes tipos de escenarios y distinguirlos de manera más efectiva. Además, se utilizan las palabras clave “Given”, “When”, “Then” y “And” para estructurar los escenarios.
 
 ### 5.1.4. Software Deployment Configuration.
+
 Nuestro repositorio en Github<br>
 <img src="./assets/Repositorio_1.png"><br>
 Nuestras ramas:<br>
@@ -2059,9 +2185,13 @@ Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran
 <img src="./assets/Repositorio_4.png"><br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
+
 #### 5.2.1.1. Sprint Planning 1
+
 En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creación de la Landing Page. Distribuiremos entre nosotros todas las tareas identificadas para este sprint.
+
 <table>
     <tr align="center">
         <td><strong>Sprint #</strong></td>
@@ -2121,6 +2251,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1
+
 <table>
     <tr align="center">
         <td colspan="2"><strong>Sprint #</strong></td>
@@ -2234,6 +2365,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+
 <table>
     <tr>
         <td>Repository</td>
@@ -2286,6 +2418,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
 <div align="justify">
     Para la entrega del Sprint 1 se busco el desarrollo completo e implementación de la Landing Page. Por ello, esta sección se centro en la implementación de los archivos feature, basados en User Stories, que contiene nuestro landing page. 
     <table>
@@ -2373,35 +2506,42 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
 </div>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 <div align="justify">
     En el sprint 1 se diseñó de manera preliminar el primer modelo de la landing page. Esta cuenta con diferentes secciones para acceso de los usuarios. Algunas evidencias son:
 
 ##### Sección de Inicio:
+
 Se implementó el Header de nuestra Landing Page junto con la sección de inicio del Landing Page.
 
 <img src="./assets/Evidence Header and Start.png" alt="Evidence Header and Start" width="80%">
 
 ##### Sección de Nosotros:
+
 Se implementó la sección de nosotros para describir sobre quienes somos.
 
 <img src="./assets/Evidence About Us.png" alt="Evidence About Us" width="80%">
 
 ##### Sección de Aplicación:
+
 Se implementó la sección de la aplicación donde se muestra una pequeña descripción de la app.
 
 <img src="./assets/Evidence App.png" alt="Evidence App" width="80%">
 
 ##### Sección de Servicios:
+
 Se implementó la sección de los servicios que ofreceremos a los usuarios.
 
 <img src="./assets/Evidence Services.png" alt="Evidence Services" width="80%">
 
 ##### Sección de Planes:
+
 Se añadió la sección de planes donde podrán adquirir nuestro plan estándar (para los ciudadanos) o nuestro plan gubernamental (para las municipalidades).
 
 <img src="./assets/Evidence Plans.png" alt="Evidence Plans" width="80%">
 
 ##### Sección de Contacto:
+
 Se añadió la sección de contactos donde podrán contactarse con los desarrolladores de la plataforma junto con el footer.
 
 <img src="./assets/Evidence Contact and Footer.png" alt="Evidence Contact and Footer" width="80%">
@@ -2409,11 +2549,13 @@ Se añadió la sección de contactos donde podrán contactarse con los desarroll
 </div>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 <div align="justify">
     En este primer sprint se incluyo únicamente una Landing Page creada con html estático, en varios archivos conjuntos subidos simultáneamente. Por ello, al no contar con un back-end, no fue contemplada la evidencia de documentación de los servicios.
 </div>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 <div align="justify">
 Nos enfocamos plenamente en asegurar un proceso de Deployment eficiente y efectivo. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo. Por ello, se presentan las siguientes evidencias:<br><br>
 <img src="./assets/Evidence Application.png" alt="Evidence Application" width="80%">
@@ -2421,19 +2563,20 @@ Nos enfocamos plenamente en asegurar un proceso de Deployment eficiente y efecti
 Enlace para acceder a la landing page: https://g2webapplication-wx54.github.io/landing-page-web-app/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
 <div align="justify">
 Se abordo el trabajo de manera colaborativa y organizada. Para ello, se dividieron las tareas según las secciones acordadas durante las reuniones de planificación. Esto nos ayudo a trabajar de manera eficiente, al centrarnos en áreas específicas para optimizar el tiempo y los recursos. Dicha participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo.
 </div>
 
 Tabla para poder identificarnos:
 
-|  UserName (Github)   | Nombre         |
-| -------------------- |-------------|
-|Anatoly69420          | Anatoly Andrey  Noriega Suschenko|
-|Andres-0304   		   | Andres Fernando Rodriguez Zuluoeta  |
-|JanielFranz           |Janiel Franz Escalante Baygorrea |
-|JP19-03               |Johan Príncipe Godoy|
-|ern23zc               |Victor Ernesto Zarate Caceres |
+| UserName (Github) | Nombre                             |
+| ----------------- | ---------------------------------- |
+| Anatoly69420      | Anatoly Andrey Noriega Suschenko   |
+| Andres-0304       | Andres Fernando Rodriguez Zuluoeta |
+| JanielFranz       | Janiel Franz Escalante Baygorrea   |
+| JP19-03           | Johan Príncipe Godoy               |
+| ern23zc           | Victor Ernesto Zarate Caceres      |
 
 ##### Commits:
 
@@ -2444,7 +2587,9 @@ Tabla para poder identificarnos:
 <img src="./assets/ColaborationAnalysis.png" alt="ColaborationAnalysis">
 
 ### 5.2.2. Sprint 2
+
 #### 5.2.2.1.Sprint Planning 2.
+
 <table>
     <tr align="center">
         <td><strong>Sprint #</strong></td>
@@ -2507,6 +2652,7 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.2.2.Sprint Backlog 2.
+
 <table>
     <tr align="center">
         <td colspan="2"><strong>Sprint #</strong></td>
@@ -2589,6 +2735,7 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
+
 <table>
     <tr>
         <td>Repository</td>
@@ -2641,6 +2788,7 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
 <div align="justify">
     Para la entrega del Sprint 2 se busco el desarrollo inicial de la Web Application y una mejora de la Landing Page. Por ello, esta sección se centro en trabajar en los User Stories relacionados. 
     <table>
@@ -2664,6 +2812,7 @@ Tabla para poder identificarnos:
 </div>
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+
 <div align="justify">
     En el sprint 2 se diseñó de manera preliminar el primer modelo de la Web App. Además, se realizo la mejora de la landing page. Algunas evidencias son:
     <ul>
@@ -2672,6 +2821,7 @@ Tabla para poder identificarnos:
 </div>
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
 <div align="justify">
 	Para el Sprint 2 únicamente se planificó para abarcar las mejoras de la landing page y la creación del front-end.
 	<table>
@@ -2717,6 +2867,7 @@ Tabla para poder identificarnos:
 </div>
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
 <div align="justify">
 	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
 	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
@@ -2735,6 +2886,7 @@ Tabla para poder identificarnos:
 </div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+
 <div align="justify">
 	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page de PeaceApp, avanzar en llevarla a su versión definitiva, donde será completamente responsive.<br>
 	A su vez se dio inicio a la creación de la plataforma principal. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin  
@@ -2743,22 +2895,26 @@ Tabla para poder identificarnos:
 
 Tabla para poder identificarnos:
 
-|  UserName (Github)   | Nombre         |
-| -------------------- |-------------|
-|Anatoly69420          | Anatoly Andrey  Noriega Suschenko|
-|Andres-0304   		   | Andres Fernando Rodriguez Zuluoeta  |
-|JanielFranz           |Janiel Franz Escalante Baygorrea |
-|JP19-03               |Johan Príncipe Godoy|
-|ern23zc               |Victor Ernesto Zarate Caceres |
+| UserName (Github) | Nombre                             |
+| ----------------- | ---------------------------------- |
+| Anatoly69420      | Anatoly Andrey Noriega Suschenko   |
+| Andres-0304       | Andres Fernando Rodriguez Zuluoeta |
+| JanielFranz       | Janiel Franz Escalante Baygorrea   |
+| JP19-03           | Johan Príncipe Godoy               |
+| ern23zc           | Victor Ernesto Zarate Caceres      |
 
 ##### Commits:
+
 <img src="./assets/CommitsAnalysisS2.png" alt="CommitsAnalysis - Sprint 2">
 
 ##### Analíticas de Colaboración:
+
 <img src="./assets/ColaborationAnalysisS2.png" alt="ColaborationAnalysis - Sprint 2">
 
 # Conclusiones
+
 # Bibliografía
+
 <div align="justify">
   <ul>
     <li>Banco Mundial. (2017). <em>Enhancing Urban Safety and Security: Global Report on Human Settlements 2007.</em> Recuperado de https://www.bancomundial.org</li>
@@ -2767,6 +2923,7 @@ Tabla para poder identificarnos:
 </div>
 
 # Anexos.
+
 <table>
 	<tr>
 		<td>Sección</td>
