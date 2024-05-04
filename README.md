@@ -186,7 +186,6 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 ### [Anexos](#anexos-1)
 
 # Student Outcome
-
 <div align="justify">
     Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.<br>    
     En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
@@ -228,7 +227,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               <b>Escalante Baygorrea, Janiel Franz</b><br>
               <br><br>
               <b>Noriega Suschenko, Anatoly Andrey</b><br>
-              <br><br>          
+              He realizado la corrección de algunos puntos del proyecto como lo serían el Ubiquitous Language, el Domain-Driven Software Architecture, junto con el Sprint 1 que en el envío pasado no estaba presente. Así mismo participe en la realización de la Web Application y poner como predeterminado el idioma inglés en la Landing Page.<br><br>          
               <b>Príncipe Godoy, Johan</b><br>
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
@@ -274,7 +273,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             <b>Escalante Baygorrea, Janiel Franz</b><br>
             <br><br>
             <b>Noriega Suschenko, Anatoly Andrey</b><br>
-            <br><br>          
+            Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo aprendido en clase me sirvió para avanzar la Web Application.<br><br>          
             <b>Príncipe Godoy, Johan</b><br>
             <br><br>
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
