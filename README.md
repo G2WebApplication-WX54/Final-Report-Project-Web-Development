@@ -3019,8 +3019,8 @@ Tabla para poder identificarnos:
 			Enlace:<br><br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tp1<br>
 			Formato: .mp4<br>
-			Duración:<br>
-			Enlace:<br><br>
+			Duración: 14:10<br>
+			Enlace: https://shorturl.at/msvzQ<br><br>
 		</td>
 	</tr>
 	<tr>
