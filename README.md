@@ -556,6 +556,7 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
     <td>- Dependencia de la participación activa de los usuarios para reportar incidentes.<br>- Posible falta de confiabilidad en la precisión de las alertas de seguridad.<br>- Competencia
       de otras aplicaciones y dispositivos de seguridad personal que ofrecen características similares.</td>
     </tr>
+<tr>
 <td>Oportunidades</td>
   <td>- Expansión de nuevas ciudades y regiones.<br>- Colaboraciones con agencias gubernamentales y organismos de seguridad.<br>- Incorporación de nuevas funciones como servicios de
     seguridad personalizada para usuarios premium.</td>
@@ -565,7 +566,8 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
       funciones como asistencia en tiempo real o acompañamiento para usuarios premium.</td>
     <td>- Expansión a nuevas regiones y mercados.<br>- Desarrollo de características innovadoras como integración con dispositivos wearables o servicios de asistencia personalizada.
       <br>- Incorporaciones de planes premium con funciones avanzadas como monitoreo de seguridad las 24 horas o servicios de asesoramiento de seguridad personal.</td>
-    </tr>
+</tr> 
+<tr>
 <td>Amenazas</td>
   <td>- Cambios en la legislación de privacidad de datos que pueda afectar a la recopilación de la información del usuario.<br>- Riesgo de incidentes de seguridad cibernética que comprometan
     con la integridad y la confianza.<br>- Posible perdida de confianza de los usuarios debido a la incapacidad de la aplicación para prevenir o responder de manera inmediata.</td>
@@ -574,7 +576,8 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
     <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicacion.<br>- Posible exposición a riesgos legales relacionados con la privacidad de datos y la 
       responsabilidad por la seguridad de los usuarios.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan difundir información falsa o engañosa.</td>
     <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicación para responder eficazmente a emergencias.<br>- Posible exposición a riesgos legales relacionados
-      con la privacidad de los datos.<br>- Vulnerabilidad a la competencia agresiva de otras empresas que ofrecen soluciones de seguridad personal más establecidas o con mayores recursos financieros.</tr>
+      con la privacidad de los datos.<br>- Vulnerabilidad a la competencia agresiva de otras empresas que ofrecen soluciones de seguridad personal más establecidas o con mayores recursos financieros.</td>
+</tr>
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
