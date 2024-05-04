@@ -64,8 +64,8 @@
 Para el desarrollo del informe se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 | Integrantes                         | Tareas designadas                                                                                                                                                                      |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Escalante Baygorrea, Janiel Franz   | Lean UX Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page                                                                     |
+| :---------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Escalante Baygorrea, Janiel Franz   | Lean UX Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML, parte del Landing Page, Responsive landing page, Web Application reports bounded context.   |
 | Noriega Suschenko, Anatoly Andrey   | Segmentos objetivo, Competidores, Analisis Competitivo, Entrevista, Landing Page UI Design, Web Application UX/UI Design, Web Application Prototyping y parte del Landing Page         |
 | Príncipe Godoy, Johan               | Needfinding, Ubiquitous Language, To-Be Scenario Mapping, Domain-Driven Software Architecture y parte del Landing Page                                                                 |
 | Rodriguez Zuluoeta, Andres Fernando | Diseño de entrevistas, Analisis de entrevistas, Needfinding, User Personas, User Stories, Impact Mapping, Product Backlog, Software Configuration Managemente y parte del Landing Page |
@@ -225,6 +225,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.<br><br>
               TP<br><br>
               <b>Escalante Baygorrea, Janiel Franz</b><br>
+              He participado junto con mis compañeros en la modificación del repositorio del reporte del proyecto. Por otro lado, también participe en la creación de la App Web y su posterior dedspliegue
               <br><br>
               <b>Noriega Suschenko, Anatoly Andrey</b><br>
               He realizado la corrección de algunos puntos del proyecto como lo serían el Ubiquitous Language, el Domain-Driven Software Architecture, junto con el Sprint 1 que en el envío pasado no estaba presente. Así mismo participe en la realización de la Web Application y poner como predeterminado el idioma inglés en la Landing Page.<br><br>          
@@ -273,6 +274,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             atractiva al usuario.<br><br>
             TP<br><br>
             <b>Escalante Baygorrea, Janiel Franz</b><br>
+            Trabaje con el BC del reporte de incidentes. Hice uso del framework VueJs para el desarrollo de la App web, utilizando el UI PrimeVue y Primeblocks
             <br><br>
             <b>Noriega Suschenko, Anatoly Andrey</b><br>
             Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo aprendido en clase me sirvió para avanzar la Web Application.<br><br>          
