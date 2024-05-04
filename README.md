@@ -12,7 +12,7 @@
     <strong>Aplicaciones Web - WX54</strong><br>  
     <br>
     <strong>Profesor: Alex Humberto Sánchez Ponce</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TP </strong> 
 </p>
 <p align="center">
     <strong>Startup: PeaceApp </strong><br>
