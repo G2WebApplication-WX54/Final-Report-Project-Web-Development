@@ -437,15 +437,15 @@ Tabla para poder identificarnos:
 <table>
     <tr align="center">
         <td><strong>Sprint #</strong></td>
-        <td><strong>Sprint 1</strong></td>
+        <td><strong>Sprint 2</strong></td>
     </tr>
     <tr align="center">
         <td>Date</td>
-        <td>20/04/2024</td>
+        <td>02/05/2024</td>
     </tr>
     <tr align="center">
         <td>Time</td>
-        <td>10:00 PM</td>
+        <td>08:00 PM</td>
     </tr>
     <tr align="center">
         <td>Location</td>
@@ -453,7 +453,7 @@ Tabla para poder identificarnos:
     </tr>
     <tr align="center">
         <td>Prepared by</td>
-        <td>Janiel Franz Escalante Baygorrea, </td>
+        <td>Anatoly Andrey Noriega Suschenko, </td>
     </tr>
     <tr align="center">
         <td>Attendess (to planning meeting)</td>
@@ -465,15 +465,15 @@ Tabla para poder identificarnos:
 	        Victor Ernesto Zarate Caceres - U202112907
     </tr>
     <tr align="center">
-        <td>Sprint 1 Review Summary</td>
+        <td>Sprint 2 Review Summary</td>
         <td align="justify">
-		Se completaron las User Stories establecidos en el sprint anterior y mejoramos la experiencia de usuario en la landing page.
+		Se corrigieron varios errores respecto al envío pasado y a la retroalimentación brindada por el profesor.
 	</td>
     </tr>
     <tr align="center">
-        <td>Sprint 1 Retrospective Summary</td>
+        <td>Sprint 2 Retrospective Summary</td>
         <td align="justify">
-		El equipo acordó enmendar los errores de la presentación anterior y colaborar más estrechamente con el equipo. Además se acordó la landing page de la aplicación.
+		El equipo acordó en implementar los componentes escenciales de la Web Application de nuestra aplicación completando por el momento con la parte Front End de nuestro proyecto.
 	</td>
     </tr>
     <tr>
@@ -487,11 +487,11 @@ Tabla para poder identificarnos:
     </tr>
     <tr align="center">
         <td>Sprint 2 Velocity</td>
-        <td></td>
+        <td>48</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td></td>
+        <td>48</td>
     </tr>
 </table>
 
@@ -516,64 +516,145 @@ Tabla para poder identificarnos:
         <td><strong>Status (To do / In process / To review / Done)</strong></td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US01</td>
+        <td>Acceso al Web Application desde la Landing Page</td>
         <td>W-01</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Acceder al Web Application desde la Landing Page</td>
+        <td>Permitir al usuario que pueda acceder a la aplicación Web desde la Landing Page</td>
+        <td>2</td>
+        <td>Victor</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US11</td>
+        <td>Vista de Buscar un Distrito de Ciudadano</td>
         <td>W-02</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Buscar un distrito de Ciudadano</td>
+        <td>Permitir al usuario que pueda navegar en el mapa de un distrito para encontrar una ruta</td>
+        <td>8</td>
+        <td>Johan</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US16</td>
+        <td>Vista de Visualizar el Distrito de la Entidad Gubernamental</td>
         <td>W-03</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Visualizar el distrito de la Entidad Gubernamental</td>
+        <td>Permitir a la Entidad Gubernamental que pueda visualizar el mapa de su distrito</td>
+        <td>4</td>
+        <td>Johan</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US12</td>
+        <td>Formulario de Reportes</td>
         <td>W-04</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Enviar un reporte</td>
+        <td>Permitir al usuario hacer un envío de un reporte</td>
+        <td>4</td>
+        <td>Anatoly</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US13</td>
+        <td>Vista de Reportes de los ciudadanos</td>
         <td>W-05</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Crear los reportes del Ciudadano</td>
+        <td>Permitir al usuario poder visualizar los reportes que ha hecho dentro de la aplicación</td>
+        <td>4</td>
+        <td>Janiel</td>
+        <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
+        <td>US13</td>
+        <td>Vista de un reporte hecho por el ciudadano</td>
         <td>W-06</td>
-        <td></td>
-        <td></td>
-        <td> hours</td>
-        <td></td>
-        <td></td>
+        <td>Visualizar un reporte hecho por el Ciudadano</td>
+        <td>Permitir al usuario visualizar un reporte único</td>
+        <td>2</td>
+        <td>Janiel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US14</td>
+        <td>Vista de la lista de Reportes que posee la Entidad Gubernamental</td>
+        <td>W-07</td>
+        <td>Crear la lista de los reportes hacia la Entidad Gubernamental</td>
+        <td>Permitir a la Entidad Gubernamental visualizar los reportes realizados por los ciudadanos en su distrito</td>
+        <td>4</td>
+        <td>Janiel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US07</td>
+        <td>Vista de Notificaciones de los Ciudadanos</td>
+        <td>W-08</td>
+        <td>Crear la lista de notificaciones del Ciudadano</td>
+        <td>Permitir al usuario visualizar las notificaciones que recibe</td>
+        <td>4</td>
+        <td>Andres</td>
+        <td>To-Do</td>
+    </tr>
+    <tr align="center">
+        <td>US06</td>
+        <td>Vista de Notificaciones de la Entidad Gubernamental</td>
+        <td>W-09</td>
+        <td>Crear lista de notificaciones de la Entidad Gubernamental</td>
+        <td>Permitir a la Entidad Gubernamental visualizar las notificaciones que recibe</td>
+        <td>4</td>
+        <td>Andres</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US04</td>
+        <td>Vista de Perfil de Ciudadano</td>
+        <td>W-10</td>
+        <td>Crear la vista del perfil del ciudadano</td>
+        <td>Permitir al ciudadano visualizar su perfil junto con sus datos</td>
+        <td>4</td>
+        <td>Victor</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US05</td>
+        <td>Vista de Perfil de la Entidad Gubernamental</td>
+        <td>W-11</td>
+        <td>Crear la vista del perfil de la Entidad Gubernamental</td>
+        <td>Permitir a la Entidad Gubernamental visualizar su perfil junto con sus datos</td>
+        <td>4</td>
+        <td>Victor</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US09</td>
+        <td>Formulario de edición de Perfil</td>
+        <td>W-12</td>
+        <td>Editar perfil del ciudadano</td>
+        <td>Permitir al usuario que pueda editar su perfil</td>
+        <td>4</td>
+        <td>Anatoly</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US10</td>
+        <td>Personalización del tipo de ruta</td>
+        <td>W-13</td>
+        <td>Cambiar las preferencias de la ruta</td>
+        <td>Permitir al usuario cambiar sus preferencias de ruta de acuerdo a sus necesidades</td>
+        <td>2</td>
+        <td>Anatoly</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US19</td>
+        <td>Ubicación del Ciudadano</td>
+        <td>W-14</td>
+        <td>Compartir la ubicación del ciudadano</td>
+        <td>Permitir al usuario compartir su ubicación en caso lo requiera</td>
+        <td>2</td>
+        <td>Anatoly</td>
+        <td>Done</td>
+        
     </tr>
 </table>
 
@@ -589,43 +670,59 @@ Tabla para poder identificarnos:
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/edit-profile</td>
+        <td>f9d12ac1a5f660d30ab1c978d4ca07c456bd84f3</td>
+        <td>feat(edit-profile): add the full view of edit profile with the form</td>
+        <td>-</td>
+        <td>03/05/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/map-view-citizen</td>
+        <td>279df7db406e5d5bde68b65fc68000fe03280344</td>
+        <td>feat: mapcitizenview added</td>
+        <td>-</td>
+        <td>03/05/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/map-view-goverment</td>
+        <td>9f740dd0c65ebb8cb9fd27f84c8cd90c19c7e5e9</td>
+        <td>feat: mapgovernmentview added</td>
+        <td>-</td>
+        <td>04/05/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/profile-view</td>
+        <td>a2457a549b3af8f0d4d4f2e17ad746125a5a07d0</td>
+        <td>Update userProfile.page.vue</td>
+        <td>-</td>
+        <td>03/05/2024</td>
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>feature/report</td>
+        <td>1c5cbee6041c0939319c23be8497e5192be166ab</td>
+        <td>feat: municipality component added</td>
+        <td>-</td>
+        <td>04/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>feature/report-form-view</td>
+        <td>fa03cb8268f474c9fde56ff88b44463675d06790</td>
+        <td>feat(report-form): add the updated view of the report form</td>
+        <td>-</td>
+        <td>03/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>feature/map-view-citizen</td>
+        <td>279df7db406e5d5bde68b65fc68000fe03280344</td>
+        <td>chore: view-notifications.vue</td>
+        <td>-</td>
+        <td>04/05/2024</td>
     </tr>
 </table>
 
@@ -643,84 +740,98 @@ Tabla para poder identificarnos:
     </tr>
     <tr>
         <td>landing-page-web-app</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
+        <td>develop</td>
+        <td>a2457a549b3af8f0d4d4f2e17ad746125a5a07d0</td>
+        <td>Update userProfile.page.vue</td>
+        <td>Added the User Profile Page</td>
+        <td>04/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>develop</td>
+        <td>a2457a549b3af8f0d4d4f2e17ad746125a5a07d0</td>
+        <td>feat(report-form): add responsive for report-form</td>
+        <td>Added the responsive style of the report form with the edit profile view</td>
+        <td>04/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>develop</td>
+        <td>9f740dd0c65ebb8cb9fd27f84c8cd90c19c7e5e9</td>
+        <td>feat: mapgovernmentview added</td>
+        <td>Added the map for the goverment entity with the map for the citizens</td>
+        <td>04/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>develop</td>
+        <td>1c5cbee6041c0939319c23be8497e5192be166ab</td>
+        <td>feat: municipality component added</td>
+        <td>Added the reports for the municipalities with the other views of reports</td>
+        <td>04/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>develop</td>
+        <td>124737d58d640261a2e69923e51155ea49d92924</td>
+        <td>chore: view-notifications.vue</td>
+        <td>Added the view for the notifications of the municipalities</td>
+        <td>04/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>develop</td>
+        <td>0325d0c8382cb44a016bd8d2de3b7b3a9a037a82</td>
+        <td>chore: SendAlert</td>
+        <td>Added the functionality of sending an alert</td>
+        <td>04/05/2024</td>
+    </tr>
+    <tr>
+        <td>landing-page-web-app</td>
+        <td>develop</td>
+        <td>3a5ae4a786cef907302db5756cf42d44a5244e42</td>
+        <td>Update principal.page.vue</td>
+        <td>Added the view for the main page</td>
+        <td>04/05/2024</td>
     </tr>
 </table>
 </div>
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
-<div align="justify">
-    En el sprint 2 se diseñó de manera preliminar el primer modelo de la Web App. Además, se realizo la mejora de la landing page. Algunas evidencias son:
-    <ul>
-        <li></li>
-    </ul>
-</div>
+En el sprint 2 se diseñó de manera preliminar el primer modelo de la Web App. Además, se realizo la mejora de la landing page. Algunas evidencias son:
+    
+##### Sección Página Principal
+<img src="imgs/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
+
+##### Sección Mapa de Ciudadano
+<img src="imgs/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
+    
+##### Sección Reportes
+<img src="imgs/Evidence-Reports.jpeg" alt="Evidence-Reports.jpeg - Sprint 2">
+
+##### Sección Formulario de Reportes
+<img src="imgs/Evidence-ReportForm.jpeg" alt="Evidence-ReportForm.jpeg - Sprint 2">
+
+##### Sección Notificaciones
+<img src="imgs/Evidence-Notifications.jpeg" alt="Evidence-Notifications.jpeg - Sprint 2">
+
+##### Sección Perfil de Ciudadano
+<img src="imgs/Evidence-CitizenProfile.jpegg" alt="Evidence-CitizenProfile.jpeg - Sprint 2">
+    
+##### Sección Editar Perfil
+<img src="imgs/Evidence-EditProfile.jpeg" alt="Evidence-EditProfile.jpeg - Sprint 2">
+
+##### Sección Perfil de Entidad Gubernamental
+<img src="imgs/Evidence-Municipality.jpeg" alt="Evidence-Municipality.jpeg - Sprint 2">
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-<div align="justify">
-	Para el Sprint 2 únicamente se planificó para abarcar las mejoras de la landing page y la creación del front-end.
-	<table>
-		<tr>
-			<td>Endpoint: </td>
-			<td>Details: </td>
-		</tr>
-		<tr>
-			<td>/</td>
-			<td>Se implemento</td>
-		</tr>
-		<tr>
-			<td>/</td>
-			<td>Se implemento</td>
-		</tr>
-	</table>
-	<table>
-		<tr>
-			<td>Repository</td>
-			<td>Branch</td>
-			<td>Commit ID</td>
-			<td>Commit message</td>
-			<td>Commit message body</td>
-			<td>Commited on (Date)</td>
-		</tr>
-		<tr>
-			<td>landing-page-web-app</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>landing-page-web-app</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-	</table>
-</div>
+En el segundo sprint, se decidió enfocarse exclusivamente en desarrollar el front-end de nuestra aplicación. Para evitar limitaciones en las pruebas debido a la falta de un back-end, se optó por utilizar un fake-api que implementa una funcionalidad de mapa en nuestra aplicación.
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 <div align="justify">
 	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
 	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
-	<ul>
-		<li>Landing Page:</li>
-		<img src="imgs/EvidenceSprintLanding1" alt="Evidencia 1 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding2" alt="Evidencia 2 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding3" alt="Evidencia 3 Landing Page - Sprint 2">
-		<img src="imgs/EvidenceSprintLanding4" alt="Evidencia 4 Landing Page - Sprint 2">
-		<li>Web Application</li>
-		<img src="imgs/EvidenceSprintWebApp1" alt="Evidencia 1 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp2" alt="Evidencia 2 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp3" alt="Evidencia 3 Web ApplicationLanding Page - Sprint 2">
-		<img src="imgs/EvidenceSprintWebApp4" alt="Evidencia 4 Web ApplicationLanding Page - Sprint 2">
-	</ul>
+<img src="imgs/Evidence-WebApp.png" alt="Evidence-WebApp.png - Sprint 2">
 </div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
@@ -745,7 +856,6 @@ Tabla para poder identificarnos:
 
 ##### Analíticas de Colaboración:
 <img src="/assets/ColaborationAnalysisS2.png" alt="ColaborationAnalysis - Sprint 2">
-
 # Conclusiones
 # Bibliografía
 <div align="justify">
