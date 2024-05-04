@@ -230,6 +230,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               <b>Noriega Suschenko, Anatoly Andrey</b><br>
               <br><br>          
               <b>Príncipe Godoy, Johan</b><br>
+              Para el sprint 2, se realizó la corrección de algunos puntos de la entrega anterior como los user stories, product backlog. De la misma manera, implementé las vistas asignadas para el web application.
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
               <br><br>
@@ -276,6 +277,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             <b>Noriega Suschenko, Anatoly Andrey</b><br>
             <br><br>          
             <b>Príncipe Godoy, Johan</b><br>
+            Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcanze y los objetivos que tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los constantes avances durante la entrega.
             <br><br>
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
             <br><br>
