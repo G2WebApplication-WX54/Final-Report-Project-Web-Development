@@ -232,7 +232,8 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               Para el sprint 2, se realizó la corrección de algunos puntos de la entrega anterior como los user stories, product backlog. De la misma manera, implementé las vistas asignadas para el web application.
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-              <br><br>
+              <br>Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro proyecto de manera efectiva.
+<br>
               <b>Zarate Caceres, Victor Ernesto</b><br>
               Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo
               la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega. 
@@ -279,7 +280,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcanze y los objetivos que tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los constantes avances durante la entrega.
             <br><br>
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-            <br><br>
+            <br>Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br>
             <b>Zarate Caceres, Victor Ernesto</b><br>
             Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas
             y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.
