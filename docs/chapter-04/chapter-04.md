@@ -461,19 +461,31 @@ https://www.figma.com/proto/g2UjaaatgDwqOfmLg1rFFW/PeaceApp-Prototype?type=desig
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
   
-  <img src="../../assets/Context_Diagram.png" alt="Context Diagram" width="80%">
+  <img src="../../assets/ContextDiagram.png" alt="ContextDiagram" width="80%">
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-  <img src="../../assets/Container_Diagram.png" alt="Container Diagram" width="80%">
+  <img src="../../assets/ContainerDiagram.png" alt="ContainerDiagram" width="80%">
 
 ### 4.6.3. Software Architecture Components Diagrams.
-  Log In Context <br>
-  <img src="../../assets/LogIn_Context.png" alt="Log In Context" width="80%">
+#### Bounded Context Access Diagram <br>
+  <img src="../../assets/ComponentDiagramAccess.png" alt="ComponentDiagramAccess" width="80%">
 
-  Incident Context <br>
-  <img src="../../assets/Incident_Component.png" alt="Incident Context" width="80%">
+#### Bounded Context Payment Diagram <br>
+  <img src="../../assets/ComponentDiagramPayment.png" alt="ComponentDiagramPayment" width="80%">
+  
+#### Bounded Context Location Diagram <br>
+  <img src="../../assets/ComponentDiagramLocation.png" alt="ComponentDiagramLocation" width="80%">
 
+#### Bounded Context Report Diagram <br>
+  <img src="../../assets/ComponentDiagramReport.png" alt="ComponentDiagramReport" width="80%">
+
+#### Bounded Context Notification Diagram <br>
+  <img src="../../assets/ComponentDiagramNotification.png" alt="ComponentDiagramNotification" width="80%">
+
+#### Bounded Context Notification Priorization Diagram <br>
+  <img src="../../assets/ComponentDiagramNotificationPriorization.png" alt="ComponentDiagramNotificationPriorization" width="80%">
+  
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
   <img src="../../assets/UML DIAGRAM.jpeg" alt="Log In Context" width="80%"> 
