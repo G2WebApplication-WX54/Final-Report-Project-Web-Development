@@ -2938,28 +2938,28 @@ Tabla para poder identificarnos:
 En el sprint 2 se diseñó de manera preliminar el primer modelo de la Web App. Además, se realizo la mejora de la landing page. Algunas evidencias son:
     
 ##### Sección Página Principal
-<img src="imgs/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
+<img src="assets/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
 
 ##### Sección Mapa de Ciudadano
-<img src="imgs/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
+<img src="assets/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
     
 ##### Sección Reportes
-<img src="imgs/Evidence-Reports.jpeg" alt="Evidence-Reports.jpeg - Sprint 2">
+<img src="assets/Evidence-Reports.jpeg" alt="Evidence-Reports.jpeg - Sprint 2">
 
 ##### Sección Formulario de Reportes
-<img src="imgs/Evidence-ReportForm.jpeg" alt="Evidence-ReportForm.jpeg - Sprint 2">
+<img src="assets/Evidence-ReportForm.jpeg" alt="Evidence-ReportForm.jpeg - Sprint 2">
 
 ##### Sección Notificaciones
-<img src="imgs/Evidence-Notifications.jpeg" alt="Evidence-Notifications.jpeg - Sprint 2">
+<img src="assets/Evidence-Notifications.jpeg" alt="Evidence-Notifications.jpeg - Sprint 2">
 
 ##### Sección Perfil de Ciudadano
-<img src="imgs/Evidence-CitizenProfile.jpegg" alt="Evidence-CitizenProfile.jpeg - Sprint 2">
+<img src="assets/Evidence-CitizenProfile.jpeg" alt="Evidence-CitizenProfile.jpeg - Sprint 2">
     
 ##### Sección Editar Perfil
-<img src="imgs/Evidence-EditProfile.jpeg" alt="Evidence-EditProfile.jpeg - Sprint 2">
+<img src="assets/Evidence-EditProfile.jpeg" alt="Evidence-EditProfile.jpeg - Sprint 2">
 
 ##### Sección Perfil de Entidad Gubernamental
-<img src="imgs/Evidence-Municipality.jpeg" alt="Evidence-Municipality.jpeg - Sprint 2">
+<img src="assets/Evidence-Municipality.jpeg" alt="Evidence-Municipality.jpeg - Sprint 2">
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 En el segundo sprint, se decidió enfocarse exclusivamente en desarrollar el front-end de nuestra aplicación. Para evitar limitaciones en las pruebas debido a la falta de un back-end, se optó por utilizar un fake-api que implementa una funcionalidad de mapa en nuestra aplicación.
@@ -2968,9 +2968,8 @@ En el segundo sprint, se decidió enfocarse exclusivamente en desarrollar el fro
 <div align="justify">
 	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
 	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
-<img src="imgs/Evidence-WebApp.png" alt="Evidence-WebApp.png - Sprint 2">
+<img src="assets/Evidence-WebApp.png" alt="Evidence-WebApp.png - Sprint 2">
 </div>
-
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 <div align="justify">
 	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page de PeaceApp, avanzar en llevarla a su versión definitiva, donde será completamente responsive.<br>
