@@ -233,8 +233,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               Para el sprint 2, se realizó la corrección de algunos puntos de la entrega anterior como los user stories, product backlog. De la misma manera, implementé las vistas asignadas para el web application.
               <br><br>
               <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-              <br>Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro proyecto de manera efectiva.
-<br>
+              Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro proyecto de manera efectiva.<br><br>
               <b>Zarate Caceres, Victor Ernesto</b><br>
               Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo
               la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega. 
@@ -244,6 +243,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de 
               diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
               TP<br>
+		  Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que ha permitido avanzar de manera efectiva en nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.
               <br><br>
           </td>
       </tr>
@@ -282,7 +282,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcanze y los objetivos que tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los constantes avances durante la entrega.
             <br><br>
             <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-            <br>Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br>
+            Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br><br>
             <b>Zarate Caceres, Victor Ernesto</b><br>
             Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas
             y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.
@@ -290,8 +290,8 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
         <td>
             TB1<br><br>
             Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
-            TP<br>
-            <br><br>
+		TP<br>
+		La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos los intereses sean tomados en cuenta para tomar mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
         </td>
       </tr>
     </table>
