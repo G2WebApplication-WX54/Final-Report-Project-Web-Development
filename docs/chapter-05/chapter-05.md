@@ -1087,9 +1087,87 @@ Tabla para poder identificarnos:
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+- **Introducción antes de la entrevista:**
+<br><br>
+#### Segmento objetivo (Ciudadanos):
+1.
+#### Segmento objetivo (Gerentes de entidades publicas o empresas):
+1.
+
 ### 5.3.2. Registro de Entrevistas.
+#### Enlace de las entrevistas: 
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S1.png" alt="Segmento 1 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 2: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S1.png" alt="Segmento 1 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+#### Segmento 2:
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S2.png" alt="Segmento 2 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S2.png" alt="Segmento 2 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
 ## 5.4. Video About-the-Product.
+<img src="/assets/About-the-Product.png" alt="About-the-Product">
+Enlace:
 
 # Conclusiones
 # Bibliografía
@@ -1123,11 +1201,35 @@ Tabla para poder identificarnos:
 	<tr>
 		<td>Entrevistas</td>
 		<td>
-			Cantidad de videos: 1<br>
+			Cantidad de videos: 2<br>
 			Nomenclatura: Interview Web Development<br>
 			Formato: .mp4<br>
 			Duración: 24:10<br>
-			Enlace: https://shorturl.at/clwGR
+			Enlace: https://shorturl.at/clwGR<br><br>
+			Nomenclatura: <br>
+			Formato: .mp4<br>
+			Duración: <br>
+			Enlace: <br><br>
 		</td>
 	  </tr>
+	<tr>
+		<td>Video About-the-Product</td>
+		<td>
+			Cantidad de videos: 1<br>
+			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Product<br>
+			Formato: .mp4<br>
+			Duración:<br>
+			Enlace:
+		</td>
+	</tr>
+	<tr>
+		<td>Video About-the-Team</td>
+		<td>
+			Cantidad de videos: 1<br>
+			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Team<br>
+			Formato: .mp4<br>
+			Duración:<br>
+			Enlace:
+		</td>
+	</tr>
 </table>
