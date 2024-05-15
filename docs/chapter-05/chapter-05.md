@@ -856,6 +856,241 @@ Tabla para poder identificarnos:
 
 ##### Analíticas de Colaboración:
 <img src="/assets/ColaborationAnalysisS2.png" alt="ColaborationAnalysis - Sprint 2">
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Spring Planning 3.
+<table>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>/05/2024</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>M</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Discord</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td align="justify">
+	        Anatoly Andrey Noriega Suschenko - U202211813<br>
+	        Andres Fernando Rodriguez Zuluoeta - U202124213<br>
+	        Janiel Franz Escalante Baygorrea - U201912668<br>
+	        Johan Príncipe Godoy - U202014511<br>
+	        Victor Ernesto Zarate Caceres - U202112907
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td align="justify">
+		.
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td align="justify">
+		.
+	</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Goal</td>
+        <td align="justify">
+		.
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td>.</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>.</td>
+    </tr>
+</table>
+
+#### 5.2.3.2.Sprint Backlog 3.
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US</td>
+        <td></td>
+        <td>W-0</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+<div align="justify">
+    Para la entrega del Sprint 3 se busco la mejora de diseño y funcionalidad de la Web Application y Landing Page. También se diseño y desplego la primera versión de los Web Services.
+	<table>
+	    <tr>
+	        <td>Repository</td>
+	        <td>Branch</td>
+	        <td>Commit Id</td>
+	        <td>Commit Message</td>
+	        <td>Commit Message Body</td>
+	        <td>Commited on (Date)</td>
+	    </tr>
+	    <tr>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	    </tr>
+	</table>
+</div>
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+<div align="justify">
+	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
+</div>
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+<div align="justify">
+	JSON Server:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Details</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	Web Service:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Operaciones</td>
+			<td>Parametros</td>
+			<td>URL</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	Link del repositorio:<br>
+	Web service commit details:
+	<table>
+	    <tr>
+	        <td>Repository</td>
+	        <td>Branch</td>
+	        <td>Commit Id</td>
+	        <td>Commit Message</td>
+	        <td>Commit Message Body</td>
+	        <td>Commited on (Date)</td>
+	    </tr>
+	    <tr>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	    </tr>
+	</table>
+</div>
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
+	nueva versión de la web application, con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
+	<ul>
+	<li>Landing page:</li>
+	<li>Web Application front-end:</li>
+	<li>Web Services back-end: </li>
+	</ul>
+</div>
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Para este Sprint nos dispusimos a seguir mejorano nuestros productos. Primero, se llevo a cabo las mejoras necesarias al dieño front-end de la Web App. Con esto, se dio inicio a la
+	creación de los Web Services que soportaran el apartado back-end.<br>
+	Para que el trabajo sea efectivo, se dividieron las tareas por realizar, y cadu uno se encargo de coregir los errores prensentes en sus partes previamente presentada. Este trabajo 
+	puede corroborarse en los commits presentes en el repositorio de trabajo.<br>
+</div>
+
+Tabla para poder identificarnos:
+
+|  UserName (Github)   	|    Nombre      |
+| -------------------- 	| -------------|
+|Anatoly69420		| Anatoly Andrey  Noriega Suschenko|
+|Andres-0304		| Andres Fernando Rodriguez Zuluoeta  |
+|JanielFranz           	| Janiel Franz Escalante Baygorrea |
+|JP19-03               	| Johan Príncipe Godoy|
+|ern23zc               	| Victor Ernesto Zarate Caceres |
+
+##### Commits:
+<img src="/assets/CommitsAnalysisS3.png" alt="CommitsAnalysis - Sprint 3">
+
+##### Analíticas de Colaboración:
+<img src="/assets/ColaborationAnalysisS3.png" alt="ColaborationAnalysis - Sprint 3">
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product.
+
 # Conclusiones
 # Bibliografía
 <div align="justify">
