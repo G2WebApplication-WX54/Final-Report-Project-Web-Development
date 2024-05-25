@@ -494,10 +494,10 @@ Tabla para poder identificarnos:
     </tr>
 </table>
 
-#### 5.2.2.2.Sprint Backlog 2.
+#### 5.2.2.2.Sprint Backlog 2
 <table>
     <tr align="center">
-        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="2"><strong>Sprint 2</strong></td>
         <td colspan="6"><strong>Sprint 2</strong></td>
     </tr>
     <tr align="center">
@@ -653,7 +653,6 @@ Tabla para poder identificarnos:
         <td>2</td>
         <td>Anatoly</td>
         <td>Done</td>
-        
     </tr>
 </table>
 
