@@ -214,8 +214,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>Header de Navegación</td>
         <td>W-09</td>
         <td>Estilos al Header de Navegación</td>
-        <td>Añadir estilos al Header de Navegación
-        /td>
+        <td>Añadir estilos al Header de Navegación</td>
         <td>1</td>
         <td>Johan</td>
         <td>Done</td>
