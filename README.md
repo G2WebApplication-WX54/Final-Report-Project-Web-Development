@@ -12,7 +12,7 @@
     <strong>Aplicaciones Web - WX54</strong><br>  
     <br>
     <strong>Profesor: Alex Humberto Sánchez Ponce</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TP </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TB2 </strong> 
 </p>
 <p align="center">
     <strong>Startup: PeaceApp </strong><br>
@@ -52,11 +52,11 @@
 
 # Registro de Versiones del Informe
 
-| Versión |   Fecha    |              Autor               | Descripción de modificación                                                                  |
-| :-----: | :--------: | :------------------------------: | :------------------------------------------------------------------------------------------- |
-|   TB1   | 14/04/2024 | Todos los integrantes del equipo | Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page |
-|   TB2   | 01/05/2024 | Todos los integrantes del equipo | Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web          |
-
+| Versión |   Fecha    | Autor | Descripción de modificación | 
+|:-------:|:----------:|:-----:|:----------------------------| 
+|TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
+|TP | 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
+|TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
 <br>
 
 # Project Report Collaboration Insights
@@ -74,19 +74,12 @@ Para el desarrollo del informe se dividió la implementación de secciones de la
 Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Development/tree/develop
 
 # Contenido
-
 ## Tabla de Contenidos
-
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
-
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
-
 ### [Contenido](#contenido)
-
 ### [Student Outcome](#student-outcome-1)
-
 ### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
-
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -100,7 +93,6 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
-
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -117,14 +109,12 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 - [2.4. Ubiquitous Language](#23-ubiquitous-language)
 
 ### [Capítulo III: Requirements Specification](#capc3adtulo-iii-requirements-specification-1)
-
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
 ### [Capítulo IV: Product Design](#capc3adtulo-iv-product-design-1)
-
 - [4.1. Style Guidelines](#41-style-guidelines)
   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
   - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -154,7 +144,6 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
   - [4.8.1. Database Diagram](#481-database-diagram)
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capc3adtulo-v-product-implementation-validation--deployment-1)
-
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
   - [5.1.2. Source Code Management](#512-source-code-management)
@@ -170,6 +159,24 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [5.3.Validation Interviews](#53-validation-interviews)
   - [Diseño de Entrevistas](#531-sprint-1)
   - [Registro de Entrevistas](#532-sprint-1)
@@ -177,12 +184,10 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 - [5.4.Video About-the-Product](#54-video-about-the-product)
 
 ### [Conclusiones](#conclusiones-1)
-
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Video About-the-Product](#video-about-the-product)
 
 ### [Bibliografía](#bibliografc3ada-1)
-
 ### [Anexos](#anexos-1)
 
 # Student Outcome
@@ -236,15 +241,27 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
               Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro proyecto de manera efectiva.<br><br>
               <b>Zarate Caceres, Victor Ernesto</b><br>
               Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo
-              la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega. 
+              la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega.<br><br>
+	      TB2<br><br>
+              <b>Escalante Baygorrea, Janiel Franz</b><br>
+              <br><br>
+              <b>Noriega Suschenko, Anatoly Andrey</b><br>
+              <br><br>          
+              <b>Príncipe Godoy, Johan</b><br>
+              <br><br>
+              <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+              <br><br>
+              <b>Zarate Caceres, Victor Ernesto</b><br>
+              <br><br>
           </td>
           <td>
               TB1<br>
               Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de 
               diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
               TP<br>
-		  Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que ha permitido avanzar de manera efectiva en nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.
-              <br><br>
+		Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que ha permitido avanzar de manera efectiva en nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.<br><br>
+		TB2<br>
+		<br><br>
           </td>
       </tr>
       <tr>
@@ -285,22 +302,33 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br><br>
             <b>Zarate Caceres, Victor Ernesto</b><br>
             Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas
-            y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.
+            y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.<br><br>
+	    TB2<br><br>
+	    <b>Escalante Baygorrea, Janiel Franz</b><br>
+            <br><br>
+            <b>Noriega Suschenko, Anatoly Andrey</b><br>
+            <br><br>          
+            <b>Príncipe Godoy, Johan</b><br>
+            <br><br>
+            <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+            <br><br>
+            <b>Zarate Caceres, Victor Ernesto</b><br>
+            <br><br>
         </td>
         <td>
-            TB1<br><br>
-            Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
+		TB1<br><br>
+		Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
 		TP<br>
 		La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos los intereses sean tomados en cuenta para tomar mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
-        </td>
+        	TB2<br>
+		<br><br>
+	</td>
       </tr>
     </table>
 </div>
 
 # Capítulo I: Introducción
-
 ## 1.1. StartUp Profile
-
 ### 1.1.1. Description de la StartUp
 
 <div align="justify">
@@ -329,7 +357,6 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 | Zarate Caceres, Victor Ernesto      | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas                         | ![Ernesto Zarate](./assets/ernesto.png)  | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega. |
 
 ## 1.2. Solution Profile
-
 ### 1.2.1 Antecedentes y problemática
 
 <div align="justify">
@@ -367,7 +394,6 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 </div>
 
 ### 1.2.2 Lean UX
-
 #### 1.2.2.1. Problem Statements
 
 El propósito de nuestro servicio es ofrecer rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios
@@ -460,7 +486,6 @@ A continuación se puede ver el Lean UX Canvas trabajado por el equipo:
 Enlace para acceder a Miro: https://miro.com/app/board/uXjVKZpPpnQ=/?share_link_id=692620192853
 
 ## 1.3. Segmentos objetivo
-
 ### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
 
 En muchos centros urbanos, la seguridad pública sigue siendo una preocupación mayor para los ciudadanos que buscan maneras efectivas de protegerse en su día a día. Aplicaciones como PeaceApp podrían ofrecer soluciones prácticas para estos desafíos. Según un estudio del Banco Mundial sobre seguridad urbana, la implementación de tecnologías que aumentan la percepción y la realidad de la seguridad puede tener impactos significativos en la reducción del crimen y la mejora de la calidad de vida urbana (Banco Mundial, 2017).
@@ -470,7 +495,6 @@ En muchos centros urbanos, la seguridad pública sigue siendo una preocupación 
 Las entidades gubernamentales, desde la policía local hasta los planificadores urbanos, enfrentan retos constantes para mejorar la eficiencia de sus respuestas y estrategias de prevención del crimen. Según la Organización de las Naciones Unidas, el acceso a datos precisos y actualizados es crucial para la planificación efectiva de la seguridad y el desarrollo urbano (Naciones Unidas, 2019). Herramientas como PeaceApp, que proporcionan datos en tiempo real y facilitan la comunicación entre ciudadanos y autoridades, son esenciales para desarrollar respuestas más rápidas y fundadas a los problemas de seguridad pública.
 
 # Capítulo II: Requirements Elicitation & Analysis
-
 ## 2.1. Competidores.
 
 <table>
@@ -2791,7 +2815,6 @@ Tabla para poder identificarnos:
         <td>2</td>
         <td>Anatoly</td>
         <td>Done</td>
-        
     </tr>
 </table>
 
@@ -2970,6 +2993,7 @@ En el segundo sprint, se decidió enfocarse exclusivamente en desarrollar el fro
 	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
 <img src="assets/Evidence-WebApp.png" alt="Evidence-WebApp.png - Sprint 2">
 </div>
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 <div align="justify">
 	Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para la Landing Page de PeaceApp, avanzar en llevarla a su versión definitiva, donde será completamente responsive.<br>
@@ -2992,6 +3016,318 @@ Tabla para poder identificarnos:
 
 ##### Analíticas de Colaboración:
 <img src="/assets/ColaborationAnalysisS2.png" alt="ColaborationAnalysis - Sprint 2">
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Spring Planning 3.
+<table>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>/05/2024</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>M</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Discord</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td align="justify">
+	        Anatoly Andrey Noriega Suschenko - U202211813<br>
+	        Andres Fernando Rodriguez Zuluoeta - U202124213<br>
+	        Janiel Franz Escalante Baygorrea - U201912668<br>
+	        Johan Príncipe Godoy - U202014511<br>
+	        Victor Ernesto Zarate Caceres - U202112907
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td align="justify">
+		.
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td align="justify">
+		.
+	</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Goal</td>
+        <td align="justify">
+		.
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td>.</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>.</td>
+    </tr>
+</table>
+
+#### 5.2.3.2.Sprint Backlog 3.
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US</td>
+        <td></td>
+        <td>W-0</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+<div align="justify">
+    Para la entrega del Sprint 3 se busco la mejora de diseño y funcionalidad de la Web Application y Landing Page. También se diseño y desplego la primera versión de los Web Services.
+	<table>
+	    <tr>
+	        <td>Repository</td>
+	        <td>Branch</td>
+	        <td>Commit Id</td>
+	        <td>Commit Message</td>
+	        <td>Commit Message Body</td>
+	        <td>Commited on (Date)</td>
+	    </tr>
+	    <tr>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	    </tr>
+	</table>
+</div>
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+<div align="justify">
+	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
+</div>
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+<div align="justify">
+	JSON Server:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Details</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	Web Service:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Operaciones</td>
+			<td>Parametros</td>
+			<td>URL</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	Link del repositorio:<br>
+	Web service commit details:
+	<table>
+	    <tr>
+	        <td>Repository</td>
+	        <td>Branch</td>
+	        <td>Commit Id</td>
+	        <td>Commit Message</td>
+	        <td>Commit Message Body</td>
+	        <td>Commited on (Date)</td>
+	    </tr>
+	    <tr>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	    </tr>
+	</table>
+</div>
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
+	nueva versión de la web application, con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
+	<ul>
+	<li>Landing page:</li>
+	<li>Web Application front-end:</li>
+	<li>Web Services back-end: </li>
+	</ul>
+</div>
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Para este Sprint nos dispusimos a seguir mejorano nuestros productos. Primero, se llevo a cabo las mejoras necesarias al dieño front-end de la Web App. Con esto, se dio inicio a la
+	creación de los Web Services que soportaran el apartado back-end.<br>
+	Para que el trabajo sea efectivo, se dividieron las tareas por realizar, y cadu uno se encargo de coregir los errores prensentes en sus partes previamente presentada. Este trabajo 
+	puede corroborarse en los commits presentes en el repositorio de trabajo.<br>
+</div>
+
+Tabla para poder identificarnos:
+
+|  UserName (Github)   	|    Nombre      |
+| -------------------- 	| -------------|
+|Anatoly69420		| Anatoly Andrey  Noriega Suschenko|
+|Andres-0304		| Andres Fernando Rodriguez Zuluoeta  |
+|JanielFranz           	| Janiel Franz Escalante Baygorrea |
+|JP19-03               	| Johan Príncipe Godoy|
+|ern23zc               	| Victor Ernesto Zarate Caceres |
+
+##### Commits:
+<img src="/assets/CommitsAnalysisS3.png" alt="CommitsAnalysis - Sprint 3">
+
+##### Analíticas de Colaboración:
+<img src="/assets/ColaborationAnalysisS3.png" alt="ColaborationAnalysis - Sprint 3">
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+- **Introducción antes de la entrevista:**
+<br><br>
+#### Segmento objetivo (Ciudadanos):
+1.
+#### Segmento objetivo (Gerentes de entidades publicas o empresas):
+1.
+
+### 5.3.2. Registro de Entrevistas.
+#### Enlace de las entrevistas: 
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S1.png" alt="Segmento 1 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 2: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S1.png" alt="Segmento 1 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+#### Segmento 2:
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista1S2.png" alt="Segmento 2 - Validation Interview 1"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="/assets/ValEntrevista2S2.png" alt="Segmento 2 - Validation Interview 2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+<img src="/assets/About-the-Product.png" alt="About-the-Product">
+Enlace:
 
 # Conclusiones
 # Bibliografía
@@ -3018,18 +3354,42 @@ Tabla para poder identificarnos:
 			Enlace:<br><br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tp1<br>
 			Formato: .mp4<br>
-			Duración: 14:10<br>
-			Enlace: https://shorturl.at/msvzQ<br><br>
+			Duración:<br>
+			Enlace:<br><br>
 		</td>
 	</tr>
 	<tr>
 		<td>Entrevistas</td>
 		<td>
-			Cantidad de videos: 1<br>
+			Cantidad de videos: 2<br>
 			Nomenclatura: Interview Web Development<br>
 			Formato: .mp4<br>
 			Duración: 24:10<br>
-			Enlace: https://shorturl.at/clwGR
+			Enlace: https://shorturl.at/clwGR<br><br>
+			Nomenclatura: <br>
+			Formato: .mp4<br>
+			Duración: <br>
+			Enlace: <br><br>
 		</td>
 	  </tr>
+	<tr>
+		<td>Video About-the-Product</td>
+		<td>
+			Cantidad de videos: 1<br>
+			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Product<br>
+			Formato: .mp4<br>
+			Duración:<br>
+			Enlace:
+		</td>
+	</tr>
+	<tr>
+		<td>Video About-the-Team</td>
+		<td>
+			Cantidad de videos: 1<br>
+			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Team<br>
+			Formato: .mp4<br>
+			Duración:<br>
+			Enlace:
+		</td>
+	</tr>
 </table>
