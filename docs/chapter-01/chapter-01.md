@@ -12,7 +12,7 @@
     <strong>Aplicaciones Web - WX54</strong><br>  
     <br>
     <strong>Profesor: Alex Humberto Sánchez Ponce</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TB2 </strong> 
 </p>
 <p align="center">
     <strong>Startup: PeaceApp </strong><br>
@@ -55,7 +55,8 @@
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
 |TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
-|TB2| 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
+|TP | 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
+|TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
 <br>
 
 # Project Report Collaboration Insights
@@ -156,6 +157,24 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [5.3.Validation Interviews](#53-validation-interviews)
     - [Diseño de Entrevistas](#531-sprint-1)
     - [Registro de Entrevistas](#532-sprint-1)
@@ -166,7 +185,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Video About-the-Product](#video-about-the-product)
 
-### [Bibliografía](#bibliografc3ada-1)
+### [Bibliografía](#bibliografía-1)
 ### [Anexos](#anexos-1)
 # Student Outcome
 <div align="justify">
