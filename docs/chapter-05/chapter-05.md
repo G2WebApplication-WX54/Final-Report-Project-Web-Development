@@ -938,15 +938,105 @@ Tabla para poder identificarnos:
         <td><strong>Assigned to</strong></td>
         <td><strong>Status (To do / In process / To review / Done)</strong></td>
     </tr>
+     <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-01</td>
+        <td>Crear endpoint para registro de incidentes</td>
+        <td>Crear endpoint que permita la comunicación para registrar nuevos incidentes en la base de datos.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
-        <td>W-0</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-02</td>
+        <td>Validar datos de entrada</td>
+        <td>Implementar validaciones para asegurar que los datos del incidente sean válidos.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-03</td>
+        <td>Guardar incidente en la base de datos</td>
+        <td>Desarrollar lógica para almacenar el incidente en la base de datos.</td>
+        <td>5</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-04</td>
+        <td>Manejar errores de entrada</td>
+        <td>Implementar manejo de errores para datos inválidos o solicitudes incorrectas.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-05</td>
+        <td>Escribir pruebas unitarias</td>
+        <td>Escribir pruebas unitarias para asegurar que el registro de incidentes funcione correctamente.</td>
+        <td>6</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-06</td>
+        <td>Crear endpoint para obtener información de incidentes</td>
+        <td>Crear endpoint que permita la comunicación para obtener información de incidentes existentes.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-07</td>
+        <td>Validar ID del incidente</td>
+        <td>Implementar validaciones para asegurar que el ID del incidente es válido.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-08</td>
+        <td>Recuperar datos de la base de datos</td>
+        <td>Desarrollar lógica para recuperar la información del incidente desde la base de datos.</td>
+        <td>5</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-09</td>
+        <td>Manejar errores de incidentes no existentes</td>
+        <td>Implementar manejo de errores para incidentes que no existen en la base de datos.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-10</td>
+        <td>Escribir pruebas unitarias</td>
+        <td>Escribir pruebas unitarias para asegurar que la obtención de incidentes funcione correctamente.</td>
+        <td>6</td>
+        <td>-</td>
+        <td>To Do</td>
     </tr>
 </table>
 
