@@ -1088,6 +1088,27 @@ Tabla para poder identificarnos:
 	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
 </div>
 
+##### Sección Página Principal
+<img src="/assets/Evidence-MainPage-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+
+##### Sección Mapa de Ciudadano
+<img src="/assets/Evidence-CitizenMap-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+    
+##### Sección Reportes
+<img src="/assets/Evidence-Report-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+
+##### Sección Recuperar contraseña
+<img src="/assets/Evidence-PasswordRecover-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
+
+##### Sección Notificaciones
+<img src="/assets/Evidence-MainPage-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+
+##### Sección Perfil de Ciudadano
+<img src="/assets/Evidence-UserProfile-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
+
+##### Sección Perfil de Entidad Gubernamental
+<img src="/assets/Evidence-AuthorityProfile-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
 	JSON Server:
