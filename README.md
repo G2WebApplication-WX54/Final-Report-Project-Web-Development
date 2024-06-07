@@ -192,139 +192,134 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 
 # Student Outcome
 <div align="justify">
-    Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.<br>    
-    En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-    <br><br>
-    <table>
-      <tr>
-        <td><b>Criterio específico</b></td>
-        <td><b>Acciones realizadas</b></td>
-        <td><b>Conclusiones</b></td>
-      </tr>
-      <tr>
-          <td>
-              <b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
-          </td>
-          <td>
-              TB1<br><br>
-              <b>Escalante Baygorrea, Janiel Franz</b><br>
-              He realizado la seccion del UX LEAN Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page.
-              Mi participación en el equipo fue fundamental para el desarrollo del proyecto, cumpliendo con todas las tareas asignadas y aportando ideas para 
-              el desarrollo de la plataforma.
-              <br><br>
-              <b>Noriega Suschenko, Anatoly Andrey</b><br>
-              He realizado la sección de Segmentos objetivos para identificar cuales serán nuestros principales usuarios para la plataforma, también el analisis de competidores junto con las estrategias 
-              para evaluar quienes son nuestros rivales potenciales dentro del mercado y evaluar estrategias para poder aprovechar nuestras oportunidades y fortalezas para afrontar las debilidades y amenazas.
-              También realice la entrevista del segmento usuario para poder evaluar lo que requieren nuestros usuarios potenciales y realice los diseños tanto de los Wireframes y Mock-Ups de la Landing Page 
-              como de la Web Application y realizar un prototipo de como sera nuestra plataforma.
-              <br><br>          
-              <b>Príncipe Godoy, Johan</b><br>
-              Para el desarrollo del proyecto, participé eficazmente en la creación de los User Task Matrix, Journey Mapping, Empathy Mapping, As-Is y To-be Scenario Mapping
-              <br><br>
-              <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-              He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el 
-              software configuration management.
-              <br><br>
-              <b>Zarate Caceres, Victor Ernesto</b><br>
-              Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción,
-              el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.<br><br>
-              TP<br><br>
-              <b>Escalante Baygorrea, Janiel Franz</b><br>
-              He participado junto con mis compañeros en la modificación del repositorio del reporte del proyecto. Por otro lado, también participe en la creación de la App Web y su posterior dedspliegue
-              <br><br>
-              <b>Noriega Suschenko, Anatoly Andrey</b><br>
-              He realizado la corrección de algunos puntos del proyecto como lo serían el Ubiquitous Language, el Domain-Driven Software Architecture, junto con el Sprint 1 que en el envío pasado no estaba presente. Así mismo participe en la realización de la Web Application y poner como predeterminado el idioma inglés en la Landing Page.<br><br>          
-              <b>Príncipe Godoy, Johan</b><br>
-              Para el sprint 2, se realizó la corrección de algunos puntos de la entrega anterior como los user stories, product backlog. De la misma manera, implementé las vistas asignadas para el web application.
-              <br><br>
-              <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-              Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro proyecto de manera efectiva.<br><br>
-              <b>Zarate Caceres, Victor Ernesto</b><br>
-              Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo
-              la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega.<br><br>
-	      TB2<br><br>
-              <b>Escalante Baygorrea, Janiel Franz</b><br>
-              <br><br>
-              <b>Noriega Suschenko, Anatoly Andrey</b><br>
-              <br><br>          
-              <b>Príncipe Godoy, Johan</b><br>
-              <br><br>
-              <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-              <br><br>
-              <b>Zarate Caceres, Victor Ernesto</b><br>
-              <br><br>
-          </td>
-          <td>
-              TB1<br>
-              Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de 
-              diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
-              TP<br>
-		Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que ha permitido avanzar de manera efectiva en nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.<br><br>
-		TB2<br>
-		<br><br>
-          </td>
-      </tr>
-      <tr>
-        <td>
-            <b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b>
-        </td>
-        <td>
-            TB1<br><br>
-            <b>Escalante Baygorrea, Janiel Franz</b><br>
-            Para llevar acabo el desarrollo del LEAN UX y el diagrama UML estudie como funciona el sector de la seguridad ciudadana y como se puede aplicar la tecnología para mejorar la seguridad de los ciudadanos.
-            <br><br>
-            <b>Noriega Suschenko, Anatoly Andrey</b><br>
-            Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar 
-            nuestro público objetivo, las estrategias frente a nuestros competidores, las entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo 
-            de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.
-            <br><br>          
-            <b>Príncipe Godoy, Johan</b><br>
-            Para el cumplimiento de este trabajo usé lo aprendido dentro del curso y proyectos antereriores. De esta manera pude cumplir con los puntos que me fueron asignado como Diagrama de Contexto, Contenedor y Componentes.
-            <br><br>
-            <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-            Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, 
-            user stories, impact mapping, product backlog y el software configuration management. 
-            <br><br>
-            <b>Zarate Caceres, Victor Ernesto</b><br>
-            Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas
-            que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea 
-            atractiva al usuario.<br><br>
-            TP<br><br>
-            <b>Escalante Baygorrea, Janiel Franz</b><br>
-            Trabaje con el BC del reporte de incidentes. Hice uso del framework VueJs para el desarrollo de la App web, utilizando el UI PrimeVue y Primeblocks
-            <br><br>
-            <b>Noriega Suschenko, Anatoly Andrey</b><br>
-            Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo aprendido en clase me sirvió para avanzar la Web Application.<br><br>          
-            <b>Príncipe Godoy, Johan</b><br>
-            Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcanze y los objetivos que tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los constantes avances durante la entrega.
-            <br><br>
-            <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-            Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br><br>
-            <b>Zarate Caceres, Victor Ernesto</b><br>
-            Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas
-            y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.<br><br>
-	    TB2<br><br>
-	    <b>Escalante Baygorrea, Janiel Franz</b><br>
-            <br><br>
-            <b>Noriega Suschenko, Anatoly Andrey</b><br>
-            <br><br>          
-            <b>Príncipe Godoy, Johan</b><br>
-            <br><br>
-            <b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-            <br><br>
-            <b>Zarate Caceres, Victor Ernesto</b><br>
-            <br><br>
-        </td>
-        <td>
-		TB1<br><br>
-		Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
-		TP<br>
-		La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos los intereses sean tomados en cuenta para tomar mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
-        	TB2<br>
-		<br><br>
-	</td>
-      </tr>
-    </table>
+	Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.<br>    
+	En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+	<br><br>
+	<table>
+		<tr>
+			<td><b>Criterio específico</b></td>
+			<td><b>Acciones realizadas</b></td>
+			<td><b>Conclusiones</b></td>
+		</tr>
+		<tr>
+			<td>
+				<b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
+			</td>
+			<td>
+				TB1<br><br>
+              			<b>Escalante Baygorrea, Janiel Franz</b><br>
+					He realizado la seccion del UX LEAN Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page.
+				        Mi participación en el equipo fue fundamental para el desarrollo del proyecto, cumpliendo con todas las tareas asignadas y aportando ideas para 
+				        el desarrollo de la plataforma.<br><br>
+			        <b>Noriega Suschenko, Anatoly Andrey</b><br>
+				        He realizado la sección de Segmentos objetivos para identificar cuales serán nuestros principales usuarios para la plataforma, también el analisis de competidores junto con las estrategias 
+				        para evaluar quienes son nuestros rivales potenciales dentro del mercado y evaluar estrategias para poder aprovechar nuestras oportunidades y fortalezas para afrontar las debilidades y amenazas.
+				        También realice la entrevista del segmento usuario para poder evaluar lo que requieren nuestros usuarios potenciales y realice los diseños tanto de los Wireframes y Mock-Ups de la Landing Page 
+				        como de la Web Application y realizar un prototipo de como sera nuestra plataforma.<br><br>          
+			        <b>Príncipe Godoy, Johan</b><br>
+					Para el desarrollo del proyecto, participé eficazmente en la creación de los User Task Matrix, Journey Mapping, Empathy Mapping, As-Is y To-be Scenario Mapping<br><br>
+				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+					He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el 
+					software configuration management.<br><br>
+				<b>Zarate Caceres, Victor Ernesto</b><br>
+					Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción,
+					el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.<br><br>
+				TP<br><br>
+				<b>Escalante Baygorrea, Janiel Franz</b><br>
+					He participado junto con mis compañeros en la modificación del repositorio del reporte del proyecto. Por otro lado, también participe en la creación de la App Web y su posterior dedspliegue<br><br>
+				<b>Noriega Suschenko, Anatoly Andrey</b><br>
+					He realizado la corrección de algunos puntos del proyecto como lo serían el Ubiquitous Language, el Domain-Driven Software Architecture, junto con el Sprint 1 que en el envío pasado no estaba presente.
+					Así mismo participe en la realización de la Web Application y poner como predeterminado el idioma inglés en la Landing Page.<br><br>          
+				<b>Príncipe Godoy, Johan</b><br>
+					Para el sprint 2, se realizó la corrección de algunos puntos de la entrega anterior como los user stories, product backlog. De la misma manera, implementé las vistas asignadas para el web application.<br><br>
+				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+					Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro 
+					proyecto de manera efectiva.<br><br>
+			        <b>Zarate Caceres, Victor Ernesto</b><br>
+					Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo
+					la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega.<br><br>
+				TB2<br><br>
+				<b>Escalante Baygorrea, Janiel Franz</b><br>
+					<br><br>
+				<b>Noriega Suschenko, Anatoly Andrey</b><br>
+					<br><br>          
+				<b>Príncipe Godoy, Johan</b><br>
+					<br><br>
+				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+					<br><br>
+				<b>Zarate Caceres, Victor Ernesto</b><br>
+					Se participo en la siguiente mejora de la Web App, así como con las entrevistas, videos About-The-Team y About-The-Product; y la documentación correspondiente al desarrollo del Sprint 3, correspondiente a esta entrega.<br><br>
+			</td>
+			<td>
+				TB1<br>
+				Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de 
+				diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
+				TP<br>
+				Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que 
+				ha permitido avanzar de manera efectiva en nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.<br><br>
+				TB2<br>
+				<br><br>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b>
+			</td>
+			<td>
+				TB1<br><br>
+				<b>Escalante Baygorrea, Janiel Franz</b><br>
+					Para llevar acabo el desarrollo del LEAN UX y el diagrama UML estudie como funciona el sector de la seguridad ciudadana y como se puede aplicar la tecnología para mejorar la seguridad de los ciudadanos.<br><br>
+				<b>Noriega Suschenko, Anatoly Andrey</b><br>
+					Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar 
+					nuestro público objetivo, las estrategias frente a nuestros competidores, las entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo 
+					de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.<br><br>     
+				<b>Príncipe Godoy, Johan</b><br>
+					Para el cumplimiento de este trabajo usé lo aprendido dentro del curso y proyectos antereriores. De esta manera pude cumplir con los puntos que me fueron asignado como Diagrama de Contexto, Contenedor y Componentes.<br><br>
+				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+					Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, 
+					user stories, impact mapping, product backlog y el software configuration management.<br><br>
+				<b>Zarate Caceres, Victor Ernesto</b><br>
+					Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas 
+					que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea 
+					atractiva al usuario.<br><br>
+				TP<br><br>
+				<b>Escalante Baygorrea, Janiel Franz</b><br>
+					Trabaje con el BC del reporte de incidentes. Hice uso del framework VueJs para el desarrollo de la App web, utilizando el UI PrimeVue y Primeblocks<br><br>
+            			<b>Noriega Suschenko, Anatoly Andrey</b><br>
+					Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo
+					aprendido en clase me sirvió para avanzar la Web Application.<br><br>
+				<b>Príncipe Godoy, Johan</b><br>
+					Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcance y los objetivos que tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los 						constantes avances durante la entrega.<br><br>
+				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+					Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y
+					en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br><br>
+				<b>Zarate Caceres, Victor Ernesto</b><br>
+					Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas
+					y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.<br><br>
+				TB2<br><br>
+				<b>Escalante Baygorrea, Janiel Franz</b><br>
+					<br><br>
+				<b>Noriega Suschenko, Anatoly Andrey</b><br>
+					<br><br>          
+				<b>Príncipe Godoy, Johan</b><br>
+					<br><br>
+				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
+					<br><br>
+				<b>Zarate Caceres, Victor Ernesto</b><br>
+					Se aplicaron los conocimientos adquiridos para corregir los errores existentes en nuestro informe y mejorar el funcionamiento de las aplicaciones. Este conocimiento permitio mejorar el dieños de ambas plataformas y presentar
+					un nuevo informe más apegado a lo que se espera en el curso.<br><br>
+			</td>
+			<td>
+				TB1<br><br>
+					Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
+				TP<br>
+					La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos
+					los intereses sean tomados en cuenta para tomar mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
+				TB2<br>
+					<br><br>
+			</td>
+		</tr>
+	</table>
 </div>
 
 # Capítulo I: Introducción
