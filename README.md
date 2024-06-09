@@ -3208,216 +3208,226 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 </table>
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
-<table>
-	<tr>
-		<td>Repository</td>
-	        <td>Branch</td>
-	        <td>Commit Id</td>
-	        <td>Commit Message</td>
-	        <td>Commit Message Body</td>
-	        <td>Commited on (Date)</td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>develop</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
- 	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/css-styles</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-	<tr>
-	        <td>web-app-project-develop-clean-version</td>
-	        <td>fix/componentes</td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	</tr>
-</table>
+<div align="justify">
+	<table>
+		<tr>
+			<td>Repository</td>
+		        <td>Branch</td>
+		        <td>Commit Id</td>
+		        <td>Commit Message</td>
+		        <td>Commit Message Body</td>
+		        <td>Commited on (Date)</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>develop</td>
+		        <td>e5cacd6ea838a0b2d35017dfeb6d648cf925f7e9</td>
+		        <td>Reordered</td>
+		        <td>Files have been reordered.</td>
+		        <td>31/05/24</td>
+		</tr>
+	 	<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>0989dfc5fdd8d976ea5b06b3b3f9d005488cc26b</td>
+		        <td>feat Dialog</td>
+		        <td>Dialog for startin Sign Up was created</td>
+		        <td>02/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>caa0b299381f985170b9b913d07ba4dae9812859</td>
+		        <td>feature Sign In Pages</td>
+		        <td>Sign In pages and their routing has been created. Design and implementation is pendient</td>
+		        <td>02/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>52c23ab67ac1548f545284ea8c53f9a0d76c6faf</td>
+		        <td>feature Sign Up</td>
+		        <td>New Version of Sign Up has been created</td>
+		        <td>02/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>02fe4b77454d9dc34a24c01872cdbb00f42d91c9</td>
+		        <td>feature Sign Up Forms</td>
+		        <td>-</td>
+		        <td>02/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>d44f054f2baf9096edd40bfcd57cc1c07fa78275</td>
+		        <td>feat Passwor Recovery</td>
+		        <td>Password recovery pages have been added</td>
+		        <td>02/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>e3651d850bbe0153bf425661aa537a7af74db27b</td>
+		        <td>fix Main</td>
+		        <td>A new version of Main styles has been released</td>
+		        <td>04/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>46db6c27fe0e051d67ae8393b73b49e7b09f5977</td>
+		        <td>fix User and Authority Sign Up</td>
+		        <td>-</td>
+		        <td>04/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>2e4e1a6f76fdf5e48a0c045959e7a693c84d0c9b</td>
+		        <td>fix User and Authority Profile</td>
+		        <td>Styles in these pages have been improved</td>
+		        <td>04/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>809466d1118055f0645a443d772f536c01c8de17</td>
+		        <td>fix Profile Editot</td>
+		        <td>Styles in editing windows have been improved.</td>
+		        <td>04/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>0299647f7cdb8622d35e22e72f1f68246ce5d892</td>
+		        <td>fix Styles</td>
+		        <td>-</td>
+		        <td>04/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>00b7036c41aaf94b7e5877a68a0b14470664b041</td>
+		        <td>Fix Styles</td>
+		        <td>More style have been improved. Some size and padding have been changed.</td>
+		        <td>04/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>bdef99599f0ada824a7a9cbd59609e16188b69b7</td>
+		        <td>fix Styles</td>
+		        <td>Styles in profiles and toolbar have been improved. Web App is more friendly with movile devices now.</td>
+		        <td>06/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>879daeec54458582f64cab50d212ea2df73907d3</td>
+		        <td>fix Profile Picture</td>
+		        <td>Display on wide screens has been fixed.</td>
+		        <td>07/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/css-styles</td>
+		        <td>9760935e7ebc891dca84f0400d04d700104d304f</td>
+		        <td>fix Logo</td>
+		        <td>New Logo file has been uploades and its displays have been fixed.</td>
+		        <td>07/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>a1e0bc716e4c4d011dea34f702c8c7426cdddf12</td>
+		        <td>fix: some components fixed and services added with db</td>
+		        <td>-</td>
+		        <td>07/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>c3cf90342b7fc8dab66b204d159a2c79efa71ec2</td>
+		        <td>fix Form Styles</td>
+		        <td>-</td>
+		        <td>08/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>051a0c5eef01047574f1fcccbbed8feba3e21055</td>
+		        <td>fix Report Form</td>
+		        <td>Report Form has been fixed</td>
+		        <td>08/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>27762eed12adf7c0f6c1e9f6b44d234af4c2ad06</td>
+		        <td>feature Redirect</td>
+		        <td>New redirection after creating report has been created.</td>
+		        <td>08/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>407f37687dc9290c628e998b91fb3cd8e7725573</td>
+		        <td>fix Reports</td>
+		        <td>-</td>
+		        <td>08/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>346186f5bc6bf14ca6c925ffb894c54257f11724</td>
+		        <td>feat Notifications</td>
+		        <td>Notifications window has been updated. It includes a new pop-up</td>
+		        <td>08/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>28296c3cf3af412a909f3978982ca9b947b80476</td>
+		        <td>fix Profile Edit</td>
+		        <td>-</td>
+		        <td>08/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>3270043bdf7335caac0950ac0c81c8e4bb2d9ee6</td>
+		        <td>feature Server</td>
+		        <td>-</td>
+		        <td>09/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>93212f1430770f083ab5c7d31b55ad0631d5cb57</td>
+		        <td>feature API link</td>
+		        <td>API link has been uploaded, so it works online now.</td>
+		        <td>09/06/24</td>
+		</tr>
+		<tr>
+		        <td>web-app-project-develop-clean-version</td>
+		        <td>fix/components</td>
+		        <td>26740f0d3dfeceb0f8aca365640075999052bbbc</td>
+		        <td>update Reports</td>
+		        <td>Displayed Reports have been updated. They include now a link to a Random Image</td>
+		        <td>09/06/24</td>
+		</tr>
+		<tr>
+		        <td>landing-page-web-app</td>
+		        <td>main</td>
+		        <td>9b47aa5ea9a38318fa1b779e3dd0007f66012850</td>
+		        <td>feature Link Web App</td>
+		        <td>-</td>
+		        <td>09/06/24</td>
+		</tr>
+	</table>
+</div>
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 <div align="justify">
@@ -3524,9 +3534,21 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
 	nueva versión de la web application, con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
 	<ul>
-	<li>Landing page:</li>
-	<li>Web Application front-end:</li>
-	<li>Web Services back-end: </li>
+		<li>Landing page:</li>
+			<img src="/assets/LandingPage-Sprint3.jpg" alt="LandingPage" width="100%">
+		<li>Web Application front-end:</li>
+			<img src="/assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
+			<img src="/assets/CreateUser-Sprint3.jpg" alt="CreateUser" width="100%">
+			<img src="/assets/CreateCitizen-Sprint3.jpg" alt="CreateCitizen" width="100%">
+			<img src="/assets/CreateAuthority-Sprint3.jpg" alt="CreateAuthority" width="100%">
+			<img src="/assets/RecoveryPassword-Sprint3.jpg" alt="RecoveryPassword" width="100%">
+			<img src="/assets/ReportList-Sprint3.jpg" alt="ReportList-Sprint3" width="100%">
+			<img src="/assets/NewReport-Sprint3.jpg" alt="NewReport" width="100%">
+			<img src="/assets/Subscription-Sprint3.jpg" alt="Subscription" width="100%">
+			<img src="/assets/FindRoute-Sprint3.jpg" alt="FindRoute" width="100%">
+			<img src="/assets/CitizenProfile-Sprint3.jpg" alt="CitizenProfile" width="100%">
+			<img src="/assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
+		<li>Web Services back-end: </li>
 	</ul>
 </div>
 
@@ -3561,6 +3583,41 @@ Tabla para poder identificarnos:
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 - **Introducción antes de la entrevista:**
+**Diseño de Entrevistas**<br>
+
+En este segmento, se esbozan las metas específicas de los usuarios que guían nuestras entrevistas. Estos "User Goals" son fundamentales para garantizar que la aplicación web cumpla con las necesidades auténticas de los usuarios en el ámbito de la seguridad y la prevención del crimen. A continuación, se presentan los objetivos del usuario mencionados:<br>
+
+**User Goal: Iniciar Sesión**<br>
+
+**User Persona: Entidad Gubernamental y Ciudadanos.**<br>
+
+**Explicación del Flujo:** Inicialmente, el usuario deberá ingresar a la aplicación implementada. Posteriormente, verá en su pantalla un formulario que solicitará sus datos de acceso, específicamente, su correo electrónico y contraseña. Si estos son validados, el sistema redirigirá al usuario a "Find Route". De lo contrario, permanecerá en la pantalla de inicio de sesión y se le solicitará que reintroduzca sus credenciales.<br>
+
+**User Goal: Crear un Nuevo Usuario**<br>
+
+**User Persona: Entidad Gubernamental y Ciudadano.**<br>
+
+**Explicación del Flujo:** En primer lugar, el usuario deberá acceder a la sección "Sign Up", dentro de la cual podrá seleccionar el tipo de cuenta que desea crear: "Citizen" o "Authority". Una vez seleccionado el tipo de cuenta, se desplegará un diálogo con casillas de texto, dentro de las cuales los usuarios podrán registrar la información necesaria.<br>
+
+**User Goal: Registrar Reportes**<br>
+
+**User Persona: Ciudadanos.**<br>
+
+**Explicación del Flujo:** En primer lugar, el usuario debe acceder a la sección "Report List". A continuación, deberá presionar el botón situado en la parte inferior que indica "New Report". Una vez presionado, se le redirigirá a un formulario donde deberá llenar con los datos que se le solicitan. Una vez que los datos estén completos, deberá presionar el botón que indica "Send".<br>
+
+**User Goal: Ver Perfil**<br>
+
+**User Persona: Entidad Gubernamental y Ciudadano.**<br>
+
+**Explicación del Flujo:** En todo momento, el usuario visualizará en la parte superior de la aplicación una barra de navegación. Cuando presione el símbolo de un engranaje, que se encuentra situado en el extremo derecho de la barra de navegación, podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.<br>
+
+**User Goal: Mostrar Ruta**<br>
+
+**User Persona: Ciudadano.**<br>
+
+**Explicación del Flujo:** En primer lugar, el usuario debe acceder a la sección "Find Route". A continuación, deberá ingresar el lugar al que se quiere dirigir y después se le mostrará el recorrido que debe realizar.<br>
+
+
 <br><br>
 #### Segmento objetivo (Ciudadanos):
 1.
