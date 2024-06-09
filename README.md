@@ -3112,7 +3112,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Crear endpoint para registro de incidentes</td>
         <td>Crear endpoint que permita la comunicación para registrar nuevos incidentes en la base de datos.</td>
         <td>4</td>
-        <td>-</td>
+        <td>Anatoly</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3122,7 +3122,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Validar datos de entrada</td>
         <td>Implementar validaciones para asegurar que los datos del incidente sean válidos.</td>
         <td>4</td>
-        <td>-</td>
+        <td>Johan</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3132,7 +3132,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Guardar incidente en la base de datos</td>
         <td>Desarrollar lógica para almacenar el incidente en la base de datos.</td>
         <td>5</td>
-        <td>-</td>
+        <td>Johan</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3142,7 +3142,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Manejar errores de entrada</td>
         <td>Implementar manejo de errores para datos inválidos o solicitudes incorrectas.</td>
         <td>4</td>
-        <td>-</td>
+        <td>Andres</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3152,7 +3152,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Escribir pruebas unitarias</td>
         <td>Escribir pruebas unitarias para asegurar que el registro de incidentes funcione correctamente.</td>
         <td>6</td>
-        <td>-</td>
+        <td>Ernesto</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3162,7 +3162,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Crear endpoint para obtener información de incidentes</td>
         <td>Crear endpoint que permita la comunicación para obtener información de incidentes existentes.</td>
         <td>4</td>
-        <td>-</td>
+        <td>Franz</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3172,7 +3172,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Validar ID del incidente</td>
         <td>Implementar validaciones para asegurar que el ID del incidente es válido.</td>
         <td>4</td>
-        <td>-</td>
+        <td>Fran</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3182,7 +3182,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Recuperar datos de la base de datos</td>
         <td>Desarrollar lógica para recuperar la información del incidente desde la base de datos.</td>
         <td>5</td>
-        <td>-</td>
+        <td>Ernesto</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3192,7 +3192,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Manejar errores de incidentes no existentes</td>
         <td>Implementar manejo de errores para incidentes que no existen en la base de datos.</td>
         <td>4</td>
-        <td>-</td>
+        <td>Anatoly</td>
         <td>To Do</td>
     </tr>
     <tr align="center">
@@ -3202,7 +3202,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
         <td>Escribir pruebas unitarias</td>
         <td>Escribir pruebas unitarias para asegurar que la obtención de incidentes funcione correctamente.</td>
         <td>6</td>
-        <td>-</td>
+        <td>Andres</td>
         <td>To Do</td>
     </tr>
 </table>
@@ -3275,6 +3275,10 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
+	Para el sprint 3 se planificó que el sprint abarcaría el front-end y se avanzaria con el back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a 
+	realizar la implementación para la Front End Web Application desplegada. Hasta el momento, el back-end solo fue creado y no tiene vinculo con el front-end. Enlace para acceder 
+	al <a href="https://6664a80f932baf9032abbc8e.mockapi.io/api/reports">MockAPI</a>. Enlace para acceder a <a href="https://github.com/G2WebApplication-WX54/peace-app-backend/tree/master">Web Service</a>
+	Enlace para acceder al Web Service
 	JSON Server:
 	<table>
 		<tr>
@@ -3282,8 +3286,8 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 			<td>Details</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>/reports</td>
+			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
 		</tr>
 	</table>
 	Web Service:
