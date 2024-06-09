@@ -3571,15 +3571,18 @@ Tabla para poder identificarnos:
 |ern23zc               	| Victor Ernesto Zarate Caceres |
 
 ##### Commits:
-<img src="/assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3">
-<img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3">
-<img src="/assets/CommitsAnalysisS33.png" alt="CommitsAnalysis - Sprint 3">
+<ul>
+	<li><img src="/assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3"></li>
+	<li><img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3"></li>
+	<li><img src="/assets/CommitsAnalysisS33.png" alt="CommitsAnalysis - Sprint 3"></li>
+</ul>
 
 ##### Analíticas de Colaboración:
-<img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
-<img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3">
-<img src="/assets/ColaborationAnalysisS33.png" alt="ColaborationAnalysis - Sprint 3">
-
+<ul>
+	<li><img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3"></li>
+	<li><img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3"></li>
+	<li><img src="/assets/ColaborationAnalysisS33.png" alt="ColaborationAnalysis - Sprint 3"></li>
+</ul>
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 - **Introducción antes de la entrevista:**
