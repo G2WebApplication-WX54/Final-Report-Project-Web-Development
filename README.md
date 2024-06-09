@@ -2268,6 +2268,8 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1
+<img src="assets/springBack1.png">
+Link del Trello: https://trello.com/invite/b/QxWAqzlj/ATTId381d27718ad1075484b3d9d90208edcE87B6F07/sprint-1
 <table>
     <tr align="center">
         <td colspan="2"><strong>Sprint #</strong></td>
@@ -2654,6 +2656,8 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.2.2.Sprint Backlog 2.
+<img src="assets/springBack2.png">
+Link del Trello: https://trello.com/invite/b/LqxwRTaP/ATTI044b3950952fa839a147f7b7c2805119905D8341/sprint-2
 <table>
     <tr align="center">
         <td colspan="2"><strong>Sprint #</strong></td>
@@ -3078,6 +3082,8 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3.
+<img src="assets/springBack3.png">
+Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af4ea372c38aB6FF99AD/sprint-3
 <table>
     <tr align="center">
         <td colspan="2"><strong>Sprint #</strong></td>
@@ -3097,15 +3103,105 @@ Tabla para poder identificarnos:
         <td><strong>Assigned to</strong></td>
         <td><strong>Status (To do / In process / To review / Done)</strong></td>
     </tr>
+     <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-01</td>
+        <td>Crear endpoint para registro de incidentes</td>
+        <td>Crear endpoint que permita la comunicación para registrar nuevos incidentes en la base de datos.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
     <tr align="center">
-        <td>US</td>
-        <td></td>
-        <td>W-0</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-02</td>
+        <td>Validar datos de entrada</td>
+        <td>Implementar validaciones para asegurar que los datos del incidente sean válidos.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-03</td>
+        <td>Guardar incidente en la base de datos</td>
+        <td>Desarrollar lógica para almacenar el incidente en la base de datos.</td>
+        <td>5</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-04</td>
+        <td>Manejar errores de entrada</td>
+        <td>Implementar manejo de errores para datos inválidos o solicitudes incorrectas.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS01</td>
+        <td>POST Inicident</td>
+        <td>W-05</td>
+        <td>Escribir pruebas unitarias</td>
+        <td>Escribir pruebas unitarias para asegurar que el registro de incidentes funcione correctamente.</td>
+        <td>6</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-06</td>
+        <td>Crear endpoint para obtener información de incidentes</td>
+        <td>Crear endpoint que permita la comunicación para obtener información de incidentes existentes.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-07</td>
+        <td>Validar ID del incidente</td>
+        <td>Implementar validaciones para asegurar que el ID del incidente es válido.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-08</td>
+        <td>Recuperar datos de la base de datos</td>
+        <td>Desarrollar lógica para recuperar la información del incidente desde la base de datos.</td>
+        <td>5</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-09</td>
+        <td>Manejar errores de incidentes no existentes</td>
+        <td>Implementar manejo de errores para incidentes que no existen en la base de datos.</td>
+        <td>4</td>
+        <td>-</td>
+        <td>To Do</td>
+    </tr>
+    <tr align="center">
+        <td>TS02</td>
+        <td>GET Incident</td>
+        <td>W-10</td>
+        <td>Escribir pruebas unitarias</td>
+        <td>Escribir pruebas unitarias para asegurar que la obtención de incidentes funcione correctamente.</td>
+        <td>6</td>
+        <td>-</td>
+        <td>To Do</td>
     </tr>
 </table>
 
@@ -3156,6 +3252,26 @@ Tabla para poder identificarnos:
 <div align="justify">
 	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
 </div>
+##### Sección Página Principal
+<img src="/assets/Evidence-MainPage-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+
+##### Sección Mapa de Ciudadano
+<img src="/assets/Evidence-CitizenMap-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+    
+##### Sección Reportes
+<img src="/assets/Evidence-Report-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+
+##### Sección Recuperar contraseña
+<img src="/assets/Evidence-PasswordRecover-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
+
+##### Sección Notificaciones
+<img src="/assets/Evidence-MainPage-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+
+##### Sección Perfil de Ciudadano
+<img src="/assets/Evidence-UserProfile-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
+
+##### Sección Perfil de Entidad Gubernamental
+<img src="/assets/Evidence-AuthorityProfile-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
@@ -3222,7 +3338,7 @@ Tabla para poder identificarnos:
 <div align="justify">
 	Para este Sprint nos dispusimos a seguir mejorano nuestros productos. Primero, se llevo a cabo las mejoras necesarias al dieño front-end de la Web App. Con esto, se dio inicio a la
 	creación de los Web Services que soportaran el apartado back-end.<br>
-	Para que el trabajo sea efectivo, se dividieron las tareas por realizar, y cadu uno se encargo de coregir los errores prensentes en sus partes previamente presentada. Este trabajo 
+	Para que el trabajo sea efectivo, se dividieron las tareas por realizar, y cada uno se encargo de corregir los errores prensentes en sus partes previamente presentada. Este trabajo 
 	puede corroborarse en los commits presentes en el repositorio de trabajo.<br>
 </div>
 
@@ -3237,10 +3353,14 @@ Tabla para poder identificarnos:
 |ern23zc               	| Victor Ernesto Zarate Caceres |
 
 ##### Commits:
-<img src="/assets/CommitsAnalysisS3.png" alt="CommitsAnalysis - Sprint 3">
+<img src="/assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3">
+<img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3">
+<img src="/assets/CommitsAnalysisS33.png" alt="CommitsAnalysis - Sprint 3">
 
 ##### Analíticas de Colaboración:
-<img src="/assets/ColaborationAnalysisS3.png" alt="ColaborationAnalysis - Sprint 3">
+<img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
+<img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3">
+<img src="/assets/ColaborationAnalysisS33.png" alt="ColaborationAnalysis - Sprint 3">
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -3344,12 +3464,16 @@ Enlace:
 	<tr>
 		<td>Exposición</td>
 		<td>
-			Cantidad de videos: 2<br>
+			Cantidad de videos: 3<br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb1<br>
 			Formato: .mp4<br>
 			Duración:<br>
 			Enlace:<br><br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tp1<br>
+			Formato: .mp4<br>
+			Duración: 14:10<br>
+			Enlace: https://shorturl.at/msvzQ<br><br>
+			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb2<br>
 			Formato: .mp4<br>
 			Duración:<br>
 			Enlace:<br><br>
@@ -3363,7 +3487,7 @@ Enlace:
 			Formato: .mp4<br>
 			Duración: 24:10<br>
 			Enlace: https://shorturl.at/clwGR<br><br>
-			Nomenclatura: <br>
+			Nomenclatura: Validation interviews<br>
 			Formato: .mp4<br>
 			Duración: <br>
 			Enlace: <br><br>
