@@ -1110,8 +1110,11 @@ Tabla para poder identificarnos:
 <img src="/assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+Para el sprint 3 se planificó que el sprint abarcaría el front-end y se avanzaria con el back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/G2WebApplication-WX54/web-app-project-develop-clean-version). Enlace para acceder al [Web Service](https://peaceapp.netlify.app/)
+
 <div align="justify">
 	JSON Server:
+ 	<img src="/assets/my-json.jpg" alt="My Json Server" width="100%">
 	<table>
 		<tr>
 			<td>Endpoint</td>
