@@ -3027,19 +3027,19 @@ Tabla para poder identificarnos:
     </tr>
     <tr align="center">
         <td>Date</td>
-        <td>/05/2024</td>
+        <td>27/05/2024</td>
     </tr>
     <tr align="center">
         <td>Time</td>
-        <td>M</td>
+        <td>11:00 AM</td>
     </tr>
     <tr align="center">
         <td>Location</td>
-        <td>Discord</td>
+        <td>Presencial</td>
     </tr>
     <tr align="center">
         <td>Prepared by</td>
-        <td></td>
+        <td>Team</td>
     </tr>
     <tr align="center">
         <td>Attendess (to planning meeting)</td>
@@ -3053,13 +3053,14 @@ Tabla para poder identificarnos:
     <tr align="center">
         <td>Sprint 2 Review Summary</td>
         <td align="justify">
-		.
+		Se recibieron las recomendaciones del profesor con respecto al envío pasado.
 	</td>
     </tr>
     <tr align="center">
         <td>Sprint 2 Retrospective Summary</td>
         <td align="justify">
-		.
+		El equipo acordó en perfeccionar la Web Application y trabajar en la versión 
+		inicial de los Web Services, para la futura conexión y despliegue.
 	</td>
     </tr>
     <tr>
@@ -3068,16 +3069,17 @@ Tabla para poder identificarnos:
     <tr align="center">
         <td>Sprint 3 Goal</td>
         <td align="justify">
-		.
+		Versión Final de Web Application y Landing Page.<br>
+		Versión Inicial de Web Services
 	</td>
     </tr>
     <tr align="center">
         <td>Sprint 3 Velocity</td>
-        <td>.</td>
+        <td>46</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td>.</td>
+        <td>46</td>
     </tr>
 </table>
 
@@ -3254,25 +3256,22 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 </div>
 
 ##### Sección Página Principal
-<img src="/assets/Evidence-MainPage-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+<img src="/assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
 
 ##### Sección Mapa de Ciudadano
-<img src="/assets/Evidence-CitizenMap-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+<img src="/assets/FindRoute-Sprint3.jpg" alt="FindRoute" width="100%">
     
 ##### Sección Reportes
-<img src="/assets/Evidence-Report-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+<img src="/assets/ReportList-Sprint3.jpg" alt="ReportList-Sprint3" width="100%">
 
 ##### Sección Recuperar contraseña
-<img src="/assets/Evidence-PasswordRecover-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
-
-##### Sección Notificaciones
-<img src="/assets/Evidence-MainPage-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
+<img src="/assets/RecoveryPassword-Sprint3.jpg" alt="RecoveryPassword" width="100%">
 
 ##### Sección Perfil de Ciudadano
-<img src="/assets/Evidence-UserProfile-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
+<img src="/assets/CitizenProfile-Sprint3.jpg" alt="CitizenProfile" width="100%">
 
 ##### Sección Perfil de Entidad Gubernamental
-<img src="/assets/Evidence-AuthorityProfile-Sprint3.png" alt="Evidence-MainPage - Sprint 3">
+<img src="/assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
