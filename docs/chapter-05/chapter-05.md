@@ -1172,10 +1172,24 @@ Tabla para poder identificarnos:
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 <div align="justify">
-	Para este Sprint nos dispusimos a seguir mejorano nuestros productos. Primero, se llevo a cabo las mejoras necesarias al dieño front-end de la Web App. Con esto, se dio inicio a la
-	creación de los Web Services que soportaran el apartado back-end.<br>
-	Para que el trabajo sea efectivo, se dividieron las tareas por realizar, y cadu uno se encargo de coregir los errores prensentes en sus partes previamente presentada. Este trabajo 
-	puede corroborarse en los commits presentes en el repositorio de trabajo.<br>
+	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
+	nueva versión de la web application, con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
+	<ul>
+	<li>Landing page:</li>
+	<img src="/assets/LandingPage-Sprint3.jpg" alt="LandingPage" width="100%">
+	<li>Web Application front-end:</li>
+	<img src="/assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
+	<img src="/assets/CreateUser-Sprint3.jpg" alt="CreateUser" width="100%">
+	<img src="/assets/CreateCitizen-Sprint3.jpg" alt="CreateCitizen" width="100%">
+	<img src="/assets/CreateAuthority-Sprint3.jpg" alt="CreateAuthority" width="100%">
+	<img src="/assets/RecoveryPassword-Sprint3.jpg" alt="RecoveryPassword" width="100%">
+	<img src="/assets/NewReport-Sprint3.jpg" alt="NewReport" width="100%">
+	<img src="/assets/Subscription-Sprint3.jpg" alt="Subscription" width="100%">
+	<img src="/assets/FindRoute-Sprint3.jpg" alt="FindRoute" width="100%">
+	<img src="/assets/CitizenProfile-Sprint3.jpg" alt="CitizenProfile" width="100%">
+	<img src="/assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
+	<li>Web Services back-end: </li>
+	</ul>
 </div>
 
 Tabla para poder identificarnos:
