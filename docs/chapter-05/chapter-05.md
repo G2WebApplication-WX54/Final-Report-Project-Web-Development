@@ -1165,17 +1165,6 @@ Tabla para poder identificarnos:
 	nueva versión de la web application, con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
 	<ul>
 	<li>Landing page:</li>
-	<li>Web Application front-end:</li>
-	<li>Web Services back-end: </li>
-	</ul>
-</div>
-
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
-<div align="justify">
-	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
-	nueva versión de la web application, con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
-	<ul>
-	<li>Landing page:</li>
 	<img src="/assets/LandingPage-Sprint3.jpg" alt="LandingPage" width="100%">
 	<li>Web Application front-end:</li>
 	<img src="/assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
@@ -1191,6 +1180,8 @@ Tabla para poder identificarnos:
 	<li>Web Services back-end: </li>
 	</ul>
 </div>
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
 
 Tabla para poder identificarnos:
 
