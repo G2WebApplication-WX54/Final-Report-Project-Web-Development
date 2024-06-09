@@ -2197,13 +2197,13 @@ Gherkin: Es un lenguaje específico de dominio diseñado para resolver un proble
 
 ### 5.1.4. Software Deployment Configuration.
 Nuestro repositorio en Github<br>
-<img src="../../assets/Repositorio_1.png"><br>
+<img src="assets/Repositorio_1.png"><br>
 Nuestras ramas:<br>
-<img src="../../assets/Repositorio_2.png"><br>
+<img src="assets/Repositorio_2.png"><br>
 Para poder trabajar cada capitulo de este proyecto, vamos a entrar a la rama correspondiente, por ejemplo si queremos editar el capitulo 1 debemos entrar a la rama feature/chapter-01<br>
-<img src="../../assets/Repositorio3.png"><br>
+<img src="assets/Repositorio3.png"><br>
 Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran los archivos de cada capitulo, si queremos editar el capitulo 1 debemos editar el archivo chapter-01.md
-<img src="../../assets/Repositorio_4.png"><br>
+<img src="assets/Repositorio_4.png"><br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
