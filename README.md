@@ -3252,6 +3252,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 <div align="justify">
 	En base a todas la mejoras propuestas a la Web Application y Landing Page, se trabajo para realizarlas en conjunto a la primera versión de los Web Services. Algunas evidencias son:
 </div>
+
 ##### Sección Página Principal
 <img src="/assets/Evidence-MainPage-Sprint3.png" alt="Evidence-MainPage- Sprint 3">
 
