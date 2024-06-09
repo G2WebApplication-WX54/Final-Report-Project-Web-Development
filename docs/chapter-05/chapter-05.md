@@ -1201,7 +1201,41 @@ Tabla para poder identificarnos:
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
-- **Introducción antes de la entrevista:**
+**Diseño de Entrevistas**<br>
+
+En este segmento, se esbozan las metas específicas de los usuarios que guían nuestras entrevistas. Estos "User Goals" son fundamentales para garantizar que la aplicación web cumpla con las necesidades auténticas de los usuarios en el ámbito de la seguridad y la prevención del crimen. A continuación, se presentan los objetivos del usuario mencionados:<br>
+
+**User Goal: Iniciar Sesión**<br>
+
+**User Persona: Entidad Gubernamental y Ciudadanos.**<br>
+
+**Explicación del Flujo:** Inicialmente, el usuario deberá ingresar a la aplicación implementada. Posteriormente, verá en su pantalla un formulario que solicitará sus datos de acceso, específicamente, su correo electrónico y contraseña. Si estos son validados, el sistema redirigirá al usuario a "Find Route". De lo contrario, permanecerá en la pantalla de inicio de sesión y se le solicitará que reintroduzca sus credenciales.<br>
+
+**User Goal: Crear un Nuevo Usuario**<br>
+
+**User Persona: Entidad Gubernamental y Ciudadano.**<br>
+
+**Explicación del Flujo:** En primer lugar, el usuario deberá acceder a la sección "Sign Up", dentro de la cual podrá seleccionar el tipo de cuenta que desea crear: "Citizen" o "Authority". Una vez seleccionado el tipo de cuenta, se desplegará un diálogo con casillas de texto, dentro de las cuales los usuarios podrán registrar la información necesaria.<br>
+
+**User Goal: Registrar Reportes**<br>
+
+**User Persona: Ciudadanos.**<br>
+
+**Explicación del Flujo:** En primer lugar, el usuario debe acceder a la sección "Report List". A continuación, deberá presionar el botón situado en la parte inferior que indica "New Report". Una vez presionado, se le redirigirá a un formulario donde deberá llenar con los datos que se le solicitan. Una vez que los datos estén completos, deberá presionar el botón que indica "Send".<br>
+
+**User Goal: Ver Perfil**<br>
+
+**User Persona: Entidad Gubernamental y Ciudadano.**<br>
+
+**Explicación del Flujo:** En todo momento, el usuario visualizará en la parte superior de la aplicación una barra de navegación. Cuando presione el símbolo de un engranaje, que se encuentra situado en el extremo derecho de la barra de navegación, podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.<br>
+
+**User Goal: Mostrar Ruta**<br>
+
+**User Persona: Ciudadano.**<br>
+
+**Explicación del Flujo:** En primer lugar, el usuario debe acceder a la sección "Find Route". A continuación, deberá ingresar el lugar al que se quiere dirigir y después se le mostrará el recorrido que debe realizar.<br>
+
+
 <br><br>
 #### Segmento objetivo (Ciudadanos):
 1.
