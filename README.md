@@ -3640,14 +3640,14 @@ Tabla para poder identificarnos:
 	</table>
 	<table>
 		<tr>
-			<td>Entrevista 1: </td>
-			<td></td>
+			<td>Entrevista 2: </td>
+			<td>Mauricio Rojas</td>
 		</tr>
 		<tr>
-			<td colspan="2" ></td>
+			<td colspan="2" ><img src="/assets/Entrevista-Anatoly-Mauricio.png" alt="Entrevista-Anatoly-Mauricio"></td>
 		</tr>
 		<tr>
-		<td colspan="2"></td>
+		<td colspan="2">Mientras el ciudadano Mauricio accedia a la aplicación web, mencionó que le parecio interesante el apartado del mapa junto con las rutas y la funcionalidad de reportes. Comenta que en general la aplicación supero sus expectativas generales. Sin embargo, algo a destacar que menciono el usuario es que en si no hay una validación de los datos al momento de crear una nueva cuenta. Al momento de crear la cuenta y darle al botón de submit directamente lo redirige a la seccion de perfil de ciudadano junto con datos ya preestablecidos de la página y no con los datos reales.</td>
 		</tr>
 		<tr>
 			<td>Tiempo en el video: 00:00</td>
