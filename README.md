@@ -3220,7 +3220,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 		</tr>
 		<tr>
 		        <td>web-app-project-develop-clean-version</td>
-		        <td>develop</td>
+		        <td>feature/password-recover</td>
 		        <td>e5cacd6ea838a0b2d35017dfeb6d648cf925f7e9</td>
 		        <td>Reordered</td>
 		        <td>Files have been reordered.</td>
@@ -3228,7 +3228,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 		</tr>
 	 	<tr>
 		        <td>web-app-project-develop-clean-version</td>
-		        <td>fix/css-styles</td>
+		        <td>feature/password-recover</td>
 		        <td>0989dfc5fdd8d976ea5b06b3b3f9d005488cc26b</td>
 		        <td>feat Dialog</td>
 		        <td>Dialog for startin Sign Up was created</td>
@@ -3236,7 +3236,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 		</tr>
 		<tr>
 		        <td>web-app-project-develop-clean-version</td>
-		        <td>fix/css-styles</td>
+		        <td>feature/password-recover</td>
 		        <td>caa0b299381f985170b9b913d07ba4dae9812859</td>
 		        <td>feature Sign In Pages</td>
 		        <td>Sign In pages and their routing has been created. Design and implementation is pendient</td>
@@ -3244,7 +3244,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 		</tr>
 		<tr>
 		        <td>web-app-project-develop-clean-version</td>
-		        <td>fix/css-styles</td>
+		        <td>feature/password-recover</td>
 		        <td>52c23ab67ac1548f545284ea8c53f9a0d76c6faf</td>
 		        <td>feature Sign Up</td>
 		        <td>New Version of Sign Up has been created</td>
@@ -3252,7 +3252,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 		</tr>
 		<tr>
 		        <td>web-app-project-develop-clean-version</td>
-		        <td>fix/css-styles</td>
+		        <td>feature/password-recover</td>
 		        <td>02fe4b77454d9dc34a24c01872cdbb00f42d91c9</td>
 		        <td>feature Sign Up Forms</td>
 		        <td>-</td>
@@ -3260,7 +3260,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 		</tr>
 		<tr>
 		        <td>web-app-project-develop-clean-version</td>
-		        <td>fix/css-styles</td>
+		        <td>feature/password-recover</td>
 		        <td>d44f054f2baf9096edd40bfcd57cc1c07fa78275</td>
 		        <td>feat Passwor Recovery</td>
 		        <td>Password recovery pages have been added</td>
