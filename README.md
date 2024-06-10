@@ -3553,7 +3553,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 		<li>Landing page:</li>
 			<img src="/assets/LandingPage-Sprint3.jpg" alt="LandingPage" width="100%">
 		<li>Web Application front-end:</li>
-			<img src="/assets/Netlify-Deploy-Sprint3.jpg" alt="Deploy" width="100%">
+			<img src="/assets/Netlify-Deploy-Sprint3.png" alt="Deploy" width="100%">
 			<img src="/assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
 			<img src="/assets/CreateUser-Sprint3.jpg" alt="CreateUser" width="100%">
 			<img src="/assets/CreateCitizen-Sprint3.jpg" alt="CreateCitizen" width="100%">
