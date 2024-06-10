@@ -3685,9 +3685,12 @@ En este segmento, se esbozan las metas específicas de los usuarios que guían n
 
 ## 5.4. Video About-the-Product.
 <img src="/assets/About-the-Product.png" alt="About-the-Product">
-Enlace:
+Enlace: https://youtu.be/sA65PrsZbco
 
 # Conclusiones
+## Video About-The-Team
+<img src="/assets/About-the-Team.png" alt="About-the-Team">
+Enlace: 
 # Bibliografía
 <div align="justify">
   <ul>
@@ -3740,8 +3743,8 @@ Enlace:
 			Cantidad de videos: 1<br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Product<br>
 			Formato: .mp4<br>
-			Duración:<br>
-			Enlace:
+			Duración: 5:13<br>
+			Enlace: https://youtu.be/sA65PrsZbco
 		</td>
 	</tr>
 	<tr>
