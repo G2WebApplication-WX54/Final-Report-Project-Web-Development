@@ -4012,6 +4012,23 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	        <td>10/06/2024</td>
 	    </tr>
 	</table>
+	Web services images: 
+	<img src="/assets/WebServices1.png" alt="WebServices1" width="100%">
+  			<img src="/assets/WebServices2.png" alt="WebServices2" width="100%">
+ 			<img src="/assets/WebServices3.png" alt="WebServices3" width="100%">
+  			<img src="/assets/WebServices4.png" alt="WebServices4" width="100%">
+  			<img src="/assets/WebServices5.png" alt="WebServices5" width="100%">
+			<img src="/assets/WebServices6.png" alt="WebServices6" width="100%">
+  			<img src="/assets/WebServices7.png" alt="WebServices7" width="100%">
+  			<img src="/assets/WebServices8.png" alt="WebServices8" width="100%">
+  			<img src="/assets/WebServices9.png" alt="WebServices9" width="100%">
+  			<img src="/assets/WebServices10.png" alt="WebServices10" width="100%">
+  			<img src="/assets/WebServices11.png" alt="WebServices11" width="100%">
+  			<img src="/assets/WebServices12.png" alt="WebServices12" width="100%">
+  			<img src="/assets/WebServices13.png" alt="WebServices13" width="100%">
+  			<img src="/assets/WebServices14.png" alt="WebServices14" width="100%">
+  			<img src="/assets/WebServices15.png" alt="WebServices15" width="100%">
+  			<img src="/assets/WebServices16.png" alt="WebServices16" width="100%">	
 </div>
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
