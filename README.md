@@ -3708,27 +3708,26 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 **Tabla de resumen:** <br>
 
-**Landing Page:** <br>
-
-| # | Problema | Escala de severida | Heurística/Principio violado(a) |
-|---|----------|--------------------|---------------------------------|
-|   |          |                    |                                 |
-|   |          |                    |                                 |
-|   |          |                    |                                 |
-|   |          |                    |                                 |
-<br>
-
 **Web Application:** <br>
 
 | # | Problema | Escala de severida | Heurística/Principio violado(a) |
 |---|----------|--------------------|---------------------------------|
-|   |          |                    |                                 |
+|1|No se valida la información al crear una cuenta para el ciudadano.|4|Usability: Prevención de errores|
 |   |          |                    |                                 |
 |   |          |                    |                                 |
 |   |          |                    |                                 |
 
 <br>
+PROBLEMA #1: No se valida la información al crear una cuenta para el ciudadano
+Severidad: 4
+Heurística violada: Usabilidad - Prevención de errores
 
+Problema:
+La aplicación permite a los usuarios crear cuentas sin validar la información ingresada, permitiendo que los usuarios accedan sin llenar ningún campo y mostrando datos preestablecidos.
+
+Recomendación:
+Implementar validaciones de campos obligatorios al crear una cuenta para asegurar que se ingresen datos completos y correctos.<br>
+<img src="/assets/EvidenciaProblema1.png">
 
 ## 5.4. Video About-the-Product.
 <img src="/assets/About-the-Product.png" alt="About-the-Product">
