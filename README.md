@@ -3618,31 +3618,33 @@ En este segmento, se esbozan las metas específicas de los usuarios que guían n
 	<table>
 		<tr>
 			<td>Entrevista 1: </td>
-			<td></td>
+			<td>Fatima Urbina</td>
 		</tr>
 		<tr>
-			<td colspan="2"></td>
+			<td colspan="2" ><img src="/assets/Entrevista-Andres-Fatima.jpg" alt="Entrevista-Andres-Fatima"></td>
 		</tr>
 		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista1S1.png" alt="Segmento 1 - Validation Interview 1"></td>
+		<td colspan="2">Mientras navegaba por la aplicación web, Fátima destacó la facilidad de entendimiento y la dinámica de la interfaz. No obstante, mencionó que, habiéndose ya creado una cuenta como usuario y después de iniciar sesión, no debería tener 		que indicar si es usuario o autoridad; la página debería reconocer si ella es usuario o autoridad. También señaló que las notificaciones deberían actualizarse de manera automática y no manualmente. Por último, indicó que cuando se dirige a la 			visualización de perfil, debería aparecerle su perfil directamente sin tener que seleccionar su tipo de usuario.</td>
 		</tr>
 		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
+			<td>Tiempo en el video: 06:54</td>
+			<td>https://drive.google.com/file/d/12LXgBU5WvKAfV2lRNnldmr8W4ukhf8No/view?usp=sharing</td>
 		</tr>
 	</table>
 	<table>
 		<tr>
-			<td>Entrevista 2: </td>
+			<td>Entrevista 1: </td>
 			<td></td>
 		</tr>
 		<tr>
-			<td colspan="2"></td>
+			<td colspan="2" ></td>
 		</tr>
 		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista2S1.png" alt="Segmento 1 - Validation Interview 2"></td>
+		<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
+			<td>Tiempo en el video: 00:00</td>
+			<td>link</td>
 		</tr>
 	</table>
 </div>
@@ -3655,13 +3657,14 @@ En este segmento, se esbozan las metas específicas de los usuarios que guían n
 			<td></td>
 		</tr>
 		<tr>
-			<td colspan="2"></td>
+			<td colspan="2" ></td>
 		</tr>
 		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista1S2.png" alt="Segmento 2 - Validation Interview 1"></td>
+		<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
+			<td>Tiempo en el video: 00:00</td>
+			<td>link</td>
 		</tr>
 	</table>
 	<table>
@@ -3670,13 +3673,14 @@ En este segmento, se esbozan las metas específicas de los usuarios que guían n
 			<td></td>
 		</tr>
 		<tr>
-			<td colspan="2"></td>
+			<td colspan="2" ></td>
 		</tr>
 		<tr>
-			<td colspan="2"><img src="/assets/ValEntrevista2S2.png" alt="Segmento 2 - Validation Interview 2"></td>
+		<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td colspan="2">Tiempo en el video: 00:00</td>
+			<td>Tiempo en el video: 00:00</td>
+			<td>link</td>
 		</tr>
 	</table>
 </div>
