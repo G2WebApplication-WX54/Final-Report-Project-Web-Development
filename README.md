@@ -3683,6 +3683,42 @@ En este segmento, se esbozan las metas específicas de los usuarios que guían n
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+**ESCALA DE SEVERIDAD:** <br>
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+<br>
+| Nivel | Descripción                                                                                                                                                                                    |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
+<br>
+
+**Tabla de resumen:** <br>
+
+**Landing Page:** <br>
+
+| # | Problema | Escala de severida | Heurística/Principio violado(a) |
+|---|----------|--------------------|---------------------------------|
+|   |          |                    |                                 |
+|   |          |                    |                                 |
+|   |          |                    |                                 |
+|   |          |                    |                                 |
+<br>
+
+**Web Application:** <br>
+
+| # | Problema | Escala de severida | Heurística/Principio violado(a) |
+|---|----------|--------------------|---------------------------------|
+|   |          |                    |                                 |
+|   |          |                    |                                 |
+|   |          |                    |                                 |
+|   |          |                    |                                 |
+
+<br>
+
+
 ## 5.4. Video About-the-Product.
 <img src="/assets/About-the-Product.png" alt="About-the-Product">
 Enlace: https://youtu.be/sA65PrsZbco
