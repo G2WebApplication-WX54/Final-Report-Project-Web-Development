@@ -3571,21 +3571,15 @@ Tabla para poder identificarnos:
 |ern23zc               	| Victor Ernesto Zarate Caceres |
 
 ##### Commits:
-<ul>
-	<li><img src="/assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3"></li>
-	<li><img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3"></li>
-</ul>
+<img src="/assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3">
+<img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3">
 
 ##### Analíticas de Colaboración:
-<ul>
-	<li><img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3"></li>
-	<li><img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3"></li>
-</ul>
+<li><img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
+<li><img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3">
+	
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
-- **Introducción antes de la entrevista:**
-**Diseño de Entrevistas**<br>
-
 En este segmento, se esbozan las metas específicas de los usuarios que guían nuestras entrevistas. Estos "User Goals" son fundamentales para garantizar que la aplicación web cumpla con las necesidades auténticas de los usuarios en el ámbito de la seguridad y la prevención del crimen. A continuación, se presentan los objetivos del usuario mencionados:<br>
 
 **User Goal: Iniciar Sesión**<br>
