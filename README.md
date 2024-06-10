@@ -3592,8 +3592,8 @@ Tabla para poder identificarnos:
 <img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3">
 
 ##### Analíticas de Colaboración:
-<li><img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
-<li><img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3">
+<img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
+<img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3">
 	
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
