@@ -3496,30 +3496,39 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	Para el sprint 3 se planificó que el sprint abarcaría el front-end y se avanzaria con el back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a 
 	realizar la implementación para la Front End Web Application desplegada. Hasta el momento, el back-end solo fue creado y no tiene vinculo con el front-end. Enlace para acceder 
 	al <a href="https://6664a80f932baf9032abbc8e.mockapi.io/api/reports">MockAPI</a>. Enlace para acceder a <a href="https://github.com/G2WebApplication-WX54/peace-app-backend/tree/develop">Web Service</a><br>
-	JSON Server:
+	MockAPI:
 	<table>
 		<tr>
 			<td>Endpoint</td>
 			<td>Details</td>
 		</tr>
 		<tr>
-			<td>/Citizens</td>
-			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
-		</tr>
-  <tr>
-			<td>/Notification</td>
-			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
-		</tr>
-  <tr>
-			<td>/OrganizationsAccount</td>
-			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
-		</tr>
-  <tr>
-			<td>/ReportsManagement</td>
+			<td>/reports</td>
 			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
 		</tr>
 	</table>
 	Web Service:
+  <table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Details</td>
+		</tr>
+		<tr>
+			<td>/Citizens</td>
+			<td rowspan="2">Se implementaron las operaciones CRUD para lograr el registro de nuevos usuarios.</td>
+		</tr>
+    <tr>
+			<td>/OrganizationsAccount</td>
+		</tr>
+  <tr>
+			<td>/Notification</td>
+			<td>Se implementaron las operaciones CRUD para lograr el registro de reportes y su notificación correspondiente.</td>
+		</tr>
+  <tr>
+			<td>/ReportsManagement</td>
+			<td>Se implementaron las operaciones CRUD para lograr el manejo de los reportes que se han registrado.</td>
+		</tr>
+	</table>
 	<table>
 		<tr>
 			<td>Endpoint</td>
@@ -3528,97 +3537,85 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 			<td>URL</td>
 		</tr>
 		<tr>
-			<td>Citizens</td>
+			<td rowspan="5">Citizens</td>
 			<td>Post</td>
 			<td>No tiene</td>
 			<td>/api/v1/citizens</td>
 		</tr>
 		<tr>
-			<td>Citizens</td>
 			<td>Get</td>
 			<td>No tiene</td>
 			<td>/api/v1/citizens</td>
 		</tr>
 		<tr>
-			<td>Citizens</td>
 			<td>Get</td>
 			<td>{citizenId}</td>
 			<td>/api/v1/citizens/{citizenId}</td>
 		</tr>
 		<tr>
-			<td>Citizens</td>
 			<td>Put</td>
 			<td>{citizenId}</td>
 			<td>/api/v1/citizens/{citizenId}</td>
 		</tr>
 		<tr>
-			<td>Citizens</td>
 			<td>Delete</td>
 			<td>{citizenId}</td>
 			<td>/api/v1/citizens/{citizenId}</td>
 		</tr>
 		<tr>
-			<td>Notification</td>
+			<td rowspan="4">Notification</td>
 			<td>Post</td>
 			<td>No tiene</td>
 			<td>/api/v1/notification</td>
 		</tr>
 		<tr>
-			<td>Notification</td>
 			<td>Get</td>
 			<td>No tiene</td>
 			<td>/api/v1/notification</td>
 		</tr>
 		<tr>
-			<td>Notification</td>
 			<td>Get</td>
 			<td>{id}</td>
 			<td>/api/v1/notification/{id}</td>
 		</tr>
 		<tr>
-			<td>Notification</td>
 			<td>Get</td>
 			<td>{priority}</td>
 			<td>/api/v1/notification/priority/{priority}</td>
 		</tr>
 		<tr>
-			<td>OrganizationsAccount</td>
+			<td rowspan="2">OrganizationsAccount</td>
 			<td>Post</td>
 			<td>No tiene</td>
 			<td>/api/v1/organizations-account</td>
 		</tr>
 		<tr>
-			<td>OrganizationsAccount</td>
 			<td>Get</td>
 			<td>{organizationName}</td>
 			<td>/api/v1/organizations-account/{organizationName}</td>
 		</tr>
 		<tr>
-			<td>ReportsManagement</td>
+			<td rowspan="5">ReportsManagement</td>
 			<td>Post</td>
 			<td>No tiene</td>
 			<td>/api/v1/reports-management</td>
 		</tr>
 		<tr>
-			<td>ReportsManagement</td>
 			<td>Get</td>
 			<td>No tiene</td>
 			<td>/api/v1/reports-management</td>
 		</tr>
 		<tr>
-			<td>ReportsManagement</td>
 			<td>Get</td>
 			<td>{id}</td>
 			<td>/api/v1/reports-management/{id}</td>
 		</tr>
 		<tr>
-			<td>ReportsManagement</td>
 			<td>Get</td>
 			<td>{date}</td>
 			<td>/api/v1/reports-management/date/{date}</td>
 		</tr>
 		<tr>
-			<td>ReportsManagement</td>
 			<td>Get</td>
 			<td>{district}</td>
 			<td>/api/v1/reports-management/district/{district}</td>
@@ -3729,14 +3726,6 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	        <td>ef9ba5d50a63fd9dbd346a19a206e6b51a8fb44b</td>
 	        <td>feat(Communication): Add Priority attribute to Notification</td>
 	        <td></td>
-	        <td>07/06/2024</td>
-	    </tr>
-	    <tr>
-	        <td>peace-app-backend-DEMO</td>
-	        <td>/master</td>
-	        <td></td>
-	        <td></td>
-	        <td>-</td>
 	        <td>07/06/2024</td>
 	    </tr>
 	    <tr>
@@ -4095,7 +4084,6 @@ Tabla para poder identificarnos:
 
 ##### Analíticas de Colaboración:
 <img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
-<img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3">
 	
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -4158,55 +4146,18 @@ Tabla para poder identificarnos:
 	</table>
 </div>
 
-#### Segmento 2:
-<div align="justify">
-	<table>
-		<tr>
-			<td>Entrevista 1: </td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="2" ></td>
-		</tr>
-		<tr>
-		<td colspan="2"></td>
-		</tr>
-		<tr>
-			<td>Tiempo en el video: 00:00</td>
-			<td>link</td>
-		</tr>
-	</table>
-	<table>
-		<tr>
-			<td>Entrevista 1: </td>
-			<td></td>
-		</tr>
-		<tr>
-			<td colspan="2" ></td>
-		</tr>
-		<tr>
-		<td colspan="2"></td>
-		</tr>
-		<tr>
-			<td>Tiempo en el video: 00:00</td>
-			<td>link</td>
-		</tr>
-	</table>
-</div>
-
 ### 5.3.3. Evaluaciones según heurísticas.
 
 **ESCALA DE SEVERIDAD:** <br>
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 <br>
-| Nivel | Descripción                                                                                                                                                                                    |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nivel |Descripción                                                                                                  |
+|-------|-------------------------------------------------------------------------------------------------------------|
 | 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
 | 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta                                 |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
-<br>
 
 **Tabla de resumen:** <br>
 
@@ -4237,7 +4188,7 @@ Implementar validaciones de campos obligatorios al crear una cuenta para asegura
 Enlace: https://youtu.be/sA65PrsZbco
 
 # Conclusiones
-<div align=justify">
+<div align="justify">
 	<ul>
 		<li>Se comprendio la problemática que enfrenta Perú y su impacto en la población. El análisis competitivo nos ayudó a identificar a nuestros competidores y desarrollar estrategias para superarlos.</li>
 		<li>El needfinding nos permitió entender mejor a nuestros usuarios y sus necesidades, lo que nos ayudó a idear una solución que satisfaga sus expectativas.</li>
@@ -4246,13 +4197,14 @@ Enlace: https://youtu.be/sA65PrsZbco
 	</ul>
 </div>
 
-## Video About-The-Team
+### Video About-The-Team
+<div align="justify">
 El video ofrece un resumen del trabajo del equipo, en el cual los integrantes detallan las tareas que realizaron para alcanzar los objetivos del curso. Los miembros del equipo resaltan la importancia de la comunicación oral y escrita como un método eficiente para compartir ideas y comunicar el avance del proyecto.
 El video tiene una duracion de 15:04 minutos. Desde el minuto 0:00 al 0:56 el integrante Johan Príncipe explica su aporte al proyecto. Del 0:57 al 2:49, Ernesto Zarate habla de su participación en el proyecto junto con sus aportes en el mismo. Del minuto 2:50 al 4:17 continúa Andres Rodriguez, seguidamente de Franz Escalantes desde el minuto 4:19 al 5:45. El video concluye con Anatoly Noriega dando explicación de sus aportes para el trabajo y las metas que logró.
-Enlace: https://youtu.be/NIMv12_64jI
+</div>
 
 <img src="/assets/About-the-Team.png" alt="About-the-Team">
-Enlace: 
+Enlace: https://youtu.be/NIMv12_64jI 
 
 # Bibliografía
 <div align="justify">
