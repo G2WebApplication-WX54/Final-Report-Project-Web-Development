@@ -3522,9 +3522,9 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 			<td></td>
 		</tr>
 	</table>
-	Link del repositorio:<br>
+	Link del repositorio: https://github.com/G2WebApplication-WX54/peace-app-backend<br>
 	Web service commit details:
-	<table>
+	<table aling="justify">
 	    <tr>
 	        <td>Repository</td>
 	        <td>Branch</td>
@@ -3534,12 +3534,380 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	        <td>Commited on (Date)</td>
 	    </tr>
 	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>4785feed1e35cb175a0e580df9d8ec57daf76d90</td>
+	        <td>chore: initial configuration</td>
+	        <td>-</td>
+	        <td>03/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>b09202d91be84c7b23962eb58f2f401aa7df1da1</td>
+	        <td>feat(communication): create Notification aggregate and Message value object</td>
+	        <td>-</td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>514aa17a29e1821df7a2210c428795e74c342853</td>
+	        <td>feat(communication): create CreateNotificationCommand</td>
+	        <td>-</td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>4785feed1e35cb175a0e580df9d8ec57daf76d90</td>
 	        <td></td>
 	        <td></td>
 	        <td></td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>59b03860a274fc0eaa51dafcf9df89fdde2ee843</td>
+	        <td>feat(communication): add queries for getting all notifications and getting notification by id</td>
+	        <td>-</td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>149ae5665d332208dabb9bb71d742d1c176745d8</td>
+	        <td>feat(communication): add command and query service interfaces for notifications</td>
+	        <td>-</td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>86a6d7f8bec364c9a9fe571988b08ab0257148a5</td>
+	        <td>feat(communication): add Notification repository interface and implementation</td>
+	        <td>-</td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>8bcda6d49aec5a9f66d19693ec5c697de64d1fe1</td>
+	        <td>feat(communication): add Notification query service and command service</td>
+	        <td>-</td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>4a27f9d0e7e06823cb43186f35efd16f29e6c42f</td>
+	        <td>feat(communication): add Notification and CreateNotification resources</td>
+	        <td>-</td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>beca97c50ff0cb423871eb74c8e82b166b7a79dc</td>
+	        <td>feat(communication): add transform assemblers for Notification and CreateNotification</td>
+	        <td></td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>f2e45129b8d89787fc25921fe2b301b268dd4c27</td>
+	        <td>feat(communication): add Notifications controller with endpoints for creating and retrieving notifications</td>
+	        <td></td>
+	        <td>06/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>feature/communication</td>
+	        <td>ef9ba5d50a63fd9dbd346a19a206e6b51a8fb44b</td>
+	        <td>feat(Communication): Add Priority attribute to Notification</td>
+	        <td></td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
 	        <td></td>
 	        <td></td>
-	        <td></td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>589ff2eff456a6e511e24aea813ae32e9c53b071</td>
+	        <td>feat: all good I think</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>35c194cb27964ebcba0eaed8c8602267c102bfcc</td>
+	        <td>feat(Report-Management): queries and query service</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>afe38654e38e07c66cd03b928984a2ff40f85833</td>
+	        <td>feat(Report-Management): all query service</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>f20a05650ed72b41d6c9b5fb8672e8851b876800</td>
+	        <td>feat(Report-Management): reports management controller</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>9359a93ee5e3192d22121466677ccc531911890f</td>
+	        <td>feat: last thing added in report management controller</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>594d0528de49021228ea09c97f9268417ba86e74</td>
+	        <td>feat(Report-Management): working, but with some errors</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	    <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>1d918462d6fc27b61b685a74a9deb8be6793a74a</td>
+	        <td>feat(Report-Management): just 1 problem in controller :)</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+	 <tr>
+	        <td>peace-app-backend-DEMO</td>
+	        <td>/master</td>
+	        <td>862d35026170dde6813ea3270798baed7ec0476d</td>
+	        <td>chore: deleting obj folder</td>
+	        <td>-</td>
+	        <td>07/06/2024</td>
+	    </tr>
+     			    <tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>737f4f412827e789f32ddd124f526c7dd12d480c</td>
+	        <td>feat(communication): "add aggregate of notification."</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>773f7bc8dcc3b04e6ffedbb4ed03760d687b8b25</td>
+	        <td>"feat(communication): add CreateNotificationCommand"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>438d10ec31d04d246658d070af64c53f0bcf429a</td>
+	        <td>"feat(communication): add queries for getting all notifications, getting notification by id and getting all notifications by priority"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>a11378929e924ccb520b07c09d7bbb695423bc80</td>
+	        <td>"feat(communication): add Notification repository interface and implementation"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>d7496540cc4efc7d84db965afd477b564c8e0708</td>
+	        <td>"feat(communication): add command and query service interfaces for notifications"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>87d54e125c8fb4f423b8b9f1a8c77072903a9b75</td>
+	        <td>"feat(communication): add Notification repository and implementation"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>d86b6721885bd82fac1b94cdea184be37d189625</td>
+	        <td>"feat(communication): add Notification query service and command service"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>16f123ce2e97841171db868424d0aa33578d5374</td>
+	        <td>"feat(communication): add Notification and CreateNotification resources"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>6c5d8a824fda686b18485dd1a4594c8009f5e117</td>
+	        <td>"feat(communication): add transform assemblers for Notification and CreateNotification"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>16cb5ff5caf33e761df1477657ec6f470d398b9f</td>
+	        <td>"feat(communication): add controller and update AppDbContext and Program.cs for Notification entity"</td>
+	        <td>-</td>
+	        <td>08/06/2024</td>
+	    </tr>
+     <tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>d1a00e4315692483a9ba63dccae8cbfd52f02bf2</td>
+	        <td>feat(Organization): working in swagger with an error in POST</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>05ec01fe6881f8c8502435d204835944b96c4b79</td>
+	        <td>"feat(citizen): add value objects for citizen account along with aggregates for citizen profile and its audit"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>767ff69d470b71836b970b35ed3ff94c347a4aa3</td>
+	        <td>"feat(citizen): added CreateCitizenAccountCommand"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>f2e5239756e04b900f3588faa2d845ef47cba29a</td>
+	        <td>"feat(citizen): add queries for getting all accounts by email and by ID"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>9b24d8e56f2d18b8fd5a26c73473d8fb96d2ccae</td>
+	        <td>"feat(citizen): add CitizenRepository"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>612111f209bf680c6a335904147bf3fe3481e590</td>
+	        <td>"feat(citizen): add interfaces of command and query services"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>b186bcd35407a355f3c29ba2a65630c86038e9b2</td>
+	        <td>"feat(citizen): add CitizenRepository in InfrastructureLayer"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>1ff90297dc3780b2399e3c22686bce65687e3431</td>
+	        <td>"feat(citizen): add command and query service in application layer"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>a25da27d3f590ac8599ff3f81a487c1d9621ebbc</td>
+	        <td>"feat(citizen): add the CitizensContextFacade interface and class in interface layer"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>057ecf5a81d5946768edaca328bffa3fff197c58</td>
+	        <td>"feat(citizen): add CitizenResource and CreateCitizenResource"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>dc26e9fe1a9f9edcccfb7283dcee821ba08b6ec6</td>
+	        <td>"feat(citizen): add the resources assembler of CitizenResource and CreateCitizenResource"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>92a31786444f92baba3f5daa8568de3ac868e9b6</td>
+	        <td>"feat(citizen): add CitizensController and tables to AppDbContext and Program.cs"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>75ddd4d2b1fc72b9c819b7cde0906374a6db48b8</td>
+	        <td>"feat(citizen): add the update and delete citizen command"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+		<tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>1001810c415c1b5b2714678a9759ac7e6432770f</td>
+	        <td>"feat(citizen): Add CRUD operations for Citizens"</td>
+	        <td>-</td>
+	        <td>09/06/2024</td>
+	    </tr>
+     <tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>7b57ebc5b92699390baea9fcee165904644259fd</td>
+	        <td>Merge branch 'feature/communication' into merging-test</td>
+	        <td>-</td>
+	        <td>10/06/2024</td>
+	    </tr>
+     <tr>
+	        <td>peace-app-backend</td>
+	        <td>/develop</td>
+	        <td>c441ed07791aed2f52321e4afdf8f2644fd9130a</td>
+	        <td>feat: all merge working</td>
+	        <td>-</td>
+	        <td>10/06/2024</td>
 	    </tr>
 	</table>
 </div>
