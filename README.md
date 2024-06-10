@@ -3503,7 +3503,19 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 			<td>Details</td>
 		</tr>
 		<tr>
-			<td>/reports</td>
+			<td>/Citizens</td>
+			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
+		</tr>
+  <tr>
+			<td>/Notification</td>
+			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
+		</tr>
+  <tr>
+			<td>/OrganizationsAccount</td>
+			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
+		</tr>
+  <tr>
+			<td>/ReportsManagement</td>
 			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
 		</tr>
 	</table>
@@ -3516,11 +3528,101 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 			<td>URL</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Citizens</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/citizens</td>
 		</tr>
+		<tr>
+			<td>Citizens</td>
+			<td>Get</td>
+			<td>No tiene</td>
+			<td>/api/v1/citizens</td>
+		</tr>
+		<tr>
+			<td>Citizens</td>
+			<td>Get</td>
+			<td>{citizenId}</td>
+			<td>/api/v1/citizens/{citizenId}</td>
+		</tr>
+		<tr>
+			<td>Citizens</td>
+			<td>Put</td>
+			<td>{citizenId}</td>
+			<td>/api/v1/citizens/{citizenId}</td>
+		</tr>
+		<tr>
+			<td>Citizens</td>
+			<td>Delete</td>
+			<td>{citizenId}</td>
+			<td>/api/v1/citizens/{citizenId}</td>
+		</tr>
+		<tr>
+			<td>Notification</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/notification</td>
+		</tr>
+		<tr>
+			<td>Notification</td>
+			<td>Get</td>
+			<td>No tiene</td>
+			<td>/api/v1/notification</td>
+		</tr>
+		<tr>
+			<td>Notification</td>
+			<td>Get</td>
+			<td>{id}</td>
+			<td>/api/v1/notification/{id}</td>
+		</tr>
+		<tr>
+			<td>Notification</td>
+			<td>Get</td>
+			<td>{priority}</td>
+			<td>/api/v1/notification/priority/{priority}</td>
+		</tr>
+		<tr>
+			<td>OrganizationsAccount</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/organizations-account</td>
+		</tr>
+		<tr>
+			<td>OrganizationsAccount</td>
+			<td>Get</td>
+			<td>{organizationName}</td>
+			<td>/api/v1/organizations-account/{organizationName}</td>
+		</tr>
+		<tr>
+			<td>ReportsManagement</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/reports-management</td>
+		</tr>
+		<tr>
+			<td>ReportsManagement</td>
+			<td>Get</td>
+			<td>No tiene</td>
+			<td>/api/v1/reports-management</td>
+		</tr>
+		<tr>
+			<td>ReportsManagement</td>
+			<td>Get</td>
+			<td>{id}</td>
+			<td>/api/v1/reports-management/{id}</td>
+		</tr>
+		<tr>
+			<td>ReportsManagement</td>
+			<td>Get</td>
+			<td>{date}</td>
+			<td>/api/v1/reports-management/date/{date}</td>
+		</tr>
+		<tr>
+			<td>ReportsManagement</td>
+			<td>Get</td>
+			<td>{district}</td>
+			<td>/api/v1/reports-management/district/{district}</td>
+		</tr>		
 	</table>
 	Link del repositorio: https://github.com/G2WebApplication-WX54/peace-app-backend<br>
 	Web service commit details:
