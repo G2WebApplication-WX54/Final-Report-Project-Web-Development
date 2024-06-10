@@ -3458,12 +3458,12 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	        <td>Commited on (Date)</td>
 	    </tr>
 	    <tr>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
+	        <td>peace-app-backend</td>
+	        <td>develop</td>
+	        <td>c441ed07791aed2f52321e4afdf8f2644fd9130a</td>
+	        <td>feat: all merge working</td>
+	        <td>-</td>
+	        <td>10/06/24</td>
 	    </tr>
 	</table>
 </div>
@@ -3495,8 +3495,7 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 <div align="justify">
 	Para el sprint 3 se planificó que el sprint abarcaría el front-end y se avanzaria con el back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a 
 	realizar la implementación para la Front End Web Application desplegada. Hasta el momento, el back-end solo fue creado y no tiene vinculo con el front-end. Enlace para acceder 
-	al <a href="https://6664a80f932baf9032abbc8e.mockapi.io/api/reports">MockAPI</a>. Enlace para acceder a <a href="https://github.com/G2WebApplication-WX54/peace-app-backend/tree/master">Web Service</a>
-	Enlace para acceder al Web Service
+	al <a href="https://6664a80f932baf9032abbc8e.mockapi.io/api/reports">MockAPI</a>. Enlace para acceder a <a href="https://github.com/G2WebApplication-WX54/peace-app-backend/tree/develop">Web Service</a><br>
 	JSON Server:
 	<table>
 		<tr>
@@ -3712,12 +3711,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | # | Problema | Escala de severida | Heurística/Principio violado(a) |
 |---|----------|--------------------|---------------------------------|
-|1|No se valida la información al crear una cuenta para el ciudadano.|4|Usability: Prevención de errores|
+| 1 |No se valida la información al crear una cuenta para el ciudadano.|4|Usability: Prevención de errores|
 |   |          |                    |                                 |
 |   |          |                    |                                 |
 |   |          |                    |                                 |
 
 <br>
+
 PROBLEMA #1: No se valida la información al crear una cuenta para el ciudadano
 Severidad: 4
 Heurística violada: Usabilidad - Prevención de errores
