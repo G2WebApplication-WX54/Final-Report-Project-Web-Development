@@ -3744,6 +3744,10 @@ Enlace: https://youtu.be/sA65PrsZbco
 </div>
 
 ## Video About-The-Team
+El video ofrece un resumen del trabajo del equipo, en el cual los integrantes detallan las tareas que realizaron para alcanzar los objetivos del curso. Los miembros del equipo resaltan la importancia de la comunicación oral y escrita como un método eficiente para compartir ideas y comunicar el avance del proyecto.
+El video tiene una duracion de 15:04 minutos. Desde el minuto 0:00 al 0:56 el integrante Johan Príncipe explica su aporte al proyecto. Del 0:57 al 2:49, Ernesto Zarate habla de su participación en el proyecto junto con sus aportes en el mismo. Del minuto 2:50 al 4:17 continúa Andres Rodriguez, seguidamente de Franz Escalantes desde el minuto 4:19 al 5:45. El video concluye con Anatoly Noriega dando explicación de sus aportes para el trabajo y las metas que logró.
+Enlace: https://youtu.be/NIMv12_64jI
+
 <img src="/assets/About-the-Team.png" alt="About-the-Team">
 Enlace: 
 
@@ -3809,8 +3813,8 @@ Enlace:
 			Cantidad de videos: 1<br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Team<br>
 			Formato: .mp4<br>
-			Duración:<br>
-			Enlace:
+			Duración: 15:04<br>
+			Enlace: https://youtu.be/NIMv12_64jI
 		</td>
 	</tr>
 </table>
