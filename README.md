@@ -3574,14 +3574,12 @@ Tabla para poder identificarnos:
 <ul>
 	<li><img src="/assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3"></li>
 	<li><img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3"></li>
-	<li><img src="/assets/CommitsAnalysisS33.png" alt="CommitsAnalysis - Sprint 3"></li>
 </ul>
 
 ##### Analíticas de Colaboración:
 <ul>
 	<li><img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3"></li>
 	<li><img src="/assets/ColaborationAnalysisS32.png" alt="ColaborationAnalysis - Sprint 3"></li>
-	<li><img src="/assets/ColaborationAnalysisS33.png" alt="ColaborationAnalysis - Sprint 3"></li>
 </ul>
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -3618,14 +3616,7 @@ En este segmento, se esbozan las metas específicas de los usuarios que guían n
 
 **User Persona: Ciudadano.**<br>
 
-**Explicación del Flujo:** En primer lugar, el usuario debe acceder a la sección "Find Route". A continuación, deberá ingresar el lugar al que se quiere dirigir y después se le mostrará el recorrido que debe realizar.<br>
-
-
-<br><br>
-#### Segmento objetivo (Ciudadanos):
-1.
-#### Segmento objetivo (Gerentes de entidades publicas o empresas):
-1.
+**Explicación del Flujo:** En primer lugar, el usuario debe acceder a la sección "Find Route". A continuación, deberá ingresar el lugar al que se quiere dirigir y después se le mostrará el recorrido que debe realizar.
 
 ### 5.3.2. Registro de Entrevistas.
 #### Enlace de las entrevistas: 
