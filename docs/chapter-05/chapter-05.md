@@ -232,7 +232,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>Commited on (Date)</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/feature/password-recover</td>
         <td>feature/password-recover</td>
         <td>e5cacd6ea838a0b2d35017dfeb6d648cf925f7e9</td>
         <td>chore: initial commit</td>
@@ -240,7 +240,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>30/05/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/feature/password-recover</td>
         <td>feature/password-recover</td>
         <td>e70732ce7accb391a9dc7a6a56460ccd914f0be4</td>
         <td>Reordered</td>
@@ -248,7 +248,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>31/05/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/feature/password-recover</td>
         <td>feature/password-recover</td>
         <td>0989dfc5fdd8d976ea5b06b3b3f9d005488cc26b</td>
         <td>feat Dialog</td>
@@ -256,7 +256,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>02/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/feature/password-recover</td>
         <td>feature/password-recover</td>
         <td>caa0b299381f985170b9b913d07ba4dae9812859</td>
         <td>feature Sign In Pages</td>
@@ -264,7 +264,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>02/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/feature/password-recover</td>
         <td>feature/password-recover</td>
         <td>52c23ab67ac1548f545284ea8c53f9a0d76c6faf</td>
         <td>feature Sign Up</td>
@@ -272,7 +272,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>02/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/feature/password-recover</td>
         <td>feature/password-recover</td>
         <td>02fe4b77454d9dc34a24c01872cdbb00f42d91c9</td>
         <td>feature Sign Up Forms</td>
@@ -280,15 +280,15 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>02/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/feature/password-recover</td>
         <td>feature/password-recover</td>
         <td>d44f054f2baf9096edd40bfcd57cc1c07fa78275</td>
         <td>feat Passwor Recover</td>
         <td>-</td>
         <td>02/06/2024</td>
     </tr>
-    <tr>
-        <td>web-app-project-develop-clean-version</td>
+<tr>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>e3651d850bbe0153bf425661aa537a7af74db27b</td>
         <td>fix Main</td>
@@ -296,7 +296,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>04/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>46db6c27fe0e051d67ae8393b73b49e7b09f5977</td>
         <td>fix User and Authority Sign Up</td>
@@ -304,7 +304,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>04/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>2e4e1a6f76fdf5e48a0c045959e7a693c84d0c9b</td>
         <td>fix User and Authority Profile</td>
@@ -312,7 +312,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>04/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>809466d1118055f0645a443d772f536c01c8de17</td>
         <td>fix Profile Editot</td>
@@ -320,7 +320,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>04/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>0299647f7cdb8622d35e22e72f1f68246ce5d892</td>
         <td>fix Styles</td>
@@ -328,7 +328,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>04/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>00b7036c41aaf94b7e5877a68a0b14470664b041</td>
         <td>Fix Styles</td>
@@ -336,7 +336,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>04/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>bdef99599f0ada824a7a9cbd59609e16188b69b7</td>
         <td>fix Styles</td>
@@ -344,7 +344,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>06/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>879daeec54458582f64cab50d212ea2df73907d3</td>
         <td>fix Profile Picture</td>
@@ -352,7 +352,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>07/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components/tree/fix/components</td>
         <td>feature/components</td>
         <td>9760935e7ebc891dca84f0400d04d700104d304f</td>
         <td>fix Logo</td>
@@ -360,7 +360,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>07/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>a1e0bc716e4c4d011dea34f702c8c7426cdddf12</td>
         <td>fix: some components fixed and services added with db</td>
@@ -368,7 +368,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>07/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>c3cf90342b7fc8dab66b204d159a2c79efa71ec2</td>
         <td>fix Form Styles</td>
@@ -376,7 +376,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>08/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>051a0c5eef01047574f1fcccbbed8feba3e21055</td>
         <td>fix Report Form</td>
@@ -384,7 +384,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>08/06/2024</td>
     </tr>
         <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>27762eed12adf7c0f6c1e9f6b44d234af4c2ad06</td>
         <td>feature Redirect</td>
@@ -392,7 +392,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>08/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>407f37687dc9290c628e998b91fb3cd8e7725573</td>
         <td>fix Reports</td>
@@ -400,7 +400,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>08/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>346186f5bc6bf14ca6c925ffb894c54257f11724</td>
         <td>feat Notifications</td>
@@ -408,7 +408,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>08/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>28296c3cf3af412a909f3978982ca9b947b80476</td>
         <td>fix Profile Edit</td>
@@ -416,7 +416,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>08/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>3270043bdf7335caac0950ac0c81c8e4bb2d9ee6</td>
         <td>feature Server</td>
@@ -424,7 +424,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>09/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>93212f1430770f083ab5c7d31b55ad0631d5cb57</td>
         <td>feature API link</td>
@@ -432,13 +432,14 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
         <td>09/06/2024</td>
     </tr>
     <tr>
-        <td>web-app-project-develop-clean-version</td>
+        <td>https://github.com/G2WebApplication-WX54/web-app-project-develop-clean-version/tree/fix/components</td>
         <td>feature/components</td>
         <td>26740f0d3dfeceb0f8aca365640075999052bbbc</td>
         <td>update Reports</td>
         <td>-</td>
         <td>09/06/2024</td>
     </tr>
+
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
