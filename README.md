@@ -240,25 +240,29 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 					la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega.<br><br>
 				TB2<br><br>
 				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					<br><br>
+					Elaboración de versión preliminar de los web services y diseño de la base de datos a implementar.<br><br>
 				<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					<br><br>          
+					Desarrollo BackEnd orientado a la funcionalidad de la aplicación, correción de entregables anteriores y sprint 3<br><br>          
 				<b>Príncipe Godoy, Johan</b><br>
-					<br><br>
+					Elaboración del sprint planning 3, sprint planning 3, colaboracion con Fronted y Backend del proyecto<br><br>
 				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					<br><br>
+					Sprint 3, documentación, heurísticas y colaboración en el desarrollo Frontend<br><br>
 				<b>Zarate Caceres, Victor Ernesto</b><br>
 					Se participo en la siguiente mejora de la Web App, así como con las entrevistas, videos About-The-Team y About-The-Product; y la documentación correspondiente al desarrollo del Sprint 3, correspondiente a esta entrega.<br><br>
 			</td>
 			<td>
 				TB1<br>
-				Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de 
-				diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
+				Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la
+				elaboración de diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y 
+				para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
 				TP<br>
-				Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que 
-				ha permitido avanzar de manera efectiva en nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.<br><br>
+				Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación 
+				y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que ha permitido avanzar de manera efectiva en 
+				nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.<br><br>
 				TB2<br>
-				<br><br>
+				Se revisaron los errores previos para desplegar la versión definitiva del frontend y se ideo el desarrollo y futura implementación del backend. 
+				Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar las metas que se plantearon para esta entrega y acercarnos más a la 
+				versión definitva de la futura entrega.<br><br>
 			</td>
 		</tr>
 		<tr>
@@ -268,55 +272,67 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 			<td>
 				TB1<br><br>
 				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					Para llevar acabo el desarrollo del LEAN UX y el diagrama UML estudie como funciona el sector de la seguridad ciudadana y como se puede aplicar la tecnología para mejorar la seguridad de los ciudadanos.<br><br>
+					Para llevar acabo el desarrollo del LEAN UX y el diagrama UML estudie como funciona el sector de la seguridad ciudadana y como se puede 
+					aplicar la tecnología para mejorar la seguridad de los ciudadanos.<br><br>
 				<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar 
-					nuestro público objetivo, las estrategias frente a nuestros competidores, las entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo 
+					Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro 
+					trabajo. Asimismo, en base a lo aplicado como analizar nuestro público objetivo, las estrategias frente a nuestros competidores, las 
+					entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo 
 					de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.<br><br>     
 				<b>Príncipe Godoy, Johan</b><br>
-					Para el cumplimiento de este trabajo usé lo aprendido dentro del curso y proyectos antereriores. De esta manera pude cumplir con los puntos que me fueron asignado como Diagrama de Contexto, Contenedor y Componentes.<br><br>
+					Para el cumplimiento de este trabajo usé lo aprendido dentro del curso y proyectos antereriores. De esta manera pude cumplir con los puntos 
+					que me fueron asignado como Diagrama de Contexto, Contenedor y Componentes.<br><br>
 				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, 
-					user stories, impact mapping, product backlog y el software configuration management.<br><br>
+					Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito 
+					el diseño y posterior analisis de entrevistas,user personas, user stories, impact mapping, product backlog y el software configuration management.<br><br>
 				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas 
-					que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea 
-					atractiva al usuario.<br><br>
+					Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este 
+					conocimiento se vio reflejado en identificar los problemas que deben ser resueltos mediante la recopilación de testimonios a través de 
+					entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea atractiva al usuario.<br><br>
 				TP<br><br>
 				<b>Escalante Baygorrea, Janiel Franz</b><br>
 					Trabaje con el BC del reporte de incidentes. Hice uso del framework VueJs para el desarrollo de la App web, utilizando el UI PrimeVue y Primeblocks<br><br>
             			<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo
-					aprendido en clase me sirvió para avanzar la Web Application.<br><br>
+					Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del 
+					envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo aprendido en clase me sirvió para avanzar la Web Application.<br><br>
 				<b>Príncipe Godoy, Johan</b><br>
-					Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcance y los objetivos que tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los 						constantes avances durante la entrega.<br><br>
+					Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcance y los objetivos que 
+					tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los constantes avances durante la entrega.<br><br>
 				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y
-					en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br><br>
+					Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe 
+					y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple 
+					de manera más precisa con los requisitos del curso.<br><br>
 				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas
-					y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.<br><br>
+					Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este 
+					conocimiento se vio reflejado dar un mejor diseño a las plataformas y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.<br><br>
 				TB2<br><br>
 				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					<br><br>
+					Se incorporaron los conocimientos adquiridos para depurar el informe previo y optimizar el rendimiento de las aplicaciones. Este proceso 
+					de aprendizaje permitió perfeccionar el diseño de ambas plataformas, dando como resultado un nuevo informe que se ajusta a los criterios 
+					establecidos en el curso.<br><br>
 				<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					<br><br>          
+					Se utilizo la información disponible para diseñar un backend que se adapte alas necesidades de la aplicación.<br><br>          
 				<b>Príncipe Godoy, Johan</b><br>
-					<br><br>
+					Se corrigieron los errores presentes en nuestro informe y se optimizo el funcionamiento de las aplicaciones. Esta experiencia permitió 
+					mejorar el diseño de ambas plataformas y presentar un nuevo informe más alineado con las expectativas del curso.<br><br>
 				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					<br><br>
+					Se analizao toda la información recopilda hasta el momento para orientar el diseño de una nueva versión de la plicación web.<br><br>
 				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se aplicaron los conocimientos adquiridos para corregir los errores existentes en nuestro informe y mejorar el funcionamiento de las aplicaciones. Este conocimiento permitio mejorar el dieños de ambas plataformas y presentar
-					un nuevo informe más apegado a lo que se espera en el curso.<br><br>
+					Se aplicaron los conocimientos adquiridos para corregir los errores existentes en nuestro informe y mejorar el funcionamiento de las
+					aplicaciones. Este conocimiento permitio mejorar el dieños de ambas plataformas y presentar un nuevo informe más apegado a lo que se espera en el curso.<br><br>
 			</td>
 			<td>
 				TB1<br><br>
-					Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
+					Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, 
+					la identificación del público objetivo, y el diseño de la plataforma.<br><br>
 				TP<br>
-					La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos
-					los intereses sean tomados en cuenta para tomar mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
+					La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a 
+					mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos los intereses sean tomados en cuenta para tomar
+					mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
 				TB2<br>
-					<br><br>
+					Nuestra aplicación web siempre ha sido diseñada teniendo en cuenta la usabilidad y la accesibilidad, haciéndola sencilla y fácil de usar.
+					Al hacer que la tecnología sea más accesible, este enfoque ayuda a las personas a sentirse mejor y a estar más conectadas.  Nuestros Servicios 
+					web están construidos con medidas de seguridad de primer nivel para garantizar la privacidad de nuestros usuarios.  <br><br>
 			</td>
 		</tr>
 	</table>
