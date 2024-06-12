@@ -12,7 +12,7 @@
     <strong>Aplicaciones Web - WX54</strong><br>  
     <br>
     <strong>Profesor: Alex Humberto Sánchez Ponce</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB2 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TF </strong> 
 </p>
 <p align="center">
     <strong>Startup: PeaceApp </strong><br>
@@ -57,7 +57,7 @@
 |TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
 |TP | 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
 |TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
-<br>
+|TF|/06/24|Todos los integrantes del equipo||
 
 # Project Report Collaboration Insights
 
