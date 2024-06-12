@@ -57,7 +57,7 @@
 |TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
 |TP | 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
 |TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
-|TF|/06/24|Todos los integrantes del equipo||
+|TF | --/06/2024 |Todos los integrantes del equipo|Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión mejorada de Web Services<br>Versión final de Video About-The-Product.<br>Versión final de Video About-The-Team||
 
 # Project Report Collaboration Insights
 
@@ -177,18 +177,27 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3.Validation Interviews](#53-validation-interviews)
-  - [Diseño de Entrevistas](#531-sprint-1)
-  - [Registro de Entrevistas](#532-sprint-1)
-  - [Evaluaciones según heurísticas](#533-sprint-1)
+  - [Diseño de Entrevistas](#diseño-de-entrevistas)
+  - [Registro de Entrevistas](#registro-de-entrevistas)
+  - [Evaluaciones según heurísticas](#evaluaciones-segun-heuristicas)
 - [5.4.Video About-the-Product](#54-video-about-the-product)
 
-### [Conclusiones](#conclusiones-1)
+### [Conclusiones](#conclusiones)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Video About-the-Product](#video-about-the-product)
 
-### [Bibliografía](#bibliografc3ada-1)
-### [Anexos](#anexos-1)
+### [Bibliografía](#bibliografia)
+### [Anexos](#anexos)
 
 # Student Outcome
 <div align="justify">
@@ -206,133 +215,118 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 				<b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b>
 			</td>
 			<td>
-				TB1<br><br>
-              			<b>Escalante Baygorrea, Janiel Franz</b><br>
-					He realizado la seccion del UX LEAN Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page.
-				        Mi participación en el equipo fue fundamental para el desarrollo del proyecto, cumpliendo con todas las tareas asignadas y aportando ideas para 
-				        el desarrollo de la plataforma.<br><br>
-			        <b>Noriega Suschenko, Anatoly Andrey</b><br>
-				        He realizado la sección de Segmentos objetivos para identificar cuales serán nuestros principales usuarios para la plataforma, también el analisis de competidores junto con las estrategias 
-				        para evaluar quienes son nuestros rivales potenciales dentro del mercado y evaluar estrategias para poder aprovechar nuestras oportunidades y fortalezas para afrontar las debilidades y amenazas.
-				        También realice la entrevista del segmento usuario para poder evaluar lo que requieren nuestros usuarios potenciales y realice los diseños tanto de los Wireframes y Mock-Ups de la Landing Page 
-				        como de la Web Application y realizar un prototipo de como sera nuestra plataforma.<br><br>          
-			        <b>Príncipe Godoy, Johan</b><br>
-					Para el desarrollo del proyecto, participé eficazmente en la creación de los User Task Matrix, Journey Mapping, Empathy Mapping, As-Is y To-be Scenario Mapping<br><br>
-				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el 
-					software configuration management.<br><br>
-				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción,
-					el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.<br><br>
-				TP<br><br>
-				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					He participado junto con mis compañeros en la modificación del repositorio del reporte del proyecto. Por otro lado, también participe en la creación de la App Web y su posterior dedspliegue<br><br>
-				<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					He realizado la corrección de algunos puntos del proyecto como lo serían el Ubiquitous Language, el Domain-Driven Software Architecture, junto con el Sprint 1 que en el envío pasado no estaba presente.
-					Así mismo participe en la realización de la Web Application y poner como predeterminado el idioma inglés en la Landing Page.<br><br>          
-				<b>Príncipe Godoy, Johan</b><br>
-					Para el sprint 2, se realizó la corrección de algunos puntos de la entrega anterior como los user stories, product backlog. De la misma manera, implementé las vistas asignadas para el web application.<br><br>
-				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro 
-					proyecto de manera efectiva.<br><br>
-			        <b>Zarate Caceres, Victor Ernesto</b><br>
-					Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo
-					la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega.<br><br>
-				TB2<br><br>
-				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					Elaboración de versión preliminar de los web services y diseño de la base de datos a implementar.<br><br>
-				<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					Desarrollo BackEnd orientado a la funcionalidad de la aplicación, correción de entregables anteriores y sprint 3<br><br>          
-				<b>Príncipe Godoy, Johan</b><br>
-					Elaboración del sprint planning 3, sprint planning 3, colaboracion con Fronted y Backend del proyecto<br><br>
-				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					Sprint 3, documentación, heurísticas y colaboración en el desarrollo Frontend<br><br>
-				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se participo en la siguiente mejora de la Web App, así como con las entrevistas, videos About-The-Team y About-The-Product; y la documentación correspondiente al desarrollo del Sprint 3, correspondiente a esta entrega.<br><br>
-			</td>
-			<td>
-				TB1<br>
-				Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la
-				elaboración de diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y 
-				para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
-				TP<br>
-				Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación 
-				y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que ha permitido avanzar de manera efectiva en 
-				nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.<br><br>
-				TB2<br>
-				Se revisaron los errores previos para desplegar la versión definitiva del frontend y se ideo el desarrollo y futura implementación del backend. 
-				Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar las metas que se plantearon para esta entrega y acercarnos más a la 
-				versión definitva de la futura entrega.<br><br>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b>
-			</td>
-			<td>
-				TB1<br><br>
-				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					Para llevar acabo el desarrollo del LEAN UX y el diagrama UML estudie como funciona el sector de la seguridad ciudadana y como se puede 
-					aplicar la tecnología para mejorar la seguridad de los ciudadanos.<br><br>
-				<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro 
-					trabajo. Asimismo, en base a lo aplicado como analizar nuestro público objetivo, las estrategias frente a nuestros competidores, las 
-					entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo 
-					de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.<br><br>     
-				<b>Príncipe Godoy, Johan</b><br>
-					Para el cumplimiento de este trabajo usé lo aprendido dentro del curso y proyectos antereriores. De esta manera pude cumplir con los puntos 
-					que me fueron asignado como Diagrama de Contexto, Contenedor y Componentes.<br><br>
-				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito 
-					el diseño y posterior analisis de entrevistas,user personas, user stories, impact mapping, product backlog y el software configuration management.<br><br>
-				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este 
-					conocimiento se vio reflejado en identificar los problemas que deben ser resueltos mediante la recopilación de testimonios a través de 
-					entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea atractiva al usuario.<br><br>
-				TP<br><br>
-				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					Trabaje con el BC del reporte de incidentes. Hice uso del framework VueJs para el desarrollo de la App web, utilizando el UI PrimeVue y Primeblocks<br><br>
-            			<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del 
-					envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo aprendido en clase me sirvió para avanzar la Web Application.<br><br>
-				<b>Príncipe Godoy, Johan</b><br>
-					Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcance y los objetivos que 
-					tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los constantes avances durante la entrega.<br><br>
-				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe 
-					y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple 
-					de manera más precisa con los requisitos del curso.<br><br>
-				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este 
-					conocimiento se vio reflejado dar un mejor diseño a las plataformas y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.<br><br>
-				TB2<br><br>
-				<b>Escalante Baygorrea, Janiel Franz</b><br>
-					Se incorporaron los conocimientos adquiridos para depurar el informe previo y optimizar el rendimiento de las aplicaciones. Este proceso 
-					de aprendizaje permitió perfeccionar el diseño de ambas plataformas, dando como resultado un nuevo informe que se ajusta a los criterios 
-					establecidos en el curso.<br><br>
-				<b>Noriega Suschenko, Anatoly Andrey</b><br>
-					Se utilizo la información disponible para diseñar un backend que se adapte alas necesidades de la aplicación.<br><br>          
-				<b>Príncipe Godoy, Johan</b><br>
-					Se corrigieron los errores presentes en nuestro informe y se optimizo el funcionamiento de las aplicaciones. Esta experiencia permitió 
-					mejorar el diseño de ambas plataformas y presentar un nuevo informe más alineado con las expectativas del curso.<br><br>
-				<b>Rodriguez Zuluoeta, Andres Fernando</b><br>
-					Se analizao toda la información recopilda hasta el momento para orientar el diseño de una nueva versión de la plicación web.<br><br>
-				<b>Zarate Caceres, Victor Ernesto</b><br>
-					Se aplicaron los conocimientos adquiridos para corregir los errores existentes en nuestro informe y mejorar el funcionamiento de las
-					aplicaciones. Este conocimiento permitio mejorar el dieños de ambas plataformas y presentar un nuevo informe más apegado a lo que se espera en el curso.<br><br>
-			</td>
-			<td>
-				TB1<br><br>
-					Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, 
-					la identificación del público objetivo, y el diseño de la plataforma.<br><br>
-				TP<br>
-					La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a 
-					mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos los intereses sean tomados en cuenta para tomar
-					mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
-				TB2<br>
-					Nuestra aplicación web siempre ha sido diseñada teniendo en cuenta la usabilidad y la accesibilidad, haciéndola sencilla y fácil de usar.
-					Al hacer que la tecnología sea más accesible, este enfoque ayuda a las personas a sentirse mejor y a estar más conectadas.  Nuestros Servicios 
-					web están construidos con medidas de seguridad de primer nivel para garantizar la privacidad de nuestros usuarios.  <br><br>
+				TB1:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+					  He realizado la seccion del UX LEAN Process, Software Object-Oriented Design, Diagrama de base de datos, Diagrama UML y parte del Landing Page. Mi participación en el equipo fue fundamental para el desarrollo del proyecto, cumpliendo con todas las tareas asignadas y aportando ideas para el desarrollo de la plataforma.<br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            He realizado la sección de Segmentos objetivos para identificar cuales serán nuestros principales usuarios para la plataforma, también el analisis de competidores junto con las estrategias para evaluar quienes son nuestros rivales potenciales dentro del mercado y evaluar estrategias para poder aprovechar nuestras oportunidades y fortalezas para afrontar las debilidades y amenazas. También realice la entrevista del segmento usuario para poder evaluar lo que requieren nuestros usuarios potenciales y realice los diseños tanto de los Wireframes y Mock-Ups de la Landing Page como de la Web Application y realizar un prototipo de como sera nuestra plataforma <br><br>          
+			    <b>Príncipe Godoy, Johan:</b><br>
+					  Para el desarrollo del proyecto, participé eficazmente en la creación de los User Task Matrix, Journey Mapping, Empathy Mapping, As-Is y To-be Scenario Mapping<br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            He realizado el diseño y posterior analisis de entrevistas,user personas de cada segmento obejtivo, user stories con sus respectivos criterios de aceptacion, impact mapping, product backlog y el software configuration management.<br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Se participo activamente en identificar el problema a enfrentar y la solución que se utilizara. Para cumplir el trabajo, se realizaron todas las tareas encomendadas, como lo son la introducción, el perfil de la Startup, el perfil de la solución y el diseño de producto con todas las guidelines e información de arquitectura necesaria.<br><br>
+        TP:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            He participado junto con mis compañeros en la modificación del repositorio del reporte del proyecto. Por otro lado, también participe en la creación de la App Web y su posterior dedspliegue<br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            He realizado la corrección de algunos puntos del proyecto como lo serían el Ubiquitous Language, el Domain-Driven Software Architecture, junto con el Sprint 1 que en el envío pasado no estaba presente. Así mismo participe en la realización de la Web Application y poner como predeterminado el idioma inglés en la Landing Page.<br><br>          
+          <b>Príncipe Godoy, Johan:</b><br>
+            Para el sprint 2, se realizó la corrección de algunos puntos de la entrega anterior como los user stories, product backlog. De la misma manera, implementé las vistas asignadas para el web application.<br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            Se trabajó en conjunto para mejorar aspectos previos, como las user stories y task stories. También se hizo la correccion del as-is mapping y to-be mapping. Este esfuerzo conjunto nos permitió avanzar en nuestro 
+            proyecto de manera efectiva.<br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Se participo con la correción de puntos anteriores, como en el resumen y análisis de entrevistas, el Journey Mapping en su versión As-Is, las User Stories y su Product Backlog. Además, se realizo la recopliación de evidencias para la creación del Sprint 2, correspondiente a esta entrega.<br><br>
+        TB2:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            Elaboración de versión preliminar de los web services y diseño de la base de datos a implementar.<br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            Desarrollo BackEnd orientado a la funcionalidad de la aplicación, correción de entregables anteriores y sprint 3<br><br>          
+          <b>Príncipe Godoy, Johan:</b><br>
+            Elaboración del sprint planning 3, sprint planning 3, colaboracion con Fronted y Backend del proyecto<br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            Sprint 3, documentación, heurísticas y colaboración en el desarrollo Frontend<br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Se participo en la siguiente mejora de la Web App, así como con las entrevistas, videos About-The-Team y About-The-Product; y la documentación correspondiente al desarrollo del Sprint 3, correspondiente a esta entrega.<br><br>
+        TF:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            <br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            <br><br>          
+          <b>Príncipe Godoy, Johan:</b><br>
+            <br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            <br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+      </td>
+      <td>
+        TB1:<br>
+          Se llevó a cabo un análisis completo que ayudo a identificar a nuestros potenciales clientes, evaluando a la competencia y como enfrentarla. El desarrollo del proyecto incluyó la elaboración de diversos mapas para entender todo de mejor manera. En general, se aseguro el cumplimiento de todas las tareas encomendadas y para dar un enfoque sólido y bien fundamentado al proyecto.<br><br>
+        TP:<br>
+          Se ha trabajado de forma colaborativa para la mejora del proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web. Durante el sprint se han corregido puntos previos, lo que ha permitido avanzar de manera efectiva en nuestro proyecto. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos en cada fase del desarrollo.<br><br>
+        TB2:<br>
+          Se revisaron los errores previos para desplegar la versión definitiva del frontend y se ideo el desarrollo y futura implementación del backend. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar las metas que se plantearon para esta entrega y acercarnos más a la versión definitva de la futura entrega.<br><br>
+        TF:<br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b>
+      </td>
+      <td>
+        TB1:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            Para llevar acabo el desarrollo del LEAN UX y el diagrama UML estudie como funciona el sector de la seguridad ciudadana y como se puede aplicar la tecnología para mejorar la seguridad de los ciudadanos.<br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            Hice uso de lo aprendido dentro del curso de Aplicaciones Web y trabajos anteriores para identificar los problemas a resolver sobre nuestro trabajo. Asimismo, en base a lo aplicado como analizar nuestro público objetivo, las estrategias frente a nuestros competidores, las entrevistas realizadas, y el diseño de los Wireframes y Mock-Ups junto con los UserFlows, Wireflows y el prototipo de la plataforma web, nos sirvio para tener una idea más clara de como avanzar con el trabajo en cuestión.<br><br>     
+          <b>Príncipe Godoy, Johan:</b><br>
+            Para el cumplimiento de este trabajo usé lo aprendido dentro del curso y proyectos antereriores. De esta manera pude cumplir con los puntos que me fueron asignado como Diagrama de Contexto, Contenedor y Componentes.<br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            Use el conocimiento previamente adquirido en trabajos anteriores para asi poder realizar el proyecto de este curso. Pude realizar con exito el diseño y posterior analisis de entrevistas,user personas, user stories, impact mapping, product backlog y el software configuration management.<br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Se hizo uso del conocimiento previo adquirido en el desarrollo de aplicaciones web, aplicaciones de escritorio y trabajos anteriores. Este conocimiento se vio reflejado en identificar los problemas que deben ser resueltos mediante la recopilación de testimonios a través de entrevistas. Además, sirvio para identificar los colores más adecuados para que la plataforma se vea funcional y sea atractiva al usuario.<br><br>
+        TP:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            Trabaje con el BC del reporte de incidentes. Hice uso del framework VueJs para el desarrollo de la App web,utilizando el UI PrimeVue y Primeblocks<br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            Hice uso de los nuevos conocimientos que aprendí en el curso junto con la retroalimentación dada por el profesor para corregir los errores del envío pasado. Esto me sirvió para seguir mejorando en el proyecto además que con lo aprendido en clase me sirvió para avanzar la Web Application.<br><br>
+          <b>Príncipe Godoy, Johan:</b><br>
+            Se realizó la implementación del Sprint 2, para la cual se realizó reunionen con el grupo para definir el alcance y los objetivos que tendríamos con esta entrega. Asimismo, hubo frecuente comunicación para conocer los constantes avances durante la entrega.<br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            Se hizo uso de los aprendizajes obtenidos durante el curso y de experiencias previas para rectificar las inconsistencias en nuestro informe y aplicaciones. Este saber se manifestó en la mejora del diseño de las plataformas y en la elaboración de un informe actualizado que cumple de manera más precisa con los requisitos del curso.<br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Se utilzo lo aprendido durante el curso y de manera previa para corregir los errores existentes en nuestro informe y aplicaciones. Este conocimiento se vio reflejado dar un mejor diseño a las plataformas y en presentar un nuevo informe mejorado, más apegado a lo que se espera en el curso.<br><br>
+        TB2:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            Se incorporaron los conocimientos adquiridos para depurar el informe previo y optimizar el rendimiento de las aplicaciones. Este proceso de aprendizaje permitió perfeccionar el diseño de ambas plataformas, dando como resultado un nuevo informe que se ajusta a los criterios establecidos en el curso.<br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            Se utilizo la información disponible para diseñar un backend que se adapte alas necesidades de la aplicación.<br><br>          
+          <b>Príncipe Godoy, Johan:</b><br>
+            Se corrigieron los errores presentes en nuestro informe y se optimizo el funcionamiento de las aplicaciones. Esta experiencia permitió mejorar el diseño de ambas plataformas y presentar un nuevo informe más alineado con las expectativas del curso.<br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            Se analizao toda la información recopilda hasta el momento para orientar el diseño de una nueva versión de la plicación web.<br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Se aplicaron los conocimientos adquiridos para corregir los errores existentes en nuestro informe y mejorar el funcionamiento de las aplicaciones. Este conocimiento permitio mejorar el dieños de ambas plataformas y presentar un nuevo informe más apegado a lo que se espera en el curso.<br><br>
+        TF:<br><br>
+          <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            <br><br>
+          <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            <br><br>          
+          <b>Príncipe Godoy, Johan:</b><br>
+            <br><br>
+          <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            <br><br>
+          <b>Zarate Caceres, Victor Ernesto:</b><br>
+      </td>
+      <td>
+        TB1:<br><br>
+          Se aplicó toda la experiencia y conocimientos previos para abordar el trabajo de manera efectiva. Esto incluyó el análisis de problema, la identificación del público objetivo, y el diseño de la plataforma.<br><br>
+        TP:<br>
+          La efectividad en la comunicación fue de gran utilidad para corregir los errores previos y mejorar el proyecto. Esto no solo ayudó a mantener al equipo alineado con las metas del proyecto, sino que también aseguró que todos los intereses sean tomados en cuenta para tomar mejores decisiones. Esto resultó en una mayor integración del equipo y en la optimización de los recursos y tiempos del proyecto.<br><br>
+        TB2:<br>
+          Nuestra aplicación web siempre ha sido diseñada teniendo en cuenta la usabilidad y la accesibilidad, haciéndola sencilla y fácil de usar. Al hacer que la tecnología sea más accesible, este enfoque ayuda a las personas a sentirse mejor y a estar más conectadas. Nuestros Servicios web están construidos con medidas de seguridad de primer nivel para garantizar la privacidad de nuestros usuarios.<br><br>
+        TF:<br>
 			</td>
 		</tr>
 	</table>
@@ -343,133 +337,118 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 ### 1.1.1. Description de la StartUp
 
 <div align="justify">
-    La idea de crear PeaceApp nace ante la creciente ola de inseguridad ciudadana en Lima, y en todo el país. Según el INEI, el 45,6% de ciudadanos de Lima se siente inseguros de vivir en 
-    dicha ciudad, con un registro de mas de 75 mil denuncias por hurtos y/o asaltos. Para enfrentar esta situación, la aplicación brindara un mapa con información de las calles, resaltando 
-    el nivel de peligro en las distintas zonas de la ciudad. Ante esto, el usuario podrá hacer denuncias ante los crímenes a través de fotos, audios y/o videos, en tiempo real, pudiendo 
-    brindar sus datos o hacerlo de manera anónima. Además, el ciudadano podrá compartir su ubicación con sus contactos cercanos para que monitoreen su trayecto y enviar mensajes de emergencia
-    a la policía nacional, bomberos o ambulancia, usando un sistema de marcación rápida.
-    <ul>
-        <li><b>Misión:</b></li>
-        Nuestra misión es garantizar la seguridad de nuestros usuarios, para que puedan transitar sin miedo alguno por las distintas calles del Perú.
-        <li><b>Visión:</b></li>
-        Vemos el mundo en constante cambio y buscamos ser parte de ello. Creemos que todas las personas deben poder sentirse seguras de vivir y transitar en su propio país y que los gobiernos 
-        deben engargarse de ello. Por ello, buscamos ser conocidos como líderes en el mercado de seguridad por nuestra labor para todos nuestros usuarios.
-    </ul>
+  La idea de crear PeaceApp nace ante la creciente ola de inseguridad ciudadana en Lima, y en todo el país. Según el INEI, el 45,6% de ciudadanos de Lima se siente inseguros de vivir en dicha ciudad, con un registro de mas de 75 mil denuncias por hurtos y/o asaltos. Para enfrentar esta situación, la aplicación brindara un mapa con información de las calles, resaltando el nivel de peligro en las distintas zonas de la ciudad. Ante esto, el usuario podrá hacer denuncias ante los crímenes a través de fotos, audios y/o videos, en tiempo real, pudiendo brindar sus datos o hacerlo de manera anónima. Además, el ciudadano podrá compartir su ubicación con sus contactos cercanos para que monitoreen su trayecto y enviar mensajes de emergencia a la policía nacional, bomberos o ambulancia, usando un sistema de marcación rápida.
+  <ul>
+    <li><b>Misión:</b></li>
+    Nuestra misión es garantizar la seguridad de nuestros usuarios, para que puedan transitar sin miedo alguno por las distintas calles del Perú.
+    <li><b>Visión:</b></li>
+    Vemos el mundo en constante cambio y buscamos ser parte de ello. Creemos que todas las personas deben poder sentirse seguras de vivir y transitar en su propio país y que los gobiernos deben encargarse de ello. Por ello, buscamos ser conocidos como líderes en el mercado de seguridad por nuestra labor para todos nuestros usuarios.
+  </ul>
 </div>
 
 ### 1.1.2. Perfiles de Integrantes del equipo
 
-| Nombre Completo del integrante      | Descripcion de Carrera                                                                      | Fotografía                               | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                   |
-| ----------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Escalante Baygorrea, Janiel Franz   | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Franz Escalante](./assets/Franz.jpeg)  | Conocimientos en lenguajes de Programación como C++, Java, HTML, CSS.<br>Me considero que soy una persona muy trabajadora.                                                                                                                              |
-| Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas | ![Anatoly Noriega](./assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo.                                                                                             |
-| Príncipe Godoy, Johan               | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Johan Príncipe](./assets/Johan.jpg)    | - Conocimiento en lenguajes de programación como C++, Python, HTML, CSS, JS, SQL, MongoDB. <br> - Me considero una persona comprometida y perseverante para lograr lo mejor con el equipo.                                                              |
-| Rodriguez Zuluoeta, Andres Fernando | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas                         | ![Andres Rodriguez](./assets/Andres.jpg) | Tengo conocimiento de lenguaje de programación como C ++ y Python. Me considero una persona centrada y responsable al momento de realizar trabajos en grupo.                                                                                            |
-| Zarate Caceres, Victor Ernesto      | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas                         | ![Ernesto Zarate](./assets/ernesto.png)  | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega. |
+|    Nombre Completo del integrante   | Descripcion de Carrera | Fotografía | Conocimientos y Habilidades a apuntar|
+| ------------------------------------| ---------------------- | ---------- | ------------------------------------ |
+| Escalante Baygorrea, Janiel Franz   | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Franz Escalante](./assets/Franz.jpeg)  | Conocimientos en lenguajes de Programación como C++, Java, HTML, CSS.<br>Me considero que soy una persona muy trabajadora. |
+| Noriega Suschenko, Anatoly Andrey   | Ingeniería de Software<br> 5to Ciclo<br>2024-1<br>Universidad Peruana de Ciencias Aplicadas | ![Anatoly Noriega](./assets/Anatoly.png) | - Conocimientos en lenguajes de Programación como C++, Python, HTML, CSS.<br>-Considero que soy una persona muy perseverante y que sabe trabajar en equipo. |
+| Príncipe Godoy, Johan               | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Johan Príncipe](./assets/Johan.jpg) | - Conocimiento en lenguajes de programación como C++, Python, HTML, CSS, JS, SQL, MongoDB. <br> - Me considero una persona comprometida y perseverante para lograr lo mejor con el equipo. |
+| Rodriguez Zuluoeta, Andres Fernando | Ingenieria de Software <br>Universiad Peruana de Ciencias Aplicadas | ![Andres Rodriguez](./assets/Andres.jpg) | Tengo conocimiento de lenguaje de programación como C ++ y Python. Me considero una persona centrada y responsable al momento de realizar trabajos en grupo. |
+| Zarate Caceres, Victor Ernesto      | Ingeniería de Software<br>Universidad Peruana de Ciencias Aplicadas | ![Ernesto Zarate](./assets/ernesto.png)  | - Conocimiento de Programación en C++, Python, HTML, CSS, MAtLab y SQL.<br>-Me considero una persona responsable, capaz de aportar ideas para el proyecto.<br>-Tengo el compromiso de trabajar de manera eficiente y cumplir con los plazos de entrega. |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
 <div align="justify">
-    <ul>
-        <li>
-            <b>What (Qué): </b>PeaceApp esta enfocada en ayudar a los usuarios en su día a día, teniendo como objetivo crear una comunidad entre usuarios y autoridades para mantener información
-            detallada y confiable de las calles en todo el Perú. Tambien, nos encargaremos de mantener el sistema actualizado para que funcione de manera óptima. 
-        </li>
-        <li>
-            <b>When (Cuándo): </b>PeaceApp estara lista para funcionar las 24 horas del día, cada día de la semana. Con esto se busca que la base de datos tenga información verificada y actualizada en todo momento. 
-        </li>
-        <li>
-            <b>Where (Dónde): </b>PeaceApp esta hecha para ser utilizada en cualquier momento y lugar, pues funcionara en base a la ubicación del usuario. Además de que las distintas autoridades
-            deben estar al tanto de la situación actual de su jurisdicción.
-        </li>
-        <li>
-            <b>Who (Quién): </b>Los personas más afectadas por la delincuencia veran mejoras en la situación de sus distritos. Estos, a su vez, tendrán la capacidad de colaborar con mantener la
-            información actualizada, por medio de una herramienta integrada, que les permitirá publicar sobre los distintos sucesos que observan y ponerse en contacto rápidamente con las 
-            autoridades con las cuales se relaciona PeaceAppp (comisarías, bomberos, hospitales, municipalidades, etc.).
-        </li>
-        <li>
-            <b>Why (Por qué): </b>PeaceApp fue creada para enfrentar la creciente delincuencia en la ciudad de Lima y en todo el país. Esta tiene el objetivo de informar sobre los sucesos más 
-            recientes del entorno del usuario y ayudar a otros usuarios y a las municipalidades a prevenir estas situaciones en el futuro.
-        </li>
-        <li>
-            <b>How (Cómo): </b>PeaceApp tiene un personal altamente capacitado para mantener actualizada y funcional la base de datos de los distritos y ciudades en todo el Perú, para mantener
-            a nuestros usuarios con la información actualizada sobre las calles que transitará. Además, se podrá compartir información con otros usuarios y autoridades para tomar las medidas
-            correspondientes y que verifiquen la veracidad de todo lo que se publique. 
-        </li>
-        <li>
-            <b>How Much (Cuánto):</b>PeaceApp estara disponible de forma gratuita para todas las personas naturales. Además, tendrá disponible una licencia de uso para las entidades, como 
-            municipalidades. Así, estas tendrán un acceso preferencial a los datos recopilados y puedan utilzarlos para tomar acción directa en contra de la delincuencia. 
-        </li>
-    </ul>
+  <ul>
+    <li>
+      <b>What (Qué): </b>PeaceApp esta enfocada en ayudar a los usuarios en su día a día, teniendo como objetivo crear una comunidad entre usuarios y autoridades para mantener información
+      detallada y confiable de las calles en todo el Perú. Tambien, nos encargaremos de mantener el sistema actualizado para que funcione de manera óptima. 
+    </li>
+    <li>
+      <b>When (Cuándo): </b>PeaceApp estara lista para funcionar las 24 horas del día, cada día de la semana. Con esto se busca que la base de datos tenga información verificada y actualizada en todo momento. 
+    </li>
+    <li>
+      <b>Where (Dónde): </b>PeaceApp esta hecha para ser utilizada en cualquier momento y lugar, pues funcionara en base a la ubicación del usuario. Además de que las distintas autoridades deben estar al tanto de la situación actual de su jurisdicción.
+    </li>
+    <li>
+      <b>Who (Quién): </b>Los personas más afectadas por la delincuencia veran mejoras en la situación de sus distritos. Estos, a su vez, tendrán la capacidad de colaborar con mantener la información actualizada, por medio de una herramienta integrada, que les permitirá publicar sobre los distintos sucesos que observan y ponerse en contacto rápidamente con las 
+      autoridades con las cuales se relaciona PeaceAppp (comisarías, bomberos, hospitales, municipalidades, etc.).
+    </li>
+    <li>
+      <b>Why (Por qué): </b>PeaceApp fue creada para enfrentar la creciente delincuencia en la ciudad de Lima y en todo el país. Esta tiene el objetivo de informar sobre los sucesos más recientes del entorno del usuario y ayudar a otros usuarios y a las municipalidades a prevenir estas situaciones en el futuro.
+    </li>
+    <li>
+      <b>How (Cómo): </b>PeaceApp tiene un personal altamente capacitado para mantener actualizada y funcional la base de datos de los distritos y ciudades en todo el Perú, para mantener a nuestros usuarios con la información actualizada sobre las calles que transitará. Además, se podrá compartir información con otros usuarios y autoridades para tomar las medidas correspondientes y que verifiquen la veracidad de todo lo que se publique. 
+    </li>
+    <li>
+      <b>How Much (Cuánto):</b>PeaceApp estara disponible de forma gratuita para todas las personas naturales. Además, tendrá disponible una licencia de uso para las entidades, como municipalidades. Así, estas tendrán un acceso preferencial a los datos recopilados y puedan utilzarlos para tomar acción directa en contra de la delincuencia. 
+    </li>
+  </ul>
 </div>
 
 ### 1.2.2 Lean UX
 #### 1.2.2.1. Problem Statements
+<div align="justify">
+  El propósito de nuestro servicio es ofrecer rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad se haran en base a reportes de los usuarios de
+  la aplicación. Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser
+  usados para plantear una estrategía contra la delincuencia.
 
-El propósito de nuestro servicio es ofrecer rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. A través de nuestro servicio, los usuarios
-tienen acceso a un mapa de calor de la peligrosidad de las zonas de lima. Las actualizaciones de las zonas de peligrosidad se haran en base a reportes de los usuarios de
-la aplicación. Por otro lado, las entidades que trabajen con nosotros podrán tener acceso a esta información y sus respectivos datos estadísticos. Estos datos pueden ser
-usados para plantear una estrategía contra la delincuencia.
+  Hemos observado la insatisfacción de los clientes con respecto a la seguridad. Actualmente, los hurtos en la calle son comunes en la ciudad de Lima. Según Osiptel, la mayor
+  cantidad de robos de celulares por hora se reportan los lunes, esto sería aproximadamente 366 equipos móviles en promedio. Por otro lado, Según el último resultado
+  de la ENAPRES para el semestre móvil Ene-Jun 2023 publicado por el INEI, el 26.9% de la población de 15 años de edad, a más, a nivel nacional, ha sido victima de algún
+  hecho delictivo.
 
-Hemos observado la insatisfacción de los clientes con respecto a la seguridad. Actualmente, los hurtos en la calle son comunes en la ciudad de Lima. Según Osiptel, la mayor
-cantidad de robos de celulares por hora se reportan los lunes, esto sería aproximadamente 366 equipos móviles en promedio. Por otro lado, Según el último resultado
-de la ENAPRES para el semestre móvil Ene-Jun 2023 publicado por el INEI, el 26.9% de la población de 15 años de edad, a más, a nivel nacional, ha sido victima de algún
-hecho delictivo.
-
-¿De qué forma podemos evitar los hurtos en la calle cuando se encuentran recorriendo una ruta?
+  ¿De qué forma podemos evitar los hurtos en la calle cuando se encuentran recorriendo una ruta?
+</div>
 
 #### 1.2.2.2. UX Assumptions
+<div align="justify">
+  Ahora que hemos analizado la problematica y tenemos un panorama de cómo solucionar el problema, debemos saber que empresas tienen características similares a las nuestras y cómo estas se han ido desarrollando a través del tiempo.
+  La aplicación UrSafe es similar a la nuestra, esta aplicación permite ver un mapa con lugares seguros y te permite comunicarte con familiares, amigos y el 911 en caso de peligro.<br>
+  <b>Assumptions:</b>
+  <ul>
+    <li>Los ciudadanos de Lima necesitan una app que les muestre rutas seguras para movilizarse a través de la ciudad de Lima.</li>
+    <li>Los ciudadanos necesitan sentirse parte de una comunidad en la que se puedan reportar incidentes y verlo reflejado en un mapa que les permite visualizar las zonas más seguras de su ciudad.</li>
+    <li>Mis clientes serán ciudadanos y entidades preocupadas por la seguridad de su distrito o trabajadores.</li>
+    <li>Generaré ingresos vendiendo nuestra aplicación web a municipalidades, instituciones del estado e interesados en el tema de la seguridad.</li>
+    <li>No tengo ningún competidor en el mercado actualmente.</li>
+    <li>Las entidades que trabajen con nuestra aplicación podrán obtener datos de vital importancia para combatir la criminalidad.</li>
+    <li>Los ciudadanos de a pie estarán interesados en esta aplicación.</li>
+    <li>Las entidades públicas de este país necesitan este tipo de aplicaciones para combatir la criminalidad con más eficacia.</li>
+  </ul>
 
-Ahora que hemos analizado la problematica y tenemos un panorama de cómo solucionar el problema, debemos saber que empresas tienen características similares a las nuestras
-y cómo estas se han ido desarrollando a través del tiempo.
-La aplicación UrSafe es similar a la nuestra, esta aplicación permite ver un mapa con lugares seguros y te permite comunicarte con familiares, amigos y el 911 en caso de
-peligro.
+  <b>Business outcomes:</b>
+  <ul>
+    <li>Generar ingresos con la aplicación</li>
+    <li>Mejorar la calidad de la vida de los ciudadanos del Perú</li>
+    <li>Reducir la cantidad de robos que ocurren en el país</li>
+  </ul>
 
-**Assumptions:**
-
-- Los ciudadanos de Lima necesitan una app que les muestre rutas seguras para movilizarse a tráves de la ciudad de Lima
-- Los ciudadanos necesitan sentirse parte de una comunidad en la que se puedan reportar incidentes y verlo reflejado en un mapa que les permite visualizar las zonas más
-  seguras de su ciudad.
-- Mis clientes serán ciudadanos y entidades preocupadas por la seguridad de su distrito o trabajadores
-- Generaré ingresos vendiendo nuestra aplicación web a municipalidades, instituciones del estado e interesedos en el tema de la seguridad
-- No tengo ningún competidor en el mercado actualmente
-- Las entidades que trabajen con nuestra aplicación podrán obtener datos de vital importancia para combatir la criminalidad
-- Los ciudadanos de a pie estarán interesados en esta aplicación
-- Las entidades públicas de este país necesitan este tipo de aplicaciones para combatir la criminalidad con más eficacia.
-
-**Business outcomes:**
-
-- Generar ingresos con la aplicación
-- Mejorar la calidad de la vida de los ciudadanos del Perú
-- Reducir la cantidad de robos que ocurren en el país
-
-**User outcomes:**
-
-- ¿Quién es el usuario?  
-  Cualquier ciudadano que se encuentre en una zona en la que una entidad este asociada con nosotros. Por otro lado, las entidades públicas
-  como municipalidades, PNP, etc. También empresas privadas interesadas en contar con esta aplicación para sus trabajadores, de preferencia
-  extranjeros que no conocen bien las calles de la ciudad.
-- ¿Dónde encaja nuestro producto en su trabajo o vida?  
-  Encaja en su vida diaria, ya que con nuestra aplicación podrá movilizarse por la ciudad evitando riesgos
-- ¿Qué problemas tiene nuestro producto?  
-  Un problema que tiene nuestro producto es que para geenera ingresos, dependemos exclusivamente de las entidades que se van a asociar con nosotros
-- ¿Cuándo y cómo es usado nuestro producto?  
-  Nuestros usuarios utilizarían la aplicación cuando tengan que pasar por lugares que no conocen o deseen reportar un incidente para que otros ciudadanos tengan cuidado.
-  Por otro lado, las entidades podrán recopilar información de los ciudadanos y esto les facilitará tomar acciones para combatir la criminalidad en ciertas areas.
-
-- ¿Qué características son importantes?  
-  Sera una aplicación sencilla de usar para los usuarios y que las información se accesible de una manera sencilla.
-
-- ¿Cómo debe verse nuestro producto y comportarse?  
-  Nuestra app debe tener una buena selección de colores para que sea agradable a la vista. Además el registro debe ser fácil para todos los usuarios.
-
-**User benefits**
-
-- Evitar robos y cualquier tipo de incidentes que ponga en peligro al usuario al movilizarse por la ciudad
-- Información en tiempo real de zonas peligrosas mediante el uso del mapa de calor
-- Información de rutas seguras para movilizarse mediante el mapa
-- Acceso a datos estadísticos para comprender mejor el problema
+  <b>User outcomes:</b>
+  <ul>
+    <li>¿Quién es el usuario?</li>  
+    Cualquier ciudadano que se encuentre en una zona en la que una entidad este asociada con nosotros. Por otro lado, las entidades públicas como municipalidades, PNP, etc. También empresas privadas interesadas en contar con esta aplicación para sus trabajadores, de preferencia extranjeros que no conocen bien las calles de la ciudad.
+    <li>¿Dónde encaja nuestro producto en su trabajo o vida?</li>  
+    Encaja en su vida diaria, ya que con nuestra aplicación podrá movilizarse por la ciudad evitando riesgos
+    <li>¿Qué problemas tiene nuestro producto?</li>  
+    Un problema que tiene nuestro producto es que para geenera ingresos, dependemos exclusivamente de las entidades que se van a asociar con nosotros
+    <li>¿Cuándo y cómo es usado nuestro producto?</li>  
+    Nuestros usuarios utilizarían la aplicación cuando tengan que pasar por lugares que no conocen o deseen reportar un incidente para que otros ciudadanos tengan cuidado.
+    Por otro lado, las entidades podrán recopilar información de los ciudadanos y esto les facilitará tomar acciones para combatir la criminalidad en ciertas areas.
+    <li>¿Qué características son importantes?</li> 
+    Sera una aplicación sencilla de usar para los usuarios y que las información se accesible de una manera sencilla.
+    <li>¿Cómo debe verse nuestro producto y comportarse?  
+    Nuestra app debe tener una buena selección de colores para que sea agradable a la vista. Además el registro debe ser fácil para todos los usuarios.</li>
+  </ul>
+  <b>User benefits:</b>
+  <ul>
+    <li>Evitar robos y cualquier tipo de incidentes que ponga en peligro al usuario al movilizarse por la ciudad.</li>
+    <li>Información en tiempo real de zonas peligrosas mediante el uso del mapa de calor.</li>
+    <li>Información de rutas seguras para movilizarse mediante el mapa.</li>
+    <li>Acceso a datos estadísticos para comprender mejor el problema.</li>
+  </ul>
+</div>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -499,161 +478,143 @@ Enlace para acceder a Miro: https://miro.com/app/board/uXjVKZpPpnQ=/?share_link_
 ## 1.3. Segmentos objetivo
 ### Segmento 1: Ciudadanos preocupados por su seguridad personal en espacios públicos
 <div align="justify">
-En muchos centros urbanos, la seguridad pública sigue siendo una preocupación mayor para los ciudadanos que buscan maneras efectivas de protegerse en su día a día. Aplicaciones como PeaceApp podrían ofrecer soluciones prácticas para estos desafíos. Según un estudio del Banco Mundial sobre seguridad urbana, la implementación de tecnologías que aumentan la percepción y la realidad de la seguridad puede tener impactos significativos en la reducción del crimen y la mejora de la calidad de vida urbana (Banco Mundial, 2017).
+  En muchos centros urbanos, la seguridad pública sigue siendo una preocupación mayor para los ciudadanos que buscan maneras efectivas de protegerse en su día a día. Aplicaciones como PeaceApp podrían ofrecer soluciones prácticas para estos desafíos. Según un estudio del Banco Mundial sobre seguridad urbana, la implementación de tecnologías que aumentan la percepción y la realidad de la seguridad puede tener impactos significativos en la reducción del crimen y la mejora de la calidad de vida urbana (Banco Mundial, 2017).
 </div>
 
 ### Segmento 2: Entidades Gubernamentales responsables de la seguridad pública y la planificación urbana
 <div align="justify">
-Las entidades gubernamentales, desde la policía local hasta los planificadores urbanos, enfrentan retos constantes para mejorar la eficiencia de sus respuestas y estrategias de prevención del crimen. Según la Organización de las Naciones Unidas, el acceso a datos precisos y actualizados es crucial para la planificación efectiva de la seguridad y el desarrollo urbano (Naciones Unidas, 2019). Herramientas como PeaceApp, que proporcionan datos en tiempo real y facilitan la comunicación entre ciudadanos y autoridades, son esenciales para desarrollar respuestas más rápidas y fundadas a los problemas de seguridad pública.
+  Las entidades gubernamentales, desde la policía local hasta los planificadores urbanos, enfrentan retos constantes para mejorar la eficiencia de sus respuestas y estrategias de prevención del crimen. Según la Organización de las Naciones Unidas, el acceso a datos precisos y actualizados es crucial para la planificación efectiva de la seguridad y el desarrollo urbano (Naciones Unidas, 2019). Herramientas como PeaceApp, que proporcionan datos en tiempo real y facilitan la comunicación entre ciudadanos y autoridades, son esenciales para desarrollar respuestas más rápidas y fundadas a los problemas de seguridad pública.
 </div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
-
-<table>
-  <tr>
-    <td colspan="3">Citizen<br>Link: https://citizen.com/</td>
-    <td colspan="4">Citizen es una aplicación de seguridad pública que alerta a los usuarios sobre incidentes cercanos en tiempo real, como crímenes o emergencias. Fomenta la 
-      participación comunitaria al permitir a los usuarios transmitir videos en vivo y compartir alertas, ayudando a mantener informada a la comunidad sobre situaciones de 
-      seguridad cercanas.</td>
-  </tr>
-  <tr>
-    <td colspan="3">Safetipin<br>Link: https://safetipin.com/</td>
-    <td colspan="4">Safetipin es una herramienta de seguridad personal que permite a los usuarios calificar la seguridad de diferentes áreas basándose en criterios como 
-      iluminación y presencia de personas. Proporciona un mapa de seguridad para ayudar a otros a tomar decisiones informadas sobre dónde ir y cómo moverse de manera segura.</td>
-</tr>
-  <tr>
-    <td colspan="3">SafeMapp<br>Link: https://www.linkedin.com/company/safemapp/</td>
-    <td colspan="4">SafeMapp ofrece una plataforma para informar y consultar sobre áreas seguras e inseguras, creando un mapa interactivo de alertas de seguridad. Permite a los 
-      usuarios enviar alertas SOS a contactos de emergencia y navegar por rutas seguras, mejorando la seguridad personal y comunitaria.</td>
-  </tr>
-  <tr>
-  <td colspan="3">URSafe<br>Link: https://ursafe.com/</td>
-  <td colspan="4">URSafe es una aplicación de seguridad personal avanzada que utiliza reconocimiento de voz y geolocalización para activar alertas de emergencia. Los usuarios 
-    pueden configurar frases clave que, al ser pronunciadas, envían notificaciones a contactos seleccionados, facilitando una rápida respuesta en situaciones de peligro.</td>
+<div align="justify">
+  <table>
+    <tr>
+      <td colspan="3">Citizen<br>Link: https://citizen.com/</td>
+      <td colspan="4">Citizen es una aplicación de seguridad pública que alerta a los usuarios sobre incidentes cercanos en tiempo real, como crímenes o emergencias. Fomenta la participación comunitaria al permitir a los usuarios transmitir videos en vivo y compartir alertas, ayudando a mantener informada a la comunidad sobre situaciones de seguridad cercanas.</td>
     </tr>
-</table>
+    <tr>
+      <td colspan="3">Safetipin<br>Link: https://safetipin.com/</td>
+      <td colspan="4">Safetipin es una herramienta de seguridad personal que permite a los usuarios calificar la seguridad de diferentes áreas basándose en criterios como iluminación y presencia de personas. Proporciona un mapa de seguridad para ayudar a otros a tomar decisiones informadas sobre dónde ir y cómo moverse de manera segura.</td>
+    </tr>
+    <tr>
+      <td colspan="3">SafeMapp<br>Link: https://www.linkedin.com/company/safemapp/</td>
+      <td colspan="4">SafeMapp ofrece una plataforma para informar y consultar sobre áreas seguras e inseguras, creando un mapa interactivo de alertas de seguridad. Permite a los usuarios enviar alertas SOS a contactos de emergencia y navegar por rutas seguras, mejorando la seguridad personal y comunitaria.</td>
+    </tr>
+    <tr>
+      <td colspan="3">URSafe<br>Link: https://ursafe.com/</td>
+      <td colspan="4">URSafe es una aplicación de seguridad personal avanzada que utiliza reconocimiento de voz y geolocalización para activar alertas de emergencia. Los usuarios 
+      pueden configurar frases clave que, al ser pronunciadas, envían notificaciones a contactos seleccionados, facilitando una rápida respuesta en situaciones de peligro.</td>
+    </tr>
+  </table>
+</div>
 
 ### 2.1.1. Análisis competitivo.
-
-<table>
-  <tr>
-    <th colspan="22">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
-    <td colspan="17">Este análisis nos ayuda a entender las particularidades de cada sitio web o aplicación, identificar la competencia en el mercado y planificar cómo abordar 
-      las oportunidades. También nos permite trabajar en la mejora continua de nuestras áreas de desarrollo.</td>
-  </tr>
-  <tr>
-    <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>Citizen<br><img src="./assets/Citizen.png" alt="Citizen"></td>
-    <td>Safetipin<br><img src="./assets/Safetipin.png" alt="Safetipin"></td>
-    <td>SafeMapp<br><img src="./assets/SafeMapp.png" alt="SafeMapp"></td>
-    <td>URSafe<br><img src="./assets/URSafe.png" alt="URSafe"></td>
-</tr>
-  <tr>
-    <td rowspan="2">Perfil</td>
-    <td>Overview</td>
-    <td>Aplicación que proporciona a los usuarios información en tiempo real sobre incidentes de seguridad como crímenes, accidentes y emergencias en un área local.</td>
-    <td>Aplicación que evalúa la seguridad de una ubicación específica mediante la recopilación de datos sobre iluminación, visibilidad, presencia policial, transporte público 
-      y otros factores relevantes para la seguridad.</td>
-    <td>Aplicación que proporciona mapas de calor de seguridad y herramientas de navegación para ayudar a los usuarios a moverse de manera segura por la ciudad.</td>
-    <td>Aplicación de seguridad personal que ofrece funciones de seguimiento en tiempo real, alertas de seguridad y asistencia en casos de emergencia.</td>
-  </tr>
-  <tr>
-  <td>Ventaja Competitiva</td>
-  <td>Proporciona datos actualizados y colaborativos para mejorar la conciencia de seguridad en la comunidad.</td>
-    <td>Ofrece información precisa y práctica para ayudar a los usuarios a tomar decisiones informadas sobre su seguridad personal.</td>
-    <td>Proporciona consejos de seguridad personalizados y alertas adaptadas a las necesidades individuales de los usuarios.</td>
-    <td>Ofrece herramientas prácticas y útiles para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
+<div align="justify">
+  <table>
+    <tr>
+      <th colspan="22">Competitive Analysis Landscape</th>
     </tr>
-<tr>
-    <td rowspan="2">Perfil de Marketing</td>
-    <td>Mercado Objetivo</td>
-    <td>Ciudadanos urbanos interesados en la seguridad en tiempo real y la colaboración comunitaria.</td>
-    <td>Residentes y viajeros buscando evaluar la seguridad de áreas específicas.</td>
-    <td>Usuarios urbanos preocupados por la seguridad, buscando información y consejos personalizados.</td>
-    <td>Personas que buscan herramientas prácticas para mejorar su seguridad personal.</td>
-  </tr>
-  <tr>
-  <td>Estrategias de Marketing</td>
-  <td>Publicidad en línea.</td>
-    <td>Publicidad en línea.</td>
-    <td>Publicidad en línea.</td>
-    <td>Publicidad en línea.</td>
+    <tr>
+      <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
+      <td colspan="17">Este análisis nos ayuda a entender las particularidades de cada sitio web o aplicación, identificar la competencia en el mercado y planificar cómo abordar las oportunidades. También nos permite trabajar en la mejora continua de nuestras áreas de desarrollo.</td>
     </tr>
-<tr>
-    <td rowspan="3">Perfil de Producto</td>
-    <td>Productos y Servicios</td>
-    <td>- Ofrece alertas en tiempo real sobre incidentes de seguridad o delitos.<br>- Permite a los usuarios informar sobre incidentes y compartir información con otros residentes.
-      <br>- Proporciona datos actualizados para mejorar la conciencia de seguridad en la comunidad mediante su plataforma.</td>
-    <td>- Proporciona mapas detallados de seguridad.<br>- Ofrece evaluaciones de seguridad basada en la iluminación, visibilidad, etc.<br>- Aconseja a los usuarios a tomar decisiones
-      informadas sobre su seguridad personal.</td>
-    <td>- Ofrece mapas de seguridad detallados y evaluaciones de riesgo en diversas áreas.<br>- Proporciona consejos de seguridad personalizados y alertas adaptadas a las necesidades 
-      de usuario.<br>- Ofrece información específica sobre el entorno del usuario.</td>
-    <td>- Proporciona herramientas para la seguridad personal: alertas de emergencia y seguimiento en tiempo real.<br>- Permite establecer contactos de emergencia y enviar notificaciones
-      automáticas en situaciones desfavorables.<br>- Ofrece un enfoque práctico y útil para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
-  </tr>
-  <tr>
-  <td>Precios y Costos</td>
-  <td>Gratuito</td>
-    <td>Gratuito/Servicios premium</td>
-    <td>Gratuito/Servicios premium</td>
-    <td>Gratuito/Servicios premium</td>
+    <tr>
+      <td colspan="2"></td>
+      <td>Citizen<br><img src="./assets/Citizen.png" alt="Citizen"></td>
+      <td>Safetipin<br><img src="./assets/Safetipin.png" alt="Safetipin"></td>
+      <td>SafeMapp<br><img src="./assets/SafeMapp.png" alt="SafeMapp"></td>
+      <td>URSafe<br><img src="./assets/URSafe.png" alt="URSafe"></td>
     </tr>
-<td>Canales de distribución (Web y/o Móvil)</td>
-  <td>Aplicación móvil de iOS y Android</td>
-    <td>Aplicación móvil de iOS y Android</td>
-    <td>Aplicación móvil de iOS y Android</td>
-    <td>Aplicación móvil de iOS y Android</td>
+    <tr>
+      <td rowspan="2">Perfil</td>
+      <td>Overview</td>
+      <td>Aplicación que proporciona a los usuarios información en tiempo real sobre incidentes de seguridad como crímenes, accidentes y emergencias en un área local.</td>
+      <td>Aplicación que evalúa la seguridad de una ubicación específica mediante la recopilación de datos sobre iluminación, visibilidad, presencia policial, transporte público y otros factores relevantes para la seguridad.</td>
+      <td>Aplicación que proporciona mapas de calor de seguridad y herramientas de navegación para ayudar a los usuarios a moverse de manera segura por la ciudad.</td>
+      <td>Aplicación de seguridad personal que ofrece funciones de seguimiento en tiempo real, alertas de seguridad y asistencia en casos de emergencia.</td>
     </tr>
-<tr>
-    <td rowspan="4">Análisis SWOT</td>
-    <td>Fortalezas</td>
-    <td>- Interfaz intuitiva y fácil de usar para reportar incidentes y alertas.<br>- Gran base de usuarios en areas urbanas densamente pobladas.<br>- Actualizaciones en tiempo real
-      sobre incidentes de seguridad.</td>
-    <td>- Ofrece evaluaciones de seguridad detalladas basadas en multiples factores<br>- Interfaz amigable y fácil de usar.<br>- Colaboraciones con organismos gubernamentales y 
-      organizaciones de seguridad.</td>
-    <td>- Enfoque en proporcionar consejos de seguridad personalizados y alertas adaptadas a las necesidades de los usuarios.<br>- Interfaz intuitiva y fácil de usar.<br>- Potencial 
-      para crear una comprometida y activa a través de funciones de participación y colaboraciones</td>
-    <td>- Proporciona herramientas prácticas para mejorar la seguridad personal.<br>- Interfaz intuitiva y facil de usar.<br>- Potencial para desarrollar asociaciones estratégicas 
-      con empresas de seguridad y proveedores de servicios de emergencia para mejorar la eficacia y la cobertura de la aplicación.</td>
-  </tr>
-  <tr>
-  <td>Debilidades</td>
-  <td>- Dependencia de la participación activa de la comunidad para reportar incidentes.<br>- Posible vulnerabilidad a la propagación de información errónea o falsa.<br>- Competencia
-    creciente de otras aplicaciones de seguridad ciudadana.</td>
-    <td>- Dependencia de la retroalimentación de los usuarios para recopilar datos de seguridad.<br>- Posible falta de precisión en evaluaciones de seguridad.<br>- Competencia creciente
-      de otras aplicaciones y servicios que ofrecen información similar sobre seguridad urbana.</td>
-    <td>- Dependencia activa de los usuarios para mantener actualizada la información sobre seguridad.<br>- Posible falta de fiabilidad en la información proporcionada por usuarios
-      individuales.<br>- Competencia de otras aplicaciones y servicios que ofrecen consejos de seguridad y alertas personalizadas.</td>
-    <td>- Dependencia de la participación activa de los usuarios para reportar incidentes.<br>- Posible falta de confiabilidad en la precisión de las alertas de seguridad.<br>- Competencia
-      de otras aplicaciones y dispositivos de seguridad personal que ofrecen características similares.</td>
+    <tr>
+      <td>Ventaja Competitiva</td>
+      <td>Proporciona datos actualizados y colaborativos para mejorar la conciencia de seguridad en la comunidad.</td>
+      <td>Ofrece información precisa y práctica para ayudar a los usuarios a tomar decisiones informadas sobre su seguridad personal.</td>
+      <td>Proporciona consejos de seguridad personalizados y alertas adaptadas a las necesidades individuales de los usuarios.</td>
+      <td>Ofrece herramientas prácticas y útiles para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
     </tr>
-<tr>
-<td>Oportunidades</td>
-  <td>- Expansión de nuevas ciudades y regiones.<br>- Colaboraciones con agencias gubernamentales y organismos de seguridad.<br>- Incorporación de nuevas funciones como servicios de
-    seguridad personalizada para usuarios premium.</td>
-    <td>- Expansión a nuevas ciudades y países.<br>- Desarrollo de asociaciones estratégicas con empresas de transporte y servicios publicos.<br>- Incorporación de nuevas funciones como
-      alertas de seguridad en tiempo real para usuarios premium.</td>
-    <td>-  Expansión a nuevas ciudades y regiones.<br>- Desarrollo de asociaciones con empresas de seguridad privada o proveedores de servicios de emergencia.<br>- Incorporación de nuevas
-      funciones como asistencia en tiempo real o acompañamiento para usuarios premium.</td>
-    <td>- Expansión a nuevas regiones y mercados.<br>- Desarrollo de características innovadoras como integración con dispositivos wearables o servicios de asistencia personalizada.
-      <br>- Incorporaciones de planes premium con funciones avanzadas como monitoreo de seguridad las 24 horas o servicios de asesoramiento de seguridad personal.</td>
-</tr> 
-<tr>
-<td>Amenazas</td>
-  <td>- Cambios en la legislación de privacidad de datos que pueda afectar a la recopilación de la información del usuario.<br>- Riesgo de incidentes de seguridad cibernética que comprometan
-    con la integridad y la confianza.<br>- Posible perdida de confianza de los usuarios debido a la incapacidad de la aplicación para prevenir o responder de manera inmediata.</td>
-    <td>- Riesgo de perdida de confianza de los usuarios debido a la inclusión de datos incorrectos o sesgados.<br>- Posible resistencia por parte de las autoridades locales o empresas afectadas
-      por las evaluaciones de seguridad negativas.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan distorsionar la percepción de la seguridad</td>
-    <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicacion.<br>- Posible exposición a riesgos legales relacionados con la privacidad de datos y la 
-      responsabilidad por la seguridad de los usuarios.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan difundir información falsa o engañosa.</td>
-    <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicación para responder eficazmente a emergencias.<br>- Posible exposición a riesgos legales relacionados
+    <tr>
+      <td rowspan="2">Perfil de Marketing</td>
+      <td>Mercado Objetivo</td>
+      <td>Ciudadanos urbanos interesados en la seguridad en tiempo real y la colaboración comunitaria.</td>
+      <td>Residentes y viajeros buscando evaluar la seguridad de áreas específicas.</td>
+      <td>Usuarios urbanos preocupados por la seguridad, buscando información y consejos personalizados.</td>
+      <td>Personas que buscan herramientas prácticas para mejorar su seguridad personal.</td>
+    </tr>
+    <tr>
+      <td>Estrategias de Marketing</td>
+      <td>Publicidad en línea.</td>
+      <td>Publicidad en línea.</td>
+      <td>Publicidad en línea.</td>
+      <td>Publicidad en línea.</td>
+      </tr>
+    <tr>
+      <td rowspan="3">Perfil de Producto</td>
+      <td>Productos y Servicios</td>
+      <td>- Ofrece alertas en tiempo real sobre incidentes de seguridad o delitos.<br>- Permite a los usuarios informar sobre incidentes y compartir información con otros residentes.<br>- Proporciona datos actualizados para mejorar la conciencia de seguridad en la comunidad mediante su plataforma.</td>
+      <td>- Proporciona mapas detallados de seguridad.<br>- Ofrece evaluaciones de seguridad basada en la iluminación, visibilidad, etc.<br>- Aconseja a los usuarios a tomar decisiones informadas sobre su seguridad personal.</td>
+      <td>- Ofrece mapas de seguridad detallados y evaluaciones de riesgo en diversas áreas.<br>- Proporciona consejos de seguridad personalizados y alertas adaptadas a las necesidades de usuario.<br>- Ofrece información específica sobre el entorno del usuario.</td>
+      <td>- Proporciona herramientas para la seguridad personal: alertas de emergencia y seguimiento en tiempo real.<br>- Permite establecer contactos de emergencia y enviar notificaciones automáticas en situaciones desfavorables.<br>- Ofrece un enfoque práctico y útil para ayudar a los usuarios a mantenerse seguros en diversas situaciones y entornos.</td>
+    </tr>
+    <tr>
+      <td>Precios y Costos</td>
+      <td>Gratuito</td>
+      <td>Gratuito/Servicios premium</td>
+      <td>Gratuito/Servicios premium</td>
+      <td>Gratuito/Servicios premium</td>
+    </tr>
+    <tr>
+      <td>Canales de distribución (Web y/o Móvil)</td>
+      <td>Aplicación móvil de iOS y Android</td>
+      <td>Aplicación móvil de iOS y Android</td>
+      <td>Aplicación móvil de iOS y Android</td>
+      <td>Aplicación móvil de iOS y Android</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Análisis SWOT</td>
+      <td>Fortalezas</td>
+      <td>- Interfaz intuitiva y fácil de usar para reportar incidentes y alertas.<br>- Gran base de usuarios en areas urbanas densamente pobladas.<br>- Actualizaciones en tiempo real sobre incidentes de seguridad.</td>
+      <td>- Ofrece evaluaciones de seguridad detalladas basadas en multiples factores<br>- Interfaz amigable y fácil de usar.<br>- Colaboraciones con organismos gubernamentales y organizaciones de seguridad.</td>
+      <td>- Enfoque en proporcionar consejos de seguridad personalizados y alertas adaptadas a las necesidades de los usuarios.<br>- Interfaz intuitiva y fácil de usar.<br>- Potencial para crear una comprometida y activa a través de funciones de participación y colaboraciones</td>
+      <td>- Proporciona herramientas prácticas para mejorar la seguridad personal.<br>- Interfaz intuitiva y facil de usar.<br>- Potencial para desarrollar asociaciones estratégicas con empresas de seguridad y proveedores de servicios de emergencia para mejorar la eficacia y la cobertura de la aplicación.</td>
+    </tr>
+    <tr>
+      <td>Debilidades</td>
+      <td>- Dependencia de la participación activa de la comunidad para reportar incidentes.<br>- Posible vulnerabilidad a la propagación de información errónea o falsa.<br>- Competencia creciente de otras aplicaciones de seguridad ciudadana.</td>
+      <td>- Dependencia de la retroalimentación de los usuarios para recopilar datos de seguridad.<br>- Posible falta de precisión en evaluaciones de seguridad.<br>- Competencia creciente de otras aplicaciones y servicios que ofrecen información similar sobre seguridad urbana.</td>
+      <td>- Dependencia activa de los usuarios para mantener actualizada la información sobre seguridad.<br>- Posible falta de fiabilidad en la información proporcionada por usuarios individuales.<br>- Competencia de otras aplicaciones y servicios que ofrecen consejos de seguridad y alertas personalizadas.</td>
+      <td>- Dependencia de la participación activa de los usuarios para reportar incidentes.<br>- Posible falta de confiabilidad en la precisión de las alertas de seguridad.<br>- Competencia de otras aplicaciones y dispositivos de seguridad personal que ofrecen características similares.</td>
+    </tr>
+    <tr>
+      <td>Oportunidades</td>
+      <td>- Expansión de nuevas ciudades y regiones.<br>- Colaboraciones con agencias gubernamentales y organismos de seguridad.<br>- Incorporación de nuevas funciones como servicios de seguridad personalizada para usuarios premium.</td>
+      <td>- Expansión a nuevas ciudades y países.<br>- Desarrollo de asociaciones estratégicas con empresas de transporte y servicios publicos.<br>- Incorporación de nuevas funciones como alertas de seguridad en tiempo real para usuarios premium.</td>
+      <td>-  Expansión a nuevas ciudades y regiones.<br>- Desarrollo de asociaciones con empresas de seguridad privada o proveedores de servicios de emergencia.<br>- Incorporación de nuevas funciones como asistencia en tiempo real o acompañamiento para usuarios premium.</td>
+      <td>- Expansión a nuevas regiones y mercados.<br>- Desarrollo de características innovadoras como integración con dispositivos wearables o servicios de asistencia personalizada.<br>- Incorporaciones de planes premium con funciones avanzadas como monitoreo de seguridad las 24 horas o servicios de asesoramiento de seguridad personal.</td>
+    </tr> 
+    <tr>
+      <td>Amenazas</td>
+      <td>- Cambios en la legislación de privacidad de datos que pueda afectar a la recopilación de la información del usuario.<br>- Riesgo de incidentes de seguridad cibernética que comprometan
+      con la integridad y la confianza.<br>- Posible perdida de confianza de los usuarios debido a la incapacidad de la aplicación para prevenir o responder de manera inmediata.</td>
+      <td>- Riesgo de perdida de confianza de los usuarios debido a la inclusión de datos incorrectos o sesgados.<br>- Posible resistencia por parte de las autoridades locales o empresas afectadas
+        por las evaluaciones de seguridad negativas.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan distorsionar la percepción de la seguridad</td>
+      <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicacion.<br>- Posible exposición a riesgos legales relacionados con la privacidad de datos y la 
+        responsabilidad por la seguridad de los usuarios.<br>- Vulnerabilidad a la manipulación por parte de usuarios malintencionados que intentan difundir información falsa o engañosa.</td>
+      <td>- Riesgo de perdida de confianza de los usuarios debido a la incapacidad de la aplicación para responder eficazmente a emergencias.<br>- Posible exposición a riesgos legales relacionados
       con la privacidad de los datos.<br>- Vulnerabilidad a la competencia agresiva de otras empresas que ofrecen soluciones de seguridad personal más establecidas o con mayores recursos financieros.</td>
-</tr>
-</table>
+    </tr>
+  </table>
+</div>
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -671,25 +632,24 @@ Las entidades gubernamentales, desde la policía local hasta los planificadores 
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
-
-- **Introducción antes de la entrevista:**
-  <br>
+<div align="justify">
+  <b>Introducción antes de la entrevista:</b><br>
   Buenos días/ tardes/ noches. Le agradezco de antemano que haya aceptado la entrevista. Nuestro objetivo es recopilar información de nuestros potenciales usuarios, para el desarrollo de un proyecto que
   consiste en un servicio que ofrece rutas seguras, diseñadas en base a la ubicación de partida y la de llegada del usuario. Además de que los usuarios tienen acceso a un mapa de calor de la peligrosidad
-  de las zonas de lima que serán actualizadas en base a reportes de los usuarios de la aplicación. <br>
-  <br>
+  de las zonas de lima que serán actualizadas en base a reportes de los usuarios de la aplicación.<br><br>
+</div>
 
-- **Preguntas Personales:**
+<b>Preguntas Personales:</b>
 
-1.  ¿Cuál es su nombre?<br>
-2.  ¿Cuántos años tiene?<br>
-3.  ¿Qué destinos frecuenta y cómo se transporta a estos?<br>
-4.  ¿Cómo se siente con respecto a la delincuencia al paso?<br>
-5.  ¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?<br><br>
+1.  ¿Cuál es su nombre?
+2.  ¿Cuántos años tiene?
+3.  ¿Qué destinos frecuenta y cómo se transporta a estos?
+4.  ¿Cómo se siente con respecto a la delincuencia al paso?
+5.  ¿Qué tan familiarizado está con las aplicaciones de mapas virtuales?
 
 #### Segmento objetivo (Ciudadanos):
 
-- **Preguntas principales:**
+**Preguntas principales:**
 
 1. ¿Cómo te desplazas habitualmente por la ciudad?<br>
 2. ¿Conoces que zonas de Lima son las más peligrosas?<br>
