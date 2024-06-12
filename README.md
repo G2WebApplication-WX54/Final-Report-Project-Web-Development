@@ -1618,14 +1618,12 @@ Para que la información se identifique con claridad, se estarán utilizando esp
     todos los usuarios. Por ello, se opto por emplear el patrón de diseño en forma de "Z" en el sitio web, dirigiendo la atención hacia los elementos clave y potencia la eficacia del contenido. Por ejemplo,
     se verá primero el logotipo en la esquina superior izquierda, seguida hacia la derecha con el menú de navegación, terminando con la imagen de perfil del usuario. Acto seguido, se podrá acceder a toda la
     información en pantalla y las opciones que puedan verse en la parte inferior.<br>
-    <img src="./assets/design.png" alt="Web Design - Peace App" width="75%" height="75%">
+    <img src="./assets/design.png" alt="Web Design - Peace App" width="100%">
   </ul>
 </div>
 
 ## 4.2. Information Architecture.
-
 ### 4.2.1. Organization Systems.
-
 <div align="justify">
   Para organizar la página, hemos decidido estructurar el contenido con un encabezado donde las secciones se declaren de manera clara.
   <ul>
@@ -1658,7 +1656,6 @@ Para que la información se identifique con claridad, se estarán utilizando esp
 </div>
 
 ### 4.2.2. Labeling Systems.
-
 <div align="justify">
   En PeaceApp, las etiquetas seguiran las implicaciones de SEO, lo que significa que deben cumplir con los siguientes objetivos:
   <ul>
@@ -4022,6 +4019,339 @@ Tabla para poder identificarnos:
 
 ##### Analíticas de Colaboración:
 <img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
+
+### 5.2.4. Sprint 4
+#### 5.2.4.4.Spring Planning 4.
+<table>
+  <tr align="center">
+    <td><strong>Sprint</strong></td>
+    <td><strong>Sprint 4</strong></td>
+  </tr>
+  <tr align="center">
+    <td>Date</td>
+    <td>--/06/2024</td>
+  </tr>
+  <tr align="center">
+    <td>Time</td>
+    <td>: M</td>
+  </tr>
+  <tr align="center">
+    <td>Location</td>
+    <td>-</td>
+  </tr>
+  <tr align="center">
+    <td>Prepared by</td>
+    <td>-</td>
+  </tr>
+  <tr align="center">
+    <td>Attendess (to planning meeting)</td>
+    <td align="justify">
+      Anatoly Andrey Noriega Suschenko - U202211813<br>
+      Andres Fernando Rodriguez Zuluoeta - U202124213<br>
+      Janiel Franz Escalante Baygorrea - U201912668<br>
+      Johan Príncipe Godoy - U202014511<br>
+      Victor Ernesto Zarate Caceres - U202112907</td>
+  </tr>
+  <tr align="center">
+    <td>Sprint 2 Review Summary</td>
+    <td align="justify">-</td>
+  </tr>
+  <tr align="center">
+    <td>Sprint 2 Retrospective Summary</td>
+    <td align="justify"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr align="center">
+    <td>Sprint 3 Goal</td>
+    <td align="justify">
+    Versión Final de Web Application y Web Services</td>
+  </tr>
+  <tr align="center">
+    <td>Sprint 3 Velocity</td>
+    <td>-</td>
+  </tr>
+  <tr align="center">
+    <td>Sum of Story Point</td>
+    <td>-</td>
+  </tr>
+</table>
+
+#### 5.2.4.2.Sprint Backlog 4.
+<img src="assets/sprintBack4.png">
+Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509cf1ed913c2fBC574E55/sprint-4
+<table>
+  <tr align="center">
+    <td colspan="2"><strong>Sprint</strong></td>
+    <td colspan="6"><strong>Sprint 4</strong></td>
+  </tr>
+  <tr align="center">
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr align="center">
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Id</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned to</strong></td>
+    <td><strong>Status (To do / In process / To review / Done)</strong></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td>W-01</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+<div align="justify">
+	<table>
+		<tr>
+			<td>Repository</td>
+      <td>Branch</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commit Message Body</td>
+      <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+		</tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+		</tr>
+	</table>
+</div>
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+<div align="justify">
+	<table>
+	    <tr>
+	        <td>Repository</td>
+	        <td>Branch</td>
+	        <td>Commit Id</td>
+	        <td>Commit Message</td>
+	        <td>Commit Message Body</td>
+	        <td>Commited on (Date)</td>
+	    </tr>
+	    <tr>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	        <td></td>
+	    </tr>
+	</table>
+</div>
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+<div align="justify">
+	Para la entrega del Sprint 4 se busco perfeccionar el diseño de la Web Application y conectarla con los Web Services para ponerla en total funcionamiento. Realizado esto, presentamos como evidencias:
+</div>
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+<div align="justify">
+	Para este sprint final se planificó terminar definitivamente el front-end de la aplicación, y conectarla al backend desplegado. Enlace para acceder 
+	al <a href="https://6664a80f932baf9032abbc8e.mockapi.io/api/reports">MockAPI</a><br> 
+	MockAPI:
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Details</td>
+		</tr>
+		<tr>
+			<td>/reports</td>
+			<td>Se implementaron las operaciones CRUD para lograr el registro de nuevos reportes y su llamado para la ventana correspondiente.</td>
+		</tr>
+	</table>
+	Web Service:
+  <table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Details</td>
+		</tr>
+		<tr>
+			<td>/Citizens</td>
+			<td rowspan="2">Se implementaron las operaciones CRUD para lograr el registro de nuevos usuarios.</td>
+		</tr>
+    <tr>
+			<td>/OrganizationsAccount</td>
+		</tr>
+  <tr>
+			<td>/Notification</td>
+			<td>Se implementaron las operaciones CRUD para lograr el registro de reportes y su notificación correspondiente.</td>
+		</tr>
+  <tr>
+			<td>/ReportsManagement</td>
+			<td>Se implementaron las operaciones CRUD para lograr el manejo de los reportes que se han registrado.</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Endpoint</td>
+			<td>Operaciones</td>
+			<td>Parametros</td>
+			<td>URL</td>
+		</tr>
+		<tr>
+			<td rowspan="5">Citizens</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/citizens</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>No tiene</td>
+			<td>/api/v1/citizens</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>{citizenId}</td>
+			<td>/api/v1/citizens/{citizenId}</td>
+		</tr>
+		<tr>
+			<td>Put</td>
+			<td>{citizenId}</td>
+			<td>/api/v1/citizens/{citizenId}</td>
+		</tr>
+		<tr>
+			<td>Delete</td>
+			<td>{citizenId}</td>
+			<td>/api/v1/citizens/{citizenId}</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Notification</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/notification</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>No tiene</td>
+			<td>/api/v1/notification</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>{id}</td>
+			<td>/api/v1/notification/{id}</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>{priority}</td>
+			<td>/api/v1/notification/priority/{priority}</td>
+		</tr>
+		<tr>
+			<td rowspan="2">OrganizationsAccount</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/organizations-account</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>{organizationName}</td>
+			<td>/api/v1/organizations-account/{organizationName}</td>
+		</tr>
+		<tr>
+			<td rowspan="5">ReportsManagement</td>
+			<td>Post</td>
+			<td>No tiene</td>
+			<td>/api/v1/reports-management</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>No tiene</td>
+			<td>/api/v1/reports-management</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>{id}</td>
+			<td>/api/v1/reports-management/{id}</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>{date}</td>
+			<td>/api/v1/reports-management/date/{date}</td>
+		</tr>
+		<tr>
+			<td>Get</td>
+			<td>{district}</td>
+			<td>/api/v1/reports-management/district/{district}</td>
+		</tr>		
+	</table>
+	Link del repositorio: https://github.com/G2WebApplication-WX54/peace-app-backend<br>
+	Web service commit details:
+	<table align="justify">
+	  <tr>
+      <td>Repository</td>
+      <td>Branch</td>
+      <td>Commit Id</td>
+      <td>Commit Message</td>
+      <td>Commit Message Body</td>
+      <td>Commited on (Date)</td>
+	  </tr>
+	  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+	  </tr>
+	</table>
+</div>
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+<div align="justify">
+	Para el presente sprint, se conectaron los Web Services con la Web Application completamente funcional, cumpliendo los user stories correspondientes. A su vez, se cumplio internacionalizar la plataforma, haciendola más accesible a las personas.
+	<ul>
+		<li>Web Application (Front-End):</li>
+		<li>Web Services (Back-End): </li>	
+	</ul>
+</div>
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+<div align="justify">
+	Para este Sprint nos dispusimos a perfeccionar nuestros productos. Primero, se llevo a cabo las mejoras finales a los diseño Front-End y Back-End de la Web App. Con esto, se pudo dar inicio, al despliegue de este último y a unir ambos para cumplir con la entrega final de este trabajo.
+	Para terminar de manera efectiva, se dividio el trabajo. Dicho trabajo puede corroborarse en los commits presentes en el repositorio de trabajo.<br>
+</div>
+
+Tabla para poder identificarnos:
+
+|  UserName (Github)   	|    Nombre      |
+| -------------------- 	| -------------|
+|Anatoly69420		| Anatoly Andrey  Noriega Suschenko|
+|Andres-0304		| Andres Fernando Rodriguez Zuluoeta  |
+|JanielFranz           	| Janiel Franz Escalante Baygorrea |
+|JP19-03               	| Johan Príncipe Godoy|
+|ern23zc               	| Victor Ernesto Zarate Caceres |
+
+##### Commits:
+<img src="/assets/CommitsAnalysisS41.png" alt="CommitsAnalysis (Web App) - Sprint 4">
+<img src="/assets/CommitsAnalysisS42.png" alt="CommitsAnalysis (Web Services) - Sprint 4">
+
+##### Analíticas de Colaboración:
+<img src="/assets/ColaborationAnalysisS41.png" alt="ColaborationAnalysis (Web App)- Sprint 4">
+<img src="/assets/ColaborationAnalysisS42.png" alt="ColaborationAnalysis (Web Services) - Sprint 4">
 	
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -4048,7 +4378,8 @@ Tabla para poder identificarnos:
 </div>
 
 ### 5.3.2. Registro de Entrevistas.
-#### Enlace de las entrevistas: 
+##### Enlace de las entrevistas:
+#### Segmento 1:  
 <div align="justify">
 	<table>
 		<tr>
@@ -4062,8 +4393,7 @@ Tabla para poder identificarnos:
 		<td colspan="2">Mientras navegaba por la aplicación web, Fátima destacó la facilidad de entendimiento y la dinámica de la interfaz. No obstante, mencionó que, habiéndose ya creado una cuenta como usuario y después de iniciar sesión, no debería tener 		que indicar si es usuario o autoridad; la página debería reconocer si ella es usuario o autoridad. También señaló que las notificaciones deberían actualizarse de manera automática y no manualmente. Por último, indicó que cuando se dirige a la 			visualización de perfil, debería aparecerle su perfil directamente sin tener que seleccionar su tipo de usuario.</td>
 		</tr>
 		<tr>
-			<td>Tiempo en el video: 06:54</td>
-			<td>https://drive.google.com/file/d/12LXgBU5WvKAfV2lRNnldmr8W4ukhf8No/view?usp=sharing</td>
+			<td colspan="2">Tiempo en el video: 06:54 Link: https://drive.google.com/file/d/12LXgBU5WvKAfV2lRNnldmr8W4ukhf8No/view?usp=sharing</td>
 		</tr>
 	</table>
 	<table>
@@ -4078,8 +4408,41 @@ Tabla para poder identificarnos:
 		<td colspan="2">Mientras el ciudadano Mauricio accedia a la aplicación web, mencionó que le parecio interesante el apartado del mapa junto con las rutas y la funcionalidad de reportes. Comenta que en general la aplicación supero sus expectativas generales. Sin embargo, algo a destacar que menciono el usuario es que en si no hay una validación de los datos al momento de crear una nueva cuenta. Al momento de crear la cuenta y darle al botón de submit directamente lo redirige a la seccion de perfil de ciudadano junto con datos ya preestablecidos de la página y no con los datos reales.</td>
 		</tr>
 		<tr>
-			<td>Tiempo en el video: 00:00</td>
-			<td>link</td>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+</div>
+
+#### Segmento 2:
+<div align="justify">
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2" ></td>
+		</tr>
+		<tr>
+		<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>Entrevista 1: </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2" ></td>
+		</tr>
+		<tr>
+		<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td colspan="2">Tiempo en el video: 00:00</td>
 		</tr>
 	</table>
 </div>
@@ -4110,39 +4473,82 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 <br>
 
-PROBLEMA #1: No se valida la información al crear una cuenta para el ciudadano
-Severidad: 4
+**PROBLEMA #1: No se valida la información al crear una cuenta para el ciudadano**
+- Severidad: 4
 Heurística violada: Usabilidad - Prevención de errores
 
-Problema:
+- Problema:
 La aplicación permite a los usuarios crear cuentas sin validar la información ingresada, permitiendo que los usuarios accedan sin llenar ningún campo y mostrando datos preestablecidos.
 
-Recomendación:
-Implementar validaciones de campos obligatorios al crear una cuenta para asegurar que se ingresen datos completos y correctos.<br>
-<img src="/assets/EvidenciaProblema1.png">
+- Recomendación:
+Implementar validaciones de campos obligatorios al crear una cuenta para asegurar que se ingresen datos completos y correctos.
+<img src="/assets/EvidenciaProblema1.png" alt="Evidencia Problema 1">
+
+**PROBLEMA #2:**
+- Severidad: 
+
+- Problema:
+
+- Recomendación:
+<img src="/assets/EvidenciaProblema2.png" alt="Evidencia Problema 2">
+
+**PROBLEMA #3:**
+- Severidad: 
+
+- Problema:
+
+- Recomendación:
+<img src="/assets/EvidenciaProblema3.png" alt="Evidencia Problema 3">
+
+**PROBLEMA #4:**
+- Severidad: 
+
+- Problema:
+
+- Recomendación:
+<img src="/assets/EvidenciaProblema4.png" alt="Evidencia Problema 4">
 
 ## 5.4. Video About-the-Product.
-<img src="/assets/About-the-Product.png" alt="About-the-Product">
+### Versión 1:
+<img src="/assets/About-the-Product.png" alt="About-the-Product(v1)">
 Enlace: https://youtu.be/sA65PrsZbco
 
+### Versión 2:
+<img src="/assets/About-the-Product2.png" alt="About-the-Product(v2)">
+Enlace: 
+
 # Conclusiones
+## Conclusiones y Recomendaciones
 <div align="justify">
 	<ul>
-		<li>Se comprendio la problemática que enfrenta Perú y su impacto en la población. El análisis competitivo nos ayudó a identificar a nuestros competidores y desarrollar estrategias para superarlos.</li>
-		<li>El needfinding nos permitió entender mejor a nuestros usuarios y sus necesidades, lo que nos ayudó a idear una solución que satisfaga sus expectativas.</li>
-		<li>Utilizando el Product Backlog y el Impact Map, priorizamos las necesidades de nuestros usuarios. El diseño UX/UI resultó en interfaces innovadoras y atractivas para nuestra aplicación.</li>
-		<li>Las validaciones y auditorías nos permitieron refinar y mejorar nuestros productos continuamente. Al finalizar la TB2 y con la implementación de la web applications, empezamos a recibir retroalimentación de los usuarios para resolver de mejor manera el problema y desarrollar un amejor solución.</li>
-	</ul>
+    <li>Conclusiones:</li>
+    <ul>
+      <li>Se comprendio la problemática que enfrenta Perú y su impacto en la población. El análisis competitivo nos ayudó a identificar a nuestros competidores y desarrollar estrategias para superarlos.</li>
+      <li>El needfinding nos permitió entender mejor a nuestros usuarios y sus necesidades, lo que nos ayudó a idear una solución que satisfaga sus expectativas.</li>
+      <li>Utilizando el Product Backlog y el Impact Map, priorizamos las necesidades de nuestros usuarios. El diseño UX/UI resultó en interfaces innovadoras y atractivas para nuestra aplicación.</li>
+      <li>Las validaciones y auditorías nos permitieron refinar y mejorar nuestros productos continuamente. Al finalizar la TB2 y con la implementación de la web applications, empezamos a recibir retroalimentación de los usuarios para resolver de mejor manera el problema y desarrollar un amejor solución.</li>
+    </ul>
+    <li>Recomendaciones:</li>
+    <ul>
+      <li></li>
+    </ul>
+  </ul>
 </div>
 
-### Video About-The-Team
+## Video About-The-Team
+### Versión 1:
 <div align="justify">
 El video ofrece un resumen del trabajo del equipo, en el cual los integrantes detallan las tareas que realizaron para alcanzar los objetivos del curso. Los miembros del equipo resaltan la importancia de la comunicación oral y escrita como un método eficiente para compartir ideas y comunicar el avance del proyecto.
 El video tiene una duracion de 15:04 minutos. Desde el minuto 0:00 al 0:56 el integrante Johan Príncipe explica su aporte al proyecto. Del 0:57 al 2:49, Ernesto Zarate habla de su participación en el proyecto junto con sus aportes en el mismo. Del minuto 2:50 al 4:17 continúa Andres Rodriguez, seguidamente de Franz Escalantes desde el minuto 4:19 al 5:45. El video concluye con Anatoly Noriega dando explicación de sus aportes para el trabajo y las metas que logró.
+<img src="/assets/About-the-Team.png" alt="About-the-Team(v1)">
+Enlace: https://youtu.be/NIMv12_64jI 
 </div>
 
-<img src="/assets/About-the-Team.png" alt="About-the-Team">
-Enlace: https://youtu.be/NIMv12_64jI 
+### Versión 2:
+<div align="justify">
+  <img src="/assets/About-the-Team2.png" alt="About-the-Team(v2)">
+  Enlace: 
+</div>
 
 # Bibliografía
 <div align="justify">
@@ -4156,12 +4562,12 @@ Enlace: https://youtu.be/NIMv12_64jI
 <table>
 	<tr>
 		<td>Sección</td>
-    		<td>Características del video</td>
-  	</tr>
+    <td>Características del video</td>
+  </tr>
 	<tr>
 		<td>Exposición</td>
 		<td>
-			Cantidad de videos: 3<br>
+			Cantidad de videos: 4<br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb1<br>
 			Formato: .mp4<br>
 			Duración:<br>
@@ -4171,6 +4577,10 @@ Enlace: https://youtu.be/NIMv12_64jI
 			Duración: 14:10<br>
 			Enlace: https://shorturl.at/msvzQ<br><br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tb2<br>
+			Formato: .mp4<br>
+			Duración:<br>
+			Enlace:<br><br>
+      Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-expo-tf<br>
 			Formato: .mp4<br>
 			Duración:<br>
 			Enlace:<br><br>
@@ -4193,21 +4603,29 @@ Enlace: https://youtu.be/NIMv12_64jI
 	<tr>
 		<td>Video About-the-Product</td>
 		<td>
-			Cantidad de videos: 1<br>
+			Cantidad de videos: 2<br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Product<br>
 			Formato: .mp4<br>
 			Duración: 5:13<br>
-			Enlace: https://youtu.be/sA65PrsZbco
+			Enlace: https://youtu.be/sA65PrsZbco<br><br>
+      Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Product-v2<br>
+			Formato: .mp4<br>
+			Duración: <br>
+			Enlace: 
 		</td>
 	</tr>
 	<tr>
 		<td>Video About-the-Team</td>
 		<td>
-			Cantidad de videos: 1<br>
+			Cantidad de videos: 2<br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Team<br>
 			Formato: .mp4<br>
 			Duración: 15:04<br>
-			Enlace: https://youtu.be/NIMv12_64jI
+			Enlace: https://youtu.be/NIMv12_64jI<br><br>
+      Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Team-v2<br>
+			Formato: .mp4<br>
+			Duración: <br>
+			Enlace: 
 		</td>
 	</tr>
 </table>
