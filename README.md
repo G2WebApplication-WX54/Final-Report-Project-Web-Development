@@ -4588,7 +4588,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | # | Problema | Escala de severida | Heurística/Principio violado(a) |
 |---|----------|--------------------|---------------------------------|
 | 1 |No se valida la información al crear una cuenta para el ciudadano.|4|Usability: Prevención de errores|
-|   |          |                    |                                 |
+| 2 |Visualización Directa del Perfil|2|Consistency and Standards|
 |   |          |                    |                                 |
 |   |          |                    |                                 |
 
@@ -4606,11 +4606,12 @@ Implementar validaciones de campos obligatorios al crear una cuenta para asegura
 <img src="/assets/EvidenciaProblema1.png" alt="Evidencia Problema 1">
 
 **PROBLEMA #2:**
-- Severidad: 
+- Severidad: 2
+Heurística violada: Consistency and Standards
 
-- Problema:
+- Problema:Al dirigirse a la visualización de perfil, el usuario debe seleccionar su tipo de usuario en lugar de mostrar directamente su perfil.
 
-- Recomendación:
+- Recomendación: Ajustar la navegación de la aplicación para que, al acceder a la visualización del perfil, se muestre automáticamente el perfil correspondiente sin pasos adicionales.
 <img src="/assets/EvidenciaProblema2.png" alt="Evidencia Problema 2">
 
 **PROBLEMA #3:**
