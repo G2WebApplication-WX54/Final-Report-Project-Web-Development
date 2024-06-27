@@ -1,4 +1,4 @@
-<hr>
+docs: add images for web servicesweb<hr>
 
 # <center>COURSE PROJECT</center>
 
@@ -4411,6 +4411,22 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 	<ul>
 		<li>Web Application (Front-End):</li>
 		<li>Web Services (Back-End): </li>	
+			<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
+  			<img src="/assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
+ 			<img src="/assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
+  			<img src="/assets/WebServices4-sprint4.png" alt="WebServices4-sprint4" width="100%">
+  			<img src="/assets/WebServices5-sprint4.png" alt="WebServices5-sprint4" width="100%">
+			<img src="/assets/WebServices6-sprint4.png" alt="WebServices6-sprint4" width="100%">
+  			<img src="/assets/WebServices7-sprint4.png" alt="WebServices7-sprint4" width="100%">
+  			<img src="/assets/WebServices8-sprint4.png" alt="WebServices8-sprint4" width="100%">
+  			<img src="/assets/WebServices9-sprint4.png" alt="WebServices9-sprint4" width="100%">
+  			<img src="/assets/WebServices10-sprint4.png" alt="WebServices10-sprint4" width="100%">
+  			<img src="/assets/WebServices11-sprint4.png" alt="WebServices11-sprint4" width="100%">
+  			<img src="/assets/WebServices12-sprint4.png" alt="WebServices12-sprint4" width="100%">
+  			<img src="/assets/WebServices13-sprint4.png" alt="WebServices13-sprint4" width="100%">
+  			<img src="/assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
+  			<img src="/assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
+  			<img src="/assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
 	</ul>
 </div>
 
