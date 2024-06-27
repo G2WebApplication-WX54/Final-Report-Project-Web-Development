@@ -4292,97 +4292,117 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 		</tr>
 	</table>
 	<table>
-		<tr>
-			<td>Endpoint</td>
-			<td>Operaciones</td>
-			<td>Parametros</td>
-			<td>URL</td>
-		</tr>
-		<tr>
-			<td rowspan="5">Citizens</td>
-			<td>Post</td>
-			<td>No tiene</td>
-			<td>/api/v1/citizens</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>No tiene</td>
-			<td>/api/v1/citizens</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>{citizenId}</td>
-			<td>/api/v1/citizens/{citizenId}</td>
-		</tr>
-		<tr>
-			<td>Put</td>
-			<td>{citizenId}</td>
-			<td>/api/v1/citizens/{citizenId}</td>
-		</tr>
-		<tr>
-			<td>Delete</td>
-			<td>{citizenId}</td>
-			<td>/api/v1/citizens/{citizenId}</td>
-		</tr>
-		<tr>
-			<td rowspan="4">Notification</td>
-			<td>Post</td>
-			<td>No tiene</td>
-			<td>/api/v1/notification</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>No tiene</td>
-			<td>/api/v1/notification</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>{id}</td>
-			<td>/api/v1/notification/{id}</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>{priority}</td>
-			<td>/api/v1/notification/priority/{priority}</td>
-		</tr>
-		<tr>
-			<td rowspan="2">OrganizationsAccount</td>
-			<td>Post</td>
-			<td>No tiene</td>
-			<td>/api/v1/organizations-account</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>{organizationName}</td>
-			<td>/api/v1/organizations-account/{organizationName}</td>
-		</tr>
-		<tr>
-			<td rowspan="5">ReportsManagement</td>
-			<td>Post</td>
-			<td>No tiene</td>
-			<td>/api/v1/reports-management</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>No tiene</td>
-			<td>/api/v1/reports-management</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>{id}</td>
-			<td>/api/v1/reports-management/{id}</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>{date}</td>
-			<td>/api/v1/reports-management/date/{date}</td>
-		</tr>
-		<tr>
-			<td>Get</td>
-			<td>{district}</td>
-			<td>/api/v1/reports-management/district/{district}</td>
-		</tr>		
-	</table>
+<tr>
+    <td>Endpoint</td>
+    <td>Operaciones</td>
+    <td>Parametros</td>
+    <td>URL</td>
+</tr>
+<tr>
+    <td rowspan="5">Citizens</td>
+    <td>POST</td>
+    <td>No tiene</td>
+    <td>/api/v1/citizens</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>No tiene</td>
+    <td>/api/v1/citizens</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>{citizenId}</td>
+    <td>/api/v1/citizens/{citizenId}</td>
+</tr>
+<tr>
+    <td>PUT</td>
+    <td>{citizenId}</td>
+    <td>/api/v1/citizens/{citizenId}</td>
+</tr>
+<tr>
+    <td>DELETE</td>
+    <td>{citizenId}</td>
+    <td>/api/v1/citizens/{citizenId}</td>
+</tr>
+<tr>
+    <td rowspan="4">Notification</td>
+    <td>POST</td>
+    <td>No tiene</td>
+    <td>/api/v1/notification</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>No tiene</td>
+    <td>/api/v1/notification</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>{id}</td>
+    <td>/api/v1/notification/{id}</td>
+</tr>
+
+<tr>
+    <td>GET</td>
+    <td>{priority}</td>
+    <td>/api/v1/notification/priority/{priority}</td>
+</tr>
+<tr>
+    <td rowspan="2">OrganizationsAccount</td>
+    <td>POST</td>
+    <td>No tiene</td>
+    <td>/api/v1/organizations-account</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>{organizationName}</td>
+    <td>/api/v1/organizations-account/{organizationName}</td>
+</tr>
+<tr>
+    <td rowspan="5">ReportsManagement</td>
+    <td>POST</td>
+    <td>No tiene</td>
+    <td>/api/v1/reports</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>No tiene</td>
+    <td>/api/v1/reports</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>{id}</td>
+    <td>/api/v1/reports/{id}</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>{citizenId}</td>
+    <td>/api/v1/reports/citizen/{citizenId}</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>{citizenId},{id}</td>
+    <td>/api/v1/reports/{citizenId},{id}</td>
+</tr>
+</table>
+	<br>
+	Web service images
+	<br>
+	<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
+  			<img src="/assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
+ 			<img src="/assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
+  			<img src="/assets/WebServices4-sprint4.png" alt="WebServices4-sprint4" width="100%">
+  			<img src="/assets/WebServices5-sprint4.png" alt="WebServices5-sprint4" width="100%">
+			<img src="/assets/WebServices6-sprint4.png" alt="WebServices6-sprint4" width="100%">
+  			<img src="/assets/WebServices7-sprint4.png" alt="WebServices7-sprint4" width="100%">
+  			<img src="/assets/WebServices8-sprint4.png" alt="WebServices8-sprint4" width="100%">
+  			<img src="/assets/WebServices9-sprint4.png" alt="WebServices9-sprint4" width="100%">
+  			<img src="/assets/WebServices10-sprint4.png" alt="WebServices10-sprint4" width="100%">
+  			<img src="/assets/WebServices11-sprint4.png" alt="WebServices11-sprint4" width="100%">
+  			<img src="/assets/WebServices12-sprint4.png" alt="WebServices12-sprint4" width="100%">
+  			<img src="/assets/WebServices13-sprint4.png" alt="WebServices13-sprint4" width="100%">
+  			<img src="/assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
+  			<img src="/assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
+  			<img src="/assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
 	Link del repositorio: https://github.com/G2WebApplication-WX54/peace-app-backend<br>
 	Web service commit details:
 	<table align="justify">
