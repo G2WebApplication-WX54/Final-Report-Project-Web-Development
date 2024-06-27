@@ -4638,11 +4638,14 @@ Enlace: https://youtu.be/NIMv12_64jI
 # Bibliografía
 <div align="justify">
   <ul>
-    <li>Banco Mundial. (2017). <em>Enhancing Urban Safety and Security: Global Report on Human Settlements 2007.</em> Recuperado de https://www.bancomundial.org</li>
+    <li>Quispe García, E. (2020). <em>Seguridad Ciudadana: Una mirada al servicio efectuado por las municipalidades.</em> Recuperado de http://repositorio.contraloria.gob.pe/handle/ENC/21</li>
+    <li>Gómez, P. J. M. (2020). <em>Las juntas vecinales de seguridad ciudadana y su relación con la lucha contra la delincuencia común: estudio de caso de la Municipalidad de San Martín de Porres. Revista de Ciencia e Investigación en Defensa, 1(4), 49-62. </em>Recuperado de https://www.recide.caen.edu.pe/index.php/recide/article/download/37/33</li>    
+    <li>INEI. <em>Instituto Nacional de Estadistica e Informatica. </em>Recuperado de https://m.inei.gob.pe/biblioteca-virtual/boletines/estadisticas-de-seguridad-ciudadana/1/#lista </li>
+    <li>Rivero Ruiz, C. S. (2023). <em>Ejecución presupuestal de la Policía Nacional del Perú y su incidencia en la seguridad ciudadana, periodo 2017-2020.</em> Recuperado de https://hdl.handle.net/20.500.13084/6851</li>
+    <li>Banco Mundial. (2017). <em>c.</em> Recuperado de https://www.bancomundial.org</li>
     <li>Naciones Unidas. (2019). <em>UN System-Wide Guidelines on Safer Cities and Human Settlements.</em> Recuperado de https://www.un.org</li>
   </ul>
 </div>
-
 # Anexos.
 <table>
 	<tr>
