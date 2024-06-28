@@ -4761,6 +4761,17 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 	Para el presente sprint, se conectaron los Web Services con la Web Application completamente funcional, cumpliendo los user stories correspondientes. A su vez, se cumplio internacionalizar la plataforma, haciendola más accesible a las personas.
 	<ul>
 		<li>Web Application (Front-End):</li>
+			<img src="/assets/MainPage.png" alt="MainPage" width="100%">
+			<img src="/assets/Role-CreateAccount.png" alt="Role-CreateAccount" width="100%">
+			<img src="/assets/Form-Citizen.png" alt="Form-Citizen" width="100%">
+			<img src="/assets/Form-Authority.png" alt="Form-Authority" width="100%">
+			<img src="/assets/Recovery-Password.png" alt="Recovery-Password" width="100%">
+			<img src="/assets/Find-Route.png" alt="Find-Route" width="100%">
+			<img src="/assets/Report-List.png" alt="Report-List" width="100%">
+			<img src="/assets/Create-Report.png" alt="Create-Report" width="100%">
+			<img src="/assets/Profile-Citizen.png" alt="Profile-Citizen" width="100%">
+			<img src="/assets/Profile-Authority.png" alt="Profile-Authority" width="100%">
+			<img src="/assets/Edit-Profile.png" alt="Edit-Profile" width="100%">
 		<li>Web Services (Back-End): </li>	
 			<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
   			<img src="/assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
