@@ -4387,7 +4387,7 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 	<br>
 	Web service images
 	<br>
-	<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
+			<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
   			<img src="/assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
  			<img src="/assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
   			<img src="/assets/WebServices4-sprint4.png" alt="WebServices4-sprint4" width="100%">
@@ -4403,6 +4403,10 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
   			<img src="/assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
   			<img src="/assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
   			<img src="/assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
+			<img src="/assets/WebServices17-sprint4.png" alt="WebServices17-sprint4" width="100%">	
+			<img src="/assets/WebServices18-sprint4.png" alt="WebServices18-sprint4" width="100%">	
+			<img src="/assets/WebServices19-sprint4.png" alt="WebServices19-sprint4" width="100%">	
+			<img src="/assets/WebServices20-sprint4.png" alt="WebServices20-sprint4" width="100%">	
 	Link del repositorio: https://github.com/G2WebApplication-WX54/peace-app-backend<br>
 	Web service commit details:
 	<table align="justify">
@@ -4447,6 +4451,10 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
   			<img src="/assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
   			<img src="/assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
   			<img src="/assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
+			<img src="/assets/WebServices17-sprint4.png" alt="WebServices17-sprint4" width="100%">	
+			<img src="/assets/WebServices18-sprint4.png" alt="WebServices18-sprint4" width="100%">	
+			<img src="/assets/WebServices19-sprint4.png" alt="WebServices19-sprint4" width="100%">	
+			<img src="/assets/WebServices20-sprint4.png" alt="WebServices20-sprint4" width="100%">	
 	</ul>
 </div>
 
