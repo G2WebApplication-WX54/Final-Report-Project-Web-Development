@@ -252,10 +252,11 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             Se diseño y publico la versión final de los Web Services.
             <br><br>
           <b>Noriega Suschenko, Anatoly Andrey:</b><br>
-             Se colaboro en parte del front end y en poner las secciones about the team y product en la landing page
+		En mi caso yo me encargue de parte del front end y en poner las secciones about the team y product en la landing page
             <br><br>          
           <b>Príncipe Godoy, Johan:</b><br>
-            Trabajo activo para desarrollar las últimas funcionalidades del front end con su respectiva tabla en la base de datos.<br><br>
+	despliegue de la base de dato, API, IAM bounded context en el backend y mejora de Reports BC
+            <br><br>
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
             Se colaboró en algunas partes del frontend y se realizo la documentación correspondiente al desarrollo del Sprint 4, correspondiente a esta entrega.<br>
             <br><br>
@@ -316,10 +317,10 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             Se utilizo la prendido para crear la versión final del proyexto, acorde a lo establecido en el curso.
             <br><br>
           <b>Noriega Suschenko, Anatoly Andrey:</b><br>
-            Se usaron los conocimientos adquiridos del curso para mejorar la parte del backend agregando validaciones y convenciones para la logica de negocio
+	      Se usaron los conocimientos adquiridos del curso para mejorar la parte del backend agregando validaciones y convenciones para la logica de negocio
             <br><br>          
           <b>Príncipe Godoy, Johan:</b><br>
-            Se utilizo toda la información recopilda para orientar el diseño hacia la versión final de la aplicación web.
+	      Los conocimientos adquiridos durante la parte final del curso fueron usados para la mejora del backend y los componentes y servicios del front.
             <br><br>
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
             Se uso todos los conocimientos adquiridos del curso para mejorar el diseño de la aplicación web y presentar un nuevo informe más apegado a lo que se espera en el curso.
@@ -2157,13 +2158,13 @@ Gherkin: Es un lenguaje específico de dominio diseñado para resolver un proble
 
 ### 5.1.4. Software Deployment Configuration.
 Nuestro repositorio en Github<br>
-<img src="assets/Repositorio_1.png"><br>
+<img src="./assets/Repositorio_1.png"><br>
 Nuestras ramas:<br>
-<img src="assets/Repositorio_2.png"><br>
+<img src="./assets/Repositorio_2.png"><br>
 Para poder trabajar cada capitulo de este proyecto, vamos a entrar a la rama correspondiente, por ejemplo si queremos editar el capitulo 1 debemos entrar a la rama feature/chapter-01<br>
-<img src="assets/Repositorio3.png"><br>
+<img src="./assets/Repositorio3.png"><br>
 Dentro de la rama feature/chapter-01 tenemos la carpeta docs donde se encuentran los archivos de cada capitulo, si queremos editar el capitulo 1 debemos editar el archivo chapter-01.md
-<img src="assets/Repositorio_4.png"><br>
+<img src="./assets/Repositorio_4.png"><br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -2228,7 +2229,7 @@ En el Sprint Planning 1, nos centraremos en los tasks relacionados con la creaci
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1
-<img src="assets/sprintBack1.png">
+<img src="./assets/sprintBack1.png">
 Link del Trello: https://trello.com/invite/b/QxWAqzlj/ATTId381d27718ad1075484b3d9d90208edcE87B6F07/sprint-1
 <table>
     <tr align="center">
@@ -2488,32 +2489,32 @@ Link del Trello: https://trello.com/invite/b/QxWAqzlj/ATTId381d27718ad1075484b3d
 ##### Sección de Inicio:
 Se implementó el Header de nuestra Landing Page junto con la sección de inicio del Landing Page.
 
-<img src="/assets/Evidence Header and Start.png" alt="Evidence Header and Start" width="80%">
+<img src="./assets/Evidence Header and Start.png" alt="Evidence Header and Start" width="80%">
 
 ##### Sección de Nosotros:
 Se implementó la sección de nosotros para describir sobre quienes somos.
 
-<img src="/assets/Evidence About Us.png" alt="Evidence About Us" width="80%">
+<img src="./assets/Evidence About Us.png" alt="Evidence About Us" width="80%">
 
 ##### Sección de Aplicación:
 Se implementó la sección de la aplicación donde se muestra una pequeña descripción de la app.
 
-<img src="/assets/Evidence App.png" alt="Evidence App" width="80%">
+<img src="./assets/Evidence App.png" alt="Evidence App" width="80%">
 
 ##### Sección de Servicios:
 Se implementó la sección de los servicios que ofreceremos a los usuarios.
 
-<img src="/assets/Evidence Services.png" alt="Evidence Services" width="80%">
+<img src="./assets/Evidence Services.png" alt="Evidence Services" width="80%">
 
 ##### Sección de Planes:
 Se añadió la sección de planes donde podrán adquirir nuestro plan estándar (para los ciudadanos) o nuestro plan gubernamental (para las municipalidades).
 
-<img src="/assets/Evidence Plans.png" alt="Evidence Plans" width="80%">
+<img src="./assets/Evidence Plans.png" alt="Evidence Plans" width="80%">
 
 ##### Sección de Contacto:
 Se añadió la sección de contactos donde podrán contactarse con los desarrolladores de la plataforma junto con el footer.
 
-<img src="/assets/Evidence Contact and Footer.png" alt="Evidence Contact and Footer" width="80%">
+<img src="./assets/Evidence Contact and Footer.png" alt="Evidence Contact and Footer" width="80%">
 
 </div>
 
@@ -2525,7 +2526,7 @@ Se añadió la sección de contactos donde podrán contactarse con los desarroll
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 <div align="justify">
 Nos enfocamos plenamente en asegurar un proceso de Deployment eficiente y efectivo. Este enfoque no solo buscó mejorar la experiencia de usuario final, sino también optimizar nuestro flujo de trabajo de desarrollo y despliegue continuo. Por ello, se presentan las siguientes evidencias:<br><br>
-<img src="/assets/Evidence Application.png" alt="Evidence Application" width="80%">
+<img src="./assets/Evidence Application.png" alt="Evidence Application" width="80%">
 </div>
 Enlace para acceder a la landing page: https://g2webapplication-wx54.github.io/landing-page-web-app/
 
@@ -2546,11 +2547,11 @@ Tabla para poder identificarnos:
 
 ##### Commits:
 
-<img src="/assets/CommitsAnalysis.png" alt="CommitsAnalysis">
+<img src="./assets/CommitsAnalysis.png" alt="CommitsAnalysis">
 
 ##### Analíticas de Colaboración:
 
-<img src="/assets/ColaborationAnalysis.png" alt="ColaborationAnalysis">
+<img src="./assets/ColaborationAnalysis.png" alt="ColaborationAnalysis">
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1.Sprint Planning 2.
@@ -2616,7 +2617,7 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.2.2.Sprint Backlog 2.
-<img src="assets/sprintBack2.png">
+<img src="./assets/sprintBack2.png">
 Link del Trello: https://trello.com/invite/b/LqxwRTaP/ATTI044b3950952fa839a147f7b7c2805119905D8341/sprint-2
 <table>
     <tr align="center">
@@ -2922,28 +2923,28 @@ Link del Trello: https://trello.com/invite/b/LqxwRTaP/ATTI044b3950952fa839a147f7
 En el sprint 2 se diseñó de manera preliminar el primer modelo de la Web App. Además, se realizo la mejora de la landing page. Algunas evidencias son:
     
 ##### Sección Página Principal
-<img src="assets/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
+<img src="./assets/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
 
 ##### Sección Mapa de Ciudadano
-<img src="assets/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
+<img src="./assets/Evidence-MainPage.jpeg" alt="Evidence-MainPage.jpeg - Sprint 2">
     
 ##### Sección Reportes
-<img src="assets/Evidence-Reports.jpeg" alt="Evidence-Reports.jpeg - Sprint 2">
+<img src="./assets/Evidence-Reports.jpeg" alt="Evidence-Reports.jpeg - Sprint 2">
 
 ##### Sección Formulario de Reportes
-<img src="assets/Evidence-ReportForm.jpeg" alt="Evidence-ReportForm.jpeg - Sprint 2">
+<img src="./assets/Evidence-ReportForm.jpeg" alt="Evidence-ReportForm.jpeg - Sprint 2">
 
 ##### Sección Notificaciones
-<img src="assets/Evidence-Notifications.jpeg" alt="Evidence-Notifications.jpeg - Sprint 2">
+<img src="./assets/Evidence-Notifications.jpeg" alt="Evidence-Notifications.jpeg - Sprint 2">
 
 ##### Sección Perfil de Ciudadano
-<img src="assets/Evidence-CitizenProfile.jpeg" alt="Evidence-CitizenProfile.jpeg - Sprint 2">
+<img src="./assets/Evidence-CitizenProfile.jpeg" alt="Evidence-CitizenProfile.jpeg - Sprint 2">
     
 ##### Sección Editar Perfil
-<img src="assets/Evidence-EditProfile.jpeg" alt="Evidence-EditProfile.jpeg - Sprint 2">
+<img src="./assets/Evidence-EditProfile.jpeg" alt="Evidence-EditProfile.jpeg - Sprint 2">
 
 ##### Sección Perfil de Entidad Gubernamental
-<img src="assets/Evidence-Municipality.jpeg" alt="Evidence-Municipality.jpeg - Sprint 2">
+<img src="./assets/Evidence-Municipality.jpeg" alt="Evidence-Municipality.jpeg - Sprint 2">
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 En el segundo sprint, se decidió enfocarse exclusivamente en desarrollar el front-end de nuestra aplicación. Para evitar limitaciones en las pruebas debido a la falta de un back-end, se optó por utilizar un fake-api que implementa una funcionalidad de mapa en nuestra aplicación.
@@ -2952,7 +2953,7 @@ En el segundo sprint, se decidió enfocarse exclusivamente en desarrollar el fro
 <div align="justify">
 	Para el presente sprint, se desplego el landing page completamente funcional, cumpliendo los user stories correspondientes. De la misma forma se desplego una
 	primer versión de la web application, con mejoras a realizar para el siguiente sprint:
-<img src="assets/Evidence-WebApp.png" alt="Evidence-WebApp.png - Sprint 2">
+<img src="./assets/Evidence-WebApp.png" alt="Evidence-WebApp.png - Sprint 2">
 </div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
@@ -2973,10 +2974,10 @@ Tabla para poder identificarnos:
 |ern23zc               |Victor Ernesto Zarate Caceres |
 
 ##### Commits:
-<img src="/assets/CommitsAnalysisS2.png" alt="CommitsAnalysis - Sprint 2">
+<img src="./assets/CommitsAnalysisS2.png" alt="CommitsAnalysis - Sprint 2">
 
 ##### Analíticas de Colaboración:
-<img src="/assets/ColaborationAnalysisS2.png" alt="ColaborationAnalysis - Sprint 2">
+<img src="./assets/ColaborationAnalysisS2.png" alt="ColaborationAnalysis - Sprint 2">
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1.Spring Planning 3.
@@ -3044,7 +3045,7 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3.
-<img src="assets/sprintBack3.png">
+<img src="./assets/sprintBack3.png">
 Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af4ea372c38aB6FF99AD/sprint-3
 <table>
     <tr align="center">
@@ -3418,22 +3419,22 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 </div>
 
 ##### Sección Página Principal
-<img src="/assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
+<img src="./assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
 
 ##### Sección Mapa de Ciudadano
-<img src="/assets/FindRoute-Sprint3.jpg" alt="FindRoute" width="100%">
+<img src="./assets/FindRoute-Sprint3.jpg" alt="FindRoute" width="100%">
     
 ##### Sección Reportes
-<img src="/assets/ReportList-Sprint3.jpg" alt="ReportList-Sprint3" width="100%">
+<img src="./assets/ReportList-Sprint3.jpg" alt="ReportList-Sprint3" width="100%">
 
 ##### Sección Recuperar contraseña
-<img src="/assets/RecoveryPassword-Sprint3.jpg" alt="RecoveryPassword" width="100%">
+<img src="./assets/RecoveryPassword-Sprint3.jpg" alt="RecoveryPassword" width="100%">
 
 ##### Sección Perfil de Ciudadano
-<img src="/assets/CitizenProfile-Sprint3.jpg" alt="CitizenProfile" width="100%">
+<img src="./assets/CitizenProfile-Sprint3.jpg" alt="CitizenProfile" width="100%">
 
 ##### Sección Perfil de Entidad Gubernamental
-<img src="/assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
+<img src="./assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
@@ -3946,22 +3947,22 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	    </tr>
 	</table>
 	Web services images: 
-	<img src="/assets/WebServices1.png" alt="WebServices1" width="100%">
-  			<img src="/assets/WebServices2.png" alt="WebServices2" width="100%">
- 			<img src="/assets/WebServices3.png" alt="WebServices3" width="100%">
-  			<img src="/assets/WebServices4.png" alt="WebServices4" width="100%">
-  			<img src="/assets/WebServices5.png" alt="WebServices5" width="100%">
-			<img src="/assets/WebServices6.png" alt="WebServices6" width="100%">
-  			<img src="/assets/WebServices7.png" alt="WebServices7" width="100%">
-  			<img src="/assets/WebServices8.png" alt="WebServices8" width="100%">
-  			<img src="/assets/WebServices9.png" alt="WebServices9" width="100%">
-  			<img src="/assets/WebServices10.png" alt="WebServices10" width="100%">
-  			<img src="/assets/WebServices11.png" alt="WebServices11" width="100%">
-  			<img src="/assets/WebServices12.png" alt="WebServices12" width="100%">
-  			<img src="/assets/WebServices13.png" alt="WebServices13" width="100%">
-  			<img src="/assets/WebServices14.png" alt="WebServices14" width="100%">
-  			<img src="/assets/WebServices15.png" alt="WebServices15" width="100%">
-  			<img src="/assets/WebServices16.png" alt="WebServices16" width="100%">	
+	<img src="./assets/WebServices1.png" alt="WebServices1" width="100%">
+  			<img src="./assets/WebServices2.png" alt="WebServices2" width="100%">
+ 			<img src="./assets/WebServices3.png" alt="WebServices3" width="100%">
+  			<img src="./assets/WebServices4.png" alt="WebServices4" width="100%">
+  			<img src="./assets/WebServices5.png" alt="WebServices5" width="100%">
+			<img src="./assets/WebServices6.png" alt="WebServices6" width="100%">
+  			<img src="./assets/WebServices7.png" alt="WebServices7" width="100%">
+  			<img src="./assets/WebServices8.png" alt="WebServices8" width="100%">
+  			<img src="./assets/WebServices9.png" alt="WebServices9" width="100%">
+  			<img src="./assets/WebServices10.png" alt="WebServices10" width="100%">
+  			<img src="./assets/WebServices11.png" alt="WebServices11" width="100%">
+  			<img src="./assets/WebServices12.png" alt="WebServices12" width="100%">
+  			<img src="./assets/WebServices13.png" alt="WebServices13" width="100%">
+  			<img src="./assets/WebServices14.png" alt="WebServices14" width="100%">
+  			<img src="./assets/WebServices15.png" alt="WebServices15" width="100%">
+  			<img src="./assets/WebServices16.png" alt="WebServices16" width="100%">	
 </div>
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
@@ -3970,37 +3971,37 @@ Link del Trello: https://trello.com/invite/b/HYuJ0Wvx/ATTI8b70bbfde093fcc301a1af
 	nueva versión de la web application, con un back-end parcial. Estos últimos recibiran mejoras en el siguiente sprint.
 	<ul>
 		<li>Landing page:</li>
-			<img src="/assets/LandingPage-Sprint3.jpg" alt="LandingPage" width="100%">
+			<img src="./assets/LandingPage-Sprint3.jpg" alt="LandingPage" width="100%">
 		<li>Web Application front-end:</li>
-			<img src="/assets/Netlify-Deploy-Sprint3.png" alt="Deploy" width="100%">
-			<img src="/assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
-			<img src="/assets/CreateUser-Sprint3.jpg" alt="CreateUser" width="100%">
-			<img src="/assets/CreateCitizen-Sprint3.jpg" alt="CreateCitizen" width="100%">
-			<img src="/assets/CreateAuthority-Sprint3.jpg" alt="CreateAuthority" width="100%">
-			<img src="/assets/RecoveryPassword-Sprint3.jpg" alt="RecoveryPassword" width="100%">
-			<img src="/assets/ReportList-Sprint3.jpg" alt="ReportList-Sprint3" width="100%">
-			<img src="/assets/NewReport-Sprint3.jpg" alt="NewReport" width="100%">
-			<img src="/assets/Subscription-Sprint3.jpg" alt="Subscription" width="100%">
-			<img src="/assets/FindRoute-Sprint3.jpg" alt="FindRoute" width="100%">
-			<img src="/assets/CitizenProfile-Sprint3.jpg" alt="CitizenProfile" width="100%">
-			<img src="/assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
+			<img src="./assets/Netlify-Deploy-Sprint3.png" alt="Deploy" width="100%">
+			<img src="./assets/MainPage-Sprint3.jpg" alt="MainPage" width="100%">
+			<img src="./assets/CreateUser-Sprint3.jpg" alt="CreateUser" width="100%">
+			<img src="./assets/CreateCitizen-Sprint3.jpg" alt="CreateCitizen" width="100%">
+			<img src="./assets/CreateAuthority-Sprint3.jpg" alt="CreateAuthority" width="100%">
+			<img src="./assets/RecoveryPassword-Sprint3.jpg" alt="RecoveryPassword" width="100%">
+			<img src="./assets/ReportList-Sprint3.jpg" alt="ReportList-Sprint3" width="100%">
+			<img src="./assets/NewReport-Sprint3.jpg" alt="NewReport" width="100%">
+			<img src="./assets/Subscription-Sprint3.jpg" alt="Subscription" width="100%">
+			<img src="./assets/FindRoute-Sprint3.jpg" alt="FindRoute" width="100%">
+			<img src="./assets/CitizenProfile-Sprint3.jpg" alt="CitizenProfile" width="100%">
+			<img src="./assets/AuthorityProfile-Sprint3.jpg" alt="AuthorityProfile" width="100%">
 		<li>Web Services back-end: </li>
-			<img src="/assets/WebServices1.png" alt="WebServices1" width="100%">
-  			<img src="/assets/WebServices2.png" alt="WebServices2" width="100%">
- 			<img src="/assets/WebServices3.png" alt="WebServices3" width="100%">
-  			<img src="/assets/WebServices4.png" alt="WebServices4" width="100%">
-  			<img src="/assets/WebServices5.png" alt="WebServices5" width="100%">
-			<img src="/assets/WebServices6.png" alt="WebServices6" width="100%">
-  			<img src="/assets/WebServices7.png" alt="WebServices7" width="100%">
-  			<img src="/assets/WebServices8.png" alt="WebServices8" width="100%">
-  			<img src="/assets/WebServices9.png" alt="WebServices9" width="100%">
-  			<img src="/assets/WebServices10.png" alt="WebServices10" width="100%">
-  			<img src="/assets/WebServices11.png" alt="WebServices11" width="100%">
-  			<img src="/assets/WebServices12.png" alt="WebServices12" width="100%">
-  			<img src="/assets/WebServices13.png" alt="WebServices13" width="100%">
-  			<img src="/assets/WebServices14.png" alt="WebServices14" width="100%">
-  			<img src="/assets/WebServices15.png" alt="WebServices15" width="100%">
-  			<img src="/assets/WebServices16.png" alt="WebServices16" width="100%">		
+			<img src="./assets/WebServices1.png" alt="WebServices1" width="100%">
+  			<img src="./assets/WebServices2.png" alt="WebServices2" width="100%">
+ 			<img src="./assets/WebServices3.png" alt="WebServices3" width="100%">
+  			<img src="./assets/WebServices4.png" alt="WebServices4" width="100%">
+  			<img src="./assets/WebServices5.png" alt="WebServices5" width="100%">
+			<img src="./assets/WebServices6.png" alt="WebServices6" width="100%">
+  			<img src="./assets/WebServices7.png" alt="WebServices7" width="100%">
+  			<img src="./assets/WebServices8.png" alt="WebServices8" width="100%">
+  			<img src="./assets/WebServices9.png" alt="WebServices9" width="100%">
+  			<img src="./assets/WebServices10.png" alt="WebServices10" width="100%">
+  			<img src="./assets/WebServices11.png" alt="WebServices11" width="100%">
+  			<img src="./assets/WebServices12.png" alt="WebServices12" width="100%">
+  			<img src="./assets/WebServices13.png" alt="WebServices13" width="100%">
+  			<img src="./assets/WebServices14.png" alt="WebServices14" width="100%">
+  			<img src="./assets/WebServices15.png" alt="WebServices15" width="100%">
+  			<img src="./assets/WebServices16.png" alt="WebServices16" width="100%">		
 	</ul>
 </div>
 
@@ -4023,11 +4024,11 @@ Tabla para poder identificarnos:
 |ern23zc               	| Victor Ernesto Zarate Caceres |
 
 ##### Commits:
-<img src="/assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3">
-<img src="/assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3">
+<img src="./assets/CommitsAnalysisS31.png" alt="CommitsAnalysis - Sprint 3">
+<img src="./assets/CommitsAnalysisS32.png" alt="CommitsAnalysis - Sprint 3">
 
 ##### Analíticas de Colaboración:
-<img src="/assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
+<img src="./assets/ColaborationAnalysisS31.png" alt="ColaborationAnalysis - Sprint 3">
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1.Spring Planning 4.
@@ -4088,7 +4089,7 @@ Tabla para poder identificarnos:
 </table>
 
 #### 5.2.4.2.Sprint Backlog 4.
-<img src="assets/sprintBack4.png">
+<img src="./assets/sprintBack4.png">
 Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509cf1ed913c2fBC574E55/sprint-4
 <div align="justify">
   <table>
@@ -4685,25 +4686,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 
 <div align="justify">
-	<table>
-	    <tr>
-	        <td>Repository</td>
-	        <td>Branch</td>
-	        <td>Commit Id</td>
-	        <td>Commit Message</td>
-	        <td>Commit Message Body</td>
-	        <td>Commited on (Date)</td>
-	    </tr>
-	    <tr>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	        <td></td>
-	    </tr>
-	</table>
+	<img src="./assets/test1.jpg" alt="test1" width="100%">
 </div>
+
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 <div align="justify">
@@ -4711,37 +4696,37 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 </div>
 
 ##### Sección Main Page
-<img src="/assets/MainPage.png" alt="MainPage" width="100%">
+<img src="./assets/MainPage.png" alt="MainPage" width="100%">
 
 ##### Sección Role Create Account
-<img src="/assets/Role-CreateAccount.png" alt="Role-CreateAccount" width="100%">
+<img src="./assets/Role-CreateAccount.png" alt="Role-CreateAccount" width="100%">
 
 ##### Sección Form Citizen
-<img src="/assets/Form-Citizen.png" alt="Form-Citizen" width="100%">
+<img src="./assets/Form-Citizen.png" alt="Form-Citizen" width="100%">
 
 ##### Sección Form Authority
-<img src="/assets/Form-Authority.png" alt="Form-Authority" width="100%">
+<img src="./assets/Form-Authority.png" alt="Form-Authority" width="100%">
 
 ##### Sección Recovery Password
-<img src="/assets/Recovery-Password.png" alt="Recovery-Password" width="100%">
+<img src="./assets/Recovery-Password.png" alt="Recovery-Password" width="100%">
 
 ##### Sección Find Route
-<img src="/assets/Find-Route.png" alt="Find-Route" width="100%">
+<img src="./assets/Find-Route.png" alt="Find-Route" width="100%">
 
 ##### Sección Report List
-<img src="/assets/Report-List.png" alt="Report-List" width="100%">
+<img src="./assets/Report-List.png" alt="Report-List" width="100%">
 
 ##### Sección Create Report
-<img src="/assets/Create-Report.png" alt="Create-Report" width="100%">
+<img src="./assets/Create-Report.png" alt="Create-Report" width="100%">
 
 ##### Sección Profile Citizen
-<img src="/assets/Profile-Citizen.png" alt="Profile-Citizen" width="100%">
+<img src="./assets/Profile-Citizen.png" alt="Profile-Citizen" width="100%">
 
 ##### Sección Profile Authority
-<img src="/assets/Profile-Authority.png" alt="Profile-Authority" width="100%">
+<img src="./assets/Profile-Authority.png" alt="Profile-Authority" width="100%">
 
 ##### Sección Edit Profile
-<img src="/assets/Edit-Profile.png" alt="Edit-Profile" width="100%">
+<img src="./assets/Edit-Profile.png" alt="Edit-Profile" width="100%">
 
 
 
@@ -4908,26 +4893,26 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 	<br>
 	Web service images
 	<br>
-			<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
-  			<img src="/assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
- 			<img src="/assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
-  			<img src="/assets/WebServices4-sprint4.png" alt="WebServices4-sprint4" width="100%">
-  			<img src="/assets/WebServices5-sprint4.png" alt="WebServices5-sprint4" width="100%">
-			<img src="/assets/WebServices6-sprint4.png" alt="WebServices6-sprint4" width="100%">
-  			<img src="/assets/WebServices7-sprint4.png" alt="WebServices7-sprint4" width="100%">
-  			<img src="/assets/WebServices8-sprint4.png" alt="WebServices8-sprint4" width="100%">
-  			<img src="/assets/WebServices9-sprint4.png" alt="WebServices9-sprint4" width="100%">
-  			<img src="/assets/WebServices10-sprint4.png" alt="WebServices10-sprint4" width="100%">
-  			<img src="/assets/WebServices11-sprint4.png" alt="WebServices11-sprint4" width="100%">
-  			<img src="/assets/WebServices12-sprint4.png" alt="WebServices12-sprint4" width="100%">
-  			<img src="/assets/WebServices13-sprint4.png" alt="WebServices13-sprint4" width="100%">
-  			<img src="/assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
-  			<img src="/assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
-  			<img src="/assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
-			<img src="/assets/WebServices17-sprint4.png" alt="WebServices17-sprint4" width="100%">	
-			<img src="/assets/WebServices18-sprint4.png" alt="WebServices18-sprint4" width="100%">	
-			<img src="/assets/WebServices19-sprint4.png" alt="WebServices19-sprint4" width="100%">	
-			<img src="/assets/WebServices20-sprint4.png" alt="WebServices20-sprint4" width="100%">	
+			<img src="./assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
+  			<img src="./assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
+ 			<img src="./assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
+  			<img src="./assets/WebServices4-sprint4.png" alt="WebServices4-sprint4" width="100%">
+  			<img src="./assets/WebServices5-sprint4.png" alt="WebServices5-sprint4" width="100%">
+			<img src="./assets/WebServices6-sprint4.png" alt="WebServices6-sprint4" width="100%">
+  			<img src="./assets/WebServices7-sprint4.png" alt="WebServices7-sprint4" width="100%">
+  			<img src="./assets/WebServices8-sprint4.png" alt="WebServices8-sprint4" width="100%">
+  			<img src="./assets/WebServices9-sprint4.png" alt="WebServices9-sprint4" width="100%">
+  			<img src="./assets/WebServices10-sprint4.png" alt="WebServices10-sprint4" width="100%">
+  			<img src="./assets/WebServices11-sprint4.png" alt="WebServices11-sprint4" width="100%">
+  			<img src="./assets/WebServices12-sprint4.png" alt="WebServices12-sprint4" width="100%">
+  			<img src="./assets/WebServices13-sprint4.png" alt="WebServices13-sprint4" width="100%">
+  			<img src="./assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
+  			<img src="./assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
+  			<img src="./assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
+			<img src="./assets/WebServices17-sprint4.png" alt="WebServices17-sprint4" width="100%">	
+			<img src="./assets/WebServices18-sprint4.png" alt="WebServices18-sprint4" width="100%">	
+			<img src="./assets/WebServices19-sprint4.png" alt="WebServices19-sprint4" width="100%">	
+			<img src="./assets/WebServices20-sprint4.png" alt="WebServices20-sprint4" width="100%">	
 	Link del repositorio: https://github.com/G2WebApplication-WX54/peace-app-backend<br>
 	Web service commit details:
 <table aling="justify">
@@ -5220,41 +5205,43 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 	Para el presente sprint, se conectaron los Web Services con la Web Application completamente funcional, cumpliendo los user stories correspondientes. A su vez, se cumplio internacionalizar la plataforma, haciendola más accesible a las personas.
 	<ul>
 		<li>Landing Page:</li>
-			<img src="/assets/LandingPage-Sprint4.png" alt="LandingPage-Sprint4" width="100%">
+			<img src="./assets/LandingPage-Sprint4.png" alt="LandingPage-Sprint4" width="100%">
 		<li>Web Application (Front-End):</li>
-			<img src="/assets/MainPage.png" alt="MainPage" width="100%">
-			<img src="/assets/Role-CreateAccount.png" alt="Role-CreateAccount" width="100%">
-			<img src="/assets/Form-Citizen.png" alt="Form-Citizen" width="100%">
-			<img src="/assets/Form-Authority.png" alt="Form-Authority" width="100%">
-			<img src="/assets/Recovery-Password.png" alt="Recovery-Password" width="100%">
-			<img src="/assets/Find-Route.png" alt="Find-Route" width="100%">
-			<img src="/assets/Report-List.png" alt="Report-List" width="100%">
-			<img src="/assets/Create-Report.png" alt="Create-Report" width="100%">
-			<img src="/assets/Profile-Citizen.png" alt="Profile-Citizen" width="100%">
-			<img src="/assets/Profile-Authority.png" alt="Profile-Authority" width="100%">
-			<img src="/assets/Edit-Profile.png" alt="Edit-Profile" width="100%">
+			<img src="./assets/MainPage.png" alt="MainPage" width="100%">
+			<img src="./assets/Role-CreateAccount.png" alt="Role-CreateAccount" width="100%">
+			<img src="./assets/Form-Citizen.png" alt="Form-Citizen" width="100%">
+			<img src="./assets/Form-Authority.png" alt="Form-Authority" width="100%">
+			<img src="./assets/Recovery-Password.png" alt="Recovery-Password" width="100%">
+			<img src="./assets/Find-Route.png" alt="Find-Route" width="100%">
+			<img src="./assets/Report-List.png" alt="Report-List" width="100%">
+			<img src="./assets/Create-Report.png" alt="Create-Report" width="100%">
+			<img src="./assets/Profile-Citizen.png" alt="Profile-Citizen" width="100%">
+			<img src="./assets/Profile-Authority.png" alt="Profile-Authority" width="100%">
+			<img src="./assets/Edit-Profile.png" alt="Edit-Profile" width="100%">
 		<li>Web Services (Back-End): </li>	
-			<img src="/assets/Deploy-BD.jpg" alt="Deploy-BD" width="100%">
-			<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
-  			<img src="/assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
- 			<img src="/assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
-  			<img src="/assets/WebServices4-sprint4.png" alt="WebServices4-sprint4" width="100%">
-  			<img src="/assets/WebServices5-sprint4.png" alt="WebServices5-sprint4" width="100%">
-			<img src="/assets/WebServices6-sprint4.png" alt="WebServices6-sprint4" width="100%">
-  			<img src="/assets/WebServices7-sprint4.png" alt="WebServices7-sprint4" width="100%">
-  			<img src="/assets/WebServices8-sprint4.png" alt="WebServices8-sprint4" width="100%">
-  			<img src="/assets/WebServices9-sprint4.png" alt="WebServices9-sprint4" width="100%">
-  			<img src="/assets/WebServices10-sprint4.png" alt="WebServices10-sprint4" width="100%">
-  			<img src="/assets/WebServices11-sprint4.png" alt="WebServices11-sprint4" width="100%">
-  			<img src="/assets/WebServices12-sprint4.png" alt="WebServices12-sprint4" width="100%">
-  			<img src="/assets/WebServices13-sprint4.png" alt="WebServices13-sprint4" width="100%">
-  			<img src="/assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
-  			<img src="/assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
-  			<img src="/assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
-			<img src="/assets/WebServices17-sprint4.png" alt="WebServices17-sprint4" width="100%">	
-			<img src="/assets/WebServices18-sprint4.png" alt="WebServices18-sprint4" width="100%">	
-			<img src="/assets/WebServices19-sprint4.png" alt="WebServices19-sprint4" width="100%">	
-			<img src="/assets/WebServices20-sprint4.png" alt="WebServices20-sprint4" width="100%">	
+			<img src="./assets/Deploy-BD.jpg" alt="Deploy-BD" width="100%">
+			<img src="./assets/API-desplegada.jpg" alt="API-desplegada" width="100%">
+			<img src="./assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
+  			<img src="./assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
+ 			<img src="./assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
+  			<img src="./assets/WebServices4-sprint4.png" alt="WebServices4-sprint4" width="100%">
+  			<img src="./assets/WebServices5-sprint4.png" alt="WebServices5-sprint4" width="100%">
+			<img src="./assets/WebServices6-sprint4.png" alt="WebServices6-sprint4" width="100%">
+  			<img src="./assets/WebServices7-sprint4.png" alt="WebServices7-sprint4" width="100%">
+  			<img src="./assets/WebServices8-sprint4.png" alt="WebServices8-sprint4" width="100%">
+  			<img src="./assets/WebServices9-sprint4.png" alt="WebServices9-sprint4" width="100%">
+  			<img src="./assets/WebServices10-sprint4.png" alt="WebServices10-sprint4" width="100%">
+  			<img src="./assets/WebServices11-sprint4.png" alt="WebServices11-sprint4" width="100%">
+  			<img src="./assets/WebServices12-sprint4.png" alt="WebServices12-sprint4" width="100%">
+  			<img src="./assets/WebServices13-sprint4.png" alt="WebServices13-sprint4" width="100%">
+  			<img src="./assets/WebServices14-sprint4.png" alt="WebServices14-sprint4" width="100%">
+  			<img src="./assets/WebServices15-sprint4.png" alt="WebServices15-sprint4" width="100%">
+  			<img src="./assets/WebServices16-sprint4.png" alt="WebServices16-sprint4" width="100%">	
+			<img src="./assets/WebServices17-sprint4.png" alt="WebServices17-sprint4" width="100%">	
+			<img src="./assets/WebServices18-sprint4.png" alt="WebServices18-sprint4" width="100%">	
+			<img src="./assets/WebServices19-sprint4.png" alt="WebServices19-sprint4" width="100%">	
+			<img src="./assets/WebServices20-sprint4.png" alt="WebServices20-sprint4" width="100%">	
+		link: https://peaceapp.azurewebsites.net/
 	</ul>
 </div>
 
@@ -5275,12 +5262,12 @@ Tabla para poder identificarnos:
 |ern23zc               	| Victor Ernesto Zarate Caceres |
 
 ##### Commits:
-<img src="/assets/CommitsAnalysisS41.png" alt="CommitsAnalysis (Web App) - Sprint 4">
-<img src="/assets/CommitsAnalysisS42.png" alt="CommitsAnalysis (Web Services) - Sprint 4">
+<img src="./assets/CommitsAnalysisS41.png" alt="CommitsAnalysis (Web App) - Sprint 4">
+<img src="./assets/CommitsAnalysisS42.png" alt="CommitsAnalysis (Web Services) - Sprint 4">
 
 ##### Analíticas de Colaboración:
-<img src="/assets/ColaborationAnalysisS41.png" alt="ColaborationAnalysis (Web App)- Sprint 4">
-<img src="/assets/ColaborationAnalysisS42.png" alt="ColaborationAnalysis (Web Services) - Sprint 4">
+<img src="./assets/ColaborationAnalysisS41.png" alt="ColaborationAnalysis (Web App)- Sprint 4">
+<img src="./assets/ColaborationAnalysisS42.png" alt="ColaborationAnalysis (Web Services) - Sprint 4">
 	
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -5316,7 +5303,7 @@ Tabla para poder identificarnos:
 			<td>Fatima Urbina</td>
 		</tr>
 		<tr>
-			<td colspan="2" ><img src="/assets/Entrevista-Andres-Fatima.jpg" alt="Entrevista-Andres-Fatima"></td>
+			<td colspan="2" ><img src="./assets/Entrevista-Andres-Fatima.jpg" alt="Entrevista-Andres-Fatima"></td>
 		</tr>
 		<tr>
 		<td colspan="2">Mientras navegaba por la aplicación web, Fátima destacó la facilidad de entendimiento y la dinámica de la interfaz. No obstante, mencionó que, habiéndose ya creado una cuenta como usuario y después de iniciar sesión, no debería tener 		que indicar si es usuario o autoridad; la página debería reconocer si ella es usuario o autoridad. También señaló que las notificaciones deberían actualizarse de manera automática y no manualmente. Por último, indicó que cuando se dirige a la 			visualización de perfil, debería aparecerle su perfil directamente sin tener que seleccionar su tipo de usuario.</td>
@@ -5331,7 +5318,7 @@ Tabla para poder identificarnos:
 			<td>Mauricio Rojas</td>
 		</tr>
 		<tr>
-			<td colspan="2" ><img src="/assets/Entrevista-Anatoly-Mauricio.png" alt="Entrevista-Anatoly-Mauricio"></td>
+			<td colspan="2" ><img src="./assets/Entrevista-Anatoly-Mauricio.png" alt="Entrevista-Anatoly-Mauricio"></td>
 		</tr>
 		<tr>
 		<td colspan="2">Mientras el ciudadano Mauricio accedia a la aplicación web, mencionó que le parecio interesante el apartado del mapa junto con las rutas y la funcionalidad de reportes. Comenta que en general la aplicación supero sus expectativas generales. Sin embargo, algo a destacar que menciono el usuario es que en si no hay una validación de los datos al momento de crear una nueva cuenta. Al momento de crear la cuenta y darle al botón de submit directamente lo redirige a la seccion de perfil de ciudadano junto con datos ya preestablecidos de la página y no con los datos reales.</td>
@@ -5408,7 +5395,7 @@ La aplicación permite a los usuarios crear cuentas sin validar la información 
 
 - Recomendación:
 Implementar validaciones de campos obligatorios al crear una cuenta para asegurar que se ingresen datos completos y correctos.
-<img src="/assets/EvidenciaProblema1.png" alt="Evidencia Problema 1">
+<img src="./assets/EvidenciaProblema1.png" alt="Evidencia Problema 1">
 
 **PROBLEMA #2:**
 - Severidad: 2
@@ -5417,7 +5404,7 @@ Heurística violada: Consistency and Standards
 - Problema:Al dirigirse a la visualización de perfil, el usuario debe seleccionar su tipo de usuario en lugar de mostrar directamente su perfil.
 
 - Recomendación: Ajustar la navegación de la aplicación para que, al acceder a la visualización del perfil, se muestre automáticamente el perfil correspondiente sin pasos adicionales.
-<img src="/assets/EvidenciaProblema2.png" alt="Evidencia Problema 2">
+<img src="./assets/EvidenciaProblema2.png" alt="Evidencia Problema 2">
 
 
 ## 5.4. Video About-the-Product.
@@ -5451,7 +5438,7 @@ Enlace: https://youtu.be/sA65PrsZbco
 <div align="justify">
 El video ofrece un resumen del trabajo del equipo, en el cual los integrantes detallan las tareas que realizaron para alcanzar los objetivos del curso. Los miembros del equipo resaltan la importancia de la comunicación oral y escrita como un método eficiente para compartir ideas y comunicar el avance del proyecto.
 El video tiene una duracion de 15:04 minutos. Desde el minuto 0:00 al 0:56 el integrante Johan Príncipe explica su aporte al proyecto. Del 0:57 al 2:49, Ernesto Zarate habla de su participación en el proyecto junto con sus aportes en el mismo. Del minuto 2:50 al 4:17 continúa Andres Rodriguez, seguidamente de Franz Escalantes desde el minuto 4:19 al 5:45. El video concluye con Anatoly Noriega dando explicación de sus aportes para el trabajo y las metas que logró.
-<img src="/assets/About-the-Team.png" alt="About-the-Team(v1)">
+<img src="./assets/About-the-Team.png" alt="About-the-Team(v1)">
 Enlace: https://youtu.be/NIMv12_64jI 
 </div>
 
