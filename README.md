@@ -255,6 +255,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
           <b>Príncipe Godoy, Johan:</b><br>
             <br><br>
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            Se colaboró en algunas partes del frontend y se realizo la documentación correspondiente al desarrollo del Sprint 4, correspondiente a esta entrega.<br>
             <br><br>
           <b>Zarate Caceres, Victor Ernesto:</b><br>
             Se participo en la corrección de los últimos detalles que se presentaron en el apartado Frontend. A su vez, se procuro adaptar los datos necesarios para una conexión exitosa a los Web Services.
@@ -315,6 +316,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
           <b>Príncipe Godoy, Johan:</b><br>
             <br><br>
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
+            Se uso todos los conocimientos adquiridos del curso para mejorar el diseño de la aplicación web y presentar un nuevo informe más apegado a lo que se espera en el curso.
             <br><br>
           <b>Zarate Caceres, Victor Ernesto:</b><br>
             Los distintos métodos y temas aprendidos durante el curso sirvieron para concatenar las istintas piezas que se fueron creando a lo largo del camino para culminar en esta entrega final.
