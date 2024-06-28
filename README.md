@@ -4950,11 +4950,14 @@ Enlace:
       <li>El needfinding nos permitió entender mejor a nuestros usuarios y sus necesidades, lo que nos ayudó a idear una solución que satisfaga sus expectativas.</li>
       <li>Utilizando el Product Backlog y el Impact Map, priorizamos las necesidades de nuestros usuarios. El diseño UX/UI resultó en interfaces innovadoras y atractivas para nuestra aplicación.</li>
       <li>Las validaciones y auditorías nos permitieron refinar y mejorar nuestros productos continuamente. Al finalizar la TB2 y con la implementación de la web applications, empezamos a recibir retroalimentación de los usuarios para resolver de mejor manera el problema y desarrollar un amejor solución.</li>
-    </ul>
+    <li>La presentación de evidencia de despliegue de software durante la revisión del sprint muestra que las funcionalidades están siendo probadas y puestas en producción de manera efectiva.</li>
+<li>Durante el sprint actual, se han conectado servicios web, lo que indica progreso en la integración y comunicación entre diferentes partes del sistema. Esto es crucial para el funcionamiento cohesivo de la aplicación.</li>
+</ul>
     <li>Recomendaciones:</li>
     <ul>
-      <li></li>
-    </ul>
+      <li>Continuar adoptando y mejorando las prácticas ágiles, asegurando que todos los sprints terminen con una revisión y retrospectiva para identificar áreas de mejora en el proceso de desarrollo.</li>
+<li>Implementar revisiones de código regulares y obligatorias para asegurar la calidad y consistencia del código entre todos los miembros del equipo</li>    
+</ul>
   </ul>
 </div>
 
