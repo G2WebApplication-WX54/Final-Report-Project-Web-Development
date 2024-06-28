@@ -1,5 +1,3 @@
-docs: add images for web servicesweb<hr>
-
 # <center>COURSE PROJECT</center>
 
 <p align="center">
@@ -4270,27 +4268,36 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 		</tr>
 	</table>
 	Web Service:
-  <table>
-		<tr>
-			<td>Endpoint</td>
-			<td>Details</td>
-		</tr>
-		<tr>
-			<td>/Citizens</td>
-			<td rowspan="2">Se implementaron las operaciones CRUD para lograr el registro de nuevos usuarios.</td>
-		</tr>
-    <tr>
-			<td>/OrganizationsAccount</td>
-		</tr>
-  <tr>
-			<td>/Notification</td>
-			<td>Se implementaron las operaciones CRUD para lograr el registro de reportes y su notificación correspondiente.</td>
-		</tr>
-  <tr>
-			<td>/ReportsManagement</td>
-			<td>Se implementaron las operaciones CRUD para lograr el manejo de los reportes que se han registrado.</td>
-		</tr>
-	</table>
+	<table>
+        <tr>
+            <td>Endpoint</td>
+            <td>Details</td>
+        </tr>
+        <tr>
+            <td>/Authentications</td>
+            <td>Se implementaron las operaciones CRUD para lograr el registro de nuevos usuarios y su autenticación.</td>
+        </tr>
+        <tr>
+            <td>/Citizens</td>
+            <td>Se implementaron las operaciones CRUD para lograr el registro de nuevos ciudadanos.</td>
+        </tr>
+        <tr>
+            <td>/Notification</td>
+            <td>Se implementaron las operaciones CRUD para lograr el registro de notificaciones y su llamado para la ventana correspondiente.</td>
+        </tr>
+        <tr>
+            <td>/OrganizationsAccount</td>
+            <td>Se implementaron las operaciones CRUD para lograr el registro de nuevas organizaciones.</td>
+        </tr>
+        <tr>
+            <td>/ReportsManagement</td>
+            <td>Se implementaron las operaciones CRUD para lograr el manejo de los reportes que se han registrado.</td>
+        </tr>
+        <tr>
+            <td>/Users</td>
+            <td>Se implementaron las operaciones CRUD para lograr el manejo de los usuarios que se han registrado.</td>
+        </tr>
+</table>
 	<table>
 <tr>
     <td>Endpoint</td>
@@ -4299,89 +4306,110 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
     <td>URL</td>
 </tr>
 <tr>
+    <td rowspan="2">Authentication</td>
+    <td>POST</td>
+    <td>No tiene</td>
+    <td>api/v1/authentication/sign-up</td>
+</tr>
+<tr>
+    <td>POST</td>
+    <td>No tiene</td>
+    <td>api/v1/authentication/sign-in</td>
+</tr>
+<tr>
     <td rowspan="5">Citizens</td>
     <td>POST</td>
     <td>No tiene</td>
-    <td>/api/v1/citizens</td>
+    <td>api/v1/citizens</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>No tiene</td>
-    <td>/api/v1/citizens</td>
+    <td>api/v1/citizens</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>{citizenId}</td>
-    <td>/api/v1/citizens/{citizenId}</td>
+    <td>api/v1/citizens/{citizenId}</td>
 </tr>
 <tr>
     <td>PUT</td>
     <td>{citizenId}</td>
-    <td>/api/v1/citizens/{citizenId}</td>
+    <td>api/v1/citizens/{citizenId}</td>
 </tr>
 <tr>
     <td>DELETE</td>
     <td>{citizenId}</td>
-    <td>/api/v1/citizens/{citizenId}</td>
+    <td>api/v1/citizens/{citizenId}</td>
 </tr>
 <tr>
     <td rowspan="4">Notification</td>
     <td>POST</td>
     <td>No tiene</td>
-    <td>/api/v1/notification</td>
+    <td>api/v1/notification</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>No tiene</td>
-    <td>/api/v1/notification</td>
+    <td>api/v1/notification</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>{id}</td>
-    <td>/api/v1/notification/{id}</td>
+    <td>api/v1/notification/{id}</td>
 </tr>
-
 <tr>
     <td>GET</td>
     <td>{priority}</td>
-    <td>/api/v1/notification/priority/{priority}</td>
+    <td>api/v1/notification/priority/{priority}</td>
 </tr>
 <tr>
     <td rowspan="2">OrganizationsAccount</td>
     <td>POST</td>
     <td>No tiene</td>
-    <td>/api/v1/organizations-account</td>
+    <td>api/v1/organizations-account</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>{organizationName}</td>
-    <td>/api/v1/organizations-account/{organizationName}</td>
+    <td>api/v1/organizations-account/{organizationName}</td>
 </tr>
 <tr>
     <td rowspan="5">ReportsManagement</td>
     <td>POST</td>
     <td>No tiene</td>
-    <td>/api/v1/reports</td>
+    <td>api/v1/reports</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>No tiene</td>
-    <td>/api/v1/reports</td>
+    <td>api/v1/reports</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>{id}</td>
-    <td>/api/v1/reports/{id}</td>
+    <td>api/v1/reports/{id}</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>{citizenId}</td>
-    <td>/api/v1/reports/citizen/{citizenId}</td>
+    <td>api/v1/reports/citizen/{citizenId}</td>
 </tr>
 <tr>
     <td>GET</td>
     <td>{citizenId},{id}</td>
-    <td>/api/v1/reports/{citizenId},{id}</td>
+    <td>api/v1/reports/{citizenId},{id}</td>
+</tr>
+<tr>
+    <td rowspan="2">Users</td>
+    <td>GET</td>
+    <td>{id}</td>
+    <td>api/v1/users/{id}</td>
+</tr>
+<tr>
+    <td>GET</td>
+    <td>No tiene</td>
+    <td>api/v1/users</td>
 </tr>
 </table>
 	<br>
