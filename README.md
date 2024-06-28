@@ -4251,8 +4251,40 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 	Para la entrega del Sprint 4 se busco perfeccionar el diseño de la Web Application y conectarla con los Web Services para ponerla en total funcionamiento. Realizado esto, presentamos como evidencias:
 </div>
 
-##### Sección
-##### Sección
+##### Sección Main Page
+<img src="/assets/MainPage.png" alt="MainPage" width="100%">
+
+##### Sección Role Create Account
+<img src="/assets/Role-CreateAccount.png" alt="Role-CreateAccount" width="100%">
+
+##### Sección Form Citizen
+<img src="/assets/Form-Citizen.png" alt="Form-Citizen" width="100%">
+
+##### Sección Form Authority
+<img src="/assets/Form-Authority.png" alt="Form-Authority" width="100%">
+
+##### Sección Recovery Password
+<img src="/assets/Recovery-Password.png" alt="Recovery-Password" width="100%">
+
+##### Sección Find Route
+<img src="/assets/Find-Route.png" alt="Find-Route" width="100%">
+
+##### Sección Report List
+<img src="/assets/Report-List.png" alt="Report-List" width="100%">
+
+##### Sección Create Report
+<img src="/assets/Create-Report.png" alt="Create-Report" width="100%">
+
+##### Sección Profile Citizen
+<img src="/assets/Profile-Citizen.png" alt="Profile-Citizen" width="100%">
+
+##### Sección Profile Authority
+<img src="/assets/Profile-Authority.png" alt="Profile-Authority" width="100%">
+
+##### Sección Edit Profile
+<img src="/assets/Edit-Profile.png" alt="Edit-Profile" width="100%">
+
+
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 <div align="justify">
