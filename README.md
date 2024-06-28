@@ -4760,6 +4760,8 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 <div align="justify">
 	Para el presente sprint, se conectaron los Web Services con la Web Application completamente funcional, cumpliendo los user stories correspondientes. A su vez, se cumplio internacionalizar la plataforma, haciendola más accesible a las personas.
 	<ul>
+		<li>Landing Page:</li>
+			<img src="/assets/LandingPage-Sprint4.png" alt="LandingPage-Sprint4" width="100%">
 		<li>Web Application (Front-End):</li>
 			<img src="/assets/MainPage.png" alt="MainPage" width="100%">
 			<img src="/assets/Role-CreateAccount.png" alt="Role-CreateAccount" width="100%">
