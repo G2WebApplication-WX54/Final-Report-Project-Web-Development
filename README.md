@@ -317,6 +317,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
 	      Se usaron los conocimientos adquiridos del curso para mejorar la parte del backend agregando validaciones y convenciones para la logica de negocio
             <br><br>          
           <b>Príncipe Godoy, Johan:</b><br>
+	      Los conocimientos adquiridos durante la parte final del curso fueron usados para la mejora del backend y los componentes y servicios del front.
             <br><br>
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
             Se uso todos los conocimientos adquiridos del curso para mejorar el diseño de la aplicación web y presentar un nuevo informe más apegado a lo que se espera en el curso.
