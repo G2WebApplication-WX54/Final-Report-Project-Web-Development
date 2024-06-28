@@ -249,11 +249,13 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             Se participo en la siguiente mejora de la Web App, así como con las entrevistas, videos About-The-Team y About-The-Product; y la documentación correspondiente al desarrollo del Sprint 3, correspondiente a esta entrega.<br><br>
         TF:<br><br>
           <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            Se diseño y publico la versión final de los Web Services.
             <br><br>
           <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+             Se colaboro en parte del front end y en poner las secciones about the team y product en la landing page
             <br><br>          
           <b>Príncipe Godoy, Johan:</b><br>
-            <br><br>
+            Trabajo activo para desarrollar las últimas funcionalidades del front end con su respectiva tabla en la base de datos.<br><br>
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
             Se colaboró en algunas partes del frontend y se realizo la documentación correspondiente al desarrollo del Sprint 4, correspondiente a esta entrega.<br>
             <br><br>
@@ -268,6 +270,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
         TB2:<br>
           Se revisaron los errores previos para desplegar la versión definitiva del frontend y se ideo el desarrollo y futura implementación del backend. Nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar las metas que se plantearon para esta entrega y acercarnos más a la versión definitva de la futura entrega.<br><br>
         TF:<br>
+          Se ha trabajado de forma colaborativa para terminar con el proyecto, tanto en la modificación del repositorio del reporte como en la creación y despliegue de la aplicación web y sus web services. En este sprint se han corregido puntos previos para dar luz a la versión final, donde nuestro esfuerzo conjunto y colaborativo ha sido fundamental para alcanzar los objetivos establecidos.
       </td>
     </tr>
     <tr>
@@ -310,10 +313,13 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
             Se aplicaron los conocimientos adquiridos para corregir los errores existentes en nuestro informe y mejorar el funcionamiento de las aplicaciones. Este conocimiento permitio mejorar el dieños de ambas plataformas y presentar un nuevo informe más apegado a lo que se espera en el curso.<br><br>
         TF:<br><br>
           <b>Escalante Baygorrea, Janiel Franz:</b><br>
+            Se utilizo la prendido para crear la versión final del proyexto, acorde a lo establecido en el curso.
             <br><br>
           <b>Noriega Suschenko, Anatoly Andrey:</b><br>
+            Se usaron los conocimientos adquiridos del curso para mejorar la parte del backend agregando validaciones y convenciones para la logica de negocio
             <br><br>          
           <b>Príncipe Godoy, Johan:</b><br>
+            Se utilizo toda la información recopilda para orientar el diseño hacia la versión final de la aplicación web.
             <br><br>
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
             Se uso todos los conocimientos adquiridos del curso para mejorar el diseño de la aplicación web y presentar un nuevo informe más apegado a lo que se espera en el curso.
@@ -329,6 +335,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
         TB2:<br>
           Nuestra aplicación web siempre ha sido diseñada teniendo en cuenta la usabilidad y la accesibilidad, haciéndola sencilla y fácil de usar. Al hacer que la tecnología sea más accesible, este enfoque ayuda a las personas a sentirse mejor y a estar más conectadas. Nuestros Servicios web están construidos con medidas de seguridad de primer nivel para garantizar la privacidad de nuestros usuarios.<br><br>
         TF:<br>
+          Se aplicó toda la experiencia y conocimientos adquiridos para abordar este último desafío. de la manera adecuada. De esta manera, se cumplio con los requisitos necesarios para cada aspecto de la aplicación, desde la landing page, hasta la versión desplegada de la web application y web services.
 			</td>
 		</tr>
 	</table>
@@ -4676,6 +4683,7 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 </div>
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
 <div align="justify">
 	<table>
 	    <tr>
@@ -5334,7 +5342,6 @@ Tabla para poder identificarnos:
 	</table>
 </div>
 
-#### Segmento 2:
 <div align="justify">
 	<table>
 		<tr>
@@ -5389,8 +5396,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 |---|----------|--------------------|---------------------------------|
 | 1 |No se valida la información al crear una cuenta para el ciudadano.|4|Usability: Prevención de errores|
 | 2 |Visualización Directa del Perfil|2|Consistency and Standards|
-|   |          |                    |                                 |
-|   |          |                    |                                 |
 
 <br>
 
@@ -5414,30 +5419,12 @@ Heurística violada: Consistency and Standards
 - Recomendación: Ajustar la navegación de la aplicación para que, al acceder a la visualización del perfil, se muestre automáticamente el perfil correspondiente sin pasos adicionales.
 <img src="/assets/EvidenciaProblema2.png" alt="Evidencia Problema 2">
 
-**PROBLEMA #3:**
-- Severidad: 
-
-- Problema:
-
-- Recomendación:
-<img src="/assets/EvidenciaProblema3.png" alt="Evidencia Problema 3">
-
-**PROBLEMA #4:**
-- Severidad: 
-
-- Problema:
-
-- Recomendación:
-<img src="/assets/EvidenciaProblema4.png" alt="Evidencia Problema 4">
 
 ## 5.4. Video About-the-Product.
-### Versión 1:
 <img src="/assets/About-the-Product.png" alt="About-the-Product(v1)">
 Enlace: https://youtu.be/sA65PrsZbco
 
-### Versión 2:
-<img src="/assets/About-the-Product2.png" alt="About-the-Product(v2)">
-Enlace: 
+
 
 # Conclusiones
 ## Conclusiones y Recomendaciones
