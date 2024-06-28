@@ -55,7 +55,7 @@
 |TB1| 14/04/2024 |Todos los integrantes del equipo| Capitulo I, Capitulo II, Capitulo III, Capitulo IV y Capitulo V.<br>Creación de Landing Page | 
 |TP | 01/05/2024 |Todos los integrantes del equipo| Correción del presentable anterior<br>Mejora de Landing Page<br>Creación de App Web|
 |TB2| 08/06/2024 |Todos los integrantes del equipo| Correcion del presentable anterior<br>Versión definitiva de Landing Page<br>Mejora de App Web<br>Primera versión de Web Services<br>Primera versión de Video About-The-Product.<br>Primera versión de Video About-The-Team|
-|TF | --/06/2024 |Todos los integrantes del equipo|Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión mejorada de Web Services<br>Versión final de Video About-The-Product.<br>Versión final de Video About-The-Team||
+|TF | 28/06/2024 |Todos los integrantes del equipo|Correcion del presentable anterior<br>Versión definitiva de App Web<br>Versión mejorada de Web Services<br>Versión final de Video About-The-Product.<br>Versión final de Video About-The-Team||
 
 # Project Report Collaboration Insights
 
@@ -257,6 +257,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
             <br><br>
           <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Se participo en la corrección de los últimos detalles que se presentaron en el apartado Frontend. A su vez, se procuro adaptar los datos necesarios para una conexión exitosa a los Web Services.
       </td>
       <td>
         TB1:<br>
@@ -316,6 +317,7 @@ Informe: https://github.com/G2WebApplication-WX54/Final-Report-Project-Web-Devel
           <b>Rodriguez Zuluoeta, Andres Fernando:</b><br>
             <br><br>
           <b>Zarate Caceres, Victor Ernesto:</b><br>
+            Los distintos métodos y temas aprendidos durante el curso sirvieron para concatenar las istintas piezas que se fueron creando a lo largo del camino para culminar en esta entrega final.
       </td>
       <td>
         TB1:<br><br>
@@ -4052,11 +4054,11 @@ Tabla para poder identificarnos:
   </tr>
   <tr align="center">
     <td>Sprint 3 Review Summary</td>
-    <td align="justify">-</td>
+    <td align="justify">Se diseño una versión preliminar y funcional de los Web Services a ser implementados.</td>
   </tr>
   <tr align="center">
     <td>Sprint 3 Retrospective Summary</td>
-    <td align="justify"></td>
+    <td align="justify">El tiempo jugo en contra para llevar a la entrega. En esta ocasión, buscará realizarse con antelación.</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
@@ -4068,11 +4070,11 @@ Tabla para poder identificarnos:
   </tr>
   <tr align="center">
     <td>Sprint 4 Velocity</td>
-    <td>-</td>
+    <td>21</td>
   </tr>
   <tr align="center">
     <td>Sum of Story Point</td>
-    <td>-</td>
+    <td>21</td>
   </tr>
 </table>
 
@@ -4105,9 +4107,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-01</td>
       <td>Formulario de registro</td>
       <td>Configurar el formulario de registro para recibir toda la información requerida.</td>
-      <td>-</td>
+      <td>3</td>
       <td>Johan Principe</td>
-      <td>In process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>EP08</td>
@@ -4115,7 +4117,7 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-02</td>
       <td>Tabla en BD</td>
       <td>Configurar la tabla en la que se almacenara la información</td>
-      <td>-</td>
+      <td>3</td>
       <td>Franz Escalante</td>
       <td>In Process</td>
     </tr>
@@ -4125,9 +4127,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-03</td>
       <td>Ver reportes</td>
       <td>Observar los reportes correspondientes a la jurisdicción de la entidad gubernamental.</td>
-      <td>-</td>
+      <td>3</td>
       <td>Johan Principe</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>US03</td>
@@ -4135,9 +4137,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-04</td>
       <td>Registro como ciudadano</td>
       <td>Registrar un perfil ciudadano, con la información requerida.</td>
-      <td>-</td>
+      <td>1</td>
       <td>Andres Rodriguez</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>US03</td>
@@ -4145,9 +4147,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-05</td>
       <td>Registro como entidad gubernamental</td>
       <td>Registrar un perfil de entidad gubernamental, con la información requerida.</td>
-      <td>-</td>
+      <td>1</td>
       <td>Andres Rodriguez</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -4155,7 +4157,7 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-06</td>
       <td>Almacenar ciudadano</td>
       <td>Almacenar la información en la base de datos tras el registro del usuarios</td>
-      <td>-</td>
+      <td>2</td>
       <td>Anatoly Noriega</td>
       <td>In Process</td>
     </tr>
@@ -4165,9 +4167,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-07</td>
       <td>Almacenar entidad gubernamental</td>
       <td>Almacenar la información en la base de datos tras el registro de la entidad gubernamental</td>
-      <td>-</td>
+      <td>2</td>
       <td>Anatoly Noriega</td>
-      <td>To do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -4175,9 +4177,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-09</td>
       <td>Iniciar Sesión - Usuario</td>
       <td>Usar el método GET para validar el inicio de sesión del ciudadano.</td>
-      <td>-</td>
+      <td>3</td>
       <td>Ernesto Zarate</td>
-      <td>To do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -4185,9 +4187,9 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
       <td>W-09</td>
       <td>Iniciar Sesión - Entidad gubernamental</td>
       <td>Usar el método GET para validar el inicio de sesión del la Entidad Gubernamental.</td>
-      <td>-</td>
+      <td>3</td>
       <td>Ernesto Zarate</td>
-      <td>To do</td>
+      <td>Done</td>
     </tr>
   </table>
 </div>
@@ -4777,7 +4779,7 @@ Tabla para poder identificarnos:
 	
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
-<div align=justify">
+<div align="justify">
 	En este segmento, se esbozan las metas específicas de los usuarios que guían nuestras entrevistas. Estos "User Goals" son fundamentales para garantizar que la aplicación web cumpla con las necesidades auténticas de los usuarios en el ámbito de la seguridad y la prevención del crimen. A continuación, se presentan los objetivos del usuario mencionados:
 	<ul>
 		<li><b>User Goal: Iniciar Sesión</b></li>
@@ -4854,7 +4856,7 @@ Tabla para poder identificarnos:
 	</table>
 	<table>
 		<tr>
-			<td>Entrevista 1: </td>
+			<td>Entrevista 2: </td>
 			<td></td>
 		</tr>
 		<tr>
@@ -4962,18 +4964,11 @@ Enlace:
 </div>
 
 ## Video About-The-Team
-### Versión 1:
 <div align="justify">
 El video ofrece un resumen del trabajo del equipo, en el cual los integrantes detallan las tareas que realizaron para alcanzar los objetivos del curso. Los miembros del equipo resaltan la importancia de la comunicación oral y escrita como un método eficiente para compartir ideas y comunicar el avance del proyecto.
 El video tiene una duracion de 15:04 minutos. Desde el minuto 0:00 al 0:56 el integrante Johan Príncipe explica su aporte al proyecto. Del 0:57 al 2:49, Ernesto Zarate habla de su participación en el proyecto junto con sus aportes en el mismo. Del minuto 2:50 al 4:17 continúa Andres Rodriguez, seguidamente de Franz Escalantes desde el minuto 4:19 al 5:45. El video concluye con Anatoly Noriega dando explicación de sus aportes para el trabajo y las metas que logró.
 <img src="/assets/About-the-Team.png" alt="About-the-Team(v1)">
 Enlace: https://youtu.be/NIMv12_64jI 
-</div>
-
-### Versión 2:
-<div align="justify">
-  <img src="/assets/About-the-Team2.png" alt="About-the-Team(v2)">
-  Enlace: 
 </div>
 
 # Bibliografía
@@ -4987,6 +4982,7 @@ Enlace: https://youtu.be/NIMv12_64jI
     <li>Naciones Unidas. (2019). <em>UN System-Wide Guidelines on Safer Cities and Human Settlements.</em> Recuperado de https://www.un.org</li>
   </ul>
 </div>
+
 # Anexos.
 <table>
 	<tr>
@@ -5046,15 +5042,11 @@ Enlace: https://youtu.be/NIMv12_64jI
 	<tr>
 		<td>Video About-the-Team</td>
 		<td>
-			Cantidad de videos: 2<br>
+			Cantidad de videos: 1<br>
 			Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Team<br>
 			Formato: .mp4<br>
 			Duración: 15:04<br>
-			Enlace: https://youtu.be/NIMv12_64jI<br><br>
-      Nomenclatura: upc-pre202401-si730-WX54-PeaceApp-About-the-Team-v2<br>
-			Formato: .mp4<br>
-			Duración: <br>
-			Enlace: 
+			Enlace: https://youtu.be/NIMv12_64jI
 		</td>
 	</tr>
 </table>
