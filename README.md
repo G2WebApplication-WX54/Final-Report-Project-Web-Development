@@ -4196,32 +4196,481 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 
 #### 5.2.4.3.Development Evidence for Sprint Review.
 <div align="justify">
-	<table>
-		<tr>
-			<td>Repository</td>
-      <td>Branch</td>
-      <td>Commit Id</td>
-      <td>Commit Message</td>
-      <td>Commit Message Body</td>
-      <td>Commited on (Date)</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		</tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-		</tr>
-	</table>
+	<table aling="justify">
+<tr>
+<td>Repository</td>
+<td>Branch</td>
+<td>Commit Id</td>
+<td>Commit Message</td>
+<td>Commit Message Body</td>
+<td>Commited on (Date)</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>006fe5671d2075ece71b9d307091283615a2452f</td>
+<td>chore: comments to improve in report</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>5fd8fc3a392b02782b6281656261b65b31883afa</td>
+<td>fix: date deleted and created date added to the response.</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>bbe25d75e9acd9f5a811c14cab4dcc0fe174a180</td>
+<td>fix: get by date repository fixed without error handling</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>bd7eba754f587da0cb72e0c4d9ee7d7c61d53411</td>
+<td>feat(BaseRepository): id doesnt exist message added.</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>42051e23172c3cdc7f5edf9931e278edcf55ecf9</td>
+<td>feat: Join Reports and Citizen</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>573af0c2356143ee4e60ee14a7774479ac5a4893</td>
+<td>Merge remote-tracking branch 'origin/fix/reports' into temporal-merging</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>e195e3f1397e4e3bd930b137f4d3e8bee018f043</td>
+<td>update</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>eedf26370faeba4919763fca94c976031ef01a66</td>
+<td>fix: GET by District and Date</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>31c6ccabf5243090202dc606dfd08894ad063a83</td>
+<td>chore: new packages</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>0dba83f6572948a78148cd8ed1f80428c410e8b1</td>
+<td>feat(iam): added user aggregate</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>314c8c58bd03cfca4084b1b4ee5d9ac203464013</td>
+<td>feat: commands and queries added</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>c2df13853714f8aca059df3b2019201f1349f819</td>
+<td>feat(iam): domain services created</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>f581ab40bfdb17a6a547b83e04f1edd4ab8b81a6</td>
+<td>feat(iam): added repository</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>c239d5abdcb2559b12c7e97dc699413c63142086</td>
+<td>feat(iam): infrastructure layer added and appdbcontext new builders</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>8ac1adbdba06eea4ea1f4933617d88f71fc8eeb8</td>
+<td>feat(iam): user repository</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>1f3f392812bfbe1282112a204b496b73eb2b9f98</td>
+<td>feat(iam): added hashing and tokken in application layer</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>d8766cdb1f66bfb4866d8b67ea151a8282bdee0d</td>
+<td>feat: GetAllReports</td>
+<td>-</td>
+<td>26/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>0109bc9f91a60c4561fed74f8bb2ab0ee47d582a</td>
+<td>feat(iam): user command service application layer</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>73f834c330ae5c2e087714c216fc852746eb75d4</td>
+<td>feat(iam): user query service in application layer</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>483fc069eb12753c22fcce98bd4cc9fe3773a444</td>
+<td>feat(iam): hashing service in infrastructure layer</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>3903be863be21892230475ddb1f606126c928954</td>
+<td>feat(reports): add new Endpoint of get all Reports by IdCitizen and get report by IdCitizen and ReportId</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>3668877c79c340cbeba5bb44e2c4e2fe04fe8019</td>
+<td>Merge remote-tracking branch 'origin/feature/reports-v2' into feature/reports-v2</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>475e56e209f8fc629c7d607b3b111fc51ecd445d</td>
+<td>fix(reports): fix the methods while the previous merge</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>2d914c6a2266681451f413988854e95bedb4c0b1</td>
+<td>feat(iam): token in infrastructure layer</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>33b31ea5a772936bf87bf8302be3f37962aae43f</td>
+<td>feat(iam): implemented token service</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>f6ec530f69f81a4958310a3cb5ca2511b72250ae</td>
+<td>fix(iam): authorizations in infrastructure layer</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>92f0c68c3b00f98c6223ad103af1f4c01217aa69</td>
+<td>feat(iam): pipeline finished</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>2cc890ea1d4b14e821979462dc9aaa5613ed909e</td>
+<td>feat(iam): interfaces layer with rest</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>37257910afcef690d97f36b0479b0f4a9fd273af</td>
+<td>feat(iam): implemented authentication controller</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>4799f4caac66f858b4aaf5eb96900abd1b19bd3b</td>
+<td>feat(iam): iam controllers</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>ad5cb55ca1dd60da0773fed18d0ae6c8ed18ac7f</td>
+<td>feat(iam): iam controller ready</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>406ca5005d0d2ce4faae0cbfc58699ce3bc9d586</td>
+<td>feat(iam): facade added</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>3aab254e96c1ffbbe1d1d5a7375b9004e6f0f0d0</td>
+<td>chore: readme added</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>peace-app-backend</td>
+<td>/master</td>
+<td>e2c8b0e03d3cc0367d23fadf9d05d34581a96a0f</td>
+<td>Merge remote-tracking branch 'origin/feature/reports-v2' into merging-v2</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>1ad644bb03254c6c2e41106b79515fea7ddb54da</td>
+<td>feat: login and signup, services, models added and working</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>806771e9088197a6711b52c6e10036077fdf1f16</td>
+<td>fix: Main Page styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>17ae71a0a7bf98b9ab28ff799ea89aae6d1ea580</td>
+<td>fix: User Sign Up Form Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>e8dfaafd37e16314a64e7696367bed3912e2e8df</td>
+<td>fix: Authority Sign Up Form Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>fd4289634cd185505bc6dadbe9c3198916925d63</td>
+<td>feat: log out added and toolbars modificated</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>56eae4e8036af2d30811350ac7c6cb565b8aec82</td>
+<td>fix: Authority Verification Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>eae6e32994901d67cbbc34de2cccbb3a66cfc1b5</td>
+<td>Merge branch 'feature/version1' into fix/css-styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>d78879fb26589e324de64ec5f0534f5b1143fcea</td>
+<td>fix: Reports Form Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>ecfc2ef050573e8d49ad59e5fcb373f56885c6a5</td>
+<td>fix: Reports Form Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>88871ebf4f91144a91147ca66700b56a49d79060</td>
+<td>fix: Authority Profile Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>48e8166665e5474b38b5c5e571f8a36c8009f48d</td>
+<td>delete: Profile pages</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>e5ef542f6ebfae6783e56539bf81aaf94afc3ee3</td>
+<td>fix: Authority Profile Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>94bcdf29121bf9aa1e028605a24f29b91799c5da</td>
+<td>feat: maps added</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>88dadbe97ad2468e953e58eeda38558c70d8e017</td>
+<td>fix: Authority Profile Edit Styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>e63c5f779ea5af4a14d771cd7cd416bea8b6dad9</td>
+<td>Merge branch 'feature/version1' into fix/css-styles</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>e9b9c0667adf585ac625f8e06032f0a1527db2f5</td>
+<td>delete: Routes</td>
+<td>-</td>
+<td>27/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>f07cbbe15d5c3ab9f626d2aec9d292a6030630f4</td>
+<td>fix: User Profile Styles</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>07e83594a097f515a79fc1d25a242f78882842ac</td>
+<td>fix: Edit Profile Styles</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>34afaea91894184760ed1b7aa4ce3d8711cca59a</td>
+<td>fix: Method PUT</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>57a420a01603694b06a9944eeb9883e38c051486</td>
+<td>fix: Authority Edit Styles</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>6c56e54915659d3a78988f9a3e045a956e5318a0</td>
+<td>fix: Buttons Map Styles</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>646cb47f14ae4228dde8b6bae1e5723d3baa5d38</td>
+<td>feat: Map Translation</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>02d902fed1ab6c14fdf42195e8a2e27d47483e22</td>
+<td>feat: add support for German and French translations</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+<tr>
+<td>web-app-project-develop-clean-version</td>
+<td>/fix/css-styles/</td>
+<td>d50d3086f76d5d42af58a13249277f793c369f38</td>
+<td>feat: try to use azure</td>
+<td>-</td>
+<td>28/06/2024</td>
+</tr>
+</table>
+
 </div>
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
