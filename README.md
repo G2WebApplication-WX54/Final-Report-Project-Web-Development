@@ -5224,6 +5224,7 @@ Link del Trello: https://trello.com/invite/b/dFWCbvv5/ATTIe59f601ed779323810509c
 			<img src="/assets/Profile-Authority.png" alt="Profile-Authority" width="100%">
 			<img src="/assets/Edit-Profile.png" alt="Edit-Profile" width="100%">
 		<li>Web Services (Back-End): </li>	
+			<img src="/assets/Deploy-BD.jpg" alt="Deploy-BD" width="100%">
 			<img src="/assets/WebServices1-sprint4.png" alt="WebServices1-sprint4" width="100%">
   			<img src="/assets/WebServices2-sprint4.png" alt="WebServices2-sprint4" width="100%">
  			<img src="/assets/WebServices3-sprint4.png" alt="WebServices3-sprint4" width="100%">
